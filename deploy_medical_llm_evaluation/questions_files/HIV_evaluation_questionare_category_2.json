@@ -1,0 +1,42 @@
+[
+    {
+        "question": "Which five antiretroviral drugs were most frequently administered in 1990 in Switzerland?",
+        "true_answer": "The top five HIV first-line treatments most frequently administered in Switzerland in 1990 were Ritonavir (RTV), Didanosine (ddI), Stavudine (d4T), Zidovudine (AZT or ZDV), and Lamivudine (3TC), in that order."
+    },
+    {
+        "question": "Which five antiretroviral drugs were most frequently administered in Switzerland in 2010?",
+        "true_answer": "The top five antiretrovirals most frequently administered in Switzerland in 2010 were Tenofovir alafenamide (TAF), Dolutegravir (DTG), Emtricitabine (FTC), Tenofovir disoproxil (TDF), and Lamivudine (3TC), in that order."
+    },
+    {
+        "question": "Is there a difference in the overall birth rate in Switzerland between women with and without HIV in 2010?",
+        "true_answer": "Yes, in 2010, there were 1.52 births per woman in the general population, compared to 0.9 births per woman living with HIV."
+    },
+    {
+        "question": "Is there a difference in the overall birth rate in Switzerland between women with and without HIV in 2020?",
+        "true_answer":" Yes, in 2020, there were 1.46 births per woman in the general population, compared to 0.42 births per woman living with HIV."
+    },
+    {
+        "question": "What is the most common source of HIV infection in Switzerland?",
+        "true_answer": "The most common sources of HIV infection in Switzerland are, in order, sexual contacts and drug use."
+    },
+    {
+        "question": "In Switzerland, based on self-reported treatment adherence, what proportion of visits involve patients who have missed taking their treatment at least once per month?",
+        "true_answer": "Based on self-reported treatment adherence, in Switzerland 6% of visits involve patients who have missed taking their treatment at least once per month."
+    },
+    {
+        "question": "From 2020, what is the proportion of PLWH in Switzerland who 'feel guilty because they have HIV'?",
+        "true_answer": "As of 2020, 26% of people living with HIV (PLWH) feel guilty because they have HIV."
+    },
+    {
+        "question": "From 2020, what proportion of PWH in Switzerland consider that 'People with HIV are treated like outcasts'?",
+        "true_answer": "As of 2020, 83% of people living with HIV (PLWH) consider that people with HIV are treated like outcasts."
+    },
+    {
+        "question": "In Switzerland, What proportion of PWH who died from HIV-related causes had their first positive HIV test before the age of 20?",
+        "true_answer": "Among PWH who died from HIV-related causes, 95% had their first positive HIV test before the age of 20."
+    },
+    {
+        "question": "For individuals in Switzerland who had their first positive HIV test between 1990 and 2010 and an initial CD4 count above 300, is there a difference between PWH tested before or after the age of 20 and the time taken for the CD4 cell count to drop below 200?",
+        "true_answer": "Yes, there is a difference. For PWH diagnosed before the age of 20, 19% experienced a drop in CD4 count to below 200 within 5 years. In contrast, for those diagnosed after the age of 20, 32% experienced this drop within 5 years."
+    }
+]

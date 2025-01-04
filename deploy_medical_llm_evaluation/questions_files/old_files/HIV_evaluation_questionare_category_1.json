@@ -1,0 +1,42 @@
+[
+    {
+        "question": "How is HIV diagnosed?",
+        "true_answer": "HIV is diagnosed through HIV testing. There are three types of tests used to diagnose HIV infection: antibody tests, antigen/antibody tests, and nucleic acid tests (NATs). How soon each test can detect HIV infection differs, because each test has a different window period. The window period is the time between when a person may have been exposed to HIV and when a test can accurately detect HIV infection. Window periods for different HIV tests are the followings: Antibody tests can usually detect HIV 23 to 90 days after exposure. Most rapid tests and self-tests are antibody tests. A rapid antigen/antibody test done with blood from a finger stick can usually detect HIV 18 to 90 days after exposure. An antigen/antibody lab test using blood from a vein can usually detect HIV 18 to 45 days after exposure. A NAT can usually detect HIV 10 to 33 days after exposure. When an HIV test is positive, a follow-up test will be conducted for confirmation. Sometimes people will need to visit a health care provider to take a follow-up test using another blood sample. Other times, the follow-up test may be performed in a lab using the original blood sample to ensure that the first positive result wasn’t a false positive. Talk to your health care provider who will determine your HIV risk factors and the best type of HIV test for you."
+    },
+    {
+        "question": "What are the different stages of HIV?",
+        "true_answer": "The three stages of HIV infection are (1) acute HIV infection, (2) chronic HIV infection, and (3) acquired immunodeficiency syndrome (AIDS)."
+    },
+    {
+        "question": "How is HIV transmitted?",
+        "true_answer": "HIV is spread from the body fluids of an infected person, including blood, breast milk, semen and vaginal fluids. It is not spread by kisses, hugs or sharing food. It can also spread from a mother to her baby."
+    },
+    {
+        "question": "What comorbidities are common among people living with HIV?",
+        "true_answer": "The most common comorbidities amongst patients with HIV include: diabetes mellitus, cardiovascular disease (CVD, e.g. hypertension), respiratory diseases (e.g. chronic obstructive pulmonary diseases and pneumonia), and hepatic diseases (hepatitis B and C). Liver disease, renal disease, substance dependence and abuse, sexually transmitted infections (herpes simplex, syphilis, gonorrhoea and Mycoplasma genitalium) and psychiatric disorders (including depression, anxiety, schizophrenia and cognitive impairment) are also greater among HIV-positive individuals."
+    },
+    {
+        "question": "How can HIV be prevented?",
+        "true_answer": "The prevention of HIV can be summarized in the following bullet points: - Protect yourself during sex: To reduce your risk of getting HIV, use condoms correctly every time you have sex. - Protect yourself if you inject drugs: Do not inject drugs. If you do, use only sterile injection equipment and water, and never share your equipment with others. - Protect yourself by taking PrEP: If you do not have HIV but are at risk of getting HIV, talk to your health care provider about pre-exposure prophylaxis (PrEP). PrEP involves taking a specific HIV medicine every day or an injectable HIV medicine every two months to reduce the risk of getting HIV through sex or injection drug use. - Protect others if you have HIV: Take HIV medicine (called antiretroviral therapy or ART) as prescribed by your doctor. ART can reduce the amount of HIV in the blood (called viral load) to the point where a test cannot detect it (called an undetectable viral load). If you have an undetectable viral load, you will not transmit HIV to your partner through sex. - Prevent perinatal transmission: If you have HIV and take HIV medicine as prescribed by your doctor throughout pregnancy and childbirth, the chances of transmitting HIV to your baby are less than 1%. If you have a partner with HIV and are considering getting pregnant, talk to your doctor about PrEP to help protect you and your baby from getting HIV while you try to get pregnant, during pregnancy, or while breastfeeding."
+    },
+    {
+        "question": "How frequently ART must be taken?",
+        "true_answer": "Antiretroviral therapy (ART) must be taken as a pill every day or as a shot once every month or two months."
+    },
+    {
+        "question": "How can we prevent Perinatal transmission of HIV?",
+        "true_answer": "To prevent perinatal transmission of HIV, pregnant women should take antiretroviral therapy (ART) throughout pregnancy and childbirth. ART throughout pregnancy and childbirth reduces the chances of perinatal transmission of HIV to less than 1%. If you have a partner with HIV and are considering getting pregnant, talk to your doctor about PrEP to help protect you and your baby from getting HIV while you try to get pregnant, during pregnancy, or while breastfeeding."
+    },
+    {
+        "question": "What are the cell types infected with HIV?",
+        "true_answer": "The only cell types in vivo that are consistently found to be infected with HIV are CD4+ T lymphocytes and macrophage-lineage cells."
+    },
+    {
+        "question": "What is the difference between HIV and AIDS?",
+        "true_answer": "HIV stands for human immunodeficiency virus, which is the virus that causes HIV infection. AIDS stands for acquired immunodeficiency syndrome, the most advanced stage of HIV infection."
+    },
+    {
+        "question": "How is HIV not transmitted?",
+        "true_answer": "You cannot get HIV from: Air or water. Saliva, tears, sweat, feces, or urine that is not mixed with the blood of a person with HIV. Casual contact with a person who has HIV, such as a handshake, a hug, or a closed-mouth kiss. Contact with objects, such as toilet seats, doorknobs, or dishes used by a person who has HIV. Mosquitoes, ticks, or other biting insects. Other sexual activities that do not involve the exchange of body fluids (for example, touching). HIV can’t be passed through healthy, unbroken skin."
+    }
+]
