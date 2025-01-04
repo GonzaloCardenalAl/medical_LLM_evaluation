@@ -1,0 +1,20 @@
+name: scispacy_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - tqdm
+  - spacy
+  - pip
+  - pip:
+      - scispacy==0.5.4
+      - en-core-sci-lg==0.5.1
+      - en-core-sci-scibert==0.5.1
+      - transformers==4.26.1
+      - spacy-transformers==1.2.1
+      - torch==2.5.0

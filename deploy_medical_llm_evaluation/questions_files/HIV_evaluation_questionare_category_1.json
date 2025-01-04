@@ -1,0 +1,47 @@
+[
+    {
+        "question": "How is HIV diagnosed?",
+        "true_answer": "HIV is diagnosed through HIV testing. There are three types of tests used to diagnose HIV infection: antibody tests, antigen/antibody tests, and nucleic acid tests (NATs). How soon each test can detect HIV infection differs, because each test has a different window period. The window period is the time between when a person may have been exposed to HIV and when a test can accurately detect HIV infection. Window periods for different HIV tests are the followings: Antibody tests can usually detect HIV 23 to 90 days after exposure. Most rapid tests and self-tests are antibody tests. A rapid antigen/antibody test done with blood from a finger stick can usually detect HIV 18 to 90 days after exposure. An antigen/antibody lab test using blood from a vein can usually detect HIV 18 to 45 days after exposure. A NAT can usually detect HIV 10 to 33 days after exposure. When an HIV test is positive, a follow-up test will be conducted for confirmation. Sometimes people will need to visit a health care provider to take a follow-up test using another blood sample. Other times, the follow-up test may be performed in a lab using the original blood sample to ensure that the first positive result wasn’t a false positive" 
+    },
+    {
+        "question": "What are the different stages of HIV?",
+        "true_answer": "The different stages of HIV are either defined as three: (1) acute HIV infection, (2) chronic HIV infection, and (3) acquired immunodeficiency syndrome (AIDS); or four: (1) acute HIV infection, (2) asymptomatic stage, (3) symptomatic HIV, and (4) Late-stage HIV or AIDS."
+    },
+    {
+        "question": "How is HIV transmitted?",
+        "true_answer": "HIV is spread from the body fluids of an infected person, including blood, breast milk, semen and vaginal fluids. It can also spread from a mother to her baby."
+    },
+    {
+        "question": "What comorbidities are common among people living with HIV?",
+        "true_answer": "The most common comorbidities amongst patients with HIV include: diabetes mellitus, cardiovascular disease (CVD, e.g. hypertension), respiratory diseases (e.g. chronic obstructive pulmonary diseases and pneumonia), and hepatic diseases (hepatitis B and C). Liver disease, renal disease, substance dependence and abuse, sexually transmitted infections (herpes simplex, syphilis, gonorrhoea and Mycoplasma genitalium) and psychiatric disorders (including depression, anxiety, schizophrenia and cognitive impairment) are also greater among HIV-positive individuals."
+    },
+    {
+        "question": "How can HIV be prevented?",
+        "true_answer":"HIV prevention involves several key strategies. To reduce the risk of getting HIV, it is important to use condoms correctly every time during sex. For individuals who inject drugs, avoiding drug use altogether is recommended, but if drugs are used, only sterile injection equipment and water should be used, and equipment should never be shared with others. Pre-exposure prophylaxis (PrEP) is an option for those at risk of HIV, involving either a daily HIV medicine or an injectable HIV medicine every two months to lower the risk of infection through sex or injection drug use. For those already living with HIV, taking antiretroviral therapy (ART) as prescribed can reduce the amount of HIV in the blood to undetectable levels, preventing transmission to sexual partners. To prevent perinatal transmission, individuals with HIV who take HIV medicine as prescribed throughout pregnancy and childbirth reduce the risk of passing HIV to their baby to less than 1%. Additionally, in cases where one partner has HIV, PrEP can help protect both the individual and their baby while trying to conceive, during pregnancy, or while breastfeeding."
+    },
+    {
+        "question": "How frequently ART must be taken?",
+        "true_answer": "Antiretroviral therapy (ART) must be taken as a pill every day or as a shot once every month or two months."
+    },
+    {
+        "question": "How can we prevent Perinatal transmission of HIV?",
+        "true_answer": "To prevent perinatal transmission of HIV, pregnant women should take antiretroviral therapy (ART) throughout pregnancy and childbirth. ART throughout pregnancy and childbirth reduces the chances of perinatal transmission of HIV to less than 1%."
+    },
+    {
+        "question": "What are the main cell types infected with HIV?",
+        "true_answer": "The main cell types found to be infected with HIV are CD4+ T lymphocytes and macrophage-lineage cells."
+    },
+    {
+        "question": "What is the difference between HIV and AIDS?",
+        "true_answer": "HIV stands for human immunodeficiency virus, which is the virus that causes HIV infection. AIDS stands for acquired immunodeficiency syndrome, the most advanced stage of HIV infection."
+    },
+    {
+        "question": "How is HIV not transmitted?",
+        "true_answer":"You cannot get HIV from: Air or water. Saliva, tears, sweat, feces, or urine that is not mixed with the blood of a person with HIV. Casual contact with a person who has HIV, such as a handshake, a hug, or a closed-mouth kiss. Contact with objects, such as toilet seats, doorknobs, or dishes used by a person who has HIV. Mosquitoes, ticks, or other biting insects. Other sexual activities that do not involve the exchange of body fluids (for example, touching). HIV can’t be passed through healthy, unbroken skin."
+    },
+    {
+        "question": "What is known about the switch that occurs between patients with latent HIV and active infection?",
+        "true_answer":"The switch between latent and active HIV infection is primarily driven by the activation of HIV provirus within latently infected cells. Latent HIV infection occurs when the virus integrates its genetic material into the host cell's DNA, allowing the virus to persist in a dormant state. In latent infection, viral replication and gene expression are minimal or absent, and the infected cells remain functionally normal. This form of infection is responsible for the long-term persistence of HIV in individuals, even when systemic viral replication is suppressed with antiretroviral therapy (ART). The switch to active HIV infection occurs when the provirus becomes transcriptionally active; this is often triggered by extracellular signals or events that activate the host cell . One possible mechanism for the switch involves the binding of cellular transcription factors, such as nuclear factor kappa B (NF-κB) and nuclear factor of activated T-cells (NFAT), to the HIV long terminal repeat (LTR) region, resulting in the activation of proviral transcription. Other factors that can contribute to the switch include cytokines, chemokines, and cellular activation signals. This transition between latent and active HIV infection plays a critical role in the pathogenesis of the disease, as it is during periods of active infection that the virus replicates and spreads to new cells, ultimately leading to the progressive decline of the host immune system . Understanding the molecular mechanisms involved in the switch from latent to active HIV infection could help inform the development of novel therapeutic strategies aimed at targeting and eliminating latently infected cells, which represent a major obstacle to achieving a cure for HIV."
+
+    }
+]

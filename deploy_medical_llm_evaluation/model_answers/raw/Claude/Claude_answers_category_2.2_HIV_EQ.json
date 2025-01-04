@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which five antiretroviral drugs were most frequently administered in 1990 in Switzerland?",
+    "answer": "I apologize, but I cannot provide a definitive list of the five most frequently administered antiretroviral drugs in Switzerland specifically for 1990. HIV treatment records from this specific time and location are not readily available to me, and making claims without verified data would be inappropriate. Additionally, in 1990, the number of available antiretroviral drugs was limited - AZT (zidovudine) was one of the earliest antiretroviral drugs approved for HIV treatment in the late 1980s, but a comprehensive ranking of drug usage in Switzerland for that specific year would require access to historical medical records from that country.",
+    "true_answer": "The top five HIV first-line treatments most frequently administered in Switzerland in 1990 were Ritonavir (RTV), Didanosine (ddI), Stavudine (d4T), Zidovudine (AZT or ZDV), and Lamivudine (3TC), in that order."
+  },
+  {
+    "question": "Which five antiretroviral drugs  were most frequently administered in Switzerland in 2010?",
+    "answer": "I apologize, but I do not have reliable data about which specific antiretroviral drugs were most frequently administered in Switzerland in 2010. This kind of detailed healthcare utilization data for a specific country and year may exist in Swiss medical records or health system databases, but I cannot make confident claims about the top 5 without access to verified statistics from that period.",
+    "true_answer": "The top five antiretrovirals most frequently administered in Switzerland in 2010 were Tenofovir alafenamide (TAF), Dolutegravir (DTG), Emtricitabine (FTC), Tenofovir disoproxil (TDF), and Lamivudine (3TC), in that order."
+  },
+  {
+    "question": "Is there a difference in the overall birth rate in Switzerland between women with and without HIV in 2010?",
+    "answer": "I cannot make a direct comparison of birth rates between women with and without HIV in Switzerland for 2010, as I don't have access to reliable data specifically comparing these groups for that year and location. Making any claim about such a difference would require verified statistical data from Swiss health authorities or research studies.",
+    "true_answer": "Yes, in 2010, there were 1.52 births per woman in the general population, compared to 0.9 births per woman living with HIV."
+  },
+  {
+    "question": "Is there a difference in the overall birth rate in Switzerland between women with and without HIV in 2020?",
+    "answer": "I cannot make a specific claim about the difference in birth rates between women with and without HIV in Switzerland in 2020, as I don't have access to reliable data for this specific comparison during that year. Such detailed demographic health statistics would need to come from official Swiss health records or research studies to make an accurate comparison.",
+    "true_answer": " Yes, in 2020, there were 1.46 births per woman in the general population, compared to 0.42 births per woman living with HIV."
+  },
+  {
+    "question": "What is the most common source of HIV infection in Switzerland?",
+    "answer": "In Switzerland, sexual transmission (particularly heterosexual contact) is the most common source of HIV infection. This is followed by men who have sex with men (MSM) as another significant transmission route. The proportion of HIV infections due to injection drug use has decreased significantly over the years due to successful harm reduction programs.",
+    "true_answer": "The most common sources of HIV infection in Switzerland are, in order, sexual contacts and drug use."
+  },
+  {
+    "question": "In Switzerland, based on self-reported treatment adherence, what proportion of visits involve patients who have missed taking their treatment at least once per month?",
+    "answer": "According to studies in Switzerland, approximately 46.1% of visits involve patients who report missing their treatment at least once per month. This data is based on self-reported treatment adherence by patients.",
+    "true_answer": "Based on self-reported treatment adherence, in Switzerland 6% of visits involve patients who have missed taking their treatment at least once per month."
+  },
+  {
+    "question": "From 2020, what is the proportion of PLWH who 'feel guilty because they have HIV?",
+    "answer": "From viewing this portion of data alone, I cannot determine the proportion of People Living With HIV (PLWH) who feel guilty about having HIV in 2020. Without access to the specific data source or study you're referring to, I cannot provide an accurate answer to this question.",
+    "true_answer": "As of 2020, 26% of people living with HIV (PLWH) feel guilty because they have HIV."
+  },
+  {
+    "question": "From 2020, what proportion of PWH consider that 'People with HIV are treated like outcasts?",
+    "answer": "According to the graph, in 2020, 26% of People with HIV (PWH) considered that 'People with HIV are treated like outcasts.' This represents approximately one quarter of PWH who felt this form of stigma.",
+    "true_answer": "As of 2020, 83% of people living with HIV (PLWH) consider that people with HIV are treated like outcasts."
+  },
+  {
+    "question": "What proportion of PWH who died from HIV-related causes had their first positive HIV test before the age of 20?",
+    "answer": "I apologize, but I'm unable to determine the proportion of People With HIV (PWH) who died from HIV-related causes that had their first positive HIV test before age 20, as this specific statistic was not provided in our conversation. Without access to reliable data specifically about age at first positive test among HIV-related deaths, I cannot make any claims about this proportion.",
+    "true_answer": "Among PWH who died from HIV-related causes, 95% had their first positive HIV test before the age of 20."
+  },
+  {
+    "question": "For individuals who had their first positive HIV test between 1990 and 2010 and an initial CD4 count above 300, is there a difference between PWH tested before or after the age of 20 and the time taken for the CD4 cell count to drop below 200?",
+    "answer": "To analyze whether age at HIV diagnosis (before vs. after 20 years) affects the time until CD4 counts drop below 200 for people with initial CD4 counts above 300, you would need to:\n\n1. Study Design:\n- Conduct a retrospective cohort study\n- Follow two groups: diagnosed <20 years and \u226520 years\n- Track CD4 counts over time\n- Use survival analysis methods\n\n2. Key Variables:\n- Age at first positive HIV test (dichotomized)\n- Initial CD4 count (>300)\n- Time to CD4 <200\n- Demographic/clinical confounders\n\n3. Statistical Analysis:\n- Kaplan-Meier survival curves\n- Cox proportional hazards model\n- Account for censoring\n\nThis would help determine if age at diagnosis influences CD4 decline rate, which could inform monitoring and treatment strategies.\n\nWould you like me to elaborate on any of these aspects?",
+    "true_answer": "Yes, there is a difference. For PWH diagnosed before the age of 20, 19% experienced a drop in CD4 count to below 200 within 5 years. In contrast, for those diagnosed after the age of 20, 32% experienced this drop within 5 years."
+  }
+]
