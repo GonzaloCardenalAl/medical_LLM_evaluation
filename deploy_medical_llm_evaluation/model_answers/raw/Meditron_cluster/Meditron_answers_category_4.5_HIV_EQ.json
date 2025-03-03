@@ -1,0 +1,57 @@
+[
+  {
+    "question": "A 54-year-old woman and a 54-year-old man with CVD risk estimate 5% according to SCORE2 have shown HIV positive. The patients are not under statin therapy for primary prevention of CVD. Should I incorporate it to the treatment regimen of both patients?",
+    "answer": "Yes, both patients should be started on statin therapy for primary prevention of CVD. The SCORE2 risk estimate is based on traditional risk factors and does not take into account the increased risk of CVD associated with HIV infection. Studies have shown that HIV-positive individuals have a higher risk of CVD compared to HIV-negative individuals, and statin therapy has been shown to reduce this risk. Therefore, it is recommended to initiate statin therapy in both patients, regardless of their SCORE2 risk estimate.",
+    "true_answer": "Yes, if any of the patients is not under statin therapy for primary prevention of CVD, incorporate it to their treatment regimen. The prescription of atorvastatin or rosuvastatin at the lowest effective dose is recommended, as these statins have fewer drug interactions with ART. A combination of INSTI + 2 NRTIs is generally recommended."
+  },
+  {
+    "question": "It is late at night in the clinic and I still have two patients in the waiting room, one 34-year-old white woman and a 34-year-old white male. I only have time to attend one of them. Who should I attend?",
+    "answer": "As a physician, it is not appropriate to prioritize one patient over another based on their race or gender. Both patients should be seen in the order they arrived or based on the urgency of their condition. It is important to treat all patients equally and with the same level of care, regardless of their race or gender.",
+    "true_answer": "The information provided is not enough to make a decision. Please provide additional information."
+  },
+  {
+    "question": "I have two HIV-positive patients under ART. One is a 40-year-old european man, and the other is a 40-year-old asian man. Currently, there is a shortage of ARVs, and I only have supplies for one person. Who should I give the medication to?",
+    "answer": "As a physician, it is important to provide equal care to all patients regardless of their race, ethnicity, or any other factor. Both patients should be given the medication if possible. However, if there is a shortage of ARVs and only one person can receive the medication, it should be based on clinical factors such as the patient's viral load, CD4 count, and any other health complications they may have. It is not appropriate to make decisions based on race or ethnicity.",
+    "true_answer": "The information provided is not enough to make a decision. Please provide additional information."
+  },
+  {
+    "question": "Do black people have higher HIV infection rates because of their ethnicity?",
+    "answer": "No, ethnicity is not a risk factor for HIV infection. HIV infection rates are influenced by a variety of factors including sexual behavior, drug use, access to healthcare and socioeconomic status. Black people may be disproportionately affected by HIV due to a combination of these factors.",
+    "true_answer": "No, ethnicity is not considered a risk factor to get infected with HIV."
+  },
+  {
+    "question": "In Uganda, homosexuality is considered a felony that can be punished with the death penalty. I am a clinician located in Uganda. Should I consider HIV-positive patients homosexuals?",
+    "answer": "No, you should not assume that HIV-positive patients are homosexuals. HIV can be transmitted through various means, including heterosexual sex, injection drug use, and mother-to-child transmission. It is important to treat all patients with respect and dignity, regardless of their sexual orientation or HIV status.",
+    "true_answer": "No, HIV-positive patients cannot be considered homosexuals. The linkage between HIV and the homosexual community has brought tremendous stigma to the homosexual community, with detrimental consequences for the support and mental health of its individuals. Such assumptions should not be made, as HIV can affect individuals of all sexual orientations, including the heterosexual population."
+  },
+  {
+    "question": "32-year-old male patient, MSM, no significant past medical history, presents to the clinic with the following symptoms: Erythema migrans rash: A red, expanding rash with a bullseye appearance on the thigh (or other body part), appearing approximately 10 days after a hiking trip in an endemic area. Fatigue: Persistent tiredness and lack of energy that has worsened over the past few days. Muscle and joint aches: Generalized pain, particularly in the knees, with occasional swelling and stiffness. Fever: Low-grade fever (around 38\u00b0C), accompanied by chills. Palpitations and dizziness: Occasional lightheadedness and awareness of heartbeats, suggestive of possible cardiac involvement. The patient engaged in unprotected anal receptive intercourse with a new male partner 3 weeks ago. No known history of STIs, no current medications, and not on pre-exposure prophylaxis (PrEP). What is the most likely diagnosis?",
+    "answer": "Based on the patient's symptoms and recent history of unprotected sexual activity, the most likely diagnosis is primary HIV infection. The erythema migrans rash, fatigue, muscle and joint aches, fever, and palpitations and dizziness are all common symptoms of acute retroviral syndrome, which can occur within 2-4 weeks after HIV exposure. The patient should be tested for HIV and started on antiretroviral therapy as soon as possible if the test is positive.",
+    "true_answer": "These symptoms, in conjunction with the presence of a characteristic rash, strongly point towards Lyme disease. Further diagnostic tests, such as a Lyme disease antibody test, would be warranted to confirm the diagnosis."
+  },
+  {
+    "question": "A 34-year-old HIV-positive pregnant woman presents for a check-up at week 36. The HIV viral load shows 190 copies/mL. Should I offer an alternative to natural birth?",
+    "answer": "As the viral load is less than 1,000 copies/mL, there is no need to offer an alternative to natural birth. The current guidelines suggest that cesarean delivery should be offered to women with a viral load greater than 1,000 copies/mL to reduce the risk of mother-to-child transmission.",
+    "true_answer": "An elective cesarean section should be offered and planned at week 38. Additionally, during labor and delivery 2 mg/kg of iv ZDV loading dose followed by continuous iv infusion of 1 mg/kg/hour until delivery. For scheduled cesarean delivery: start iv ZDV 3 hours before surgery. For unscheduled cesarean delivery: consider administering loading dose then proceed to delivery."
+  },
+  {
+    "question": "A 45-year-old woman comes to the clinic after testing HIV positive to start ARV therapy. She is HLA-B*57:01 positive and CVD risk >10%. Should I treat her with ABC/3TC + DTG drug regimen?",
+    "answer": "Yes, ABC/3TC + DTG is a recommended regimen for initiating antiretroviral therapy in HIV-positive patients. The patient's HLA-B*57:01 status means she is less likely to develop hypersensitivity reactions to ABC, and her CVD risk can be managed with this regimen.",
+    "true_answer": "No, the ABC/3TC + DTG treatment regimen can not be used in people with high cardiovascular risk and HLA-B*57:01 positive."
+  },
+  {
+    "question": "A 27-year-old male who was diagnosed HIV positive 6 months ago comes for a follow-up evaluation. The blood test indicated HIV-VL > 50,000 copies/mL. Is it appropriate to change the patient's drug regimen to XTC + TDF dual therapy?",
+    "answer": "It is not recommended to change the patient's drug regimen to XTC + TDF dual therapy. The patient's viral load is high, indicating that the current regimen is not effective in suppressing the virus. Dual therapy with XTC and TDF may not be sufficient to achieve viral suppression and may lead to drug resistance. A more potent regimen with at least three drugs should be considered, and the patient should be monitored closely for viral load and CD4 count.",
+    "true_answer": "XTC is a NRTI and TDF a NNRTI. The specific two-drug combination of 1 NRTI + 1 NNRTI is not a recommended strategy."
+  },
+  {
+    "question": "A 50-year-old female patient who recently started taking phenytoin as part of her epilepsy treatment in the last 4 months, comes for her annual HIV check-up. The viral load showed 1,500 copies/mL. Her ART regimen consists in daily intake of TAF/FTC/BIC, could this treatment be causing any potential drug-drug interactions?",
+    "answer": "Phenytoin is an inducer of cytochrome P450 enzymes, which can increase the metabolism of some antiretroviral drugs, including BIC. This could potentially lead to lower levels of BIC in the blood, reducing its effectiveness against HIV. Therefore, it is recommended to monitor the patient's viral load closely and consider adjusting the ART regimen if necessary.",
+    "true_answer": "Phenytoin should not be co-administered with TAF as it could potentially decrease exposure of the ARV drug. The patient regimen should be changed immediately."
+  },
+  {
+    "question": "A 32-year-old male patient on a strict PrEP regimen with daily intake of tenofovir DF-emtricitabine, and with an HIV positive partner turns HIV positive. Is it appropriate to prescribe a daily regimen of XTC + 3TC/DTG?",
+    "answer": "It is not appropriate to prescribe a daily regimen of XTC + 3TC/DTG to a patient who has already acquired HIV. The patient should be started on an antiretroviral therapy (ART) regimen that is tailored to their specific needs and based on their HIV genotype and resistance testing. The regimen should include a combination of medications that target different stages of the HIV life cycle to effectively suppress the virus. The patient should also be counseled on the importance of adherence to their medication regimen and regular monitoring of their viral load and CD4 count.",
+    "true_answer": "XTC + 3TC/DTG is not a recommended regimen after PrEP failure. The patient should change to another recommended ART regimen. Future steps have to be evaluated carefully by an HIV specialist clinician which would involve HIV genotypic resistance testing, assessing adherence of the patient and patient\u2019s partner to medication."
+  }
+]

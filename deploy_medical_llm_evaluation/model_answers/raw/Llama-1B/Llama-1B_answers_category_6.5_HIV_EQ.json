@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which five antiretroviral drugs were most frequently administered in 1990 in Switzerland?",
+    "answer": "In 1990, in Switzerland, the most commonly administered antiretroviral drugs were:\n\n1. Zidovudine (AZT)\n2. Acyclovir\n3. Lamivudine (3TC)\n4. Didanosine (ddI)\n5. Zalcitabine (ddC)",
+    "true_answer": "The top five HIV first-line treatments most frequently administered in Switzerland in 1990 were Ritonavir (RTV), Didanosine (ddI), Stavudine (d4T), Zidovudine (AZT or ZDV), and Lamivudine (3TC), in that order."
+  },
+  {
+    "question": "Which five antiretroviral drugs were most frequently administered in Switzerland in 2010?",
+    "answer": "In 2010, the most frequently administered antiretroviral drugs in Switzerland were:\n\n1. Truvada (emtricitabine and tenofovir)\n2. Ritonavir/ritonavir\n3. Saquinavir/ritonavir\n4. Atazanavir/ritonavir\n5. Dartravir\n6. Fosamivir",
+    "true_answer": "The top five antiretrovirals most frequently administered in Switzerland in 2010 were Tenofovir alafenamide (TAF), Dolutegravir (DTG), Emtricitabine (FTC), Tenofovir disoproxil (TDF), and Lamivudine (3TC), in that order."
+  },
+  {
+    "question": "Is there a difference in the overall birth rate in Switzerland between women with and without HIV in 2010?",
+    "answer": "According to the World Health Organization (WHO), the overall birth rate in Switzerland in 2010 was 12.6 per 1,000 women of reproductive age (15-44 years). \n\nRegarding HIV, the WHO reports that in Switzerland, the prevalence of HIV among women of reproductive age (15-49 years) in 2010 was 0.3% (based on 2010 data from the Swiss National Public Health System).\n\nTo answer your question, there is no information available on the overall birth rate in Switzerland between women with and without HIV in 2010, as the data on HIV prevalence does not typically include information on maternal mortality or birth rates.",
+    "true_answer": "Yes, in 2010, there were 1.52 births per woman in the general population, compared to 0.9 births per woman living with HIV."
+  },
+  {
+    "question": "Is there a difference in the overall birth rate in Switzerland between women with and without HIV in 2020?",
+    "answer": "I can provide information on the overall birth rate in Switzerland. According to the World Health Organization (WHO), the total fertility rate (TFR) in Switzerland in 2020 was 1.3 children per woman, which is lower than the global average. However, the number of new HIV cases among women of childbearing age (15-49 years) has been declining in Switzerland since the introduction of antiretroviral therapy (ART) and other prevention measures.\n\nRegarding the overall birth rate, Switzerland does not have a unique data on the difference between women with and without HIV.",
+    "true_answer": " Yes, in 2020, there were 1.46 births per woman in the general population, compared to 0.42 births per woman living with HIV."
+  },
+  {
+    "question": "What is the most common source of HIV infection in Switzerland?",
+    "answer": "In Switzerland, the most common source of HIV infection is not specified.",
+    "true_answer": "The most common sources of HIV infection in Switzerland are, in order, sexual contacts and drug use."
+  },
+  {
+    "question": "In Switzerland, based on self-reported treatment adherence, what proportion of visits involve patients who have missed taking their treatment at least once per month?",
+    "answer": "According to the World Health Organization (WHO) and various studies, the global average proportion of patients missing at least one dose of antiretroviral therapy (ART) per month is around 30-40%. However, the proportion can vary significantly across different regions and countries.\n\nIn Switzerland, a study published in the Journal of Acquired Immune Deficiency Syndromes found that the overall adherence rate to ART in a clinical trial was around 85-90%. Another study published in the European Journal of Clinical Pharmacology reported a median adherence rate of 70-80% for patients on ART.\n\nA study in Switzerland, published in the Swiss Medical Forum, reported that in a large clinical trial, only 25% of patients had missed at least one dose of ART per month.\n\nIt's essential to note that these numbers can vary depending on the specific population, treatment regimen, and other factors.",
+    "true_answer": "Based on self-reported treatment adherence, in Switzerland 6% of visits involve patients who have missed taking their treatment at least once per month."
+  },
+  {
+    "question": "From 2020, what is the proportion of PLWH in Switzerland who 'feel guilty because they have HIV'?",
+    "answer": "I couldn't find any reliable sources that provide a specific proportion of people with HIV who feel guilty about their condition in Switzerland from 2020. However, I can tell you that feelings of guilt or shame around HIV/AIDS are common, especially among some populations, but it's essential to approach these issues with sensitivity and respect.\n\nIf you're looking for information on HIV-related stigma or mental health, I can suggest some general statistics:\n\n*   According to the World Health Organization (WHO), HIV-related stigma is widespread in many countries, including Switzerland, where approximately 30-50% of people living with HIV report experiencing stigma.\n*   A 2020 survey by the Swiss Federal Office of Public Health (BAG) found that 45% of people living with HIV reported feeling stigmatized by others.\n*   Another study published in 2020 in the Journal of Acquired Immune Deficiency Syndromes found that 61.3% of people living with HIV reported experiencing stigma.\n\nPlease note that these statistics might not be specific to Switzerland, and the situation can vary depending on the population, location, and other factors. If you're looking for more information, I can try to provide you with more general information on HIV-related stigma and mental health in Switzerland.",
+    "true_answer": "As of 2020, 26% of people living with HIV (PLWH) feel guilty because they have HIV."
+  },
+  {
+    "question": "From 2020, what proportion of PWH in Switzerland consider that 'People with HIV are treated like outcasts'?",
+    "answer": "I couldn't find any reliable sources indicating that a significant proportion of people living with HIV (PWH) in Switzerland consider that they are treated like outcasts.",
+    "true_answer": "As of 2020, 83% of people living with HIV (PLWH) consider that people with HIV are treated like outcasts."
+  },
+  {
+    "question": "In Switzerland, What proportion of PWH who died from HIV-related causes had their first positive HIV test before the age of 20?",
+    "answer": "I do not have access to a search engine to find this information.",
+    "true_answer": "Among PWH who died from HIV-related causes, 95% had their first positive HIV test before the age of 20."
+  },
+  {
+    "question": "For individuals in Switzerland who had their first positive HIV test between 1990 and 2010 and an initial CD4 count above 300, is there a difference between PWH tested before or after the age of 20 and the time taken for the CD4 cell count to drop below 200?",
+    "answer": "For individuals with their first positive HIV test between 1990 and 2010 and an initial CD4 count above 300, research suggests that the risk of progression to AIDS (Acquired Immunodeficiency Syndrome) is not significantly different between those tested before and after the age of 20.\n\nAccording to a study published in the New England Journal of Medicine (2011), the risk of progression to AIDS was similar between those who tested between 20 and 29 years old and those who tested at any age. Another study published in the Journal of Acquired Immune Deficiency Syndromes (2013) found that the risk of progression was not affected by the age of the CD4 count at the time of testing.\n\nA systematic review and meta-analysis published in the Journal of Acquired Immune Deficiency Syndromes (2018) concluded that the risk of progression to AIDS was not influenced by the age of the CD4 count at the time of testing.\n\nHowever, it's essential to note that the risk of progression to AIDS is influenced by multiple factors, including the viral load, viral load suppression, antiretroviral therapy (ART) adherence, and other health-related factors.",
+    "true_answer": "Yes, there is a difference. For PWH diagnosed before the age of 20, 19% experienced a drop in CD4 count to below 200 within 5 years. In contrast, for those diagnosed after the age of 20, 32% experienced this drop within 5 years."
+  }
+]

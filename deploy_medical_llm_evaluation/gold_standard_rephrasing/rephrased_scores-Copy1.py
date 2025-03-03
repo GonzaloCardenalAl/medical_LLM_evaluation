@@ -15,7 +15,7 @@ def prompt_model_answers(input_answer_dir, model_list):
     
     evaluation_criteria = """
     Evaluation Criteria
-    For each diagnosis, evaluate the medical student explanation base on the following three questions:
+    For each diagnosis, evaluate the medical student’s explanation by assigning a score from 0 to 5 (0 being the lowest and 5 the highest) based on the following five questions:
     Question 1
     Does the medical student’s answer contain any evidence of incorrect reading comprehension? (indication the question has not been understood)
     Question 2
@@ -268,16 +268,22 @@ def mean_and_std_gpt_score():
     result_df.to_csv('./rephrased_averaged_GPT4-score.csv', index=False)
 
 def merge_final_df(f1_json_path):
-        # Load data_records from the JSON file
+    # Load data_records from the JSON file (should include synonyms metrics)
     with open(f1_json_path, 'r') as f:
         data_records = json.load(f)
 
     df_f1 = pd.DataFrame(data_records)
     
-    # Compute mean and standard deviation of precision, recall, and F1 scores over iterations
-    grouped = df_f1.groupby(['nlp_model', 'model', 'category_id', 'question_index'])
-    df_stats = grouped[['precision', 'recall', 'f1_score']].agg(['mean', 'std']).reset_index()
+    # Include synonyms and lemmatized synonyms in the aggregation
+    metrics = [
+        'precision', 'recall', 'f1_score',
+        'synonyms_precision', 'synonyms_recall', 'synonyms_f1',
+        'synonyms_lemmatized_precision', 'synonyms_lemmatized_recall', 'synonyms_lemmatized_f1'
+    ]
     
+    grouped = df_f1.groupby(['nlp_model', 'model', 'category_id', 'question_index'])
+    df_stats = grouped[metrics].agg(['mean', 'std']).reset_index()
+
     # Flatten MultiIndex columns
     df_stats.columns = ['_'.join(col).strip('_') if isinstance(col, tuple) else col for col in df_stats.columns.values]
     df_stats.to_csv('./rephrased-F1_lexical_semantics_score.csv', index=False)
@@ -290,12 +296,19 @@ def merge_final_df(f1_json_path):
     df_stats['category_id'] = df_stats['category_id'].astype(str)
     df_existing['category_id'] = df_existing['category_id'].astype(str)
     
-    # Merge DataFrames
     df_merged = pd.merge(df_existing, df_stats, on=['model', 'category_id', 'question_index'], how='left')
 
-    # Save merged DataFrame
-    df_merged.to_csv('./rephrased-evaluation_results_merged.csv', index=False)
-
+    merged_csv_path = './rephrased-evaluation_results_merged.csv'
+    if os.path.exists(merged_csv_path):
+        df_existing_merged = pd.read_csv(merged_csv_path)
+        
+        # Check if columns match
+        if set(df_existing_merged.columns) == set(df_merged.columns):
+            df_merged = pd.concat([df_existing_merged, df_merged], ignore_index=True)
+        else:
+            print("Column mismatch. Creating a new CSV file.")
+    
+    df_merged.to_csv(merged_csv_path, index=False)
     
 if __name__ == "__main__":
     gpt4_api_key = "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"
