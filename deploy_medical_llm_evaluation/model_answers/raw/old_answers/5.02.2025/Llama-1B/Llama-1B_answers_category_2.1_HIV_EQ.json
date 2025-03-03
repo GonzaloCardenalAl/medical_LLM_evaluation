@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which five antiretroviral drugs were most frequently administered in 1990 in Switzerland?",
+    "answer": "In 1990, the most commonly prescribed antiretroviral drugs in Switzerland were:\n\n1. AZT (Zidovudine)\n2. Zalcitabine\n3. D4T (Stavudine)\n4. Zalcitabine\n5. Didanosine",
+    "true_answer": "The top five HIV first-line treatments most frequently administered in Switzerland in 1990 were Ritonavir (RTV), Didanosine (ddI), Stavudine (d4T), Zidovudine (AZT or ZDV), and Lamivudine (3TC), in that order."
+  },
+  {
+    "question": "Which five antiretroviral drugs were most frequently administered in Switzerland in 2010?",
+    "answer": "In 2010, the most frequently administered antiretroviral drugs in Switzerland were:\n\n1. Raltegravir\n2. Tenofovir\n3. Rilpivirine\n4. Atazanavir\n5. Truvada",
+    "true_answer": "The top five antiretrovirals most frequently administered in Switzerland in 2010 were Tenofovir alafenamide (TAF), Dolutegravir (DTG), Emtricitabine (FTC), Tenofovir disoproxil (TDF), and Lamivudine (3TC), in that order."
+  },
+  {
+    "question": "Is there a difference in the overall birth rate in Switzerland between women with and without HIV in 2010?",
+    "answer": "According to the World Health Organization (WHO) and other reliable sources, the overall birth rate in Switzerland has been declining since the 1990s. However, the impact of HIV on birth rates is complex and varies across different countries and populations.\n\nIn 2010, the Swiss Federal Statistical Office reported that the total fertility rate (TFR) in Switzerland was approximately 1.65 children per woman. This is lower than the replacement rate of 2.1 children per woman.\n\nRegarding HIV, the prevalence of HIV in Switzerland has been declining since the 1990s, and the number of new HIV infections has decreased significantly. However, the impact on birth rates is not straightforward.\n\nAccording to the Swiss Federal Statistical Office, the number of live births in Switzerland in 2010 was 114,411. The number of HIV-positive mothers in Switzerland in 2010 was approximately 1,300. Assuming that the proportion of HIV-positive mothers to the total number of births is similar to the overall prevalence rate (about 0.17%), we can estimate the number of HIV-positive births in 2010.\n\nUsing this calculation, we can estimate that approximately 2,000-2,500 children born to HIV-positive mothers in 2010 would have been born in 2010, which is roughly 0.17% of the total number of births.\n\nIt is essential to note that this is a rough estimate and does not account for various factors that can influence birth rates, such as access to antiretroviral therapy (ART), treatment outcomes, and other health factors.\n\nIn summary, while the overall birth rate in Switzerland has been declining, the impact of HIV on birth rates is complex and influenced by various factors.",
+    "true_answer": "Yes, in 2010, there were 1.52 births per woman in the general population, compared to 0.9 births per woman living with HIV."
+  },
+  {
+    "question": "Is there a difference in the overall birth rate in Switzerland between women with and without HIV in 2020?",
+    "answer": "According to the World Health Organization (WHO) and the Swiss Federal Statistical Office, the overall birth rate in Switzerland in 2020 was 1,434 births per 1,000 women of reproductive age (15-49 years). \n\nRegarding HIV, I couldn't find any reliable data on the birth rate specifically for women with HIV.",
+    "true_answer": " Yes, in 2020, there were 1.46 births per woman in the general population, compared to 0.42 births per woman living with HIV."
+  },
+  {
+    "question": "What is the most common source of HIV infection in Switzerland?",
+    "answer": "In Switzerland, the most common source of HIV infection is likely to be blood transfusions. According to the Swiss Federal Office of Public Health, blood transfusions are a significant source of HIV transmission, particularly in the context of blood banks and plasma donation.",
+    "true_answer": "The most common sources of HIV infection in Switzerland are, in order, sexual contacts and drug use."
+  },
+  {
+    "question": "In Switzerland, based on self-reported treatment adherence, what proportion of visits involve patients who have missed taking their treatment at least once per month?",
+    "answer": "I'm not aware of any reliable data on the proportion of patients in Switzerland who have missed taking their HIV treatment at least once per month based on self-reported adherence.",
+    "true_answer": "Based on self-reported treatment adherence, in Switzerland 6% of visits involve patients who have missed taking their treatment at least once per month."
+  },
+  {
+    "question": "From 2020, what is the proportion of PLWH in Switzerland who 'feel guilty because they have HIV'?",
+    "answer": "I couldn't find any reliable or recent data on the specific proportion of people living with HIV in Switzerland who feel guilty about their condition. However, it's essential to note that feeling guilty or having a negative attitude towards one's HIV status is not a common or recommended response. According to the World Health Organization (WHO), HIV stigma is a significant barrier to HIV prevention, treatment, and care.\n\nThe Swiss National Health Interview Survey (SNHIS) does report on HIV-related stigma, but I couldn't find a specific question about feelings of guilt related to HIV. The survey does ask about the main reasons for not disclosing one's HIV status to a partner, but it does not specifically inquire about feelings of guilt.\n\nIt's also worth mentioning that the World Health Organization (WHO) recommends that people living with HIV should not feel guilty or ashamed about their condition. In fact, the organization emphasizes the importance of addressing stigma and promoting a positive and supportive environment for people living with HIV.\n\nIf you're looking for reliable and up-to-date information, I recommend checking the WHO's HIV and AIDS data or other reputable sources that focus on HIV prevention, treatment, and care.",
+    "true_answer": "As of 2020, 26% of people living with HIV (PLWH) feel guilty because they have HIV."
+  },
+  {
+    "question": "From 2020, what proportion of PWH in Switzerland consider that 'People with HIV are treated like outcasts'?",
+    "answer": "Unfortunately, I couldn't find any reliable sources indicating that a significant proportion of people living with HIV (PWH) in Switzerland consider that they are treated like outcasts.",
+    "true_answer": "As of 2020, 83% of people living with HIV (PLWH) consider that people with HIV are treated like outcasts."
+  },
+  {
+    "question": "In Switzerland, What proportion of PWH who died from HIV-related causes had their first positive HIV test before the age of 20?",
+    "answer": "In Switzerland, it is estimated that approximately 30-40% of people living with HIV (People with HIV) who died from HIV-related causes were diagnosed after the age of 20.",
+    "true_answer": "Among PWH who died from HIV-related causes, 95% had their first positive HIV test before the age of 20."
+  },
+  {
+    "question": "For individuals in Switzerland who had their first positive HIV test between 1990 and 2010 and an initial CD4 count above 300, is there a difference between PWH tested before or after the age of 20 and the time taken for the CD4 cell count to drop below 200?",
+    "answer": "According to various studies, individuals with HIV in Switzerland who had their first positive test between 1990 and 2010 and an initial CD4 count above 300 generally had a slower progression to AIDS. \n\nResearch suggests that this group did not show a significant difference in the time taken for CD4 cell count to drop below 200 after the age of 20. \n\nA 2018 study published in the Journal of Acquired Immune Deficiency Syndromes found that in a cohort of 1,441 HIV-infected individuals in Switzerland, those with a CD4 count above 300 at the start of the study had a median time to AIDS of 6.5 years (range: 1.4-22.6 years) after the initial positive test. \n\nAnother study published in the New England Journal of Medicine in 2014 found similar results, with a median time to AIDS of 7.4 years (range: 2.6-19.6 years) for those with a CD4 count above 300.\n\nIt's essential to note that individual outcomes can vary widely, and these studies had different populations, testing methods, and follow-up periods. However, the general trend suggests that individuals with a CD4 count above 300 at the start of their infection tend to have a slower progression to AIDS.",
+    "true_answer": "Yes, there is a difference. For PWH diagnosed before the age of 20, 19% experienced a drop in CD4 count to below 200 within 5 years. In contrast, for those diagnosed after the age of 20, 32% experienced this drop within 5 years."
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which five antiretroviral drugs were most frequently administered in 1990 in Switzerland?",
+    "answer": "In 1990, the most frequently administered antiretroviral drugs in Switzerland were likely to be:\n\n1. Zidovudine (AZT)\n2. Acyclovir\n3. Lamivudine\n4. Nevirapine\n5. Nucleoside reverse transcriptase inhibitors (NRTIs)",
+    "true_answer": "The top five HIV first-line treatments most frequently administered in Switzerland in 1990 were Ritonavir (RTV), Didanosine (ddI), Stavudine (d4T), Zidovudine (AZT or ZDV), and Lamivudine (3TC), in that order."
+  },
+  {
+    "question": "Which five antiretroviral drugs were most frequently administered in Switzerland in 2010?",
+    "answer": "According to the Swiss National Medical Center, the most frequently administered antiretroviral drugs in Switzerland in 2010 were:\n\n1. Ritonavir\n2. Lopinavir\n3. Raltegravir\n4. Tenofovir\n5. Atazanavir",
+    "true_answer": "The top five antiretrovirals most frequently administered in Switzerland in 2010 were Tenofovir alafenamide (TAF), Dolutegravir (DTG), Emtricitabine (FTC), Tenofovir disoproxil (TDF), and Lamivudine (3TC), in that order."
+  },
+  {
+    "question": "Is there a difference in the overall birth rate in Switzerland between women with and without HIV in 2010?",
+    "answer": "According to the World Health Organization (WHO), the overall birth rate in Switzerland in 2010 was 1,464 births per 1,000 women of reproductive age (15-49 years). \n\nRegarding HIV in Switzerland, according to the Swiss Federal Statistical Office, the number of HIV infections among women of reproductive age (15-49 years) in 2010 was 12,111.",
+    "true_answer": "Yes, in 2010, there were 1.52 births per woman in the general population, compared to 0.9 births per woman living with HIV."
+  },
+  {
+    "question": "Is there a difference in the overall birth rate in Switzerland between women with and without HIV in 2020?",
+    "answer": "According to data from the World Health Organization (WHO), the overall birth rate in Switzerland in 2020 was 11.4 births per 1,000 population. \n\nRegarding HIV, Switzerland has a high prevalence of HIV/AIDS, but the data on the impact on birth rates is not readily available.",
+    "true_answer": " Yes, in 2020, there were 1.46 births per woman in the general population, compared to 0.42 births per woman living with HIV."
+  },
+  {
+    "question": "What is the most common source of HIV infection in Switzerland?",
+    "answer": "According to the World Health Organization (WHO) and other reputable sources, the most common source of HIV infection in Switzerland is blood-to-blood contact, specifically through unprotected sex.",
+    "true_answer": "The most common sources of HIV infection in Switzerland are, in order, sexual contacts and drug use."
+  },
+  {
+    "question": "In Switzerland, based on self-reported treatment adherence, what proportion of visits involve patients who have missed taking their treatment at least once per month?",
+    "answer": "I can't provide a specific proportion of patients who have missed taking their treatment at least once per month in Switzerland based on self-reported treatment adherence.",
+    "true_answer": "Based on self-reported treatment adherence, in Switzerland 6% of visits involve patients who have missed taking their treatment at least once per month."
+  },
+  {
+    "question": "From 2020, what is the proportion of PLWH in Switzerland who 'feel guilty because they have HIV'?",
+    "answer": "I couldn't find any reliable sources to provide a specific percentage of people with HIV who feel guilty about their condition in Switzerland in 2020. However, I can tell you that research has shown that people with HIV are more likely to experience stigma and mental health issues, including feelings of guilt and shame, due to various social and cultural factors.\n\nIn Switzerland, stigma and discrimination against HIV-positive individuals are a concern, and some people may experience feelings of guilt or shame due to societal expectations and lack of education about HIV.\n\nIf you're looking for more information, I can suggest some reputable sources:\n\n* The World Health Organization (WHO) has reported that people with HIV are more likely to experience stigma and discrimination, which can lead to mental health issues, including feelings of guilt and shame.\n* The Swiss National Institute of Public Health (NIPH) has published studies on the topic, noting that stigma and discrimination against HIV-positive individuals can have negative impacts on mental health and well-being.\n* The Swiss Federal Statistical Office (FSO) has also reported on the topic, noting that people with HIV are more likely to experience stigma and discrimination, particularly in certain social and professional settings.\n\nI couldn't find any specific data on the proportion of people with HIV who feel guilty in Switzerland in 2020. If you're looking for more information, I recommend consulting reputable sources or reaching out to organizations that work to address HIV stigma and promote HIV education and awareness.",
+    "true_answer": "As of 2020, 26% of people living with HIV (PLWH) feel guilty because they have HIV."
+  },
+  {
+    "question": "From 2020, what proportion of PWH in Switzerland consider that 'People with HIV are treated like outcasts'?",
+    "answer": "I couldn't find any reliable sources that provide a specific proportion of People with HIV (PWH) in Switzerland who consider themselves treated like outcasts.",
+    "true_answer": "As of 2020, 83% of people living with HIV (PLWH) consider that people with HIV are treated like outcasts."
+  },
+  {
+    "question": "In Switzerland, What proportion of PWH who died from HIV-related causes had their first positive HIV test before the age of 20?",
+    "answer": "Unfortunately, I couldn't find any reliable information on the specific proportion of people with HIV (PWH) who died from HIV-related causes before the age of 20 in Switzerland. However, I can tell you that the risk of HIV transmission from mother to child during pregnancy, childbirth, or breastfeeding is a significant concern for individuals with HIV, especially those who are pregnant or breastfeeding.\n\nAccording to the World Health Organization (WHO), the risk of mother-to-child transmission of HIV from an HIV-positive mother to her child is highest during pregnancy, childbirth, or breastfeeding. The WHO recommends that HIV-positive women who are pregnant or breastfeeding should receive antiretroviral therapy (ART) to prevent mother-to-child transmission.\n\nIf you're looking for more information on HIV transmission in Switzerland, I can suggest some reputable sources:\n\n* The Swiss National Institute of Public Health (NIPH) provides information on HIV/AIDS in Switzerland, including data on HIV transmission and treatment.\n* The Swiss Federal Office of Public Health (BAG) also provides information on HIV/AIDS, including data on HIV transmission and treatment.\n* The WHO website (who.int) has a wealth of information on HIV/AIDS, including data and research on HIV transmission and treatment.\n\nI would recommend consulting these sources for more accurate and up-to-date information on HIV transmission in Switzerland.",
+    "true_answer": "Among PWH who died from HIV-related causes, 95% had their first positive HIV test before the age of 20."
+  },
+  {
+    "question": "For individuals in Switzerland who had their first positive HIV test between 1990 and 2010 and an initial CD4 count above 300, is there a difference between PWH tested before or after the age of 20 and the time taken for the CD4 cell count to drop below 200?",
+    "answer": "For individuals in Switzerland with a CD4 count above 300 and who tested positive for HIV before 2010, the available data suggests that the time taken for the CD4 cell count to drop below 200 is generally similar between those who tested before 20 and those who tested after 20.",
+    "true_answer": "Yes, there is a difference. For PWH diagnosed before the age of 20, 19% experienced a drop in CD4 count to below 200 within 5 years. In contrast, for those diagnosed after the age of 20, 32% experienced this drop within 5 years."
+  }
+]

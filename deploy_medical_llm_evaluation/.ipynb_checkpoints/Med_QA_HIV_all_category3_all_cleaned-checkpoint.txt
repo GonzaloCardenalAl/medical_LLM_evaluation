@@ -1,0 +1,777 @@
+step1
+A 36-year-old female presents to clinic inquiring about the meaning of a previous negative test result from a new HIV screening test. The efficacy of this new screening test for HIV has been assessed by comparison against existing gold standard detection of HIV RNA via PCR. The study includes 1000 patients, with 850 HIV-negative patients (by PCR) receiving a negative test result, 30 HIV-negative patients receiving a positive test result, 100 HIV positive patients receiving a positive test result, and 20 HIV positive patients receiving a negative test result. Which of the following is most likely to increase the negative predictive value for this test?
+answer:B
+Decreased prevalence of HIV in the tested population
+[{'key': 'A', 'value': 'Increased prevalence of HIV in the tested population'}, {'key': 'B', 'value': 'Decreased prevalence of HIV in the tested population'}, {'key': 'C', 'value': 'Increased number of false positive test results'}, {'key': 'D', 'value': 'Increased number of false negative test results'}, {'key': 'E', 'value': 'Decreased number of false positive test results'}]
+step1
+A 20-year-old female arrives at the urgent care clinic at her university’s health plan asking for an HIV test. She is an undergraduate at the university and just started having sexual intercourse with her new boyfriend. They use protection only occasionally so she wants to get tested to make sure everything is okay. She has never been tested for STDs before. She reports no symptoms and has not seen a physician regularly for any medical conditions in the past. Her family history is uncertain because she was adopted. Her HIV immunoassay and HIV-1/HIV-2 differentiation immunoassay both come back positive. She asks on the phone, “Doctor, tell it to me straight. Do I have AIDS?” Which of the following is the most accurate response?
+answer:E
+We need additional bloodwork to see if you have AIDS.
+"[{'key': 'A', 'value': 'We have to get a confirmatory PCR test to see if you have AIDS.'}, {'key': 'B', 'value': 'You do not have AIDS because you just started having sex recently.'}, {'key': 'C', 'value': 'You have AIDS but this disease is now a manageable condition.'}, {'key': 'D', 'value': ""We need your partner's information to be sure of your diagnosis.""}, {'key': 'E', 'value': 'We need additional bloodwork to see if you have AIDS.'}]"
+step1
+"A 41-year-old woman presents with acute onset severe epigastric pain radiating to the back that began a few hours ago. She also complains of nausea and has vomited twice in the past hour. She denies any history of similar symptoms or trauma in the past. Past medical history is significant for diabetes type 2 and HIV infection diagnosed 6 months ago long-standing mild intermittent asthma, and generalized anxiety disorder. She takes metformin for her diabetes but does not remember the names of her HIV medications. She reports moderate social alcohol use. Her vital signs include temperature 37.6°C (99.6 °F), pulse 95/min, blood pressure 110/74 mm Hg, respiratory rate 12/min Her body mass index (BMI) is 21 kg/m2. Laboratory findings are significant for the following:
+Serum amylase: 415 U/L
+Serum lipase: 520 U/L
+A contrast CT of the abdomen reveals an edematous pancreas with peripancreatic fluid collection with a normal gallbladder. Which of the following is the most likely etiology of this patient’s condition?"
+answer:A
+HIV medication-related
+[{'key': 'A', 'value': 'HIV medication-related'}, {'key': 'B', 'value': 'Alcohol use'}, {'key': 'C', 'value': 'Abdominal trauma'}, {'key': 'D', 'value': 'Metformin'}, {'key': 'E', 'value': 'Congenital anomaly of the pancreas'}]
+step1
+A 33-year-old man presents to the clinic complaining of multiple painful joints for the past 2 weeks. The patient notes no history of trauma or any joint disorders. The patient states that he is generally healthy except for a recent emergency room visit for severe bloody diarrhea, which has resolved. On further questioning, the patient admits to some discomfort with urination but notes no recent sexual activity. On examination, the patient is not in acute distress, with no joint deformity, evidence of trauma, swelling, or erythema. He has a decreased range of motion of his right knee secondary to pain. Vital signs are as follows: heart rate 75/min, blood pressure 120/78 mm Hg, respiratory rate 16/min, and temperature 37.3°C (99.0°F). What is the next step in the treatment of this patient?
+answer:B
+Nonsteroidal anti-inflammatory drugs (NSAIDs) or immunosuppressants
+[{'key': 'A', 'value': 'Intravenous (IV) antibiotics'}, {'key': 'B', 'value': 'Nonsteroidal anti-inflammatory drugs (NSAIDs) or immunosuppressants'}, {'key': 'C', 'value': 'Positron emission tomography (PET) scan'}, {'key': 'D', 'value': 'Serology for rheumatoid factor'}, {'key': 'E', 'value': 'Prostate biopsy'}]
+step1
+A 27-year-old man presents with a 2-week history of fever, malaise, and occasional diarrhea. On physical examination, the physician notes enlarged inguinal lymph nodes. An HIV screening test is positive. Laboratory studies show a CD4+ count of 650/mm3. This patient is most likely currently in which of the following stages of HIV infection?
+answer:D
+Acute HIV infection
+[{'key': 'A', 'value': 'Latent HIV infection'}, {'key': 'B', 'value': 'Chronic HIV infection'}, {'key': 'C', 'value': 'AIDS'}, {'key': 'D', 'value': 'Acute HIV infection'}, {'key': 'E', 'value': 'Asymptomatic HIV infection'}]
+step1
+For which of the following patients would you recommend prophylaxis against mycobacterium avium-intracellulare?
+answer:B
+30-year old HIV positive male with CD4 count of 20 cells/ microliter and a viral load of < 50 copies/mL
+[{'key': 'A', 'value': '22-year old HIV positive female with CD4 count of 750 cells/ microliter and a viral load of 500,000 copies/mL'}, {'key': 'B', 'value': '30-year old HIV positive male with CD4 count of 20 cells/ microliter and a viral load of < 50 copies/mL'}, {'key': 'C', 'value': '45-year old HIV positive female with CD4 count of 250 cells/ microliter and a viral load of 100,000 copies/mL'}, {'key': 'D', 'value': '50-year old HIV positive female with CD4 count of 150 cells/ microliter and a viral load of < 50 copies/mL'}, {'key': 'E', 'value': '36-year old HIV positive male with CD4 count of 75 cells/microliter and an undetectable viral load.'}]
+step1
+A 45-year-old man with HIV comes to the physician because of multiple lesions on his chest and lower extremities. The lesions have progressively increased in size and are not painful or pruritic. Current medications include abacavir, dolutegravir, and lamivudine. A photograph of the lesions is shown. His CD4+ T-lymphocyte count is 450/mm3 (normal ≥ 500/mm3). A skin biopsy shows multiple spindle-shaped cells and lymphocytic infiltrate. Which of the following is the most appropriate pharmacotherapy?
+answer:C
+Alpha-interferon
+[{'key': 'A', 'value': 'Ganciclovir'}, {'key': 'B', 'value': 'Nitazoxanide'}, {'key': 'C', 'value': 'Alpha-interferon'}, {'key': 'D', 'value': 'Amphotericin B'}, {'key': 'E', 'value': 'Doxycycline'}]
+step1
+A 6-year-old boy is brought to the emergency room by ambulance, accompanied by his kindergarten teacher. Emergency department staff attempt to call his parents, but they cannot be reached. The boy’s medical history is unknown. According to his teacher, the boy was eating in the cafeteria with friends when he suddenly complained of itching and developed a widespread rash. Physical exam is notable for diffuse hives and tongue edema. His pulse is 100/min and blood pressure is 90/60 mmHg. The boy appears frightened and tells you that he does not want any treatment until his parents arrive. Which of the following is the next best step in the management of this patient?
+answer:B
+Immediately administer epinephrine and sedate and intubate the patient
+"[{'key': 'A', 'value': 'Continue calling the patient’s parents and do not intubate until verbal consent is obtained over the phone'}, {'key': 'B', 'value': 'Immediately administer epinephrine and sedate and intubate the patient'}, {'key': 'C', 'value': 'Obtain written consent to intubate from the patient’s teacher'}, {'key': 'D', 'value': 'Obtain written consent to intubate from the patient'}, {'key': 'E', 'value': ""Wait for the patient's parents to arrive, calm the patient, and provide written consent before intubating""}]"
+step1
+An investigator is studying the mechanism of HIV infection in cells obtained from a human donor. The effect of a drug that impairs viral fusion and entry is being evaluated. This drug acts on a protein that is cleaved off of a larger glycosylated protein in the endoplasmic reticulum of the host cell. The protein that is affected by the drug is most likely encoded by which of the following genes?
+answer:D
+env
+[{'key': 'A', 'value': 'rev'}, {'key': 'B', 'value': 'gag'}, {'key': 'C', 'value': 'pol'}, {'key': 'D', 'value': 'env'}, {'key': 'E', 'value': 'tat'}]
+step1
+"A 34-year-old woman presents with confusion, drowsiness, and headache. The patient’s husband says her symptoms began 2 days ago and have progressively worsened with an acute deterioration of her mental status 2 hours ago. The patient describes the headaches as severe, localized to the frontal and periorbital regions, and worse in the morning. Review of symptoms is significant for a mild, low-grade fever, fatigue, and nausea for the past week. Past medical history is significant for HIV infection for which she is not currently receiving therapy. Her CD4+ T cell count last month was 250/mm3. The blood pressure is 140/85 mm Hg, the pulse rate is 90/min, and the temperature is 37.7°C (100.0°F). On physical examination, the patient is conscious but drowsy. Papilledema is present. No pain is elicited with extension of the leg at the knee joint. The remainder of the physical examination is negative. Laboratory findings, including panculture, are ordered. A noncontrast CT scan of the head is negative and is followed by a lumbar puncture. CSF analysis is significant for:
+Opening pressure 250 mm H2O (70-180 mm H2O)
+Glucose 30 mg/dL (40-70 mg/dL)
+Protein 100 mg/dL (<40 mg/dL)
+Cell count 20/mm3 (0-5/mm3)
+Which of the following additional findings would most likely be found in this patient?"
+answer:C
+CSF India ink stain shows encapsulated yeast cells
+[{'key': 'A', 'value': 'CSF shows a positive acid-fast bacillus stain'}, {'key': 'B', 'value': 'CSF shows gram negative diplococci'}, {'key': 'C', 'value': 'CSF India ink stain shows encapsulated yeast cells'}, {'key': 'D', 'value': 'Gram-positive diplococci are present on microscopy'}, {'key': 'E', 'value': 'Multiple ring-enhancing lesions are seen on a CT scan'}]
+step1
+A 27-year-old woman consults an obstetrician as she is planning to become pregnant. She has been diagnosed with HIV (human immunodeficiency virus) infection recently and is currently taking antiretroviral therapy (HAART), as prescribed by her physician. The obstetrician emphasizes the importance of antenatal and peripartum antiretroviral therapy for reducing the risk of mother-to-child transmission of HIV. She also tells the patient that certain antiretroviral drugs, if taken during pregnancy, increase the risk of birth defects in the fetus. She gives a printed list of such drugs to the woman for educational and informational purposes. Which of the following drugs are most likely to be present on the list?
+answer:B
+Efavirenz and Delavirdine
+[{'key': 'A', 'value': 'Abacavir and Didanosine'}, {'key': 'B', 'value': 'Efavirenz and Delavirdine'}, {'key': 'C', 'value': 'Lamivudine and Nevirapine'}, {'key': 'D', 'value': 'Lopinavir and Ritonavir'}, {'key': 'E', 'value': 'Nelfinavir and Saquinavir'}]
+step1
+A 41-year-old man with HIV comes to the physician because of rectal bleeding and itching for 2 weeks. During this period, he has also had pain with defecation. Four months ago, he was diagnosed with anogenital warts that were treated with cryotherapy. Over the past year, he has been sexually active with 3 male partners. He uses condoms inconsistently. Current medications are zidovudine, emtricitabine, and efavirenz. Digital rectal examination and anoscopy show an exophytic mass on the anal margin that is protruding into the anal canal. The mass is tender to palpation and bleeds easily on contact. Laboratory studies show a leukocyte count of 7,600/mm3 and a CD4+ T-lymphocyte count of 410/mm3 (N ≥ 500). A biopsy specimen of the lesion shows a well-differentiated squamous cell carcinoma. Which of the following cellular processes was most likely involved in the pathogenesis of this patient's malignancy?
+answer:E
+"Inactivation of TP53 gene
+"""
+"[{'key': 'A', 'value': 'Activation of c-myc gene'}, {'key': 'B', 'value': 'Inactivation of VHL gene'}, {'key': 'C', 'value': 'Activation of TAX gene'}, {'key': 'D', 'value': 'Inactivation of WT1 gene'}, {'key': 'E', 'value': 'Inactivation of TP53 gene\n""'}]"
+step1
+A 25-year-old man presents with a nodule on his right foot. He says that he first noticed the nodule last week. It has not undergone any change in size and color. He denies any history of trauma or fever. Past medical history is significant for HIV, diagnosed 6 years ago. He is currently not on antiretroviral therapy. His last CD4+ T cell count was 0.19 x 109/L. He is afebrile, and his vital signs are within normal limits. On physical examination, there is a 3 cm x 4 cm nodule on the right foot, tan brown in color, non-tender, and covered with a fine scale. A biopsy of the nodule is performed and histopathological analysis reveals the proliferation of blood vessels with overgrown endothelial cells. Histological staining of the biopsy tissue reveals gram-negative bacilli. Which of the following is the best course of treatment for this patient?
+answer:D
+Erythromycin
+[{'key': 'A', 'value': 'Cefazolin'}, {'key': 'B', 'value': 'Penicillin'}, {'key': 'C', 'value': 'Vancomycin'}, {'key': 'D', 'value': 'Erythromycin'}, {'key': 'E', 'value': 'Interferon-α'}]
+step1
+An HIV-positive patient with a CD4+ count of 45 is receiving recommended first-line treatment for a case of cytomegalovirus retinitis. Coadministration with which of the following agents would be most likely to precipitate a deficiency of neutrophils in this patient?
+answer:B
+Zidovudine
+[{'key': 'A', 'value': 'Foscarnet'}, {'key': 'B', 'value': 'Zidovudine'}, {'key': 'C', 'value': 'Efavirenz'}, {'key': 'D', 'value': 'Ritonavir'}, {'key': 'E', 'value': 'Raltegravir'}]
+step1
+During an experiment conducted to alter the infectivity of common viruses that affect humans, an investigator successfully increases the host range of human immunodeficiency virus (HIV). The new strain of the virus can infect fibroblast-like cells in addition to the usual target of HIV. Which of the following is the most likely explanation for the increase in the host range of the virus?
+answer:A
+Mutation of the gene coding for viral surface glycoproteins
+[{'key': 'A', 'value': 'Mutation of the gene coding for viral surface glycoproteins'}, {'key': 'B', 'value': 'Point mutations in the hemagglutinin gene'}, {'key': 'C', 'value': 'Increased rate of budding out of host cells'}, {'key': 'D', 'value': 'Reassortment of genetic material between segments of two viruses'}, {'key': 'E', 'value': 'Excessive activity of viral RNA polymerase'}]
+step1
+"A 32-year-old man comes to the physician for a follow-up examination 1 week after being admitted to the hospital for oral candidiasis and esophagitis. His CD4+ T lymphocyte count is 180 cells/μL. An HIV antibody test is positive. Genotypic resistance assay shows the virus to be susceptible to all antiretroviral therapy regimens and therapy with dolutegravir, tenofovir, and emtricitabine is initiated. Which of the following sets of laboratory findings would be most likely on follow-up evaluation 3 months later?
+ $$$ CD4 +/CD8 ratio %%% HIV RNA %%% HIV antibody test $$$"
+answer:C
+↑ ↓ positive
+[{'key': 'A', 'value': '↓ ↑ negative'}, {'key': 'B', 'value': '↑ ↑ negative'}, {'key': 'C', 'value': '↑ ↓ positive'}, {'key': 'D', 'value': '↓ ↑ positive'}, {'key': 'E', 'value': '↓ ↓ negative'}]
+step1
+A 10-year-old boy comes for a post-operative clinic visit with his ENT surgeon three months after airway reconstruction surgery and placement of a tracheostomy tube. Since the surgery, he says that he has been able to breathe better and is now getting used to tracheostomy care and tracheostomy tube changes. In addition to this surgery, he has had over twenty surgeries to implant hearing aids, reconstruct his cheekbones, and support his jaw to enable him to swallow. He was born with these abnormalities and had difficult breathing, hearing, and eating throughout his childhood. Fortunately, he is now beginning to feel better and is able to attend public school where he is one of the best students in the class. Abnormal development of which of the following structures is most likely responsible for this patient's malformations?
+answer:A
+First branchial arch
+[{'key': 'A', 'value': 'First branchial arch'}, {'key': 'B', 'value': 'First branchial pouch'}, {'key': 'C', 'value': 'Second branchial arch'}, {'key': 'D', 'value': 'Second branchial cleft'}, {'key': 'E', 'value': 'Third and fourth branchial pouches'}]
+step1
+A 26-year-old man comes to the physician for a follow-up examination. He was diagnosed with HIV infection 2 weeks ago. His CD4+ T-lymphocyte count is 162/mm3 (N ≥ 500). An interferon-gamma release assay is negative. Prophylactic treatment against which of the following pathogens is most appropriate at this time?
+answer:C
+Pneumocystis jirovecii
+[{'key': 'A', 'value': 'Aspergillus fumigatus'}, {'key': 'B', 'value': 'Mycobacterium tuberculosis'}, {'key': 'C', 'value': 'Pneumocystis jirovecii'}, {'key': 'D', 'value': 'Toxoplasma gondii'}, {'key': 'E', 'value': 'Cytomegalovirus'}]
+step1
+A 35-year-old man with a past medical history of HIV is hospitalized with a disseminated zoster infection and treated with IV acyclovir. His course of illness worsens on the 4th day after admission and his creatinine level increases to 4.2 mg/dL. Urinalysis shows birefringent needle-shaped crystals. What could have prevented this deterioration in the patient's renal function?
+answer:D
+Adequate initial hydration
+[{'key': 'A', 'value': 'Initial administration of glucocorticoids'}, {'key': 'B', 'value': 'Monitoring of drug levels'}, {'key': 'C', 'value': 'Obtaining a thorough history of patient allergies'}, {'key': 'D', 'value': 'Adequate initial hydration'}, {'key': 'E', 'value': 'Initial administration of allopurinol'}]
+step1
+A 57-year-old HIV-positive male with a history of intravenous drug abuse presents to the emergency room complaining of arm swelling. He reports that he developed progressively worsening swelling and tenderness over the right antecubital fossa three days prior. He recently returned from a trip to Nicaragua. His past medical history is notable for an anaphylactoid reaction to vancomycin. His temperature is 101.4°F (38.6°C), blood pressure is 140/70 mmHg, pulse is 110/min, and respirations are 20/min. Physical examination reveals an erythematous, fluctuant, and tender mass overlying the right antecubital fossa. Multiple injection marks are noted across both upper extremities. He undergoes incision and drainage and is started on an antibiotic that targets the 50S ribosome. He is discharged with plans to follow up in one week. However, five days later he presents to the same emergency room complaining of abdominal cramps and watery diarrhea. Which of the following classes of pathogens is most likely responsible for this patient’s current symptoms?
+answer:E
+Gram-positive bacillus
+[{'key': 'A', 'value': 'Gram-negative curved bacillus'}, {'key': 'B', 'value': 'Gram-negative bacillus'}, {'key': 'C', 'value': 'Anaerobic flagellated protozoan'}, {'key': 'D', 'value': 'Gram-positive coccus'}, {'key': 'E', 'value': 'Gram-positive bacillus'}]
+step1
+A 37-year-old man comes to the physician because of fever, night sweats, malaise, dyspnea, and a productive cough with bloody sputum for 4 days. He was diagnosed with HIV infection 15 years ago and has not been compliant with his medication regimen. Physical examination shows diminished breath sounds over the left lung fields. An x-ray of the chest shows an ill-defined lesion in the upper lobe of the left lung. A CT-guided biopsy of the lesion is performed; a photomicrograph of the biopsy specimen stained with mucicarmine is shown. Which of the following is the most likely causal organism?
+answer:E
+Cryptococcus neoformans
+[{'key': 'A', 'value': 'Cocciodioides immitis'}, {'key': 'B', 'value': 'Candida albicans'}, {'key': 'C', 'value': 'Histoplasma capsulatum'}, {'key': 'D', 'value': 'Blastomyces dermatitidis'}, {'key': 'E', 'value': 'Cryptococcus neoformans'}]
+step1
+A 36-year-old female presents to clinic inquiring about the meaning of a previous negative test result from a new HIV screening test. The efficacy of this new screening test for HIV has been assessed by comparison against existing gold standard detection of HIV RNA via PCR. The study includes 1000 patients, with 850 HIV-negative patients (by PCR) receiving a negative test result, 30 HIV-negative patients receiving a positive test result, 100 HIV positive patients receiving a positive test result, and 20 HIV positive patients receiving a negative test result. Which of the following is most likely to increase the negative predictive value for this test?
+answer:B
+Decreased prevalence of HIV in the tested population
+[{'key': 'A', 'value': 'Increased prevalence of HIV in the tested population'}, {'key': 'B', 'value': 'Decreased prevalence of HIV in the tested population'}, {'key': 'C', 'value': 'Increased number of false positive test results'}, {'key': 'D', 'value': 'Increased number of false negative test results'}, {'key': 'E', 'value': 'Decreased number of false positive test results'}]
+step1
+"A 16-year-old girl is brought to the physician because of a 1-month history of fever, headaches, and profound fatigue. Her temperature is 38.2°C (100.8°F). Examination shows splenomegaly. Laboratory studies show:
+Leukocyte count 13,000/mm3 (15% atypical lymphocytes)
+Serum
+Alanine aminotransferase (ALT) 60 U/L
+Aspartate aminotransferase (AST) 40 U/L
+Heterophile antibody assay negative
+EBV viral capsid antigen (VCA) antibodies negative
+HIV antibody negative
+In an immunocompromised host, the causal organism of this patient's symptoms would most likely cause which of the following conditions?"""
+answer:E
+Linear ulcers near the lower esophageal sphincter
+[{'key': 'A', 'value': 'Multiple cerebral abscesses with surrounding edema'}, {'key': 'B', 'value': 'Diffuse pulmonary infiltrates with pneumatoceles'}, {'key': 'C', 'value': 'Purplish skin nodules on the distal extremities'}, {'key': 'D', 'value': 'Non-scrapable white patches on the lateral tongue'}, {'key': 'E', 'value': 'Linear ulcers near the lower esophageal sphincter'}]
+step1
+A 39-year-old man comes to the physician because of a 4-month history of fatigue. During this period, he has also had a 7.7-kg (17-lb) weight loss, despite having a normal appetite. He is sexually active with 3 female partners and uses condoms inconsistently. An HIV screening test and confirmatory test are both positive. CD4+ T-lymphocyte count is 570/mm3 (N ≥ 500) and the viral load is 104 copies/mL. Treatment with lamivudine, zidovudine, and indinavir is begun. The patient is most likely to experience which of the following adverse effects?
+answer:C
+Urolithiasis
+[{'key': 'A', 'value': 'Hyperpigmentation of palms and soles'}, {'key': 'B', 'value': 'Hepatotoxicity'}, {'key': 'C', 'value': 'Urolithiasis'}, {'key': 'D', 'value': 'Pancreatitis'}, {'key': 'E', 'value': 'Stevens-Johnson syndrome'}]
+step1
+"A 66-year-old man presents to the outpatient department complaining of a rash similar to the ones in the image. The skin lesions have been present for about 2 weeks. It is present in the buttocks and both inferior limbs. There is no association of skin lesions with exposure to sunlight or medication use. The patient also reports joint pain affecting the distal and proximal joints in both the upper and lower limbs. The joint pain has been present for about a week and seems to improve with Tylenol use. The patient is a retired armed force personnel with an extensive tour of overseas duty. He received blood transfusion following a career-ending injury about 30 years ago. He denies alcohol and tobacco use. He is currently in a monogamous relationship with his wife for 40 years. His past medical history is significant for hypertension controlled on Enalapril. Physical examination shows mild pallor, multiple palpable purpuric lesions with occasional ulcerations bilaterally in the upper and lower limbs. Pulse rate is 88/min and blood pressure is 128/82 mm Hg. Laboratory test findings are:
+HIV I and II antibodies negative
+Rheumatoid factor positive
+Hepatitis C antigen positive
+Hepatitis B surface antigen positive
+Hepatitis B antibody positive
+Anti-neutrophil antibody positive
+Hematocrit 38%
+Which of the following mechanisms is most likely responsible for his clinical presentation?"
+answer:E
+Virus-induced clonal expansion of autoreactive B lymphocytes
+[{'key': 'A', 'value': 'Cyto-proliferative effect of HCV on hepatocytes'}, {'key': 'B', 'value': 'Excessive uroporphyrinogen caused by HCV induced decarboxylase deficiency'}, {'key': 'C', 'value': 'Defective hepatic removal of IgA caused by chronic HCV'}, {'key': 'D', 'value': 'Monoclonal expansion of IgM caused by benign neoplasia'}, {'key': 'E', 'value': 'Virus-induced clonal expansion of autoreactive B lymphocytes'}]
+step1
+A 24-year-old man presents with difficulty breathing and blurred vision in the left eye. No significant past medical history or current medications. He has had more than 6 sexual partners (both men and women) and did not use any form of protection during sexual intercourse. No significant family history. Upon physical examination, the patient has crackles in all lobes bilaterally. Ophthalmologic exam reveals a single white lesion in the left eye with an irregular, feathery border, as well as evidence of retinal edema and necrosis. A rapid HIV test is positive. What is the mechanism of action of the drug that can be given to treat the ocular symptoms in this patient?
+answer:B
+Guanosine analog that preferably inhibits viral DNA polymerase
+[{'key': 'A', 'value': 'Blocks CCR5 receptor preventing viral entry'}, {'key': 'B', 'value': 'Guanosine analog that preferably inhibits viral DNA polymerase'}, {'key': 'C', 'value': 'A neuraminidase inhibitor preventing release of viral progeny'}, {'key': 'D', 'value': 'Prevents viral uncoating'}, {'key': 'E', 'value': 'Inhibits A-site tRNA binding during translation'}]
+step1
+A 20-year-old female arrives at the urgent care clinic at her university’s health plan asking for an HIV test. She is an undergraduate at the university and just started having sexual intercourse with her new boyfriend. They use protection only occasionally so she wants to get tested to make sure everything is okay. She has never been tested for STDs before. She reports no symptoms and has not seen a physician regularly for any medical conditions in the past. Her family history is uncertain because she was adopted. Her HIV immunoassay and HIV-1/HIV-2 differentiation immunoassay both come back positive. She asks on the phone, “Doctor, tell it to me straight. Do I have AIDS?” Which of the following is the most accurate response?
+answer:E
+We need additional bloodwork to see if you have AIDS.
+"[{'key': 'A', 'value': 'We have to get a confirmatory PCR test to see if you have AIDS.'}, {'key': 'B', 'value': 'You do not have AIDS because you just started having sex recently.'}, {'key': 'C', 'value': 'You have AIDS but this disease is now a manageable condition.'}, {'key': 'D', 'value': ""We need your partner's information to be sure of your diagnosis.""}, {'key': 'E', 'value': 'We need additional bloodwork to see if you have AIDS.'}]"
+step1
+A 27-year-old woman who resides in an area endemic for chloroquine-resistant P. falciparum malaria presents to the physician with fatigue, malaise, and episodes of fever with chills over the last 5 days. She mentions that she has episodes of shivering and chills on alternate days that last for approximately 2 hours, followed by high-grade fevers; then she has profuse sweating and her body temperature returns to normal. She also mentions that she is currently in her 7th week of pregnancy. The physical examination reveals the presence of mild splenomegaly. A peripheral blood smear confirms the diagnosis of P. falciparum infection. Which of the following is the most appropriate anti-malarial treatment for the woman?
+answer:C
+Quinine sulfate plus clindamycin
+[{'key': 'A', 'value': 'Mefloquine only'}, {'key': 'B', 'value': 'Chloroquine phosphate plus primaquine'}, {'key': 'C', 'value': 'Quinine sulfate plus clindamycin'}, {'key': 'D', 'value': 'Quinine sulfate plus doxycycline'}, {'key': 'E', 'value': 'Quinine sulfate plus sulfadoxine-pyrimethamine'}]
+step1
+A 43-year-old man with a history of untreated HIV presents with fever, shortness of breath, and a nonproductive cough for the past week. Past medical history is significant for HIV diagnosed 10 years ago and never treated. His most recent CD4+ T cell count was 105/µL. Physical examination reveals bilateral crepitus over all lobes. No lymphadenopathy is present. A chest radiograph reveals bilateral infiltrates. Which of the following is the best treatment for this patient?
+answer:B
+Trimethoprim-sulfamethoxazole
+[{'key': 'A', 'value': 'Highly active antiretroviral therapy (HAART)'}, {'key': 'B', 'value': 'Trimethoprim-sulfamethoxazole'}, {'key': 'C', 'value': 'Ganciclovir'}, {'key': 'D', 'value': 'Azithromycin'}, {'key': 'E', 'value': 'Amphotericin B'}]
+step1
+"A 41-year-old woman presents with acute onset severe epigastric pain radiating to the back that began a few hours ago. She also complains of nausea and has vomited twice in the past hour. She denies any history of similar symptoms or trauma in the past. Past medical history is significant for diabetes type 2 and HIV infection diagnosed 6 months ago long-standing mild intermittent asthma, and generalized anxiety disorder. She takes metformin for her diabetes but does not remember the names of her HIV medications. She reports moderate social alcohol use. Her vital signs include temperature 37.6°C (99.6 °F), pulse 95/min, blood pressure 110/74 mm Hg, respiratory rate 12/min Her body mass index (BMI) is 21 kg/m2. Laboratory findings are significant for the following:
+Serum amylase: 415 U/L
+Serum lipase: 520 U/L
+A contrast CT of the abdomen reveals an edematous pancreas with peripancreatic fluid collection with a normal gallbladder. Which of the following is the most likely etiology of this patient’s condition?"
+answer:A
+HIV medication-related
+[{'key': 'A', 'value': 'HIV medication-related'}, {'key': 'B', 'value': 'Alcohol use'}, {'key': 'C', 'value': 'Abdominal trauma'}, {'key': 'D', 'value': 'Metformin'}, {'key': 'E', 'value': 'Congenital anomaly of the pancreas'}]
+step1
+A 26-year-old man with HIV and a recent CD4+ count of 800 presents to his PCP with fever, cough, and dyspnea. He notes that he recently lost his job as a construction worker and has not been able to afford his HAART medication. His temperature is 102.6°F (39.2°C), pulse is 75/min, respirations are 24/min, and blood pressure is 135/92 mmHg. Physical exam reveals a tachypneic patient with scattered crackles in both lungs, and labs show a CD4+ count of 145 and an elevated LDH. The chest radiography is notable for bilateral diffuse interstitial infiltrates. For definitive diagnosis, the physician obtains a sputum sample. Which stain should he use to visualize the most likely responsible organism?
+answer:B
+Silver stain
+[{'key': 'A', 'value': 'Ziehl-Neelsen stain'}, {'key': 'B', 'value': 'Silver stain'}, {'key': 'C', 'value': 'India ink stain'}, {'key': 'D', 'value': 'Periodic acid schiff stain'}, {'key': 'E', 'value': 'Carbol fuchsin stain'}]
+step1
+A 42-year-old woman with well-controlled HIV on antiretroviral therapy comes to the physician because of a 2-week history of a painless lesion on her right calf. Many years ago, she had a maculopapular rash over her trunk, palms, and soles that resolved spontaneously. Physical examination shows a 4-cm firm, non-tender, indurated ulcer with a moist, dark base and rolled edges. There is a similar lesion at the anus. Results of rapid plasma reagin testing are positive. Which of the following findings is most likely on microscopic examination of these lesions?
+answer:E
+Coagulative necrosis surrounded by fibroblast and macrophage infiltrate
+[{'key': 'A', 'value': 'Epithelioid cell infiltrate surrounding acellular, granular core'}, {'key': 'B', 'value': 'Epidermal hyperplasia with dermal lymphocytic infiltrate'}, {'key': 'C', 'value': 'Lichenoid hyperplasia with superficial neutrophilic infiltrate'}, {'key': 'D', 'value': 'Ulcerated epidermis with plasma cell infiltrate'}, {'key': 'E', 'value': 'Coagulative necrosis surrounded by fibroblast and macrophage infiltrate'}]
+step1
+A 42-year-old man presents with an oral cavity lesion, toothache, and weight loss. He is known to have been HIV-positive for 6 years, but he does not follow a prescribed antiretroviral regimen because of personal beliefs. The vital signs are as follows: blood pressure 110/80 mm Hg, heart rate 89/min, respiratory rate 17/min, and temperature 37.1°C (100.8°F). The physical examination revealed an ulcerative lesion located on the lower lip. The lesion was friable, as evidenced by contact bleeding, and tender on palpation. A CT scan showed the lesion to be a solid mass (7 x 6 x 7 cm3) invading the mandible and spreading to the soft tissues of the oral cavity floor. A biopsy was obtained to determine the tumor type, which showed a monotonous diffuse lymphoid proliferation of large cells with plasmablastic differentiation, and oval-to-round vesicular nuclei with fine chromatin. The cells are immunopositive for VS38c. DNA of which of the following viruses is most likely to be identified in the tumor cells?
+answer:B
+EBV
+[{'key': 'A', 'value': 'CMV'}, {'key': 'B', 'value': 'EBV'}, {'key': 'C', 'value': 'HHV-8'}, {'key': 'D', 'value': 'HHV-1'}, {'key': 'E', 'value': 'HPV-16'}]
+step1
+"A 28-year-old man who works as a resident in general surgery presents feeling ""burned out"" for the last 2 months. He says he has been working extremely long hours under stressful conditions, which makes him irritable, edgy, unfocused, and forgetful. He says he also has severe anxiety about how these symptoms are affecting his performance at work, making it difficult for him to sleep even when he has time off. The patient is referred for counseling and is prescribed some mild sleep aids. At follow-up a few months later, he says he is feeling much improved due to improved staffing at the hospital and a more manageable workload. Which of the following is the most likely diagnosis in this patient?"
+answer:A
+Adjustment disorder
+[{'key': 'A', 'value': 'Adjustment disorder'}, {'key': 'B', 'value': 'Generalized anxiety disorder'}, {'key': 'C', 'value': 'Anxiety disorder'}, {'key': 'D', 'value': 'Panic disorder'}, {'key': 'E', 'value': 'Normal human behavior'}]
+step1
+A 45-year-old man with a history of poorly controlled human immunodeficiency virus (HIV) infection presents to the emergency room complaining of clumsiness and weakness. He reports a 3-month history of worsening balance, asymmetric muscle weakness, and speech difficulties. He recently returned from a trip to Guatemala to visit his family. He has been poorly compliant with his anti-retroviral therapy and his most recent CD4 count was 195. His history is also notable for rheumatoid arthritis and hepatitis C. His temperature is 99°F (37.2°C), blood pressure is 140/90 mmHg, pulse is 95/min, and respirations are 18/min. On exam, he has 4/5 strength in his right upper extremity, 5/5 strength in his left upper extremity, 5/5 strength in his right lower extremity, and 3/5 strength in his left lower extremity. His speech is disjointed with intermittent long pauses between words. Vision is 20/100 in the left eye and 20/40 in his right eye; previously, his eyesight was 20/30 bilaterally. This patient most likely has a condition caused by which of the following types of pathogens?
+answer:E
+Polyomavirus
+[{'key': 'A', 'value': 'Arenavirus'}, {'key': 'B', 'value': 'Bunyavirus'}, {'key': 'C', 'value': 'Herpesvirus'}, {'key': 'D', 'value': 'Picornavirus'}, {'key': 'E', 'value': 'Polyomavirus'}]
+step1
+An 11-year-old boy presents with a 2-day history of uncontrollable shivering. During admission, the patient’s vital signs are within normal limits, except for a fluctuating body temperature registering as low as 35.0°C (95.0°F) and as high as 40.0°C (104.0°F), requiring alternating use of cooling and warming blankets. A complete blood count (CBC) is normal, and a chest radiograph is negative for consolidations and infiltrates. An MRI of the brain reveals a space-occupying lesion infiltrating the posterior hypothalamus and extending laterally. Which of the following additional findings are most likely, based on this patient’s physical examination?
+answer:B
+Anorexia
+[{'key': 'A', 'value': 'Hyperphagia'}, {'key': 'B', 'value': 'Anorexia'}, {'key': 'C', 'value': 'Galactorrhea'}, {'key': 'D', 'value': 'Sleep disturbances'}, {'key': 'E', 'value': 'Polyuria'}]
+step1
+A 49-year-old homeless man comes to the emergency department because of fatigue, cough, and worsening shortness of breath for 2 weeks. He was diagnosed with HIV-infection 25 years ago but has never had any symptoms. He has always refused to take antiretroviral medication. Pulmonary examination shows diffuse crackles over bilateral lower lung fields. An x-ray of the chest shows diffuse, symmetrical interstitial infiltrates. His serum level of beta-d-glucan is elevated. Further testing shows a heterozygous mutation that prevents entry of HIV into macrophages. Which of the following proteins is most likely affected by the mutation in this patient?
+answer:B
+CCR5
+[{'key': 'A', 'value': 'ICAM-1'}, {'key': 'B', 'value': 'CCR5'}, {'key': 'C', 'value': 'Gp120'}, {'key': 'D', 'value': 'CD4'}, {'key': 'E', 'value': 'P antigen'}]
+step1
+A 23-year-old male with a homozygous CCR5 mutation is found to be immune to HIV infection. The patient’s CCR5 mutation interferes with the function of which viral protein?
+answer:B
+gp120
+[{'key': 'A', 'value': 'Reverse transcriptase'}, {'key': 'B', 'value': 'gp120'}, {'key': 'C', 'value': 'gp41'}, {'key': 'D', 'value': 'p24'}, {'key': 'E', 'value': 'pp17'}]
+step1
+A 39-year-old man comes to the emergency department because of a 2-day history of fever, chills, dyspnea, and a non-bloody productive cough. He was diagnosed with HIV infection 4 years ago and has been on highly active antiretroviral therapy since then. His temperature is 38.8°C (101.8°F). Examination shows crackles over the left lower lung base. His CD4+ T-lymphocyte count is 520/mm3 (N ≥ 500). An x-ray of the chest shows an infiltrate in the left lower lobe. Sputum cultures grow colonies with a narrow zone of green hemolysis without clearing on blood agar. The most likely causal pathogen of this patient's condition produces which of the following virulence factors?
+answer:D
+Polysaccharide capsule
+[{'key': 'A', 'value': 'M protein'}, {'key': 'B', 'value': 'Lipopolysaccharide'}, {'key': 'C', 'value': 'Type III secretion system'}, {'key': 'D', 'value': 'Polysaccharide capsule'}, {'key': 'E', 'value': 'Protein A'}]
+step1
+An HIV-positive 48-year-old man comes to the emergency department because of a 3-month history of recurrent, painful mouth ulcers. This time, the pain is so severe that the patient cannot eat. He has a history of a seizure disorder but currently does not take any medications. He appears very ill. His temperature is 39.0°C (102.2°F). Physical examination shows numerous vesicular ulcerations on the lips and sloughing of the gums, buccal mucosa, and hard palate. Genetic analysis of the pathogen isolated from the lesions shows a mutation in a gene encoding viral phosphotransferases. Which of the following drugs is the most appropriate treatment?
+answer:C
+Cidofovir
+[{'key': 'A', 'value': 'Foscarnet'}, {'key': 'B', 'value': 'Acyclovir'}, {'key': 'C', 'value': 'Cidofovir'}, {'key': 'D', 'value': 'Ganciclovir'}, {'key': 'E', 'value': 'Famciclovir'}]
+step1
+A 14-year-old boy has undergone kidney transplantation due to stage V chronic kidney disease. A pre-transplantation serologic assessment showed that he is negative for past or present HIV infection, viral hepatitis, EBV, and CMV infection. He has a known allergy for macrolides. The patient has no complaints 1 day after transplantation. His vital signs include: blood pressure 120/70 mm Hg, heart rate 89/min, respiratory rate 17/min, and temperature 37.0°C (98.6°F). On physical examination, the patient appears to be pale, his lungs are clear on auscultation, heart sounds are normal, and his abdomen is non-tender on palpation. His creatinine is 0.65 mg/dL (57.5 µmol/L), GFR is 71.3 mL/min/1.73 m2, and urine output is 0.9 mL/kg/h. Which of the following drugs should be used in the immunosuppressive regimen in this patient?
+answer:B
+Basiliximab
+[{'key': 'A', 'value': 'Sirolimus'}, {'key': 'B', 'value': 'Basiliximab'}, {'key': 'C', 'value': 'Daclizumab'}, {'key': 'D', 'value': 'Belatacept'}, {'key': 'E', 'value': 'Omalizumab'}]
+step1
+An 11-month-old boy presents to his pediatrician with severe wheezing, cough, and fever of 38.0°C (101.0°F). Past medical history is notable for chronic diarrhea since birth, as well as multiple pyogenic infections. The mother received prenatal care, and delivery was uneventful. Both parents, as well as the child, are HIV-negative. Upon further investigation, the child is discovered to have Pneumocystis jirovecii pneumonia, and the appropriate treatment is begun. Additionally, a full immunologic check-up is ordered. Which of the following profiles is most likely to be observed in this patient?
+answer:A
+Increased IgM and decreased IgA, IgG, and IgE
+[{'key': 'A', 'value': 'Increased IgM and decreased IgA, IgG, and IgE'}, {'key': 'B', 'value': 'Increased IgE'}, {'key': 'C', 'value': 'Decreased IgM and increased IgE and IgA'}, {'key': 'D', 'value': 'Decreased IgE, IgM, IgA, and IgG'}, {'key': 'E', 'value': 'Increased IgE and decreased IgA and IgM'}]
+step1
+A 28-year-old woman presents with a 12-month history of headache, tinnitus, retrobulbar pain, and photopsias. She says the headaches are mild to moderate, intermittent, diffusely localized, and refractory to nonsteroidal anti-inflammatory drugs (NSAIDs). In addition, this past week, she began to have associated dizziness and photopsia with the headaches. Physical examination reveals a body temperature of 36.5°C (97.7°F), blood pressure of 140/80 mm Hg, and a respiratory rate of 13/min and regular. BMI is 29 kg/m2. Neurological examination is significant for peripheral visual field loss in the inferior nasal quadrant, diplopia, bilateral abducens nerve palsy, and papilledema. A T1/T2 MRI of the brain did not identify extra-axial or intra-axial masses or interstitial edema, and a lumbar puncture showed an opening pressure of 27 cm H2O, with a cerebrospinal fluid analysis within the normal range. Which of the following best describes the pathogenic mechanism underlying these findings?
+answer:B
+Elevated intracranial venous pressure
+[{'key': 'A', 'value': 'Arachnoid granulation adhesions'}, {'key': 'B', 'value': 'Elevated intracranial venous pressure'}, {'key': 'C', 'value': 'Aqueductal stenosis'}, {'key': 'D', 'value': 'Increased cerebrospinal production'}, {'key': 'E', 'value': 'Systemic hypertension'}]
+step1
+A 27-year-old pregnant woman presents to an obstetrician at 35 weeks gestation reporting that she noted the presence of a mucus plug in her vaginal discharge this morning. The obstetrician performs an examination and confirms that she is in labor. She was diagnosed with HIV infection 1 year ago. Her current antiretroviral therapy includes abacavir, lamivudine, and nevirapine. Her last HIV RNA level was 2,000 copies/mL 3 weeks ago. Which of the following anti-retroviral drugs should be administered intravenously to the woman during labor?
+answer:E
+Zidovudine
+[{'key': 'A', 'value': 'Abacavir'}, {'key': 'B', 'value': 'Enfuvirtide'}, {'key': 'C', 'value': 'Nevirapine'}, {'key': 'D', 'value': 'Rilpivirine'}, {'key': 'E', 'value': 'Zidovudine'}]
+step1
+A 78-year-old man presented to his primary physician with a 3-month history of weight loss, fever, fatigue, night sweats, and cough. He is a former smoker. A recent HIV test was negative. A CT scan of the chest reveals a 3 cm lesion in the lower lobe of the left lung and calcification around the left lung hilus. A sputum smear was positive for acid fast organisms. These findings are most consistent with which of the following:
+answer:A
+Primary tuberculosis
+[{'key': 'A', 'value': 'Primary tuberculosis'}, {'key': 'B', 'value': 'Adenocarcinoma'}, {'key': 'C', 'value': 'Miliary tuberculosis'}, {'key': 'D', 'value': 'Coccidioidomycosis infection'}, {'key': 'E', 'value': 'Secondary tuberculosis'}]
+step1
+A 62-year-old man comes to the physician because of a growth on his penis that has been gradually increasing in size over the last year. He was diagnosed with HIV 10 years ago. He has been divorced for 25 years and has had “at least 30 sexual partners” since. Physical examination shows a nontender 2.5-cm ulcerated lesion with an erythematous base on the dorsum of the glans. There is firm left inguinal lymphadenopathy. A biopsy of the lesion shows small uniform basophilic cells with central necrosis that invade into the corpus cavernosum. This patient's condition is most likely associated with which of the following pathogens?
+answer:A
+Human papillomavirus
+"[{'key': 'A', 'value': 'Human papillomavirus'}, {'key': 'B', 'value': 'Epstein-Barr virus'}, {'key': 'C', 'value': 'Haemophilus ducreyi'}, {'key': 'D', 'value': 'Neisseria gonorrhoeae'}, {'key': 'E', 'value': 'Chlamydia trachomatis\n""'}]"
+step1
+A 27-year-old man presents with a 2-week history of fever, malaise, and occasional diarrhea. On physical examination, the physician notes enlarged inguinal lymph nodes. An HIV screening test is positive. Laboratory studies show a CD4+ count of 650/mm3. This patient is most likely currently in which of the following stages of HIV infection?
+answer:D
+Acute HIV infection
+[{'key': 'A', 'value': 'Latent HIV infection'}, {'key': 'B', 'value': 'Chronic HIV infection'}, {'key': 'C', 'value': 'AIDS'}, {'key': 'D', 'value': 'Acute HIV infection'}, {'key': 'E', 'value': 'Asymptomatic HIV infection'}]
+step1
+A 25-year-old man presents with an ulcer on his penis. He says that he noticed the ulcer a week ago while taking a shower and it has not improved. He denies any pain, penile discharge, rash, dysuria, fever, or pain on urination. His past medical history is nonsignificant. Sexual history reveals that the patient has had 6 male partners over the past year and uses condoms infrequently. On physical examination, there is a 1-cm ulcer on the dorsal aspect of the penile shaft (see image below). The edge and base of the ulcer are indurated but there is no bleeding or drainage. Two enlarged non-tender inguinal lymph nodes are palpable on the right. There is no evidence of scrotal masses or urethral discharge. A rapid HIV test is negative. Which of the following microorganisms is most likely responsible for this patient’s condition?
+answer:D
+Treponema pallidum
+[{'key': 'A', 'value': 'Haemophilus ducreyi'}, {'key': 'B', 'value': 'Klebsiella inguinale'}, {'key': 'C', 'value': 'Herpes simplex virus'}, {'key': 'D', 'value': 'Treponema pallidum'}, {'key': 'E', 'value': 'Chlamydia trachomatis  '}]
+step1
+A 58-year-old man presents with a lump on his neck. He says the mass gradually onset 2 months ago and has been progressively enlarging. He denies any pain, weight loss, fevers, chills, or night sweats. Past medical history is significant for HIV, diagnosed 5 years ago, managed on a new HAART regimen he just started. The patient is afebrile and vital signs are within normal limits. Physical examination shows a 3 cm mobile firm mass on the left lateral side of the neck immediately below the level of the thyroid cartilage. A biopsy of the mass is performed and reveals atypical mononuclear cells in a background of eosinophils, plasma cells, histiocytes, atypical T-lymphocytes, and bilobed cells (shown in image). Which of the following is the most likely diagnosis in this patient?
+answer:C
+Mixed cellularity classical Hodgkin lymphoma
+[{'key': 'A', 'value': 'Lymphocyte-rich classical Hodgkin lymphoma'}, {'key': 'B', 'value': 'Nodular lymphocyte-predominant Hodgkin lymphoma'}, {'key': 'C', 'value': 'Mixed cellularity classical Hodgkin lymphoma'}, {'key': 'D', 'value': 'Nodular sclerosis classical Hodgkin lymphoma'}, {'key': 'E', 'value': 'Lymphocyte depleted Hodgkin lymphoma'}]
+step1
+A 45-year-old man presents with a 2-week history of night sweats, cough, and a fever. Past medical history includes HIV infection diagnosed 10 years ago, managed with HAART. He says he hasn’t been compliant with his HAART therapy as prescribed because it is too expensive and he is currently unemployed without insurance. A chest radiograph is performed and reveals a cavity in the right upper lobe of his lung. Which of the following lung infections is most likely causing this patient’s symptoms?
+answer:C
+M. tuberculosis
+[{'key': 'A', 'value': 'Mycobacterium avium complex'}, {'key': 'B', 'value': 'Cytomegalovirus'}, {'key': 'C', 'value': 'M. tuberculosis'}, {'key': 'D', 'value': 'Pneumocystis jirovecii'}, {'key': 'E', 'value': 'Histoplasmosis'}]
+step1
+A 49-year-old man with HIV comes to the physician because of a 1-month history of intermittent diarrhea and abdominal pain. Abdominal examination shows mild, diffuse tenderness throughout the lower quadrants. His CD4+ T-lymphocyte count is 180/mm3 (normal ≥ 500/mm3). Colonoscopy shows multiple hemorrhagic nodules in the rectum and descending colon. Polymerase chain reaction of the lesions is positive for HHV-8. Histologic examination of the lesions is most likely to show which of the following findings?
+answer:D
+Spindle-shaped cells with leukocytic infiltration
+[{'key': 'A', 'value': 'Cords of atypical cells with extracellular mucin'}, {'key': 'B', 'value': 'Enlarged cells with intranuclear inclusion bodies'}, {'key': 'C', 'value': 'Polygonal cells with racket-shaped organelles'}, {'key': 'D', 'value': 'Spindle-shaped cells with leukocytic infiltration'}, {'key': 'E', 'value': 'Mucin-filled cell with peripheral nucleus'}]
+step1
+A 26-year-old G1P0 woman presents for her first prenatal visit. Past medical history reveals the patient is blood type O negative, and the father is type A positive. The patient refuses Rho(D) immune globulin (RhoGAM), because it is derived from human plasma, and she says she doesn’t want to take the risk of contracting HIV. Which of the following is correct regarding the potential condition her baby may develop?
+answer:C
+She should receive Rho(D) immune globulin to prevent the development of Rh(D) alloimmunization
+[{'key': 'A', 'value': 'Rho(D) immune globulin is needed both before and immediately after delivery to protect this baby from developing the condition'}, {'key': 'B', 'value': 'She should receive Rho(D) immune globulin to prevent the development of ABO incompatibility'}, {'key': 'C', 'value': 'She should receive Rho(D) immune globulin to prevent the development of Rh(D) alloimmunization'}, {'key': 'D', 'value': 'The Rho(D) immune globulin will also protect the baby against other Rh antigens aside from Rh(D)'}, {'key': 'E', 'value': 'The injection can be avoided because the risk of complications of this condition is minimal'}]
+step1
+A 6-year-old boy is brought to a primary care provider by his adoptive parents for evaluation of a 3-month history of jaw swelling. He has a travel history of recent immigration from equatorial Africa where his deceased mother was positive for HIV and died from related complications. On physical exam, extensive lymph node swelling on the left side of his jaw is noted. There is also an ulceration that appears to be infected. Fine needle biopsy of the lymph node yields a diagnosis of Burkitt’s lymphoma by the pathologist. Which of the following is most likely associated with the involvement of lymph nodes around his jaw?
+answer:C
+Recent immigration from equatorial Africa
+[{'key': 'A', 'value': 'Infected ulcer'}, {'key': 'B', 'value': 'Close family member with HIV'}, {'key': 'C', 'value': 'Recent immigration from equatorial Africa'}, {'key': 'D', 'value': 'Gender of the patient'}, {'key': 'E', 'value': 'Ethnicity of the patient'}]
+step1
+A 37-year-old man comes to the physician because of a 6-month history of progressive breast enlargement. Two years ago, he was diagnosed with HIV infection and started treatment with antiretroviral medications. Examination shows a soft, non-tender, ill-defined swelling at the nape of the neck. The cheeks appear hollowed. Serum studies show increased total cholesterol and LDL concentration. Which of the following medications is the most likely cause of these findings?
+answer:C
+Indinavir
+[{'key': 'A', 'value': 'Nevirapine'}, {'key': 'B', 'value': 'Enfuvirtide'}, {'key': 'C', 'value': 'Indinavir'}, {'key': 'D', 'value': 'Raltegravir'}, {'key': 'E', 'value': 'Abacavir'}]
+step1
+An 11-year-old boy with HIV and esophageal candidiasis is being treated with caspofungin. What is the mechanism of action of this drug?
+answer:E
+Inhibition of 1,3-Beta-glucan synthase
+[{'key': 'A', 'value': 'Pore formation in cell membranes'}, {'key': 'B', 'value': 'Inhibition of ergosterol synthesis'}, {'key': 'C', 'value': 'Inhibition of squalene epoxidase'}, {'key': 'D', 'value': 'Inhibition of pyrimidine synthesis'}, {'key': 'E', 'value': 'Inhibition of 1,3-Beta-glucan synthase'}]
+step1
+A 33-year-old man with HIV comes to the physician because of a nonproductive cough and shortness of breath for 3 weeks. He feels tired after walking up a flight of stairs and after long conversations on the phone. He appears chronically ill. His temperature is 38.5°C (101.3°F), and pulse is 110/min. Pulse oximetry on room air shows an oxygen saturation of 95%. Upon walking, his oxygen saturation decreases to 85%. Cardiopulmonary examination is normal. Laboratory studies show a CD4+ T-lymphocyte count of 176/mm3 (N > 500). Results of urine Legionella antigen testing are negative. A CT scan of the chest shows diffuse, bilateral ground-glass opacities. Microscopic examination of fluid obtained from bronchoalveolar lavage will most likely show which of the following findings?
+answer:B
+Silver-staining, disc-shaped cysts
+[{'key': 'A', 'value': 'Gram-positive, catalase-positive cocci'}, {'key': 'B', 'value': 'Silver-staining, disc-shaped cysts'}, {'key': 'C', 'value': 'Intracellular, acid-fast bacteria'}, {'key': 'D', 'value': 'Septate, acute-branching hyphae'}, {'key': 'E', 'value': 'Silver-staining, gram-negative bacilli'}]
+step1
+A 44-year-old man with HIV comes to the physician for a routine follow-up examination. He has been noncompliant with his antiretroviral medication regimen for several years. He appears chronically ill and fatigued. CD4+ T-lymphocyte count is 405/mm3 (N ≥ 500). Further evaluation of this patient is most likely to show which of the following findings?
+answer:A
+Violaceous lesions on skin exam
+[{'key': 'A', 'value': 'Violaceous lesions on skin exam'}, {'key': 'B', 'value': 'Cotton-wool spots on fundoscopy'}, {'key': 'C', 'value': 'Multifocal demyelination on brain MRI'}, {'key': 'D', 'value': 'Ring-enhancing lesions on brain MRI'}, {'key': 'E', 'value': 'Ground-glass opacities on chest CT'}]
+step1
+A 41-year-old male who takes NSAIDs regularly for his chronic back pain develops severe abdominal pain worse with eating. Upper endoscopy is performed and the medical student asks the supervising physician how the histological differentiation between a gastric ulcer and erosion is made. Which of the following layers of the gastric mucosa MUST be breached for a lesion to be considered an ulcer?
+answer:D
+Epithelium, lamina propria, muscularis mucosa, and submucosa
+[{'key': 'A', 'value': 'Epithelium'}, {'key': 'B', 'value': 'Epithelium, lamina propria'}, {'key': 'C', 'value': 'Epithelium, lamina propria, muscularis mucosa'}, {'key': 'D', 'value': 'Epithelium, lamina propria, muscularis mucosa, and submucosa'}, {'key': 'E', 'value': 'Epithelium, lamina propria, muscularis mucosa, submucosa, and adventitia'}]
+step1
+"A 17-year-old girl is brought to the emergency department by her father with fever, chills, and a body rash. Her father reports that 3 days ago, his daughter underwent surgery for a deviated nasal septum. Since then, she has been ""sleepy"" and in moderate pain. When the patient’s father came home from work today, he found the patient on the couch, shivering and complaining of muscle aches. He also noticed a rash all over her body. The patient says she feels “hot and cold” and also complains of lightheadedness. The patient has no other past medical history. She has been taking oxycodone for the post-surgical pain. She denies any recent travel. The father reports the patient’s brother had a minor “cold” last week. The patient’s mother has major depressive disorder. The patient denies tobacco or illicit drug use. She says she has tried beer before at parties. Her temperature is 103.2°F (39.6°C), blood pressure is 84/53, pulse is 115/min, respirations are 12/min, and oxygen saturation is 99% on room air. The patient is awake and oriented but slow to respond. There is no focal weakness or nuchal rigidity. Physical examination reveals nasal packing in both nostrils, tachycardia, and a diffuse, pink, macular rash that is also present on the palms and soles. Initial labs show a neutrophil-dominant elevation in leukocytes, a creatinine of 2.1 mg/dL, an aspartate aminotransferase of 82 U/L, and an alanine aminotransferase of 89 U/L. Which of the following is the most likely cause of the patient’s symptoms?"
+answer:E
+Polyclonal T-cell activation
+[{'key': 'A', 'value': 'Bacterial lysis'}, {'key': 'B', 'value': 'Circulating endotoxin'}, {'key': 'C', 'value': 'Mast cell degranulation'}, {'key': 'D', 'value': 'Opioid receptor stimulation'}, {'key': 'E', 'value': 'Polyclonal T-cell activation'}]
+step1
+A 30-year-old woman presents to the office with chief complaints of skin pigmentation and fragility of the extensor sides of both hands for a month. The lesions are progressive and are not directly sensitive to light. The patient is otherwise healthy and only uses an oral contraceptive. There is no skin disease or similar skin symptoms in family members. She consumes 1 glass of wine twice a week. Dermatological examination reveals erosions, erythematous macules, pigmentation, and atrophic scarring. Blood analysis reveals elevated CRP (34 mg/L), AST (91 U/L), ALT (141 U/L), and serum ferritin (786 ng/mL compared to the normal value of 350 ng/mL). Her BMI is 21 kg/m2. Urine porphyrin test results are negative. Autoimmune laboratory analysis, hepatic panel, and HIV serology are negative with a normal liver ultrasound. Genetic analysis shows a homozygous missense mutation of the HFE gene. What could be the long-term effect of her condition to her liver?
+answer:A
+Hepatocellular carcinoma
+[{'key': 'A', 'value': 'Hepatocellular carcinoma'}, {'key': 'B', 'value': 'Fatty liver'}, {'key': 'C', 'value': 'Copper accumulation'}, {'key': 'D', 'value': 'Alcoholic cirrhosis'}, {'key': 'E', 'value': 'OCP related hepatitis'}]
+step1
+A 45-year-old man comes to the emergency department with fever, nonproductive cough, and difficulty breathing. Three years ago, he underwent lung transplantation. A CT scan of the chest shows diffuse bilateral ground-glass opacities. Pathologic examination of a transbronchial lung biopsy specimen shows several large cells containing intranuclear inclusions with a clear halo. Treatment with ganciclovir fails to improve his symptoms. He is subsequently treated successfully with another medication. This drug does not require activation by viral kinases and also has known in-vitro activity against HIV and HBV. The patient was most likely treated with which of the following drugs?
+answer:A
+Foscarnet
+[{'key': 'A', 'value': 'Foscarnet'}, {'key': 'B', 'value': 'Lamivudine'}, {'key': 'C', 'value': 'Elvitegravir'}, {'key': 'D', 'value': 'Zanamivir'}, {'key': 'E', 'value': 'Acyclovir'}]
+step1
+"A 32-year-old HIV positive male presents to the office complaining of difficulty swallowing and bad breath for the past couple of months. Upon further questioning, he says, ""it feels like there’s something in my throat"". He says that the difficulty is sometimes severe enough that he has to skip meals. He added that it mainly occurs with solid foods. He is concerned about his bad breath since he has regular meetings with his clients. Although he is on antiretroviral medications, he admits that he is noncompliant. On examination, the patient is cachectic with pale conjunctiva. On lab evaluation, the patient’s CD4+ count is 70/mm3. What is the most likely cause of his symptoms?"
+answer:B
+Candida albicans
+[{'key': 'A', 'value': 'Human papilloma virus'}, {'key': 'B', 'value': 'Candida albicans'}, {'key': 'C', 'value': 'Irritation due to medication therapy'}, {'key': 'D', 'value': 'HHV-8'}, {'key': 'E', 'value': 'Cytomegalovirus'}]
+step1
+A 40-year-old man presents with problems with his vision. He says he has been experiencing blurred vision and floaters in his left eye for the past few days. He denies any ocular pain, fever, or headaches. Past medical history is significant for HIV infection a few years ago, for which he is noncompliant with his antiretroviral medications and his most recent CD4 count was 100 cells/mm3. His temperature is 36.5°C (97.7°F), the blood pressure is 110/89 mm Hg, the pulse rate is 70/min, and the respiratory rate is 14/min. Ocular exam reveals a decreased vision in the left eye, and a funduscopic examination is shown in the image. The patient is admitted and immediately started on intravenous ganciclovir. A few days after admission he is still complaining of blurry vision and floaters, so he is switched to a different medication. Inhibition of which of the following processes best describes the mechanism of action of the newly added medication?
+answer:B
+Nucleic acid synthesis
+[{'key': 'A', 'value': 'Viral penetration into host cells'}, {'key': 'B', 'value': 'Nucleic acid synthesis'}, {'key': 'C', 'value': 'Progeny virus release'}, {'key': 'D', 'value': 'Viral uncoating'}, {'key': 'E', 'value': 'Protein synthesis'}]
+step1
+A 27-year-old man interested in pre-exposure therapy for HIV (PrEP) is being evaluated to qualify for a PrEP study. In order to qualify, patients must be HIV- and hepatitis B- and C-negative. Any other sexually transmitted infections require treatment prior to initiation of PrEP. The medical history is positive for a prior syphilis infection and bipolar affective disorder, for which he takes lithium. On his next visit, the liver and renal enzymes are within normal ranges. HIV and hepatitis B and C tests are negative. Which of the following about the HIV test is true?
+answer:B
+It is a qualitative test used for screening purposes.
+[{'key': 'A', 'value': 'It is a quantitative test used for screening purposes.'}, {'key': 'B', 'value': 'It is a qualitative test used for screening purposes.'}, {'key': 'C', 'value': 'An unknown antigen binds to the known serum.'}, {'key': 'D', 'value': 'A known antigen binds to the patient’s serum.'}, {'key': 'E', 'value': 'A secondary reagent is needed to interpret the results.'}]
+step1
+A 45-year-old HIV-positive male presents to his primary care physician complaining of decreased libido. He reports that he has been unable to maintain an erection for the past two weeks. He has never encountered this problem before. He was hospitalized four weeks ago for cryptococcal meningitis and has been on long-term antifungal therapy since then. His CD4 count is 400 cells/mm^3 and viral load is 5,000 copies/ml. He was previously non-compliant with HAART but since his recent infection, he has been more consistent with its use. His past medical history is also notable for hypertension, major depressive disorder, and alcohol abuse. He takes lisinopril and sertraline. His temperature is 98.6°F (37°C), blood pressure is 120/85 mmHg, pulse is 80/min, and respirations are 18/min. The physician advises the patient that side effects like decreased libido may manifest due to a drug with which of the following mechanisms of action?
+answer:E
+Inhibition of ergosterol synthesis
+[{'key': 'A', 'value': 'Inhibition of pyrimidine synthesis'}, {'key': 'B', 'value': 'Inhibition of beta-glucan synthesis'}, {'key': 'C', 'value': 'Formation of pores in cell membrane'}, {'key': 'D', 'value': 'Disruption of microtubule formation'}, {'key': 'E', 'value': 'Inhibition of ergosterol synthesis'}]
+step1
+A 3-month old male infant with HIV infection is brought to the physician for evaluation. The physician recommends monthly intramuscular injections of a monoclonal antibody to protect against a particular infection. The causal pathogen for this infection is most likely transmitted by which of the following routes?
+answer:A
+Aerosol inhalation
+[{'key': 'A', 'value': 'Aerosol inhalation'}, {'key': 'B', 'value': 'Blood transfusion'}, {'key': 'C', 'value': 'Skin inoculation'}, {'key': 'D', 'value': 'Breast feeding'}, {'key': 'E', 'value': 'Fecal-oral route'}]
+step1
+A 28-year-old G1P0 woman at 16 weeks estimated gestational age presents for prenatal care. Routine prenatal screening tests are performed and reveal a positive HIV antibody test. The patient is extremely concerned about the possible transmission of HIV to her baby and wants to have the baby tested as soon as possible after delivery. Which of the following would be the most appropriate diagnostic test to address this patient’s concern?
+answer:E
+Polymerase chain reaction (PCR) for HIV RNA
+[{'key': 'A', 'value': 'EIA for HIV antibody'}, {'key': 'B', 'value': 'Antigen assay for p24'}, {'key': 'C', 'value': 'Viral culture'}, {'key': 'D', 'value': 'CD4+ T cell count'}, {'key': 'E', 'value': 'Polymerase chain reaction (PCR) for HIV RNA'}]
+step1
+A 28-year-old male with a history of HIV infection is found to have a CD4+ T lymphocyte count of 68 cells per microliter. As a consequence of his HIV infection, this patient is at increased risk of malignancy due to which of the following?
+answer:E
+Epstein-Barr Virus (EBV)
+[{'key': 'A', 'value': 'Pneumocystis jiroveci'}, {'key': 'B', 'value': 'HHV-6'}, {'key': 'C', 'value': 'Actinomyces israelii'}, {'key': 'D', 'value': 'Helicobacter pylori'}, {'key': 'E', 'value': 'Epstein-Barr Virus (EBV)'}]
+step1
+A 31-year-old man with untreated HIV infection is admitted to the hospital because of a 3-day history of blurred vision and flashing lights in his left eye. Indirect ophthalmoscopy shows retinal hemorrhages of the left eye. Treatment with a drug that directly inhibits viral DNA polymerases by binding to pyrophosphate-binding sites is initiated. Two days later, the patient has a generalized tonic-clonic seizure. This patient's seizure was most likely caused by which of the following?
+answer:C
+Hypocalcemia
+[{'key': 'A', 'value': 'Demyelination'}, {'key': 'B', 'value': 'Encephalitis'}, {'key': 'C', 'value': 'Hypocalcemia'}, {'key': 'D', 'value': 'Hypoglycemia'}, {'key': 'E', 'value': 'Lactic acidosis'}]
+step1
+A 46-year-old man with HIV infection comes to the physician because of a 1-week history of severe retrosternal pain while swallowing. He has not been compliant with his antiretroviral drug regimen. His CD4+ T-lymphocyte count is 98/mm3 (N ≥ 500). Endoscopy shows white plaques in the esophagus. The most appropriate immediate treatment is a drug that inhibits which of the following enzymes?
+answer:D
+Cytochrome p450 enzymes
+[{'key': 'A', 'value': 'DNA polymerase'}, {'key': 'B', 'value': 'Hydrogen-potassium ATPase'}, {'key': 'C', 'value': 'Phospholipase A2'}, {'key': 'D', 'value': 'Cytochrome p450 enzymes'}, {'key': 'E', 'value': 'Squalene epoxidase'}]
+step1
+"A 44-year-old man comes to the physician for a follow-up examination. Eight months ago, he was diagnosed with HIV infection and combined antiretroviral treatment was begun. He feels well. He does not smoke or drink alcohol. Current medications include lamivudine, zidovudine, atazanavir, and trimethoprim-sulfamethoxazole. Laboratory studies show:
+Hemoglobin 11.2 g/dL
+Mean corpuscular volume 102 μm3
+Leukocyte count 2,600/mm3
+Segmented neutrophils 38%
+Lymphocytes 54%
+Platelet count 150,000/mm3
+Serum
+Folate normal
+Lactate 6.0 mEq/L (N = 0.5–2.2)
+Arterial blood gas analysis on room air shows:
+pH 7.34
+pCO2 55 mm Hg
+pO2 99 mmHg
+HCO3- 14 mEq/L
+The drug most likely responsible for this patient's current laboratory findings belongs to which of the following classes of drugs?"""
+answer:C
+Nucleoside reverse transcriptase inhibitor
+[{'key': 'A', 'value': 'Entry inhibitor'}, {'key': 'B', 'value': 'Integrase inhibitor'}, {'key': 'C', 'value': 'Nucleoside reverse transcriptase inhibitor'}, {'key': 'D', 'value': 'Protease inhibitor'}, {'key': 'E', 'value': 'Dihyrofolate reductase inhibitor'}]
+step1
+"A 37-year old man is being evaluated due to a recent history of fatigue that started 3 weeks ago. The patient presents with a history of HIV, which was first diagnosed 7 years ago. He has been on an antiretroviral regimen and takes it regularly. His CD4+ count is 350 cells/mm3. According to the patient, his partner passed away from a ""blood cancer"", and he is worried that his fatigue might be connected to a similar pathology. The physician clarifies that there is an increased risk for HIV patients to develop certain kinds of lymphomas. Which one of the conditions below is the patient more likely to develop based on his medical history?"
+answer:B
+Diffuse large B cell lymphoma
+[{'key': 'A', 'value': 'Burkitt’s lymphoma'}, {'key': 'B', 'value': 'Diffuse large B cell lymphoma'}, {'key': 'C', 'value': 'Follicular lymphoma'}, {'key': 'D', 'value': 'Small lymphocytic lymphoma'}, {'key': 'E', 'value': 'Extranodal marginal zone lymphoma'}]
+step1
+A 25-year-old man is scheduled for an orthopedic surgery. His routine preoperative laboratory tests are within normal limits. An urticarial reaction occurs when a non-depolarizing neuromuscular blocking agent is injected for muscle relaxation and mechanical ventilation. The patient’s lungs are manually ventilated with 100% O2 by bag and mask and then through an endotracheal tube. After a few minutes, edema of the face and neck rapidly ensues and giant hives appear over most of his body. Which of the following neuromuscular blocking agents was most likely used in this operation?
+answer:C
+D-tubocurarine
+[{'key': 'A', 'value': 'Succinylcholine'}, {'key': 'B', 'value': 'Neostigmine'}, {'key': 'C', 'value': 'D-tubocurarine'}, {'key': 'D', 'value': 'Nitrous oxide'}, {'key': 'E', 'value': 'Ketamine'}]
+step1
+A 6-year-old boy is brought to the pediatrician by his mother after he reported having red urine. He has never experienced this before and did not eat anything unusual before the episode. His past medical history is notable for sensorineural deafness requiring hearing aids. He is otherwise healthy and enjoys being in the 1st grade. His birth history was unremarkable. His temperature is 98.8°F (37.1°C), blood pressure is 145/85 mmHg, pulse is 86/min, and respirations are 18/min. On examination, he is a well-appearing boy in no acute distress. Cardiac, respiratory, and abdominal exams are normal. A urinalysis is notable for microscopic hematuria and mild proteinuria. This patient’s condition is most commonly caused by which of the following inheritance patterns?
+answer:D
+X-linked dominant
+[{'key': 'A', 'value': 'Autosomal dominant'}, {'key': 'B', 'value': 'Autosomal recessive'}, {'key': 'C', 'value': 'Mitochondrial inheritance'}, {'key': 'D', 'value': 'X-linked dominant'}, {'key': 'E', 'value': 'X-linked recessive'}]
+step1
+"A 28-year-old woman presents to her physician for follow-up. She was found to be HIV-positive 9 months ago. Currently she is on ART with lamivudine, tenofovir, and efavirenz. She has no complaints and only reports a history of mild respiratory infection since the last follow-up. She is also allergic to egg whites. Her vital signs are as follows: the blood pressure is 120/75 mm Hg, the heart rate is 73/min, the respiratory rate is 13/min, and the temperature is 36.7°C (98.0°F). She weighs 68 kg (150 lb), and there is no change in her weight since the last visit. On physical examination, she appears to be pale, her lymph nodes are not enlarged, her heart sounds are normal, and her lungs are clear to auscultation. Her total blood count shows the following findings:
+Erythrocytes 3.2 x 106/mm3
+Hematocrit 36%
+Hgb 10 g/dL
+Total leukocyte count 3,900/mm3
+Neutrophils 66%
+Lymphocytes 24%
+Eosinophils 3%
+Basophils 1%
+Monocytes 7%
+Basophils 0
+Platelet count 280,000/mm3
+Her CD4+ cell count is 430 cells/µL. The patient tells you she would like to get an influenza vaccination as flu season is coming. Which of the following statements is true regarding influenza vaccination in this patient?"
+answer:E
+The patient can get any approved recombinant or inactivated vaccine, including ones produced with egg-based technology.
+[{'key': 'A', 'value': 'As long as the patient is anemic, she should not be vaccinated.'}, {'key': 'B', 'value': 'Nasal-spray influenza vaccine is the best option for vaccination in this patient.'}, {'key': 'C', 'value': 'Inactivated or recombinant influenza vaccines fail to induce a sufficient immune response in patients with CD4+ cell counts under 500 cells/µL.'}, {'key': 'D', 'value': 'Influenza vaccination is contraindicated in HIV-positive patients because of the serious complications they can cause in immunocompromised people.'}, {'key': 'E', 'value': 'The patient can get any approved recombinant or inactivated vaccine, including ones produced with egg-based technology.'}]
+step1
+"A 20-year-old man comes to the clinic complaining of fever and a sore throat for 5 days. He receives oral penicillin from his primary doctor. After a day of antibiotic treatment, he developed gross hematuria. As a child, he recalls having multiple episodes of hematuria. The vital signs are within normal limits. On physical examination, pharyngeal edema and cervical lymphadenopathy are present. His laboratory examination reveals the following:
+WBC 11,000/mm3
+Neutrophils 76%
+Lymphocytes 23%
+Eosinophils 1%
+Platelets 150,000/mm3
+Hemoglobin 14 g/dL
+Hct 41.2%
+BUN 16 mg/dL
+Creatinine 0.9 mg/dL
+ASO titer 100
+Urinalysis shows hematuria but no proteinuria. Immunofluorescence shows granular IgA immune complex deposits in the mesangium. Hepatitis B, hepatitis C, and HIV serology are negative. ASO titers and C3 levels are within normal limits. What is the most likely diagnosis?"
+answer:B
+Berger’s disease
+[{'key': 'A', 'value': 'Penicillin-induced hypersensitivity reaction'}, {'key': 'B', 'value': 'Berger’s disease'}, {'key': 'C', 'value': 'Post-streptococcal glomerulonephritis'}, {'key': 'D', 'value': 'Hemolytic uremic syndrome'}, {'key': 'E', 'value': 'Celiac disease'}]
+step1
+A 24-year-old woman with HIV infection comes to the physician for a follow-up examination. She has been inconsistently taking combined antiretroviral therapy for the past 5 years. She did not receive any childhood vaccinations because her parents were against them. During the consultation, the patient says that she wants to catch up on the missed vaccinations. Laboratory studies show a CD4+ T lymphocyte cell count of 180/mm3. Administration of the vaccine against which of the following agents should be avoided in this patient?
+answer:E
+Varicella zoster virus
+[{'key': 'A', 'value': 'Bordetella pertussis'}, {'key': 'B', 'value': 'Human papillomavirus'}, {'key': 'C', 'value': 'Haemophilus influenzae'}, {'key': 'D', 'value': 'Clostridium tetani'}, {'key': 'E', 'value': 'Varicella zoster virus'}]
+step1
+A student health coordinator plans on leading a campus-wide HIV screening program that will be free for the entire undergraduate student body. The goal is to capture as many correct HIV diagnoses as possible with the fewest false positives. The coordinator consults with the hospital to see which tests are available to use for this program. Test A has a sensitivity of 0.92 and a specificity of 0.99. Test B has a sensitivity of 0.95 and a specificity of 0.96. Test C has a sensitivity of 0.98 and a specificity of 0.93. Which of the following testing schemes should the coordinator pursue?
+answer:D
+Test C on the entire student body followed by Test A on those who are positive
+[{'key': 'A', 'value': 'Test A on the entire student body followed by Test B on those who are positive'}, {'key': 'B', 'value': 'Test A on the entire student body followed by Test C on those who are positive'}, {'key': 'C', 'value': 'Test B on the entire student body followed by Test A on those who are positive'}, {'key': 'D', 'value': 'Test C on the entire student body followed by Test A on those who are positive'}, {'key': 'E', 'value': 'Test C on the entire student body followed by Test B on those who are positive'}]
+step1
+"A 32-year-old African American woman presents to the office with complaints of frothy urine and swelling of her body that started 4 days ago. She noticed the swelling 1st in the face then gradually involved in other parts of her body. The frequency of urination is the same with no noticeable change in its appearance. She is human immunodeficiency virus (HIV) positive and is currently under treatment with abacavir, dolutegravir, and lamivudine. The vital signs include blood pressure 122/89 mm Hg, pulse 55/min, temperature 36.7°C (98.0°F), and respiratory rate 14/min. On physical examination, there is generalized pitting edema. Urinalysis results are as follows:
+pH 6.6
+Color light yellow
+Red blood cell (RBC) count none
+White blood cell (WBC) count 1–2/HPF
+Protein 4+
+Cast fat globules
+Glucose absent
+Crystal none
+Ketone absent
+Nitrite absent
+24 hours of urine protein excretion 5.2 g
+HPF: high-power field
+A renal biopsy is performed which shows the following (see image). What condition is this patient most likely suffering from?"
+answer:B
+Focal segmental glomerulosclerosis
+[{'key': 'A', 'value': 'Minimal change disease'}, {'key': 'B', 'value': 'Focal segmental glomerulosclerosis'}, {'key': 'C', 'value': 'Renal amyloidosis'}, {'key': 'D', 'value': 'Diffuse proliferative glomerulonephritis'}, {'key': 'E', 'value': 'Post-streptococcal glomerulonephritis'}]
+step1
+"A 63-year-old man presents to the emergency room because of worsening breathlessness that began overnight. He was diagnosed with asthma 3 years ago and has been using albuterol and steroid inhalers. He does not have a prior history of cardiac disease or other respiratory diseases. The man is a retired insurance agent and has lived his entire life in the United States. His vital signs include: respiratory rate 40/min, blood pressure 130/90 mm Hg, pulse rate 110/min, and temperature 37.0°C (98.6°F). Physical examination shows severe respiratory distress, with the patient unable to lie down on the examination table. Auscultation of the chest reveals widespread wheezes in the lungs and the presence of S3 gallop rhythm. The man is admitted to hospital and laboratory investigations and imaging studies are ordered. Test results include the following:
+WBC count 18.6 × 109/L
+Eosinophil cell count 7.6 × 109/L (40% eosinophils)
+Troponin T 0.5 ng/mL
+Anti-MPO (P-ANCA) antibodies positive
+Anti-PR3-C-ANCA negative
+Immunoglobulin E 1,000 IU/mL
+Serological tests for HIV, echovirus, adenovirus, Epstein-Barr virus, and parvovirus B19 are negative. ECG shows regular sinus tachycardia with an absence of strain pattern or any evidence of ischemia. Transthoracic echocardiography reveals a dilated left ventricle with an ejection fraction of 30% (normal is 55% or greater). Which of the following diagnoses best explains the clinical presentation and laboratory findings in this patient?"
+answer:A
+Eosinophilic granulomatosis with polyangiitis (EGPA)
+"[{'key': 'A', 'value': 'Eosinophilic granulomatosis with polyangiitis (EGPA)'}, {'key': 'B', 'value': 'Chagas disease'}, {'key': 'C', 'value': 'Primary dilated cardiomyopathy'}, {'key': 'D', 'value': ""Loeffler's endocarditis""}, {'key': 'E', 'value': 'Extrinsic asthma'}]"
+step1
+A 43-year-old HIV positive male presents with signs and symptoms concerning for a fungal infection. He is currently not on antiretrovirals and his CD4 count is 98. Which of the following candidal infections could be seen in this patient but would be very rare in an immunocompetent host?
+answer:D
+Esophagitis
+[{'key': 'A', 'value': 'Oral thrush'}, {'key': 'B', 'value': 'Vaginitis'}, {'key': 'C', 'value': 'Intertrigo'}, {'key': 'D', 'value': 'Esophagitis'}, {'key': 'E', 'value': 'Endocarditis'}]
+step1
+A 50-year-old male with HIV presents to his primary care provider complaining of persistent fevers and night sweats over the past four months. He has also experienced a productive cough. He has been poorly adherent to his HAART regimen. His past medical history also includes gout, hypertension, and diabetes mellitus. He takes allopurinol, enalapril, and metformin. His temperature is 100.9°F (38.3°C), blood pressure is 125/75 mmHg, pulse is 95/min, and respirations are 20/min. His CD4 count is 85 cell/mm^3 and a PPD is negative. A chest radiograph reveals cavitations in the left upper lobe and left lower lobe. Bronchoalveolar lavage reveals the presence of partially acid-fast gram-positive branching rods. A head CT is negative for any intracranial process. A drug with which of the following mechanisms of action is most appropriate for the management of this patient?
+answer:E
+Folate synthesis inhibitor
+[{'key': 'A', 'value': 'Cell wall synthesis inhibitor'}, {'key': 'B', 'value': '30S ribosomal subunit inhibitor'}, {'key': 'C', 'value': '50S ribosomal subunit inhibitor'}, {'key': 'D', 'value': 'RNA synthesis inhibitor'}, {'key': 'E', 'value': 'Folate synthesis inhibitor'}]
+step1
+A 3-month-old boy presents to his pediatrician with persistent diarrhea, oral candidiasis, and signs and symptoms of respiratory syncytial virus (RSV) pneumonia. He is very lean with weight in the 10th percentile. His blood pressure is 105/64 mm Hg and heart rate is 84/min. He is being evaluated for an immunodeficiency. Laboratory results for HIV are negative by polymerase chain reaction (PCR). Which of the following is the most likely cause of this child’s presentation?
+answer:B
+Defective T cell function
+[{'key': 'A', 'value': 'An X-linked inheritance of HLA genes'}, {'key': 'B', 'value': 'Defective T cell function'}, {'key': 'C', 'value': 'Selective IgA deficiency'}, {'key': 'D', 'value': 'Defective isotype switching'}, {'key': 'E', 'value': 'Grossly reduced levels of B cells'}]
+step1
+A 47-year-old woman presents to the physician with complaints of fatigue accompanied by symmetric pain, swelling, and stiffness in her wrists, fingers, knees, and other joints. She describes the stiffness as being particularly severe upon awakening, but gradually improves as she moves throughout her day. Her physician initially suggests that she take NSAIDs. However, after a few months of minimal symptomatic improvement, she is prescribed an immunosuppressive drug that has a mechanism of preventing IL-2 transcription. What is the main toxicity that the patient must be aware of with this particular class of drugs?
+answer:C
+Nephrotoxicity
+[{'key': 'A', 'value': 'Hepatotoxicity'}, {'key': 'B', 'value': 'Hyperglycemia'}, {'key': 'C', 'value': 'Nephrotoxicity'}, {'key': 'D', 'value': 'Osteoporosis'}, {'key': 'E', 'value': 'Pancytopenia'}]
+step1
+A 51-year-old man presents to his primary care physician's office for a 6-week history of fatigue and diarrhea. He says that the diarrhea is frequent, small volume, and contains gross blood. Review of systems is significant for subjective fever and an unintentional 5-pound weight loss. He denies recent travel outside of the United States. His past medical history is significant for IV drug abuse, HIV infection with non-compliance, and osteoarthritis. His family history is significant for Crohn disease in his mother. His temperature is 100.7°F (38.2°C), pulse is 90/min, blood pressure is 129/72 mmHg, and respirations are 16/min. His abdominal exam shows mild right and left lower quadrant tenderness with no rebound or guarding. Laboratory results are significant for a CD4 count of 42/mm^3. Colonoscopy with tissue biopsy will most likely reveal which of the following?
+answer:A
+Intranuclear and cytoplasmic inclusions
+[{'key': 'A', 'value': 'Intranuclear and cytoplasmic inclusions'}, {'key': 'B', 'value': 'Flask-shaped amebic ulcers'}, {'key': 'C', 'value': 'Loosely adherent inflammatory exudates'}, {'key': 'D', 'value': 'Lymphocytic mucosal infiltrates'}, {'key': 'E', 'value': 'Non-caseating granulomas'}]
+step1
+A 61-year-old man with HIV comes to the physician because of a 3-week history of fatigue, nonproductive cough, and worsening shortness of breath. He appears ill. Pulse oximetry on room air shows an oxygen saturation of 89%. Laboratory studies show a CD4+ T-lymphocyte count of 67/mm3 (N ≥ 500/mm3) and an elevated HIV viral load. An x-ray of the chest shows diffuse interstitial infiltrates bilaterally. A bronchoalveolar lavage shows disc-shaped yeast cells. In addition to starting antiretroviral therapy, the appropriate treatment for the patient's current illness is initiated. Maintaining the patient on a medication to prevent recurrence of his current illness will also prevent which of the following conditions?
+answer:B
+Toxoplasmosis
+[{'key': 'A', 'value': 'Candidiasis'}, {'key': 'B', 'value': 'Toxoplasmosis'}, {'key': 'C', 'value': 'Cryptosporidiosis'}, {'key': 'D', 'value': 'Mycobacterium avium complex infection'}, {'key': 'E', 'value': 'Cytomegalovirus end-organ disease'}]
+step1
+A 28-year-old woman with HIV comes to the physician because of an 8-day history of severe pain while swallowing. She has been hospitalized several times with opportunistic infections and has poor adherence to her antiretroviral drug regimen. Endoscopy shows extensive, white, plaque-like lesions in the proximal esophagus. Culture of a biopsy specimen grows Candida albicans. Treatment with intravenous anidulafungin is initiated. Which of the following is the primary mechanism of action of this drug?
+answer:D
+Decreased glucan synthesis
+[{'key': 'A', 'value': 'Decreased DNA synthesis'}, {'key': 'B', 'value': 'Binding to ergosterol'}, {'key': 'C', 'value': 'Binding to tubulin'}, {'key': 'D', 'value': 'Decreased glucan synthesis'}, {'key': 'E', 'value': 'Inhibition of squalene epoxidase'}]
+step1
+A 55-year-old man with HIV on antiretroviral therapy comes to the physician for a follow-up examination. His HIV viral load is 559 copies/mL (N<49). His physician is concerned about the development of drug resistance. The result of HIV genotype testing shows reduced viral susceptibility to darunavir and ritonavir. Which of the following molecular processes is most likely affected by this mutation?
+answer:D
+Modification of translated proteins
+[{'key': 'A', 'value': 'Integration of DNA into the host genome'}, {'key': 'B', 'value': 'Synthesis of DNA from an RNA template'}, {'key': 'C', 'value': 'Binding of aminoacyl-tRNA to ribosomes'}, {'key': 'D', 'value': 'Modification of translated proteins'}, {'key': 'E', 'value': 'Binding of glycoproteins to T-cell receptors'}]
+step1
+A 44-year-old man comes to the physician for a follow-up examination. Ten months ago, he was diagnosed with HIV infection and appropriate antiretroviral therapy was initiated. Physical examination shows no abnormalities. Laboratory studies show increased viral load despite ongoing treatment. His pharmacotherapy is switched to a new combination drug regimen including an agent that binds to glycoprotein 41. The expected effect of this drug is most likely due to inhibition of which of the following?
+answer:E
+Viral fusion and entry into host cells
+[{'key': 'A', 'value': 'Viral particle assembly'}, {'key': 'B', 'value': 'Viral docking and attachment to host cells'}, {'key': 'C', 'value': 'Viral genome transcription'}, {'key': 'D', 'value': 'Viral genome integration into host cells'}, {'key': 'E', 'value': 'Viral fusion and entry into host cells'}]
+step1
+A 45-year-old woman with a history of alcoholic hepatitis returns to clinic for follow-up after being diagnosed with rheumatoid arthritis and started on NSAIDs. She complains of continued joint effusions and increasing morning stiffness. Given this patient's presentation and history, which of the following drugs presents the greatest risk when started for the management of her condition?
+answer:C
+Methotrexate
+[{'key': 'A', 'value': 'Cyclosporine'}, {'key': 'B', 'value': 'Corticosteroids'}, {'key': 'C', 'value': 'Methotrexate'}, {'key': 'D', 'value': 'Hydroxychloroquine'}, {'key': 'E', 'value': 'Etanercept'}]
+step1
+A 35-year-old male is found to be infected with an HIV strain resistant to saquinavir and zidovudine. Which of the following best explains the drug resistance observed in this patient?
+answer:B
+pol mutation
+[{'key': 'A', 'value': 'HIV evasion of host response'}, {'key': 'B', 'value': 'pol mutation'}, {'key': 'C', 'value': 'env mutation'}, {'key': 'D', 'value': 'CCR5 mutation'}, {'key': 'E', 'value': 'HBV co-infection'}]
+step1
+A 52-year-old woman with HIV infection is brought to the emergency department 20 minutes after she had a generalized tonic-clonic seizure. She appears lethargic and confused. Laboratory studies show a CD4+ count of 89 cells/μL (N > 500). A CT scan of the head with contrast shows multiple ring-enhancing lesions in the basal ganglia and subcortical white matter. An India ink preparation of cerebrospinal fluid is negative. Which of the following is the most likely diagnosis?
+answer:E
+Cerebral toxoplasmosis
+[{'key': 'A', 'value': 'HIV encephalopathy'}, {'key': 'B', 'value': 'Progressive multifocal leukoencephalopathy'}, {'key': 'C', 'value': 'Primary CNS lymphoma'}, {'key': 'D', 'value': 'Cryptococcal encephalitis'}, {'key': 'E', 'value': 'Cerebral toxoplasmosis'}]
+step1
+A 44-year-old man presents to a clinic for the evaluation of difficulty swallowing for the past few days. He says that he has noticed progressively worsening chest pain when he attempts to swallow solids or liquids. He works from a home office, has not had any recent sick contacts, and is currently not sexually active. His medical history includes AIDS. His current medications include emtricitabine, rilpivirine, and tenofovir. His temperature is 38.1°C (100.6°F),  pulse is 72/min, respirations are 18/min, and blood pressure is 136/84 mm Hg. A physical examination is notable for a dry mouth with red mucosa and no distinct plaques or patches, and a supple neck with no masses or cervical lymphadenopathy. An esophagogastroduodenoscopy shows small white patches within the esophageal lumen. A biopsy of one of the lesions is performed and the microscopic appearance of the finding is shown below. Which of the following is the most likely diagnosis?
+answer:C
+Esophageal candidiasis
+[{'key': 'A', 'value': 'Cytomegalovirus esophagitis'}, {'key': 'B', 'value': 'Eosinophilic esophagitis'}, {'key': 'C', 'value': 'Esophageal candidiasis'}, {'key': 'D', 'value': 'Herpes esophagitis'}, {'key': 'E', 'value': 'Medication-induced esophagitis'}]
+step1
+A 42-year-old man who recently immigrated from Mexico presents to the clinic with fever, a productive cough streaked with blood, back pain, and night sweats. He was found to be HIV-positive 3 years ago but does not know his most recent CD4+ count. With further questioning, the patient notes that he had previously experienced these symptoms when he was in Mexico, but he has no recollection of taking any treatment. Which of the following characteristics would best describe the histology of a lung biopsy specimen obtained from this patient?
+answer:C
+Epithelioid cells surrounded by multinucleated giant cells and lymphocytes
+[{'key': 'A', 'value': 'Cells with increased nuclear-to-cytoplasmic ratio'}, {'key': 'B', 'value': 'Cellular debris and macrophages followed by cystic spaces and cavitation'}, {'key': 'C', 'value': 'Epithelioid cells surrounded by multinucleated giant cells and lymphocytes'}, {'key': 'D', 'value': 'Macrophage filled with fungal microorganisms'}, {'key': 'E', 'value': 'Noncaseating granuloma'}]
+step1
+A 41-year-old African American woman presents to her primary care physician with a 3-week history of lower extremity edema and shortness of breath. She says that she has also noticed that she gets fatigued more easily and has been gaining weight. Her past medical history is significant for sickle cell disease and HIV infection for which she is currently taking combination therapy. Physical exam is significant for periorbital and lower extremity edema. Laboratory testing is significant for hypoalbuminemia, and urinalysis demonstrates 4+ protein. Which of the following would most likely be seen on kidney biopsy in this patient?
+answer:D
+Segmental scarring
+[{'key': 'A', 'value': 'Birefringence under polarized light'}, {'key': 'B', 'value': 'Normal glomeruli'}, {'key': 'C', 'value': 'Expansion of the mesangium'}, {'key': 'D', 'value': 'Segmental scarring'}, {'key': 'E', 'value': 'Subepithelial deposits'}]
+step1
+A 28-year-old primigravid woman at 38 weeks' gestation is brought to the emergency department in active labor. She has not had regular prenatal care. She has a history of HIV infection but is not currently on antiretroviral therapy. Her previous viral load is unknown. Treatment with intravenous zidovudine is begun to reduce perinatal transmission of the virus. Which of the following processes is most likely affected by this drug?
+answer:D
+Elongation of viral DNA
+[{'key': 'A', 'value': 'Integration of viral genome'}, {'key': 'B', 'value': 'Action of viral RNA polymerase'}, {'key': 'C', 'value': 'Cleavage of viral polypeptides'}, {'key': 'D', 'value': 'Elongation of viral DNA'}, {'key': 'E', 'value': 'Fusion of virus with T cells'}]
+step1
+A 24-year-old G2P1 woman at 39 weeks’ gestation presents to the emergency department complaining of painful contractions occurring every 10 minutes for the past 2 hours, consistent with latent labor. She says she has not experienced vaginal discharge, bleeding, or fluid leakage, and is currently taking no medications. On physical examination, her blood pressure is 110/70 mm Hg, heart rate is 86/min, and temperature is 37.6°C (99.7°F). She has had little prenatal care and uses condoms inconsistently. Her sexually transmitted infections status is unknown. As part of the patient’s workup, she undergoes a series of rapid screening tests that result in the administration of zidovudine during delivery. The infant is also given zidovudine to reduce the risk of transmission. A confirmatory test is then performed in the mother to confirm the diagnosis of HIV. Which of the following is most true about the confirmatory test?
+answer:E
+It is an HIV-1/HIV2 antibody differentiation immunoassay
+[{'key': 'A', 'value': 'It determines the genotype of the virus'}, {'key': 'B', 'value': 'It is a Southwestern blot, identifying the presence of DNA-binding proteins'}, {'key': 'C', 'value': 'It is a Northern blot, identifying the presence of RNA'}, {'key': 'D', 'value': 'It is a Northern blot, identifying the presence of DNA'}, {'key': 'E', 'value': 'It is an HIV-1/HIV2 antibody differentiation immunoassay'}]
+step1
+A 24-year-old G2P1 woman at 39 weeks’ gestation presents to the emergency department complaining of painful contractions occurring every 10 minutes for the past 2 hours, consistent with latent labor. She says she has not experienced vaginal discharge, bleeding, or fluid leakage, and is currently taking no medications. On physical examination, her blood pressure is 110/70 mm Hg, heart rate is 86/min, and temperature is 37.6°C (99.7°F). She has had little prenatal care and uses condoms inconsistently. Her sexually transmitted infections status is unknown. As part of the patient’s workup, she undergoes a series of rapid screening tests that result in the administration of zidovudine during delivery. The infant is also given zidovudine to reduce the risk of transmission. A confirmatory test is then performed in the mother to confirm the diagnosis of HIV. Which of the following is most true about the confirmatory test?
+answer:E
+It is an HIV-1/HIV2 antibody differentiation immunoassay
+[{'key': 'A', 'value': 'It determines the genotype of the virus'}, {'key': 'B', 'value': 'It is a Southwestern blot, identifying the presence of DNA-binding proteins'}, {'key': 'C', 'value': 'It is a Northern blot, identifying the presence of RNA'}, {'key': 'D', 'value': 'It is a Northern blot, identifying the presence of DNA'}, {'key': 'E', 'value': 'It is an HIV-1/HIV2 antibody differentiation immunoassay'}]
+step1
+A 3-month-old boy presents to his pediatrician with persistent diarrhea, oral candidiasis, and signs and symptoms suggestive of respiratory syncytial virus (RSV) pneumonia. His weight is in the 10th percentile. He is being evaluated for an immunodeficiency disease. Laboratory results for the HIV are negative by PCR. Which of the following is the most likely cause of these findings in this patient?
+answer:A
+Defective T cell function
+[{'key': 'A', 'value': 'Defective T cell function'}, {'key': 'B', 'value': 'Grossly reduced levels of B cells'}, {'key': 'C', 'value': 'An X-linked inheritance of HLA genes'}, {'key': 'D', 'value': 'Defective isotype switching'}, {'key': 'E', 'value': 'Selective IgA deficiency'}]
+step1
+A medical researcher is studying the physiology of the immune system in order to better understand the effects of HIV on patients. He isolates a group of cells that are shown by flow cytometry to be positive for the cell surface marker CD8. He then mixes this cell population with a group of infected cells, crosslinks extracellular interactions, and immunoprecipitates the CD8 protein. He identifies a protein bound to CD8 that is composed of two chains from an adjacent cell. Which of the following best describes the primary function of the protein that was most likely identified?
+answer:C
+Binds endogenous peptides that have been transported by the TAP channel
+[{'key': 'A', 'value': 'Binds complement proteins on the cell surface'}, {'key': 'B', 'value': 'Binds endogenous peptides that are present in the endosome'}, {'key': 'C', 'value': 'Binds endogenous peptides that have been transported by the TAP channel'}, {'key': 'D', 'value': 'Binds exogenous peptides that are present in the endosome'}, {'key': 'E', 'value': 'Binds exogenous peptides that have been transported by the TAP channel'}]
+step1
+A 32-year-old man with HIV infection is brought to the emergency department by his roommate because of a 2-week history of progressively worsening headache and vomiting. Current medications include trimethoprim-sulfamethoxazole, dolutegravir, and tenofovir-emtricitabine. His temperature is 38.5°C (101.3°F). Physical examination shows nuchal rigidity. Kernig and Brudzinski signs are present. A lumbar puncture is performed and shows an opening pressure of 32 cm H2O (N: < 20). The pathogen isolated from the cerebrospinal fluid (CSF) can be cultured on Sabouraud agar. Further evaluation of this patient's CSF is most likely to show which of the following additional findings?
+answer:A
+Positive latex agglutination test
+[{'key': 'A', 'value': 'Positive latex agglutination test'}, {'key': 'B', 'value': 'Positive PCR for HSV-2 DNA'}, {'key': 'C', 'value': 'Presence of tachyzoites'}, {'key': 'D', 'value': 'Increased adenosine deaminase concentration'}, {'key': 'E', 'value': 'Positive PCR for JC virus DNA'}]
+step1
+A clinical researcher is interested in creating a new drug for HIV patients. Darunavir has been particularly efficacious in recent patients; however, some have experienced an increased incidence of hyperglycemia. A new drug called DN501 is developed with the same mechanism of action as darunavir but fewer side effects. Which of the following is the mechanism of action of DN501?
+answer:B
+Inhibits viral assembly
+[{'key': 'A', 'value': 'Prevents viral transcription'}, {'key': 'B', 'value': 'Inhibits viral assembly'}, {'key': 'C', 'value': 'Inhibits integration of viral genome into the host cell'}, {'key': 'D', 'value': 'Inhibits viral entry'}, {'key': 'E', 'value': 'Prevents T-cell binding'}]
+step1
+A 42-year-old man with AIDS comes to the physician for intermittent fever, nonproductive cough, malaise, decreased appetite, abdominal pain, and a 3.6-kg (8-lb) weight loss over the past month. He has not seen a doctor since he became uninsured 2 years ago. His temperature is 38.3°C (100.9°F). Abdominal examination shows mild, diffuse tenderness throughout the lower quadrants. The liver is palpated 2–3 cm below the right costal margin, and the spleen is palpated 1–2 cm below the left costal margin. His CD4+ T-lymphocyte count is 49/mm3 (N ≥ 500 mm3). Blood cultures grow acid-fast organisms. A PPD skin test shows 4 mm of induration. Which of the following is the most appropriate pharmacotherapy for this patient's condition?
+answer:D
+Azithromycin and ethambutol
+[{'key': 'A', 'value': 'Voriconazole'}, {'key': 'B', 'value': 'Amphotericin B and itraconazole'}, {'key': 'C', 'value': 'Erythromycin'}, {'key': 'D', 'value': 'Azithromycin and ethambutol'}, {'key': 'E', 'value': 'Rifampin and isoniazid'}]
+step1
+A 27-year-old HIV positive female gave birth to a 7lb 2oz (3.2 kg) baby girl. The obstetrician is worried that the child may have been infected due to the mother's haphazard use of her anti-retroviral medications. Which of the following assays would a hospital use detect the genetic material of HIV if the child had been infected?
+answer:D
+Polymerase chain reaction
+[{'key': 'A', 'value': 'Enzyme-linked immunosorbent assay (ELISA)'}, {'key': 'B', 'value': 'Western blot'}, {'key': 'C', 'value': 'Rapid HIV antibody test'}, {'key': 'D', 'value': 'Polymerase chain reaction'}, {'key': 'E', 'value': 'Southern blot'}]
+step1
+A group of researchers wants to evaluate how often the human immunodeficiency virus (HIV) is related to high-risk behaviors in female sex workers from their country. An additional aim is to evaluate the association between HIV acquisition and certain sociodemographic factors. The researchers collect data through interviewer-administered questionnaires (for behavioral and sociodemographic data) as well as through clinical and serological evaluation/screening methods for HIV and other sexually transmitted infections. Which of the following could be the main outcome measure of their study?
+answer:B
+Prevalence
+[{'key': 'A', 'value': 'Incidence'}, {'key': 'B', 'value': 'Prevalence'}, {'key': 'C', 'value': 'Hazard rate'}, {'key': 'D', 'value': 'Relative risk'}, {'key': 'E', 'value': 'Attributable risk'}]
+step1
+A 34-year-old man currently staying at an addiction center presents to the staff psychiatrist with diarrhea and painful muscle cramps. He has been discontinuing heroin over the last month as part of his treatment plan. He is HIV positive, hepatitis B (HBV) positive, and was recently treated for an infection with Streptococcus pneumoniae. He reports pain over his abdomen, knees, and shoulder. To comprehensively treat these symptoms, which of the following would be the best therapy?
+answer:A
+Methadone
+[{'key': 'A', 'value': 'Methadone'}, {'key': 'B', 'value': 'Naloxone'}, {'key': 'C', 'value': 'Alvimopan'}, {'key': 'D', 'value': 'Morphine'}, {'key': 'E', 'value': 'Loperamide'}]
+step1
+A 40-year-old man presents to the clinic with complaints of increased bilateral pain in his knees. The pain developed over time and now limits his mobility. He states that the pain is worse at the end of the day, though he does have some early-morning stiffness lasting about 20 minutes. He used to have some success with over-the-counter NSAIDs; however, they no longer help. The patient also has been taking metformin for the past 2 years and is severely obese, with a BMI of 41 kg/m2. Additionally, he states that he has felt increasingly tired during the day, often dozes off during work, and no longer feels refreshed when he wakes up in the morning. Upon examination, there is no tenderness on palpation or erythema; however, some crepitus is felt. He has no other complaints but has a family history of rheumatoid arthritis (RA) on his mother’s side. Which of the following factors is the underlying cause of the patient’s pain, as well as the rest of his complaints?
+answer:C
+Excess weight
+[{'key': 'A', 'value': 'Autoimmune disease'}, {'key': 'B', 'value': 'Medication side effect'}, {'key': 'C', 'value': 'Excess weight'}, {'key': 'D', 'value': 'Infection'}, {'key': 'E', 'value': 'Occult malignancy'}]
+step1
+A 30-year-old male presents to his primary care physician complaining of infertility. He and his wife have been trying to get pregnant for the past two years. They have used fertility monitors and other aids without success. A hysterosalpingogram in his wife was normal. The patient has a history of cleft lip and recurrent upper respiratory infections as a child. He was briefly hospitalized for severe pneumonia when he was 9-years-old. His temperature is 98.6°F (37°C), blood pressure is 120/85 mmHg, pulse is 90/min, and respirations are 18/min. On examination, he is a healthy-appearing male in no acute distress with fully developed reproductive organs. Notably, cardiac auscultation is silent in the left 5th intercostal space at the midclavicular line. This patient most likely has a mutation in which of the following classes of proteins?
+answer:D
+Retrograde cytoskeletal motor protein
+[{'key': 'A', 'value': 'Microtubule monomeric protein'}, {'key': 'B', 'value': 'Lysosomal trafficking regulator protein'}, {'key': 'C', 'value': 'Transmembrane ion channel protein'}, {'key': 'D', 'value': 'Retrograde cytoskeletal motor protein'}, {'key': 'E', 'value': 'Anterograde cytoskeletal motor protein'}]
+step1
+A 46-year-old woman with a history of previously well-controlled HIV infection comes to the physician for follow-up after a health maintenance examination last week. She is currently unemployed and lives in a low-income neighborhood with her 3 children. For the past 3 years, her HIV RNA viral load was undetectable, but last week, her viral load was 8,391 copies/mL (N < 50). Current medications include dolutegravir, tenofovir, and emtricitabine. On questioning, she says that she misses her medications every other day. Which of the following responses by the physician is most appropriate?
+answer:A
+"""""""Let's talk about what makes it difficult for you to take your medications."""""""
+"[{'key': 'A', 'value': '""""""Let\'s talk about what makes it difficult for you to take your medications.""""""'}, {'key': 'B', 'value': '""""""Are you aware that it is essential to take your medications every day?""""""'}, {'key': 'C', 'value': '""""""You should know that skipping doses will make your HIV harder to treat.""""""'}, {'key': 'D', 'value': '""""""The social worker can help subsidize next month\'s medications.""""""'}, {'key': 'E', 'value': '""""""We should go over the instructions on how to take your medications again.""""""'}]"
+step1
+A 10-year-old girl is brought to a clinic by her parents after 1 week of difficulty breathing, dry cough, and low-grade fevers. She has also developed shallow erythematous ulcers inside of her mouth. There is no history of chills, rigors, or headaches. Her appetite has decreased. The girl has been HIV-positive since birth and is being treated with HAART. Her baseline viral load is <50/mL. On general examination, the girl appears ill. Diffuse inspiratory crackles are heard on chest auscultation with normal heart sounds. No lymphadenopathy or hepatosplenomegaly is noted on physical examination. A blood sample is drawn, which shows a CD4 count of 100/mm3 and a viral load of 25,050/mL. What is the most likely mechanism responsible for the lack of responsiveness to therapy?
+answer:D
+pol gene mutation
+[{'key': 'A', 'value': 'Ineffective CD8 cytotoxicity'}, {'key': 'B', 'value': 'gag gene mutation'}, {'key': 'C', 'value': 'env gene mutation'}, {'key': 'D', 'value': 'pol gene mutation'}, {'key': 'E', 'value': 'Decreased viral replication'}]
+step1
+A 34-year-old woman presents to the emergency room with a fever. She developed worsening malaise and diaphoresis over the past 48 hours. Her maximum temperature was 102°F (38.9°C) taken the night before presentation. Her past medical history is notable for major depressive disorder, obesity, fibromyalgia, and severe tension headaches. She previously took paroxetine for a 2-month trial but switched to citalopram 6 months ago as she did not feel like paroxetine was adequately helping her symptoms. Her mood has been stable on her current dose of citalopram. She takes ibuprofen for her headaches but previously borrowed a friend’s headache medication when her headaches became very severe. Of note, she has been trying to lose weight and recently started taking an amino acid supplement at the suggestion of her nephew who is a nutritionist. She is also trying out a new low-carbohydrate diet. She works as a nurse at a local primary care clinic. Her temperature is 101.5°F (38.6°C), blood pressure is 144/80 mmHg, pulse is 108/min, and respirations are 22/min. She is diaphoretic and shivering. Patellar and brachioradialis reflexes are 3+ bilaterally. Tone is increased in her bilateral upper and lower extremities. Rapid dorsiflexion of her right ankle elicits 3 beats of clonus. Pupils are equally round and reactive to light. A basic metabolic panel is within normal limits. Which of the following is the most likely inciting factor for this patient’s condition?
+answer:B
+Increased tryptophan intake
+[{'key': 'A', 'value': 'Decreased carbohydrate intake'}, {'key': 'B', 'value': 'Increased tryptophan intake'}, {'key': 'C', 'value': 'Medication change'}, {'key': 'D', 'value': 'Surreptitious diuretic abuse'}, {'key': 'E', 'value': 'Surreptitious opiate abuse'}]
+step1
+"A 33-year-old woman presents to the clinic for follow-up of her AIDS treatment with highly active anti-retroviral therapy (HAART). She is in good spirits and has been fully compliant with her medications and clinic visits. Other medications include prophylactic co-trimoxazole. Recent blood studies show the following:
+Hemoglobin (Hb%)  11 g/dL
+Mean corpuscular volume (MCV)  80 fl
+Reticulocyte count 0.5%
+Erythrocyte count 2 x 106/mm3
+Leucocyte count 700/mm3
+Neutrophils 40%
+Platelet count 20,000/mm3
+Assays also show a decreased viral DNA and mRNA burden, as well as a significantly diminished viral load. To avoid modifying the effective anti-retroviral therapy, she is started on a ‘blood improving’ medication. Thirty minutes after the first dose, the patient develops difficulty breathing, severe muscle pain, and vomiting. Her pulse rate is 120/min and the blood pressure is 80/50 mm Hg. Which of the following medications was most likely administered to the patient?"
+answer:D
+Sargramostim
+[{'key': 'A', 'value': 'Filgrastim'}, {'key': 'B', 'value': 'Interleukin 3'}, {'key': 'C', 'value': 'Platelet-derived growth factor'}, {'key': 'D', 'value': 'Sargramostim'}, {'key': 'E', 'value': 'Thrombopoietin'}]
+step1
+A 47-year-old man with a history of HIV1 infection presents to his HIV clinic to discuss his antiretroviral medications. He is interested in including maraviroc in his maintenance regimen after seeing advertisements about the medication. On exam, his temperature is 98.8°F (37.1°C), blood pressure is 116/74 mmHg, pulse is 64/min, and respirations are 12/min. His viral load is undetectable on his current regimen, and his blood count, electrolytes, and liver function tests have all been within normal limits. In order to consider maraviroc for therapy, a tropism assay needs to be performed. Which of the following receptors is affected by the use of maraviroc?
+answer:B
+gp120
+[{'key': 'A', 'value': 'gp41'}, {'key': 'B', 'value': 'gp120'}, {'key': 'C', 'value': 'gp160'}, {'key': 'D', 'value': 'p24'}, {'key': 'E', 'value': 'Reverse transcriptase'}]
+step1
+A 45-year-old man presents to his primary care provider for two weeks of low-grade fever and sore throat. Upon further questioning, the patient is found to have unprotected sex with both men and women with 3-5 partners per month. On workup, he is found to have an HIV viral load of 15,000 copies/mL with a CD4+ of 170 cells/mm^3. He is started on medical therapy. What should be included in his medication regimen?
+answer:D
+Folinic acid
+[{'key': 'A', 'value': 'Azithromycin'}, {'key': 'B', 'value': 'Dapsone'}, {'key': 'C', 'value': 'Fluconazole'}, {'key': 'D', 'value': 'Folinic acid'}, {'key': 'E', 'value': 'Tetrahydrofolic acid'}]
+step1
+A 32-year-old man with HIV comes to the physician because of a 2-month history of weight loss, night sweats, and productive cough. Auscultation of the lungs shows coarse crackles at the right upper posterior field. An x-ray of the chest shows an opacity in the right upper lobe. Sputum analysis shows acid-fast bacilli. A small amount of tuberculin fluid is injected into the subcutaneous tissue on the left forearm. Examination of the injected area 48 hours later shows no induration or erythema. Impairment of which of the following processes is the most likely cause of the negative tuberculin skin test seen in this patient?
+answer:B
+Interaction of B7 and CD28 ligands
+[{'key': 'A', 'value': 'Secretion of interferon-α'}, {'key': 'B', 'value': 'Interaction of B7 and CD28 ligands'}, {'key': 'C', 'value': 'Opsonization by complement proteins'}, {'key': 'D', 'value': 'Secretion of interleukin-4'}, {'key': 'E', 'value': 'Generation of reactive oxygen species'}]
+step1
+A 51-year-old man presents to his primary care provider complaining of fatigue, weight loss, and intermittent fevers for the past 6 months. He has had sexual intercourse with multiple men and women over the past year and does not use barrier protection. His last screen for sexually transmitted diseases was 10 years ago and was normal. His past medical history is notable for well-controlled asthma. He was involved in a motorcycle accident 2 years ago and suffered multiple fractured bones in his upper and lower extremities, all of which have healed. He has a distant history of cocaine abuse. He drinks 5-6 glasses of wine per week. His temperature is 100.8°F (38.2°C), blood pressure is 130/75 mmHg, pulse is 85/min, and respirations are 20/min. On examination, he appears cachectic but is pleasant and appropriately interactive. An HIV differentiation assay and follow-up Western blot are performed and are positive. The patient is started on tenofovir, abacavir, and efavirenz. However, the patient develops a hypersensitivity reaction to abacavir, so the decision is made to replace this medication with ritonavir. Which of the following adverse effects is this patient at greatest risk for as a result of this change in medication regimen?
+answer:B
+Lipodystrophy
+[{'key': 'A', 'value': 'Hepatotoxicity'}, {'key': 'B', 'value': 'Lipodystrophy'}, {'key': 'C', 'value': 'Megaloblastic anemia'}, {'key': 'D', 'value': 'Myelosuppression'}, {'key': 'E', 'value': 'Peripheral neuropathy'}]
+step1
+A 37-year-old woman with an HIV infection comes to the physician for a follow-up examination. Six months ago, combined antiretroviral therapy consisting of dolutegravir, tenofovir, and emtricitabine was initiated. Laboratory studies show a decrease in the CD4 count and an increase in the viral load despite ongoing treatment. The patient is switched to a new treatment regimen, including a drug that acts by preventing viral DNA synthesis without undergoing intracellular phosphorylation. Which of the following is the most likely drug?
+answer:B
+Efavirenz
+"[{'key': 'A', 'value': 'Enfuvirtide'}, {'key': 'B', 'value': 'Efavirenz'}, {'key': 'C', 'value': 'Ritonavir'}, {'key': 'D', 'value': 'Raltegravir'}, {'key': 'E', 'value': 'Lamivudine\n""'}]"
+step1
+A 22-year old active duty soldier presents to your clinic with complaints of intense fatigue, fevers, abdominal pain, and a nonproductive cough. Her symptoms began a few days ago, but she returned from a tour of duty in Malawi and Mozambique four weeks ago. She endorses sleeping outside, using minimal bug spray, and swimming in rivers during her tour. On physical exam, her temperature is 101.5, and she appears exhausted. She has a hive-like rash scattered over her body. Her abdominal exam is notable for hepatosplenomegaly, and her lung exam is notable for scattered crackles. Her CBC with diff is remarkable for marked eosinophilia, and she has an elevated IgE. Of the following organisms, infection with which one is most consistent with her symptoms?
+answer:B
+Schistosoma mansoni
+[{'key': 'A', 'value': 'Plasmodium falciparum'}, {'key': 'B', 'value': 'Schistosoma mansoni'}, {'key': 'C', 'value': 'Plasmodium vivax'}, {'key': 'D', 'value': 'Mycobacterium tuberculosis'}, {'key': 'E', 'value': 'Trypanosoma brucei rhodesiense'}]
+step1
+A 40-year-old woman with HIV infection comes to the emergency department because of a 4-week history of progressively worsening fatigue and headache. On mental status examination, the patient is somnolent and oriented only to person. Her CD4+ lymphocyte count is 80/mm3 (N ≥ 500). Analysis of this patient's cerebrospinal fluid (CSF) shows a leukocyte count of 30/mm3 (60% lymphocytes), a protein concentration of 52 mg/dL, and a glucose concentration of 37 mg/dL. An India ink stain of the CSF is shown. Which of the following is the most appropriate pharmacotherapy for this patient's neurological symptoms?
+answer:D
+Amphotericin B and flucytosine
+[{'key': 'A', 'value': 'Pyrimethamine, sulfadiazine, and folinic acid'}, {'key': 'B', 'value': 'Isoniazid, rifampin, pyrazinamide, and ethambutol'}, {'key': 'C', 'value': 'Cefotaxime and ampicillin'}, {'key': 'D', 'value': 'Amphotericin B and flucytosine'}, {'key': 'E', 'value': 'Fluconazole'}]
+step1
+A 4-year-old boy is referred to the infectious disease clinic for recurrent pneumonia. Although he has had several previous hospital admissions and received multiple courses of antibiotic therapy, he continues to get sick. On his most recent hospital admission, the boy presented with mild fever, right-sided chest pain, and yellow-colored sputum. He had difficulty breathing and diminished breath sounds on the right side of the chest. A CT scan of the thorax revealed multiple right-sided ground-glass opacities. Sputum cultures grew Aspergillus galactomannan. The boy’s medical history is significant for neonatal sepsis and recurrent episodes of pyoderma and otitis media. His younger brother had recurrent purulent skin infections before he died of an otogenic brain abscess at the age of 2. His mother says that skin infections are common in the male members of her family. The patient’s HIV status is negative and his complete blood count, T cell and B cell counts, immunoglobulin profile, and complement tests are within normal limits. Which of the following is the next best step in the management of this patient?
+answer:C
+Dihydrorhodamine (DHR) test
+[{'key': 'A', 'value': 'CD4+ cell count'}, {'key': 'B', 'value': 'Bone marrow biopsy'}, {'key': 'C', 'value': 'Dihydrorhodamine (DHR) test'}, {'key': 'D', 'value': 'Flow cytometry for CD18+ cell deficiency'}, {'key': 'E', 'value': 'Adenosine deaminase levels'}]
+step1
+An investigator is studying an experimental treatment for HIV infection that inhibits the maturation of new HIV virions. Patients who are taking the drug are observed for several years and side effects are recorded. A correlation is established between the drug and the development of impaired glucose tolerance. In addition, a significant portion of the patients who take the drug for several years shows increased fat accumulation in the neck with loss of subcutaneous fat in the face and extremities. Which of the following processes is most likely targeted by this drug?
+answer:B
+Viral polypeptide cleavage
+[{'key': 'A', 'value': 'Viral entry into host cell'}, {'key': 'B', 'value': 'Viral polypeptide cleavage'}, {'key': 'C', 'value': 'Viral DNA integration into host DNA'}, {'key': 'D', 'value': 'Viral budding from host cells'}, {'key': 'E', 'value': 'Reverse transcription of viral RNA'}]
+step1
+A 57-year-old man with HIV and GERD comes to the emergency department because of productive cough with malodorous phlegm and night sweats for the past week. He has smoked 1 pack of cigarettes daily for 30 years and he drinks 8–10 beers daily. His temperature is 38.9°C (102.0°F). Physical examination shows coarse crackles and dullness to percussion at the right lung base. Scattered expiratory wheezing is heard throughout both lung fields. The CD4+ T-lymphocyte count is 280/mm3 (N ≥ 500). An x-ray of the chest is shown. Which of the following is the most likely cause of this patient's symptoms?
+answer:E
+Aspiration pneumonia
+[{'key': 'A', 'value': 'Bronchiectasis'}, {'key': 'B', 'value': 'Pneumocystis pneumonia'}, {'key': 'C', 'value': 'Adenocarcinoma in situ'}, {'key': 'D', 'value': 'Tuberculosis'}, {'key': 'E', 'value': 'Aspiration pneumonia'}]
+step1
+A 24-year-old medical student presents to urgent care with cough and rhinorrhea. He has been learning about HIV and immunosuppression in medical school, and he is worried that he is seriously ill. He has no significant medical history, and he is sexually active with his girlfriend. He consumes alcohol on weekends but does not use tobacco or other recreational drugs. He candidly reports that, in microbiology lab, he cultured his own sputum on Sabouraud agar, and Candida grew on the agar. Examination of the oropharynx does not show any abnormalities. You perform a nasal viral swab, which confirms that he has a rhinovirus infection. Which of the following is the most likely explanation for his positive Candida culture?
+answer:E
+Benign Candida colonization
+[{'key': 'A', 'value': 'HIV virus infection'}, {'key': 'B', 'value': 'Squamous oral cancer'}, {'key': 'C', 'value': 'Xerostomia'}, {'key': 'D', 'value': 'Surreptitious drug use'}, {'key': 'E', 'value': 'Benign Candida colonization'}]
+step1
+"An 8-month-old boy is brought to the office by his mother for recurrent infections. Over the past 2 months, the boy had multiple visits to the urgent care clinic for respiratory, ear, and skin infections. His mother is concerned about the health of her child. Currently, the child had a runny nose for the last 2 days. There is no fever but the mother adds that the boy is not eating very well. His mother denies any history of infection during her pregnancy and was tested negative for HIV. The patient’s heart rate is 90/min, respiratory rate is 14/min, and temperature is 36.7°C (98.0°F). On physical exam, there are decreased lung sounds in the left lower lobe. A chest X-ray reveals an absent thymic shadow and fails to show any lung pathology. There is no history of similar symptoms in the families of either parent. What is the most likely cause of this patient’s condition?
+ "
+answer:A
+Adenosine deaminase deficiency
+[{'key': 'A', 'value': 'Adenosine deaminase deficiency'}, {'key': 'B', 'value': 'Hypoxanthine-guanine phosphoribosyl transferase (HGPRT) deficiency'}, {'key': 'C', 'value': 'HIV infection'}, {'key': 'D', 'value': 'Purine nucleoside phosphorylase deficiency'}, {'key': 'E', 'value': 'Adenosine kinase deficiency'}]
+step1
+A 37-year-old man presents to the emergency department with acute loss of vision, slurred speech, and agitation. Past medical history is significant for HIV and hepatitis C, diagnosed 10 years ago for which he is non-compliant with medication. A T1 MRI of the brain shows asymmetric, hypointense white matter lesions. Which of the following pathogens is most likely responsible for this patient’s opportunistic infection?
+answer:D
+JC virus
+[{'key': 'A', 'value': 'Mycobacterium avium complex'}, {'key': 'B', 'value': 'Herpes virus 8'}, {'key': 'C', 'value': 'Candida albicans'}, {'key': 'D', 'value': 'JC virus'}, {'key': 'E', 'value': 'Pneumocystis jirovecii'}]
+step1
+A 52-year-old woman presents to her primary care physician because she has been feeling pain in her right leg. Specifically, she says that an area on her right thigh has been feeling tender and swollen over the past few weeks. Her past medical history is significant for obesity, poorly controlled diabetes, and hypertension. She also has been taking estrogen replacement therapy and drinking alcohol to cope with her symptoms of menopause. Her family history is significant for cardiomyopathy. On physical exam, there is erythema and edema along a cord-like lesion in her thigh. This lesion feels thick and hardened on palpation and is tender to the touch. She is started on compression therapy as well as NSAIDs for pain management. Which of the following characteristics of this patient most likely increased her risk for this disorder?
+answer:D
+Estrogen therapy
+[{'key': 'A', 'value': 'Alcohol use'}, {'key': 'B', 'value': 'Cardiomyopathy'}, {'key': 'C', 'value': 'Diabetes'}, {'key': 'D', 'value': 'Estrogen therapy'}, {'key': 'E', 'value': 'Hypertension'}]
+step1
+"A 37-year-old homeless man is brought in by ambulance to the emergency department after being found unresponsive. He was found in an area of IV drug use with drug paraphernalia including glassine envelopes with a white powder residue. There is no past medical history available. He is treated with intranasal naloxone and stabilized in the field. Upon arrival to the hospital, his blood pressure is 100/70 mm Hg, pulse rate is 90/min, respiratory rate is 18/min, and temperature is 38.9°C (102.0°F). On physical examination, the patient is jaundiced with white scrapable exudates on the oral mucosa. His arms are covered with stigmata of IV drug use. Heart auscultation reveals a holosystolic murmur that is loudest at the left sternal border. The lungs are clear to auscultation bilaterally. Laboratory work is performed which shows:
+Hemoglobin 10.9 g/dL
+Hematocrit 37.7%
+Leukocyte count 1,500/mm3
+Neutrophils 65%
+Lymphocytes 30%
+Monocytes 5%
+Mean corpuscular volume 82.2 μm3
+Platelet count 190,000/mm3
+Erythrocyte sedimentation rate 35 mm/h
+Aspartate aminotransferase 2,400 U/L
+Alanine aminotransferase 3,200 U/L
+CD4 count 27 cells/mm3
+HIV-1 antibody positive
+Hepatitis C virus antibody positive
+Quantiferon-gold test negative
+Which of the laboratory findings will be found in this patient?"
+answer:B
+Positive blood culture
+[{'key': 'A', 'value': 'Atypical lymphocytes on blood smear'}, {'key': 'B', 'value': 'Positive blood culture'}, {'key': 'C', 'value': 'Elevated antistreptolysin O (ASO) titer'}, {'key': 'D', 'value': 'Elevated levels of cardiac troponin I and T'}, {'key': 'E', 'value': 'Positive sputum culture'}]
+step1
+An investigator is conducting an experiment to develop a new drug against HIV infection. HIV-infected and uninfected CD4 T-cell lines are mixed in-vitro with a chemically modified synthetic peptide triazole complex. The complex is found to have a high binding affinity to the gp120 protein, irreversibly inhibiting its function and reducing CD4 T cell infection. Inhibition of which of the following steps of HIV infection is the most likely therapeutic effect of this experimental drug?
+answer:E
+Attachment to host CD4 T-cells
+[{'key': 'A', 'value': 'Incorporation of viral genome into host cell DNA'}, {'key': 'B', 'value': 'Transcription of the viral genome'}, {'key': 'C', 'value': 'Fusion and entry into CD4 T-cells'}, {'key': 'D', 'value': 'Assembly of viral particles'}, {'key': 'E', 'value': 'Attachment to host CD4 T-cells'}]
+step1
+A 32-year-old man presents with epigastric gnawing pain occurring after meals. Occasionally, dull pain awakens him at night. He also complains of bloating and occasional constipation. He has been having these symptoms for almost 2 years and uses antacids and castor oil for relief. Recently, he began to note that these remedies provide less relief than in the past. He reports no significant weight loss, night sweats, or a change in stool color. He has no family history of peptic ulcer disease or gastrointestinal malignancies. The patient does not smoke cigarettes but drinks alcohol occasionally. He rarely uses NSAIDs for symptomatic treatment. His blood pressure is 120/80 mm Hg, heart rate is 85/min, respiratory rate is 14/min, and temperature is 36.6°C (97.9°F). A physical examination revealed epigastric tenderness on palpation and the abdomen was distended. A urea breath test was performed, which was positive. Which of the following statements regarding the test results in this patient is true?
+answer:D
+The causative agent possesses urease; thus, it is possible to detect urease by giving the patient urea with labeled C-14 orally and then measuring the carbon dioxide content in the exhaled breath.
+[{'key': 'A', 'value': 'The test detected increased ammonia content in the patient’s exhaled breath with qualitative tests for ammonia detection.'}, {'key': 'B', 'value': 'The test detected products of increased cellular breakdown by the causative agent induced by urea ingestion.'}, {'key': 'C', 'value': 'The causative agent possesses urease; thus, it is possible to detect urease by giving the patient urease with labeled N-14 orally and then measuring the ammonia content in the exhaled breath.'}, {'key': 'D', 'value': 'The causative agent possesses urease; thus, it is possible to detect urease by giving the patient urea with labeled C-14 orally and then measuring the carbon dioxide content in the exhaled breath.'}, {'key': 'E', 'value': 'The causative agent possesses urease; thus, it is possible to detect urease by giving the patient urease and then measuring the pH of the exhaled breath to determine whether or not there was an increased breakdown of ammonia.'}]
+step1
+A 52-year-old woman comes to the physician because of a 4-day history of painful swallowing and retrosternal pain. She was diagnosed with HIV infection 2 months ago; her medications include tenofovir, emtricitabine, and raltegravir. Vital signs are within normal limits. Physical examination of the oral cavity shows no abnormalities. The patient's CD4+ T-lymphocyte count is 70/mm3 (N ≥ 500). Empiric treatment is started. Two weeks later, she reports no improvement in symptoms. Esophagogastroduodenoscopy is performed and shows multiple round superficial ulcers in the distal esophagus. Which of the following is the most likely underlying cause of this patient's symptoms?
+answer:D
+Infection with herpes simplex virus
+[{'key': 'A', 'value': 'Adverse effect of medication'}, {'key': 'B', 'value': 'Degeneration of ganglion cells within the myenteric plexuses'}, {'key': 'C', 'value': 'Eosinophilic esophageal infiltrate'}, {'key': 'D', 'value': 'Infection with herpes simplex virus'}, {'key': 'E', 'value': 'Infection with Candida species'}]
+step1
+A 26-year-old man presents to the office complaining of persistent back pain for the past 3 months. You saw the patient previously and prescribed NSAIDs and rest, but he has not improved. The patient states that his maternal grandfather had ‘back problems his whole life’, and he worries that he might have the same issues. An X-ray is performed and shows squaring of the vertebrae with longitudinal fibrous bands. What is the most likely diagnosis?
+answer:D
+Ankylosing spondylitis
+[{'key': 'A', 'value': 'Scoliosis'}, {'key': 'B', 'value': 'Ehlers-Danlos syndrome'}, {'key': 'C', 'value': 'Osteosarcoma'}, {'key': 'D', 'value': 'Ankylosing spondylitis'}, {'key': 'E', 'value': 'Osteopetrosis'}]
+step1
+A 34-year-old man comes to the physician for a follow-up appointment. He was diagnosed with HIV 6 years ago and has been on highly active antiretroviral therapy with emtricitabine, tenofovir, and darunavir. He reports that he has been compliant with his medication regimen. His last CD4+ T-lymphocyte count was 520/mm3 (N > 500) and HIV viral load was undetectable. Today, his CD4+ T-lymphocyte count is 410/mm3 and his HIV viral load is 240 copies/mL. Further evaluation shows resistance to emtricitabine and tenofovir. Mutations in which of the following genes are most likely responsible for these findings?
+answer:B
+pol
+[{'key': 'A', 'value': 'tat'}, {'key': 'B', 'value': 'pol'}, {'key': 'C', 'value': 'rev'}, {'key': 'D', 'value': 'gag'}, {'key': 'E', 'value': 'env'}]
+step1
+A 36-year-old female presents with a 6-month history of stiffness in her joints. She reports bilateral knee pain that is worse in the morning prior to activity and stiffness of the fingers in both hands. Anti-CCP antibody tests are positive. Over several months, the patient's symptoms prove unresponsive to NSAIDs and methotrexate, and the decision is made to begin infliximab. Which of the following drugs has the most similar mechanism to inflixmab?
+answer:D
+Trastuzumab
+[{'key': 'A', 'value': 'Imatinib'}, {'key': 'B', 'value': 'Indomethacin'}, {'key': 'C', 'value': 'Cyclophosphamide'}, {'key': 'D', 'value': 'Trastuzumab'}, {'key': 'E', 'value': 'Allopurinol'}]

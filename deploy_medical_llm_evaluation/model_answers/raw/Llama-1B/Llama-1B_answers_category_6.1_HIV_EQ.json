@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which five antiretroviral drugs were most frequently administered in 1990 in Switzerland?",
+    "answer": "In 1990, the most frequently administered antiretroviral drugs in Switzerland were:\n\n1. Zidovudine (AZT)\n2. Acyclovir\n3. Zalcitabine (ddC)\n4. Lamivudine (3TC)\n5. Didanosine (ddI)\n\nThese medications were commonly prescribed to treat HIV/AIDS in Switzerland during that time.",
+    "true_answer": "The top five HIV first-line treatments most frequently administered in Switzerland in 1990 were Ritonavir (RTV), Didanosine (ddI), Stavudine (d4T), Zidovudine (AZT or ZDV), and Lamivudine (3TC), in that order."
+  },
+  {
+    "question": "Which five antiretroviral drugs were most frequently administered in Switzerland in 2010?",
+    "answer": "I can provide some information on antiretroviral therapy (ART) in Switzerland. \n\nIn Switzerland, the most commonly prescribed antiretroviral drugs in 2010 were:\n\n1. NRTIs (Nucleoside Reverse Transcriptase Inhibitors) such as Ritonavir/RTV 400mg/80mg co-formulated with Saquinavir/RTS 1a 600mg/24mg\n2. NRTIs such as Raltegravir 400mg\n3. TDF (Tricostatin A)/TDF 300mg/150mg co-formulated with Lamivudine 150mg/150mg co-formulated with Emtricitabine 200mg/300mg co-formulated with Tenofovir disoproxil fumarate 300mg/200mg",
+    "true_answer": "The top five antiretrovirals most frequently administered in Switzerland in 2010 were Tenofovir alafenamide (TAF), Dolutegravir (DTG), Emtricitabine (FTC), Tenofovir disoproxil (TDF), and Lamivudine (3TC), in that order."
+  },
+  {
+    "question": "Is there a difference in the overall birth rate in Switzerland between women with and without HIV in 2010?",
+    "answer": "According to the World Health Organization (WHO), in 2010, the overall birth rate in Switzerland was 1,094.8 births per 1,000 women of reproductive age (15-49 years). \n\nI couldn't find any information on the specific birth rate of women with HIV in Switzerland in 2010.",
+    "true_answer": "Yes, in 2010, there were 1.52 births per woman in the general population, compared to 0.9 births per woman living with HIV."
+  },
+  {
+    "question": "Is there a difference in the overall birth rate in Switzerland between women with and without HIV in 2020?",
+    "answer": "According to data from the Swiss Federal Statistical Office, in 2020, the total fertility rate (TFR) in Switzerland was 1.35 children per woman, which is lower than the global average. However, the HIV prevalence in Switzerland is relatively low, and the overall birth rate is not significantly different between women with and without HIV.\n\nThe World Health Organization (WHO) reports that the global TFR in 2020 was 2.4 children per woman, with an HIV prevalence of 0.5%.",
+    "true_answer": " Yes, in 2020, there were 1.46 births per woman in the general population, compared to 0.42 births per woman living with HIV."
+  },
+  {
+    "question": "What is the most common source of HIV infection in Switzerland?",
+    "answer": "The most common source of HIV infection in Switzerland is not specified.",
+    "true_answer": "The most common sources of HIV infection in Switzerland are, in order, sexual contacts and drug use."
+  },
+  {
+    "question": "In Switzerland, based on self-reported treatment adherence, what proportion of visits involve patients who have missed taking their treatment at least once per month?",
+    "answer": "According to the World Health Organization (WHO) and various studies, the global average for treatment adherence in HIV treatment is around 90-95%. However, in Switzerland, the actual treatment adherence rates are generally reported to be around 90-95% as well.",
+    "true_answer": "Based on self-reported treatment adherence, in Switzerland 6% of visits involve patients who have missed taking their treatment at least once per month."
+  },
+  {
+    "question": "From 2020, what is the proportion of PLWH in Switzerland who 'feel guilty because they have HIV'?",
+    "answer": "I couldn't find any reliable source to provide a specific percentage of people with HIV in Switzerland who feel guilty about their status from 2020. However, I can tell you that the stigma surrounding HIV has been declining in Switzerland in recent years. According to a 2020 survey by the Swiss Federal Statistical Office, only 2.4% of the population reported feeling guilty or ashamed about having HIV.",
+    "true_answer": "As of 2020, 26% of people living with HIV (PLWH) feel guilty because they have HIV."
+  },
+  {
+    "question": "From 2020, what proportion of PWH in Switzerland consider that 'People with HIV are treated like outcasts'?",
+    "answer": "Unfortunately, I do not have access to the specific data from 2020 on the proportion of people with HIV (PWH) in Switzerland who consider themselves to be \"treated like outcasts.\" However, I can tell you that in Switzerland, there have been various reports and studies on the social and economic challenges faced by people living with HIV/AIDS.",
+    "true_answer": "As of 2020, 83% of people living with HIV (PLWH) consider that people with HIV are treated like outcasts."
+  },
+  {
+    "question": "In Switzerland, What proportion of PWH who died from HIV-related causes had their first positive HIV test before the age of 20?",
+    "answer": "According to the Swiss National HIV/AIDS Information Centre, in 2020, approximately 4.6% of people with HIV in Switzerland had their first HIV test result before the age of 20.",
+    "true_answer": "Among PWH who died from HIV-related causes, 95% had their first positive HIV test before the age of 20."
+  },
+  {
+    "question": "For individuals in Switzerland who had their first positive HIV test between 1990 and 2010 and an initial CD4 count above 300, is there a difference between PWH tested before or after the age of 20 and the time taken for the CD4 cell count to drop below 200?",
+    "answer": "According to various studies, individuals with HIV who tested positive between 1990 and 2010 and had an initial CD4 count above 300, and those who received antiretroviral therapy (ART) before the age of 20, showed a slower rate of CD4 cell count decline compared to those who did not start ART before the age of 20.\n\nA 2017 study published in the Journal of Acquired Immune Deficiency Syndromes found that:\n\n* Among individuals who started ART before the age of 20, the CD4 cell count declined by 0.2-0.4 CD4 cells per 10^6 cells per year.\n* Those who started ART at 20-24 years old had a median decline of 0.1-0.2 CD4 cells per 10^6 cells per year.\n* Those who started ART at 25-29 years old had a median decline of 0.05-0.1 CD4 cells per 10^6 cells per year.\n\nAnother study published in 2019 in the journal AIDS found that:\n\n* Individuals who started ART before the age of 20 had a median CD4 cell count decline of 0.15-0.25 CD4 cells per 10^6 cells per year.\n* Those who started ART at 20-24 years old had a median decline of 0.1-0.15 CD4 cells per 10^6 cells per year.\n\nIt is essential to note that these studies had limitations, and the results should be interpreted with caution. However, they suggest that starting ART before the age of 20 may be associated with a slower CD4 cell count decline in the early stages of HIV infection.\n\nIt is also worth mentioning that these studies did not account for other factors that may influence the CD4 cell count, such as the quality of care, adherence to treatment, and the presence of other health conditions.",
+    "true_answer": "Yes, there is a difference. For PWH diagnosed before the age of 20, 19% experienced a drop in CD4 count to below 200 within 5 years. In contrast, for those diagnosed after the age of 20, 32% experienced this drop within 5 years."
+  }
+]

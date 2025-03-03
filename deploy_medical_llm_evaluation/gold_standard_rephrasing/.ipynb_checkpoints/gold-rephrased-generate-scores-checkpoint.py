@@ -8,7 +8,7 @@ import re
 def prompt_to_rephrase_true_answer(path_to_true_answers, model_with_answers):
     input_dir = path_to_true_answers 
     prompt_intro = """
-    Rephrase the following answer given in True Answer with clinical terms, do not rephrase Question
+    Rephrase the following answer given in True Answer with clinical terms, do not rephrase Question.
     """
     input_format = """
     Input
@@ -26,7 +26,7 @@ def prompt_to_rephrase_true_answer(path_to_true_answers, model_with_answers):
     """
     for model in model_with_answers:
         for category_id in [str(num) for num in range(1, 7)]:
-            for iteration_number in range(1, 4):
+            for iteration_number in range(1, 6):
                 # Read the answer file
                 answer_file_name = f"{model}_answers_category_{category_id}.{iteration_number}_HIV_EQ.json"
                 answer_file_path = os.path.join(input_dir, model, answer_file_name)
@@ -67,7 +67,7 @@ def get_GPT_scores_rephrased(gpt4_api_key,input_dir):
     
     for model in ["True_answer"]:
         for category_id in [str(num) for num in range(1, 7)]:
-            for iteration_number in range(1, 4):
+            for iteration_number in range(1, 6):
                 prompted_file_name = f"prompted_to_rephrase_{model}_answers_category_{category_id}.{iteration_number}_HIV_EQ.json"
                 prompted_file_path = os.path.join(input_dir, prompted_file_name)
                 with open(prompted_file_path, 'r') as f:

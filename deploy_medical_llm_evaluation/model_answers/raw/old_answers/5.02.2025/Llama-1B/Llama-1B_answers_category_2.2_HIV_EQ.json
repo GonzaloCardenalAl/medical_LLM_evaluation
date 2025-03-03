@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which five antiretroviral drugs were most frequently administered in 1990 in Switzerland?",
+    "answer": "In 1990, the most frequently administered antiretroviral drugs in Switzerland were likely a combination of medications, but based on historical data, the following five are commonly associated with that time period:\n\n1. AZT (Zalcitabine)\n2. ZDV (Zidovudine)\n3. DDI (Didanosine)\n4. D4T (D4T)\n5. VDP (Vidarabine)\n\nThese medications were widely used in the early years of the HIV/AIDS epidemic.",
+    "true_answer": "The top five HIV first-line treatments most frequently administered in Switzerland in 1990 were Ritonavir (RTV), Didanosine (ddI), Stavudine (d4T), Zidovudine (AZT or ZDV), and Lamivudine (3TC), in that order."
+  },
+  {
+    "question": "Which five antiretroviral drugs were most frequently administered in Switzerland in 2010?",
+    "answer": "According to the World Health Organization (WHO) and various clinical studies, in 2010, the most frequently administered antiretroviral drugs in Switzerland were:\n\n1. Tenofovir (Tivicay)\n2. Emtricitabine (FTC 200)\n3. Raltegravir (Evotard)\n4. Lamivudine (Epivir)\n5. Efavirenz (Picardia)\n\nPlease note that the list may vary depending on the source and the specific population being studied.",
+    "true_answer": "The top five antiretrovirals most frequently administered in Switzerland in 2010 were Tenofovir alafenamide (TAF), Dolutegravir (DTG), Emtricitabine (FTC), Tenofovir disoproxil (TDF), and Lamivudine (3TC), in that order."
+  },
+  {
+    "question": "Is there a difference in the overall birth rate in Switzerland between women with and without HIV in 2010?",
+    "answer": "According to the World Health Organization (WHO), in 2010, the total fertility rate (TFR) for women in Switzerland was approximately 1.64 children per woman. However, the HIV prevalence rates varied among different populations, particularly among women of African descent. \n\nIt's worth noting that HIV prevalence was significantly higher in women of African descent in Switzerland compared to other groups.",
+    "true_answer": "Yes, in 2010, there were 1.52 births per woman in the general population, compared to 0.9 births per woman living with HIV."
+  },
+  {
+    "question": "Is there a difference in the overall birth rate in Switzerland between women with and without HIV in 2020?",
+    "answer": "According to the World Health Organization (WHO), the overall birth rate in Switzerland in 2020 was 1,444 births per 1,000,000 population, which is a stable rate.\n\nRegarding HIV, the prevalence of HIV in Switzerland varies by region and sex. In 2020, the prevalence of HIV among women of childbearing age (15-49 years) was 0.6% in the general population, 0.8% in women living with HIV, and 1.1% in women living with HIV and childbearing ability.",
+    "true_answer": " Yes, in 2020, there were 1.46 births per woman in the general population, compared to 0.42 births per woman living with HIV."
+  },
+  {
+    "question": "What is the most common source of HIV infection in Switzerland?",
+    "answer": "In Switzerland, the most common source of HIV infection is through unprotected sex, particularly with multiple partners. According to the Swiss Federal Office of Public Health, the majority of new HIV infections in Switzerland are acquired through unprotected sex, followed by blood-to-blood contact, such as sharing needles or syringes.",
+    "true_answer": "The most common sources of HIV infection in Switzerland are, in order, sexual contacts and drug use."
+  },
+  {
+    "question": "In Switzerland, based on self-reported treatment adherence, what proportion of visits involve patients who have missed taking their treatment at least once per month?",
+    "answer": "I don't have specific data on the proportion of patients who miss at least one treatment session per month in Switzerland based on self-reported treatment adherence. However, I can provide some general information on the topic.\n\nIn Switzerland, the Swiss National Health Interview Survey (SNIS) and other national health surveys have reported that a significant proportion of patients with HIV/AIDS do not adhere to their treatment regimens. A study published in the Journal of Acquired Immune Deficiency Syndromes found that approximately 30-50% of patients with HIV in Switzerland reported missing at least one treatment session in the past 6 months.\n\nAnother study published in the European Journal of Clinical Investigation found that a similar proportion of patients with HIV in Switzerland reported missing at least one treatment session in the past 3 months. However, it's essential to note that these studies were conducted in specific populations, such as HIV-infected individuals living in Switzerland, and the results may not be generalizable to the entire population.\n\nIt's also worth noting that the Swiss healthcare system has implemented various measures to improve treatment adherence, such as increased access to antiretroviral therapy (ART) and support services, but the data on treatment adherence is limited.",
+    "true_answer": "Based on self-reported treatment adherence, in Switzerland 6% of visits involve patients who have missed taking their treatment at least once per month."
+  },
+  {
+    "question": "From 2020, what is the proportion of PLWH in Switzerland who 'feel guilty because they have HIV'?",
+    "answer": "I couldn't find any reliable sources indicating that the proportion of People Living with HIV (PLWH) in Switzerland who feel guilty about their HIV status is a specific or notable proportion.",
+    "true_answer": "As of 2020, 26% of people living with HIV (PLWH) feel guilty because they have HIV."
+  },
+  {
+    "question": "From 2020, what proportion of PWH in Switzerland consider that 'People with HIV are treated like outcasts'?",
+    "answer": "Unfortunately, I couldn't find any reliable data from 2020 that specifically addresses the proportion of People with HIV (PWH) in Switzerland who consider themselves to be treated like outcasts. However, I can tell you that stigma towards people living with HIV is a global issue, and it's difficult to pinpoint a specific country or region where people with HIV are more likely to feel ostracized.\n\nIn Switzerland, the country has made efforts to address HIV stigma, and there are organizations and initiatives working to promote acceptance and inclusivity. However, it's likely that some individuals may still experience stigma, but I couldn't find any reliable data to provide a specific proportion.\n\nIt's also worth noting that the World Health Organization (WHO) and other global health organizations have reported that people living with HIV face significant stigma and discrimination, but the exact proportion of people with HIV who feel like outcasts is not well-documented.\n\nIf you have any further questions or would like to know more about HIV stigma in Switzerland or globally, I'd be happy to try to help.",
+    "true_answer": "As of 2020, 83% of people living with HIV (PLWH) consider that people with HIV are treated like outcasts."
+  },
+  {
+    "question": "In Switzerland, What proportion of PWH who died from HIV-related causes had their first positive HIV test before the age of 20?",
+    "answer": "According to the World Health Organization (WHO) data, approximately 22% of people living with HIV in Switzerland have been infected for less than 1 year, and about 12% of those who have been living with HIV for less than 1 year have tested positive for HIV.\n\nHowever, I couldn't find any specific data on the proportion of people who died from HIV-related causes before the age of 20.",
+    "true_answer": "Among PWH who died from HIV-related causes, 95% had their first positive HIV test before the age of 20."
+  },
+  {
+    "question": "For individuals in Switzerland who had their first positive HIV test between 1990 and 2010 and an initial CD4 count above 300, is there a difference between PWH tested before or after the age of 20 and the time taken for the CD4 cell count to drop below 200?",
+    "answer": "According to various studies, individuals with HIV who had their first positive test between 1990 and 2010 and an initial CD4 count above 300 had a higher risk of developing AIDS and experiencing a faster decline in CD4 cell count compared to those who had their first positive test at an older age.\n\nStudies have shown that among individuals with HIV, those who tested positive between 1990 and 2010 and had an initial CD4 count above 300 were more likely to experience a faster decline in CD4 cell count, with a median time to CD4 count below 200 being around 4-5 years (1, 2). This is likely due to the natural aging process, which accelerates CD4 cell loss over time.\n\nA study published in the journal AIDS found that among individuals with HIV, those who tested positive between 1990 and 2010 and had an initial CD4 count above 300 had a median time to CD4 count below 200 of approximately 4.5 years (1).",
+    "true_answer": "Yes, there is a difference. For PWH diagnosed before the age of 20, 19% experienced a drop in CD4 count to below 200 within 5 years. In contrast, for those diagnosed after the age of 20, 32% experienced this drop within 5 years."
+  }
+]

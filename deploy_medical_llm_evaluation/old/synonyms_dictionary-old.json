@@ -1,0 +1,2239 @@
+{
+    "3tc": [
+        "Lamivudine",
+        "Epivir",
+        "Heptovir",
+        "Zeffix",
+        "Epivir-HBV"
+    ],
+    "3tc /dtg": [
+        "Lamivudine/Dolutegravir",
+        "Dovato",
+        "Epivir/Tivicay",
+        "Heptovir/Tivicay",
+        "Zeffix/Tivicay"
+    ],
+    "abc/3tc": [
+        "Abacavir/Lamivudine",
+        "Epzicom",
+        "Kivexa",
+        "Ziagen/Epivir",
+        "Ziagen/Heptovir"
+    ],
+    "absent": [
+        "Nonexistent",
+        "Missing",
+        "Lacking",
+        "Not present",
+        "Void"
+    ],
+    "abuse": [
+        "Misuse",
+        "Maltreatment",
+        "Exploitation",
+        "Mishandling",
+        "Misapplication"
+    ],
+    "acquire immunodeficiency syndrome": [
+        "AIDS",
+        "HIV disease",
+        "HIV infection",
+        "Human immunodeficiency virus infection",
+        "HIV/AIDS"
+    ],
+    "activate": [
+        "Initiate",
+        "Trigger",
+        "Stimulate",
+        "Provoke",
+        "Induce"
+    ],
+    "activate t-cell": [
+        "T-cell activation",
+        "T lymphocyte activation",
+        "T-cell stimulation",
+        "T-cell triggering",
+        "T-cell induction"
+    ],
+    "activation": [
+        "Stimulation",
+        "Induction",
+        "Triggering",
+        "Initiation",
+        "Provocation"
+    ],
+    "active": [
+        "Operative",
+        "Functional",
+        "Working",
+        "Operational",
+        "Effective"
+    ],
+    "active infection": [
+        "active disease",
+        "ongoing infection",
+        "current infection",
+        "active pathogenic invasion",
+        "active microbial invasion"
+    ],
+    "acute": [
+        "immediate",
+        "sudden onset",
+        "rapid onset",
+        "sharp",
+        "severe"
+    ],
+    "acute setting": [
+        "emergency setting",
+        "urgent care setting",
+        "immediate care setting",
+        "critical care setting",
+        "acute care setting"
+    ],
+    "adherence": [
+        "compliance",
+        "conformity",
+        "observance",
+        "following",
+        "obedience"
+    ],
+    "administer": [
+        "dispense",
+        "give",
+        "apply",
+        "deliver",
+        "distribute"
+    ],
+    "advanced stage": [
+        "late stage",
+        "progressed stage",
+        "advanced phase",
+        "late phase",
+        "progressed phase"
+    ],
+    "adverse effect": [
+        "side effect",
+        "negative effect",
+        "unwanted effect",
+        "harmful effect",
+        "undesirable effect"
+    ],
+    "age": [
+        "years",
+        "lifespan",
+        "life expectancy",
+        "chronological age",
+        "biological age"
+    ],
+    "aid": [
+        "help",
+        "assistance",
+        "support",
+        "relief",
+        "benefit"
+    ],
+    "air": [
+        "oxygen",
+        "atmosphere",
+        "breathable gas",
+        "aerosphere",
+        "ventilation"
+    ],
+    "amount": [],
+    "animal model": [],
+    "antagomir": [],
+    "antibody": [
+        "immunoglobulin"
+    ],
+    "antibody test": [
+        "serology test",
+        "immunoglobulin test"
+    ],
+    "antigen / antibody lab test": [
+        "serology test",
+        "immunoassay"
+    ],
+    "antigen / antibody test": [
+        "serology test",
+        "immunoassay"
+    ],
+    "antiretroviral therapy": [
+        "ART",
+        "HAART",
+        "highly active antiretroviral therapy"
+    ],
+    "antiretrovirals": [
+        "ARVs",
+        "antiretroviral drugs",
+        "antiretroviral medications"
+    ],
+    "anxiety": [],
+    "art": [
+        "antiretroviral therapy"
+    ],
+    "arv": [
+        "antiretroviral",
+        "antiretroviral drugs"
+    ],
+    "aspergillus fumigatus": [
+        "A. fumigatus"
+    ],
+    "assumption": [],
+    "asymptomatic stage": [],
+    "atorvastatin": [
+        "Lipitor",
+        "Sortis",
+        "Tahor",
+        "Torvast"
+    ],
+    "azithromycin": [
+        "Zithromax",
+        "Azithrocin",
+        "Azin",
+        "Zmax",
+        "Sumamed"
+    ],
+    "azt": [
+        "Zidovudine",
+        "Retrovir"
+    ],
+    "baby": [],
+    "bind": [],
+    "birth": [
+        "parturition",
+        "childbirth",
+        "natal",
+        "delivery",
+        "labor"
+    ],
+    "biting": [
+        "mastication",
+        "chewing",
+        "gnawing",
+        "chomp",
+        "nipping"
+    ],
+    "blood": [
+        "plasma",
+        "serum",
+        "whole blood",
+        "erythrocytes",
+        "leukocytes"
+    ],
+    "blood sample": [
+        "blood specimen",
+        "blood draw",
+        "venous blood sample",
+        "arterial blood sample",
+        "blood test"
+    ],
+    "body fluid": [
+        "bodily fluid",
+        "biofluid",
+        "extracellular fluid",
+        "intracellular fluid",
+        "lymph"
+    ],
+    "boil": [
+        "furuncle",
+        "abscess",
+        "carbuncle",
+        "skin infection",
+        "staphylococcal infection"
+    ],
+    "breast milk": [
+        "mother's milk",
+        "human milk",
+        "lactation",
+        "colostrum",
+        "nursing milk"
+    ],
+    "breastfeeding": [
+        "nursing",
+        "lactation",
+        "suckling",
+        "nipple feeding",
+        "chest feeding"
+    ],
+    "c": [
+        "carbon",
+        "vitamin C",
+        "ascorbic acid",
+        "Celsius",
+        "speed of light"
+    ],
+    "calculate": [
+        "compute",
+        "determine",
+        "reckon",
+        "gauge",
+        "estimate"
+    ],
+    "cardiovascular disease": [
+        "heart disease",
+        "cardiac disease",
+        "vascular disease",
+        "coronary artery disease",
+        "cardiopathy"
+    ],
+    "cardiovascular risk": [
+        "cardiac risk",
+        "heart disease risk",
+        "risk of heart disease",
+        "risk of cardiovascular disease",
+        "coronary risk"
+    ],
+    "case": [
+        "instance",
+        "occurrence",
+        "example",
+        "situation",
+        "scenario"
+    ],
+    "casual": [
+        "informal",
+        "nonchalant",
+        "unconcerned",
+        "relaxed",
+        "easygoing"
+    ],
+    "cd4": [
+        "cluster of differentiation 4",
+        "T-cell surface glycoprotein CD4",
+        "T-cell co-receptor",
+        "CD4 molecule",
+        "CD4 receptor"
+    ],
+    "cd4 +": [
+        "CD4 positive",
+        "CD4+ T cells",
+        "CD4-expressing",
+        "T-helper cells",
+        "CD4+ lymphocytes"
+    ],
+    "cell": [
+        "biological cell",
+        "cytology unit",
+        "basic structural unit",
+        "life unit",
+        "cellular unit"
+    ],
+    "cell line": [
+        "cell culture",
+        "cell strain",
+        "cell lineage",
+        "cell series",
+        "cell population"
+    ],
+    "cell type": [
+        "cell classification",
+        "cell category",
+        "cell kind",
+        "cell variant",
+        "cell form"
+    ],
+    "cellular activation": [
+        "cell activation",
+        "cell stimulation",
+        "cellular stimulation",
+        "cell triggering",
+        "cellular triggering"
+    ],
+    "cellular transcription factor": [
+        "transcription factor",
+        "gene transcription factor",
+        "DNA-binding protein",
+        "gene regulatory protein",
+        "transcriptional regulator"
+    ],
+    "cesarean delivery": [
+        "C-section",
+        "cesarean birth",
+        "caesarean delivery",
+        "caesarean section"
+    ],
+    "cesarean section": [
+        "C-section",
+        "cesarean delivery",
+        "caesarean section",
+        "caesarean birth"
+    ],
+    "chance": [
+        "probability",
+        "likelihood",
+        "odds",
+        "possibility",
+        "risk"
+    ],
+    "change": [
+        "alteration",
+        "modification",
+        "adjustment",
+        "transformation",
+        "variation"
+    ],
+    "characteristic rash": [
+        "typical rash",
+        "distinctive rash",
+        "identifiable rash",
+        "signature rash"
+    ],
+    "chemokine": [
+        "chemotactic cytokine",
+        "intercrine",
+        "chemotactic factor",
+        "chemotactic protein"
+    ],
+    "childbirth": [
+        "labor and delivery",
+        "parturition",
+        "birth",
+        "delivery",
+        "natal"
+    ],
+    "chronic": [
+        "persistent",
+        "long-term",
+        "prolonged",
+        "continual",
+        "long-standing"
+    ],
+    "chronic obstructive pulmonary disease": [
+        "COPD",
+        "emphysema",
+        "chronic bronchitis",
+        "chronic obstructive airway disease",
+        "chronic obstructive lung disease"
+    ],
+    "clinical feasibility": [
+        "practicality in clinical setting",
+        "clinical practicability",
+        "clinical viability",
+        "clinical applicability",
+        "clinical possibility"
+    ],
+    "clinical trial": [
+        "clinical study",
+        "medical trial",
+        "research trial",
+        "clinical research",
+        "medical study"
+    ],
+    "clinician": [
+        "healthcare professional",
+        "medical practitioner",
+        "healthcare provider",
+        "medical professional",
+        "health practitioner"
+    ],
+    "closed-mouth": [
+        "tight-lipped",
+        "reticent",
+        "uncommunicative",
+        "reserved",
+        "silent"
+    ],
+    "cn lymphoma": [
+        "cranial nerve lymphoma",
+        "central nervous system lymphoma",
+        "CNS lymphoma",
+        "brain lymphoma",
+        "neurolymphomatosis"
+    ],
+    "co-administer": [
+        "co-deliver",
+        "co-give",
+        "co-dose",
+        "co-prescribe",
+        "co-dispense"
+    ],
+    "cognitive impairment": [
+        "cognitive dysfunction",
+        "cognitive decline",
+        "mental impairment",
+        "intellectual impairment",
+        "cognitive deficit"
+    ],
+    "collagen": [
+        "connective tissue protein",
+        "structural protein",
+        "fibrous protein",
+        "scleroprotein",
+        "extracellular matrix protein"
+    ],
+    "combination": [
+        "mixture",
+        "blend",
+        "compound",
+        "composite",
+        "amalgamation"
+    ],
+    "comorbidity": [
+        "co-occurring condition",
+        "concurrent disease",
+        "coexistent disease",
+        "associated disorder",
+        "concomitant illness"
+    ],
+    "compute tomography": [
+        "CT scan",
+        "CAT scan",
+        "Computed Axial Tomography",
+        "X-ray computed tomography",
+        "Computed tomography scan"
+    ],
+    "conceive": [
+        "fertilization",
+        "conception",
+        "impregnation",
+        "insemination",
+        "fecundation"
+    ],
+    "condom": [
+        "prophylactic",
+        "rubber",
+        "safety",
+        "latex condom",
+        "contraceptive device"
+    ],
+    "confidentiality": [
+        "privacy",
+        "secrecy",
+        "discretion",
+        "confidentialness",
+        "non-disclosure"
+    ],
+    "confirm": [
+        "verify",
+        "validate",
+        "corroborate",
+        "substantiate",
+        "authenticate"
+    ],
+    "confirmation": [
+        "verification",
+        "validation",
+        "corroboration",
+        "substantiation",
+        "authentication"
+    ],
+    "conjunction": [
+        "combination",
+        "union",
+        "co-occurrence",
+        "confluence",
+        "convergence"
+    ],
+    "consequence": [
+        "result",
+        "outcome",
+        "effect",
+        "aftermath",
+        "repercussion"
+    ],
+    "contact with": [
+        "exposure to",
+        "interaction with",
+        "connection with",
+        "association with",
+        "relation with"
+    ],
+    "continuous": [
+        "uninterrupted",
+        "constant",
+        "unending",
+        "incessant",
+        "continuous"
+    ],
+    "control condition": [
+        "baseline condition",
+        "reference condition",
+        "standard condition",
+        "comparison condition",
+        "control group"
+    ],
+    "crispr-cas9 editing": [
+        "genome editing",
+        "gene editing",
+        "CRISPR-Cas9 system",
+        "CRISPR-Cas9 technology",
+        "CRISPR-Cas9 method"
+    ],
+    "cryptococcal meningitis": [
+        "cryptococcal meningoencephalitis",
+        "cryptococcosis of central nervous system",
+        "cryptococcal CNS infection",
+        "cryptococcal brain infection"
+    ],
+    "cure": [
+        "remedy",
+        "treatment",
+        "healing",
+        "therapy",
+        "solution"
+    ],
+    "cvd": [
+        "cardiovascular disease",
+        "heart disease",
+        "cardiac disease",
+        "circulatory disease",
+        "vascular disease"
+    ],
+    "cytokine": [
+        "interleukin",
+        "chemokine",
+        "interferon",
+        "tumor necrosis factor",
+        "growth factor"
+    ],
+    "daily": [
+        "per diem",
+        "every day",
+        "day-to-day",
+        "daily basis",
+        "each day"
+    ],
+    "day": [
+        "24 hours",
+        "daytime",
+        "full day",
+        "calendar day",
+        "solar day"
+    ],
+    "ddi": [
+        "drug-drug interaction",
+        "medication interaction",
+        "pharmaceutical interaction",
+        "drug interaction",
+        "medicine interaction"
+    ],
+    "decision": [
+        "resolution",
+        "determination",
+        "choice",
+        "judgment",
+        "conclusion"
+    ],
+    "decline": [
+        "deterioration",
+        "degradation",
+        "degeneration",
+        "worsening",
+        "decay"
+    ],
+    "decrease": [
+        "reduction",
+        "diminution",
+        "lessening",
+        "decline",
+        "fall"
+    ],
+    "delivery": [
+        "childbirth",
+        "parturition",
+        "birth",
+        "labor",
+        "nativity"
+    ],
+    "depression": [
+        "major depressive disorder",
+        "clinical depression",
+        "unipolar depression",
+        "MDD",
+        "depressive disorder"
+    ],
+    "detect": [
+        "identify",
+        "discover",
+        "determine",
+        "diagnose",
+        "recognize"
+    ],
+    "development": [
+        "growth",
+        "progression",
+        "evolution",
+        "maturation",
+        "advancement"
+    ],
+    "diabete mellitus": [
+        "DM",
+        "diabetes",
+        "Type 1 diabetes",
+        "Type 2 diabetes",
+        "insulin-dependent diabetes mellitus"
+    ],
+    "diagnose": [
+        "identify",
+        "determine",
+        "detect",
+        "establish",
+        "confirm"
+    ],
+    "diagnosis": [
+        "determination",
+        "identification",
+        "recognition",
+        "discovery",
+        "finding"
+    ],
+    "diagnostic test": [
+        "medical test",
+        "clinical test",
+        "laboratory test",
+        "diagnostic procedure",
+        "medical examination"
+    ],
+    "didanosine": [
+        "Videx",
+        "ddl",
+        "2',3'-dideoxyinosine"
+    ],
+    "die": [],
+    "difference": [],
+    "disease": [],
+    "disease progression": [],
+    "dish": [],
+    "dna": [
+        "deoxyribonucleic acid"
+    ],
+    "dna methylation": [],
+    "dolutegravir": [
+        "Tivicay",
+        "DTG",
+        "GSK1349572"
+    ],
+    "doorknobs": [],
+    "dormant state": [
+        "latent phase",
+        "quiescent state",
+        "inactive state",
+        "resting state",
+        "hibernation"
+    ],
+    "dose": [
+        "dosage",
+        "quantity",
+        "measure",
+        "amount",
+        "portion"
+    ],
+    "drop": [
+        "droplet",
+        "drip",
+        "globule",
+        "bead",
+        "speck"
+    ],
+    "drug": [
+        "medication",
+        "pharmaceutical",
+        "medicine",
+        "remedy",
+        "prescription"
+    ],
+    "drug interaction": [
+        "medication interaction",
+        "pharmaceutical interaction",
+        "drug-drug interaction",
+        "medicine interaction",
+        "prescription interaction"
+    ],
+    "drug use": [
+        "medication use",
+        "pharmaceutical use",
+        "medicine use",
+        "prescription use",
+        "drug consumption"
+    ],
+    "dtg": [
+        "Dolutegravir",
+        "Tivicay",
+        "Dovato",
+        "Triumeq",
+        "Juluca"
+    ],
+    "early": [
+        "preliminary",
+        "initial",
+        "incipient",
+        "primary",
+        "premature"
+    ],
+    "effect": [
+        "impact",
+        "result",
+        "outcome",
+        "consequence",
+        "reaction"
+    ],
+    "effect of": [
+        "impact of",
+        "result of",
+        "outcome of",
+        "consequence of",
+        "reaction to"
+    ],
+    "effective": [],
+    "efficacy": [],
+    "elective": [],
+    "elevate": [],
+    "elisa": [
+        "Enzyme-linked immunosorbent assay"
+    ],
+    "emtricitabine": [
+        "Emtriva",
+        "FTC",
+        "Coviracil",
+        "2',3'-dideoxy-5-fluoro-3'-thiacytidine"
+    ],
+    "enfuvirtide": [
+        "Fuzeon",
+        "T-20",
+        "DP178",
+        "T20"
+    ],
+    "enrollment": [],
+    "equipment": [],
+    "erythromycin": [
+        "Erythrocin",
+        "Erythroped",
+        "Ery-Tab",
+        "Eryc",
+        "PCE"
+    ],
+    "ethnicity": [],
+    "evaluate": [],
+    "event": [],
+    "exchange": [],
+    "experiment": [],
+    "experimental": [],
+    "exposure": [],
+    "exposure of": [],
+    "expression": [],
+    "extracellular signal": [],
+    "factor": [
+        "element",
+        "component",
+        "variable",
+        "determinant",
+        "contributor"
+    ],
+    "failure": [
+        "malfunction",
+        "breakdown",
+        "collapse",
+        "dysfunction",
+        "deficiency"
+    ],
+    "fece": [
+        "stool",
+        "excrement",
+        "fecal matter",
+        "bowel movement",
+        "waste"
+    ],
+    "finger": [
+        "digit",
+        "phalanx",
+        "metacarpal",
+        "appendage",
+        "manual digit"
+    ],
+    "first-line": [
+        "primary",
+        "initial",
+        "front-line",
+        "first-stage",
+        "preliminary"
+    ],
+    "follow - up test": [
+        "retest",
+        "secondary test",
+        "confirmatory test",
+        "subsequent test",
+        "repeat test"
+    ],
+    "formula": [
+        "composition",
+        "compound",
+        "mixture",
+        "blend",
+        "concoction"
+    ],
+    "ftc": [
+        "emtricitabine",
+        "Emtriva",
+        "Coviracil",
+        "FTC antiretroviral",
+        "nucleoside reverse transcriptase inhibitor"
+    ],
+    "function": [
+        "role",
+        "purpose",
+        "task",
+        "duty",
+        "operation"
+    ],
+    "gene expression": [
+        "transcription",
+        "translation",
+        "gene regulation",
+        "protein synthesis",
+        "mRNA production"
+    ],
+    "general population": [],
+    "genetic material": [
+        "DNA",
+        "RNA",
+        "chromosomes",
+        "genes",
+        "genome"
+    ],
+    "gonorrhoea": [
+        "Neisseria gonorrhoeae infection",
+        "clap",
+        "the drip",
+        "gonococcal infection"
+    ],
+    "gp120": [
+        "glycoprotein 120",
+        "HIV-1 gp120",
+        "HIV envelope protein gp120"
+    ],
+    "gp41 subunit": [
+        "glycoprotein 41",
+        "HIV-1 gp41",
+        "HIV envelope protein gp41"
+    ],
+    "guilty": [],
+    "handshake": [],
+    "hbsag": [
+        "Hepatitis B surface antigen",
+        "HBs antigen",
+        "Australia antigen"
+    ],
+    "head ct": [
+        "head computed tomography",
+        "cranial CT",
+        "brain CT",
+        "CT of the head"
+    ],
+    "health care provider": [
+        "healthcare professional",
+        "medical practitioner",
+        "doctor",
+        "nurse",
+        "physician"
+    ],
+    "healthy": [],
+    "hepatic disease": [
+        "liver disease",
+        "hepatic disorder",
+        "liver disorder",
+        "hepatic pathology",
+        "liver pathology"
+    ],
+    "hepatitis b": [
+        "HBV",
+        "hep B",
+        "hepadnavirus infection",
+        "hepatitis B virus infection"
+    ],
+    "herpes simplex": [
+        "HSV",
+        "herpes simplex virus",
+        "HSV-1",
+        "HSV-2"
+    ],
+    "heterosexual": [],
+    "high": [],
+    "hiv": [
+        "human immunodeficiency virus",
+        "HIV-1",
+        "HIV-2"
+    ],
+    "hiv envelope glycoprotein": [
+        "gp120",
+        "gp41",
+        "env protein",
+        "HIV env"
+    ],
+    "hiv envelope protein": [
+        "gp120",
+        "gp41",
+        "env protein",
+        "HIV env"
+    ],
+    "hiv infection": [
+        "HIV disease",
+        "AIDS",
+        "acquired immunodeficiency syndrome",
+        "HIV positive",
+        "HIV/AIDS"
+    ],
+    "hiv medicine": [
+        "antiretroviral therapy",
+        "ART",
+        "HAART",
+        "highly active antiretroviral therapy",
+        "combination antiretroviral therapy"
+    ],
+    "hiv rna": [
+        "HIV viral load",
+        "HIV RNA PCR",
+        "HIV RNA quantitative",
+        "HIV-1 RNA",
+        "HIV-1 RNA PCR"
+    ],
+    "hiv test": [
+        "HIV antibody test",
+        "HIV antigen/antibody test",
+        "HIV rapid test",
+        "HIV ELISA",
+        "HIV Western blot"
+    ],
+    "hiv testing": [
+        "HIV screening",
+        "HIV diagnostic testing",
+        "HIV confirmatory testing",
+        "HIV rapid testing",
+        "HIV ELISA testing"
+    ],
+    "hiv-1": [
+        "Human Immunodeficiency Virus Type 1",
+        "HIV Type 1",
+        "HIV Group M",
+        "HIV-1 Group M",
+        "HIV-1M"
+    ],
+    "hiv-infected": [
+        "HIV positive",
+        "HIV seropositive",
+        "HIV diagnosed",
+        "HIV-1 infected",
+        "HIV-2 infected"
+    ],
+    "hiv-positive": [
+        "HIV infected",
+        "HIV seropositive",
+        "HIV diagnosed",
+        "HIV-1 positive",
+        "HIV-2 positive"
+    ],
+    "hiv-related": [
+        "HIV-associated",
+        "HIV-induced",
+        "HIV-related complications",
+        "HIV-related diseases",
+        "HIV-related conditions"
+    ],
+    "hla -b57:01": [
+        "HLA-B*57:01",
+        "HLA-B57",
+        "HLA-B5701",
+        "HLA-B*5701",
+        "Human Leukocyte Antigen B57:01"
+    ],
+    "homosexual": [
+        "gay",
+        "lesbian",
+        "same-sex attracted",
+        "MSM",
+        "WSW"
+    ],
+    "homosexual community": [],
+    "host": [],
+    "host cell": [],
+    "host cell 's": [],
+    "hour": [],
+    "hug": [],
+    "human immunodeficiency virus": [
+        "HIV",
+        "AIDS virus",
+        "Retrovirus",
+        "Lentivirus"
+    ],
+    "humanize mouse": [],
+    "hypertension": [
+        "High blood pressure",
+        "Arterial hypertension",
+        "Essential hypertension",
+        "Primary hypertension"
+    ],
+    "immune function": [
+        "Immunological function",
+        "Immune response",
+        "Immune system function"
+    ],
+    "immune system": [
+        "immunologic system",
+        "body's defense system",
+        "immunity system",
+        "body's immune network",
+        "body's protective system"
+    ],
+    "immunogenicity": [
+        "immune response elicitation",
+        "antigenicity",
+        "immunoreactivity",
+        "immunostimulatory capacity",
+        "immune reactivity"
+    ],
+    "impaired": [
+        "compromised",
+        "damaged",
+        "dysfunctional",
+        "deficient",
+        "weakened"
+    ],
+    "in vitro": [
+        "test-tube",
+        "glass",
+        "laboratory",
+        "controlled environment",
+        "artificial conditions"
+    ],
+    "in vivo": [
+        "within the living",
+        "in the body",
+        "in the organism",
+        "in a living organism",
+        "in a living body"
+    ],
+    "inactivation": [
+        "deactivation",
+        "disabling",
+        "neutralization",
+        "silencing",
+        "quiescence"
+    ],
+    "increase": [
+        "rise",
+        "growth",
+        "escalation",
+        "augmentation",
+        "amplification"
+    ],
+    "individual": [
+        "person",
+        "subject",
+        "patient",
+        "participant",
+        "case"
+    ],
+    "infant": [
+        "baby",
+        "newborn",
+        "neonate",
+        "babe",
+        "child"
+    ],
+    "infect": [
+        "contaminate",
+        "inoculate",
+        "transmit disease to",
+        "infest",
+        "communicate disease to"
+    ],
+    "infection": [
+        "pathogenic invasion",
+        "microbial infection",
+        "bacterial infection",
+        "viral infection",
+        "fungal infection"
+    ],
+    "information": [
+        "data",
+        "details",
+        "facts",
+        "knowledge",
+        "intelligence"
+    ],
+    "infusion": [
+        "drip",
+        "intravenous therapy",
+        "IV infusion",
+        "transfusion",
+        "intravenous drip"
+    ],
+    "injectable": [
+        "injection",
+        "injectable drug",
+        "injectable medication",
+        "subcutaneous injection",
+        "intramuscular injection"
+    ],
+    "injection drug use": [
+        "intravenous drug use",
+        "needle sharing",
+        "drug injection",
+        "IV drug use",
+        "substance injection"
+    ],
+    "insect": [
+        "arthropod",
+        "bug",
+        "pest",
+        "invertebrate",
+        "hexapod"
+    ],
+    "insti": [
+        "integrase strand transfer inhibitor",
+        "raltegravir",
+        "elvitegravir",
+        "dolutegravir",
+        "bictegravir"
+    ],
+    "instrumental": [
+        "tool",
+        "device",
+        "apparatus",
+        "implement",
+        "instrument"
+    ],
+    "intracranial pressure": [
+        "ICP",
+        "cerebral pressure",
+        "brain pressure",
+        "cranial pressure",
+        "intracerebral pressure"
+    ],
+    "investigate": [
+        "examine",
+        "probe",
+        "study",
+        "research",
+        "explore"
+    ],
+    "kiss": [],
+    "knockdown": [],
+    "lab": [],
+    "labor": [],
+    "lamivudine": [
+        "Epivir",
+        "3TC",
+        "Zeffix",
+        "Heptovir"
+    ],
+    "late-stage": [],
+    "latency": [],
+    "latent": [],
+    "latent infection": [],
+    "latently": [],
+    "latently infect": [
+        "latent infection",
+        "asymptomatic infection",
+        "subclinical infection",
+        "silent infection",
+        "dormant infection"
+    ],
+    "latex agglutination test": [
+        "latex fixation test",
+        "latex particle agglutination test",
+        "latex agglutination assay",
+        "latex agglutination reaction",
+        "latex agglutination method"
+    ],
+    "level": [
+        "concentration",
+        "amount",
+        "quantity",
+        "degree",
+        "volume"
+    ],
+    "linkage": [
+        "genetic linkage",
+        "linkage map",
+        "linkage analysis",
+        "linkage disequilibrium",
+        "linkage group"
+    ],
+    "live": [
+        "live-attenuated",
+        "live virus",
+        "live bacteria",
+        "live vaccine",
+        "live strain"
+    ],
+    "liver disease": [
+        "hepatic disease",
+        "liver disorder",
+        "hepatopathy",
+        "hepatic disorder",
+        "liver ailment"
+    ],
+    "loading dose": [
+        "initial dose",
+        "priming dose",
+        "starter dose",
+        "first dose",
+        "high dose"
+    ],
+    "long terminal repeat ( ltr ) region": [
+        "LTR region",
+        "long terminal repeat sequence",
+        "LTR sequence",
+        "long terminal repeat element",
+        "LTR element"
+    ],
+    "long-term": [
+        "chronic",
+        "prolonged",
+        "extended",
+        "long-lasting",
+        "long-duration"
+    ],
+    "lowest": [
+        "minimum",
+        "smallest",
+        "least",
+        "minimal",
+        "lowest possible"
+    ],
+    "lumbar puncture": [
+        "spinal tap",
+        "LP",
+        "intrathecal injection",
+        "subarachnoid puncture",
+        "rachicentesis"
+    ],
+    "lyme disease": [
+        "borreliosis",
+        "Lyme borreliosis",
+        "Borrelia burgdorferi infection",
+        "tick-borne disease",
+        "Lyme arthritis"
+    ],
+    "macrophage -lineage cell": [
+        "monocyte-derived cell",
+        "phagocyte",
+        "antigen-presenting cell",
+        "dendritic cell",
+        "mononuclear phagocyte"
+    ],
+    "management": [
+        "administration",
+        "governance",
+        "supervision",
+        "direction",
+        "control"
+    ],
+    "mechanism": [
+        "process",
+        "method",
+        "system",
+        "procedure",
+        "technique"
+    ],
+    "medication": [
+        "drug",
+        "pharmaceutical",
+        "medicine",
+        "prescription",
+        "remedy"
+    ],
+    "mental health": [
+        "psychological well-being",
+        "emotional health",
+        "psychiatric health",
+        "mental wellness",
+        "psychological health"
+    ],
+    "methodological approach": [
+        "research method",
+        "research strategy",
+        "research design",
+        "methodology",
+        "research approach"
+    ],
+    "methylation": [
+        "DNA methylation",
+        "methyl group transfer",
+        "epigenetic modification",
+        "cytosine methylation",
+        "histone methylation"
+    ],
+    "microrna": [
+        "miRNA",
+        "micro RNA",
+        "small non-coding RNA",
+        "sncRNA",
+        "non-coding RNA"
+    ],
+    "microrna-base therapy": [
+        "miRNA therapy",
+        "microRNA therapy",
+        "miRNA-based treatment",
+        "microRNA-based treatment"
+    ],
+    "mimic": [
+        "simulate",
+        "replicate",
+        "emulate",
+        "imitate",
+        "mirror"
+    ],
+    "minimal": [
+        "minimalistic",
+        "minimalist",
+        "least",
+        "smallest",
+        "slightest"
+    ],
+    "model": [
+        "prototype",
+        "template",
+        "pattern",
+        "standard",
+        "archetype"
+    ],
+    "modulate": [
+        "regulate",
+        "adjust",
+        "control",
+        "alter",
+        "manipulate"
+    ],
+    "molecular mechanism": [
+        "molecular process",
+        "molecular pathway",
+        "biochemical mechanism",
+        "cellular mechanism"
+    ],
+    "monitoring": [
+        "tracking",
+        "surveillance",
+        "observation",
+        "watching",
+        "supervision"
+    ],
+    "month": [
+        "30 days",
+        "four weeks",
+        "calendar month",
+        "lunar month"
+    ],
+    "mosquito": [
+        "Anopheles",
+        "Aedes",
+        "Culex",
+        "mosquito species"
+    ],
+    "mother": [
+        "maternal",
+        "mom",
+        "mum",
+        "mama",
+        "mommy"
+    ],
+    "multifocal leukoencephalopathy": [
+        "progressive multifocal leukoencephalopathy",
+        "PML",
+        "leukoencephalopathy, multifocal progressive",
+        "leukoencephalitis, subacute sclerosing"
+    ],
+    "mycoplasma genitalium": [
+        "M. genitalium",
+        "Mgen",
+        "Ureaplasma genitalium",
+        "Mycoplasma hominis"
+    ],
+    "nat": [
+        "nucleic acid test",
+        "nucleic acid amplification test",
+        "NAAT",
+        "PCR test"
+    ],
+    "national health authority": [
+        "health department",
+        "public health agency",
+        "health ministry",
+        "department of health"
+    ],
+    "negative": [
+        "nonreactive",
+        "non-positive",
+        "null",
+        "absent"
+    ],
+    "neurological symptom": [
+        "neurologic sign",
+        "neurological manifestation",
+        "neurologic symptom",
+        "neurological indication"
+    ],
+    "newborn": [
+        "neonate",
+        "newly born",
+        "infant",
+        "baby"
+    ],
+    "nf-\u03bab": [
+        "nuclear factor kappa-light-chain-enhancer of activated B cells",
+        "NF kappa B",
+        "NF-kappaB",
+        "nuclear factor kappa B"
+    ],
+    "nfat": [
+        "nuclear factor of activated T-cells",
+        "NF-AT",
+        "nuclear factor of activated T cells",
+        "NFAT protein"
+    ],
+    "nnrti": [
+        "non-nucleoside reverse transcriptase inhibitor",
+        "non-nucleoside RT inhibitor",
+        "NNRTIs",
+        "non-nucleoside reverse transcriptase inhibitors"
+    ],
+    "no": [],
+    "normal": [],
+    "novel": [],
+    "npv": [
+        "Negative Predictive Value"
+    ],
+    "nrti": [
+        "Nucleoside Reverse Transcriptase Inhibitors"
+    ],
+    "nrtis": [
+        "Nucleoside Reverse Transcriptase Inhibitors"
+    ],
+    "nuclear factor": [],
+    "nuclear factor kappa b": [
+        "NF-kappaB",
+        "NF-\u03baB",
+        "NFKB"
+    ],
+    "nucleic acid test": [
+        "NAT",
+        "Nucleic Acid Amplification Test",
+        "NAAT"
+    ],
+    "object": [],
+    "off -target": [
+        "unintended target",
+        "non-specific target",
+        "unspecific target"
+    ],
+    "opportunistic infection": [
+        "secondary infection",
+        "immunosuppression-related infection"
+    ],
+    "organism": [
+        "life form",
+        "biological entity",
+        "living thing"
+    ],
+    "original": [
+        "initial",
+        "primary",
+        "first"
+    ],
+    "outcast": [
+        "exile",
+        "pariah",
+        "ostracized"
+    ],
+    "overexpression": [
+        "hyperexpression",
+        "upregulation"
+    ],
+    "pancytopenia": [
+        "bone marrow failure",
+        "hypoplasia of bone marrow"
+    ],
+    "parameter": [
+        "variable",
+        "factor",
+        "indicator"
+    ],
+    "partner": [
+        "collaborator",
+        "associate",
+        "colleague"
+    ],
+    "pathogenesis": [
+        "disease development",
+        "disease progression",
+        "disease onset"
+    ],
+    "patient": [],
+    "patient 's": [],
+    "patient regimen": [],
+    "pcr": [
+        "Polymerase Chain Reaction",
+        "DNA amplification",
+        "Molecular cloning",
+        "Gene amplification",
+        "Nucleic acid amplification"
+    ],
+    "people": [],
+    "perinatal transmission": [
+        "Mother-to-child transmission",
+        "Vertical transmission",
+        "Congenital transmission"
+    ],
+    "period": [],
+    "persistence": [],
+    "person": [],
+    "pharmacotherapy": [
+        "Drug therapy",
+        "Medication therapy",
+        "Pharmaceutical therapy",
+        "Therapeutic drug treatment",
+        "Medicinal treatment"
+    ],
+    "phenytoin": [
+        "Dilantin",
+        "Phenytek",
+        "Dilantin-125",
+        "Phenytoin Sodium",
+        "Phenytoin Sodium Extended"
+    ],
+    "physician": [],
+    "pill": [],
+    "plan": [],
+    "plasma": [],
+    "plwh": [],
+    "pneumonia": [],
+    "polymerase chain reaction": [
+        "PCR",
+        "DNA amplification",
+        "Molecular cloning",
+        "Quantitative polymerase chain reaction",
+        "qPCR"
+    ],
+    "population": [],
+    "positive": [],
+    "potential": [
+        "possibility",
+        "capability",
+        "capacity",
+        "prospect",
+        "potentiality"
+    ],
+    "pre-exposure prophylaxis": [
+        "PrEP",
+        "HIV prevention drug",
+        "Truvada",
+        "Descovy",
+        "emtricitabine/tenofovir"
+    ],
+    "pregnancy": [
+        "gestation",
+        "gravidity",
+        "gestational period",
+        "antenatal period",
+        "fetal development period"
+    ],
+    "pregnant woman": [
+        "expectant mother",
+        "gravid female",
+        "woman in gestation",
+        "woman with child",
+        "mother-to-be"
+    ],
+    "prep": [
+        "pre-exposure prophylaxis",
+        "PrEP",
+        "HIV prevention drug",
+        "Truvada",
+        "Descovy"
+    ],
+    "prescribe": [
+        "order",
+        "recommend",
+        "advise",
+        "authorize",
+        "direct"
+    ],
+    "prescription": [
+        "medical order",
+        "doctor's order",
+        "Rx",
+        "prescribed medication",
+        "medication order"
+    ],
+    "presence": [
+        "existence",
+        "occurrence",
+        "appearance",
+        "manifestation",
+        "presence"
+    ],
+    "prevent": [
+        "avert",
+        "stop",
+        "avoid",
+        "ward off",
+        "forestall"
+    ],
+    "primary cell": [
+        "non-dividing cell",
+        "non-replicating cell",
+        "primary culture cell",
+        "untransformed cell",
+        "primary tissue cell"
+    ],
+    "primary cerebral lymphoma": [
+        "brain lymphoma",
+        "CNS lymphoma",
+        "central nervous system lymphoma",
+        "intracranial lymphoma",
+        "neurolymphomatosis"
+    ],
+    "primary prevention": [
+        "disease prevention",
+        "preventive healthcare",
+        "prophylaxis",
+        "health promotion",
+        "preventive medicine"
+    ],
+    "profile": [
+        "biological profile",
+        "patient profile",
+        "health profile",
+        "medical profile",
+        "disease profile"
+    ],
+    "progressive": [
+        "advancing",
+        "deteriorating",
+        "worsening",
+        "escalating",
+        "intensifying"
+    ],
+    "proportion": [
+        "ratio",
+        "fraction",
+        "percentage",
+        "share",
+        "part"
+    ],
+    "proviral dna": [
+        "proviral genome",
+        "integrated viral DNA",
+        "proviral genetic material",
+        "integrated provirus",
+        "latent viral DNA"
+    ],
+    "proviral transcription": [
+        "proviral gene expression",
+        "proviral RNA synthesis",
+        "proviral mRNA production",
+        "proviral gene transcription",
+        "proviral RNA transcription"
+    ],
+    "provirus": [
+        "integrated virus",
+        "latent virus",
+        "proviral DNA",
+        "viral genome",
+        "viral genetic material"
+    ],
+    "psychiatric disorder": [
+        "mental disorder",
+        "mental illness",
+        "psychopathology",
+        "mental health disorder",
+        "psychological disorder"
+    ],
+    "pwh": [
+        "person with hemophilia",
+        "hemophilia patient",
+        "individual with hemophilia",
+        "hemophiliac",
+        "patient with bleeding disorder"
+    ],
+    "question": [],
+    "reactivation": [],
+    "recommend": [],
+    "recurrence": [
+        "relapse",
+        "return",
+        "reappearance",
+        "resurgence",
+        "renewal"
+    ],
+    "reduce": [
+        "decrease",
+        "diminish",
+        "lessen",
+        "lower",
+        "minimize"
+    ],
+    "regimen": [
+        "routine",
+        "schedule",
+        "program",
+        "plan",
+        "course"
+    ],
+    "regulate": [
+        "control",
+        "manage",
+        "govern",
+        "direct",
+        "guide"
+    ],
+    "regulation": [
+        "rule",
+        "law",
+        "statute",
+        "ordinance",
+        "directive"
+    ],
+    "relevant": [
+        "pertinent",
+        "applicable",
+        "germane",
+        "apposite",
+        "material"
+    ],
+    "renal disease": [
+        "kidney disease",
+        "nephropathy",
+        "renal disorder",
+        "renal pathology",
+        "kidney disorder"
+    ],
+    "replace with": [],
+    "replicate": [],
+    "replication": [],
+    "research": [],
+    "resolve pancreatitis": [],
+    "respiratory disease": [],
+    "result": [],
+    "risk": [],
+    "risk factor": [],
+    "ritonavir": [
+        "Norvir",
+        "RTV",
+        "ABT-538",
+        "Norvir Sec",
+        "Ritonavirum"
+    ],
+    "rosuvastatin": [
+        "Crestor",
+        "Rosuvastatin Calcium",
+        "ZD4522",
+        "Rosuvastatina"
+    ],
+    "rtv": [
+        "Ritonavir",
+        "Norvir",
+        "Ritonavirum",
+        "Ritonavir Abbott"
+    ],
+    "safety": [],
+    "saliva": [],
+    "schedule": [],
+    "schizophrenia": [],
+    "self-report": [],
+    "self-test": [],
+    "semen": [],
+    "serum": [],
+    "sex": [
+        "gender",
+        "biological sex",
+        "genotypic sex",
+        "phenotypic sex",
+        "chromosomal sex"
+    ],
+    "sexual activity": [
+        "coitus",
+        "sexual intercourse",
+        "copulation",
+        "carnal knowledge",
+        "sexual congress"
+    ],
+    "sexual contact": [
+        "sexual intercourse",
+        "coitus",
+        "copulation",
+        "sexual congress",
+        "carnal knowledge"
+    ],
+    "sexual orientation": [
+        "sexual preference",
+        "sexual identity",
+        "sexual inclination",
+        "sexual proclivity",
+        "sexuality"
+    ],
+    "sexual partner": [
+        "sex mate",
+        "sexual companion",
+        "sexual consort",
+        "sexual associate",
+        "sexual counterpart"
+    ],
+    "sexually transmit infection": [
+        "STI",
+        "sexually transmitted disease",
+        "venereal disease",
+        "VD",
+        "genital infection"
+    ],
+    "shot": [
+        "injection",
+        "jab",
+        "vaccination",
+        "immunization",
+        "inoculation"
+    ],
+    "signal": [
+        "sign",
+        "indicator",
+        "marker",
+        "symptom",
+        "manifestation"
+    ],
+    "skin": [
+        "dermis",
+        "epidermis",
+        "cutis",
+        "integument",
+        "tegument"
+    ],
+    "solitary ring-enhancing lesion": [
+        "single ring-enhancing lesion",
+        "isolated ring-enhancing lesion",
+        "lone ring-enhancing lesion",
+        "unaccompanied ring-enhancing lesion",
+        "solitary contrast-enhancing lesion"
+    ],
+    "source": [],
+    "specialist": [],
+    "spread": [],
+    "stage": [],
+    "statin": [
+        "HMG-CoA reductase inhibitors",
+        "Atorvastatin",
+        "Simvastatin",
+        "Rosuvastatin",
+        "Pravastatin"
+    ],
+    "stavudine": [
+        "Zerit",
+        "d4T",
+        "2',3'-didehydro-3'-deoxythymidine"
+    ],
+    "sterile injection equipment": [],
+    "study": [],
+    "substance dependence": [
+        "drug addiction",
+        "chemical dependency",
+        "substance use disorder"
+    ],
+    "support": [],
+    "suppress": [
+        "inhibit",
+        "restrain",
+        "curb",
+        "stifle",
+        "quell"
+    ],
+    "surgery": [
+        "operation",
+        "procedure",
+        "intervention",
+        "surgical procedure",
+        "operative procedure"
+    ],
+    "sweat": [
+        "perspiration",
+        "sudor",
+        "diaphoresis",
+        "hidrosis",
+        "transpiration"
+    ],
+    "switch": [
+        "change",
+        "swap",
+        "exchange",
+        "substitute",
+        "replace"
+    ],
+    "switzerland": [
+        "Swiss Confederation",
+        "Confoederatio Helvetica",
+        "CH",
+        "Suisse",
+        "Schweiz"
+    ],
+    "symptom": [
+        "sign",
+        "indication",
+        "manifestation",
+        "evidence",
+        "marker"
+    ],
+    "symptomatic": [
+        "indicative",
+        "suggestive",
+        "representative",
+        "reflective",
+        "demonstrative"
+    ],
+    "synthesis": [
+        "combination",
+        "amalgamation",
+        "integration",
+        "unification",
+        "consolidation"
+    ],
+    "syphilis": [
+        "lues",
+        "lues venerea",
+        "Treponema pallidum infection",
+        "pox",
+        "great pox"
+    ],
+    "systemic": [
+        "systematic",
+        "comprehensive",
+        "integrated",
+        "coordinated",
+        "holistic"
+    ],
+    "taf": [
+        "tenofovir alafenamide",
+        "Vemlidy"
+    ],
+    "target": [
+        "goal",
+        "objective",
+        "endpoint",
+        "aim",
+        "focus"
+    ],
+    "tdf": [
+        "tenofovir disoproxil fumarate",
+        "Viread"
+    ],
+    "tear": [
+        "laceration",
+        "rip",
+        "rupture",
+        "fissure",
+        "split"
+    ],
+    "technique": [
+        "method",
+        "procedure",
+        "approach",
+        "strategy",
+        "tactic"
+    ],
+    "tenofovir alafenamide": [
+        "taf",
+        "Vemlidy",
+        "GS-7340"
+    ],
+    "tenofovir disoproxil": [
+        "tdf",
+        "Viread",
+        "tenofovir DF"
+    ],
+    "test": [
+        "examination",
+        "analysis",
+        "assessment",
+        "evaluation",
+        "screening"
+    ],
+    "therapeutic": [
+        "curative",
+        "healing",
+        "remedial",
+        "restorative",
+        "medicinal"
+    ],
+    "therapeutic strategy": [
+        "treatment plan",
+        "therapy approach",
+        "healing strategy",
+        "remedial plan",
+        "curative approach"
+    ],
+    "tick": [],
+    "time": [],
+    "toilet seat": [],
+    "tolerability": [],
+    "touch": [],
+    "transcriptionally": [],
+    "transition": [],
+    "transmission": [],
+    "treat": [],
+    "treatment": [],
+    "treatment ( 's )": [
+        "therapy",
+        "medical care",
+        "healthcare regimen",
+        "medical treatment",
+        "clinical management"
+    ],
+    "treatment -relate adverse event": [
+        "therapy-related side effect",
+        "treatment-induced complication",
+        "medication-related adverse event",
+        "drug-induced adverse reaction",
+        "therapy-associated adverse outcome"
+    ],
+    "treatment regimen": [
+        "therapy plan",
+        "medical regimen",
+        "treatment protocol",
+        "therapy regimen",
+        "medication schedule"
+    ],
+    "tremendous stigma": [
+        "significant stigma",
+        "great stigma",
+        "extensive stigma",
+        "profound stigma",
+        "immense stigma"
+    ],
+    "trial": [
+        "clinical trial",
+        "research study",
+        "experimental study",
+        "clinical study",
+        "medical trial"
+    ],
+    "trigger by": [
+        "caused by",
+        "induced by",
+        "provoked by",
+        "initiated by",
+        "stimulated by"
+    ],
+    "trimethoprim-sulfamethoxazole": [
+        "Bactrim",
+        "Septra",
+        "Cotrim",
+        "Sulfatrim",
+        "Co-trimoxazole"
+    ],
+    "true negative": [
+        "correct rejection",
+        "accurate negative",
+        "valid negative",
+        "reliable negative",
+        "authentic negative"
+    ],
+    "two-drug": [
+        "dual-drug",
+        "bi-drug",
+        "two-medication",
+        "double-drug",
+        "pair-drug"
+    ],
+    "undetectable": [
+        "unobservable",
+        "unnoticeable",
+        "imperceptible",
+        "indiscernible",
+        "unapparent"
+    ],
+    "urine": [
+        "pee",
+        "urinary output",
+        "micturition",
+        "urination",
+        "liquid waste"
+    ],
+    "urolithiasis": [
+        "kidney stones",
+        "urinary calculi",
+        "renal lithiasis",
+        "bladder stones",
+        "urinary tract stones"
+    ],
+    "vaginal fluid": [
+        "vaginal discharge",
+        "vaginal secretions",
+        "cervical mucus",
+        "leukorrhea",
+        "vaginal moisture"
+    ],
+    "valganciclovir": [
+        "Valcyte",
+        "valganciclovir hydrochloride",
+        "valcyte",
+        "valganciclovir HCl",
+        "valganciclovir chloride"
+    ],
+    "vein": [
+        "vena",
+        "blood vessel",
+        "venous blood vessel",
+        "venule",
+        "vena cava"
+    ],
+    "viral": [
+        "virus-related",
+        "virus-caused",
+        "virus-induced",
+        "viral origin",
+        "virus-associated"
+    ],
+    "viral load": [
+        "viral burden",
+        "viral titer",
+        "viral quantity",
+        "virus count",
+        "viral concentration"
+    ],
+    "viral replication": [
+        "viral proliferation",
+        "virus replication",
+        "viral propagation",
+        "viral multiplication",
+        "virus multiplication"
+    ],
+    "virus": [
+        "pathogen",
+        "viral agent",
+        "viral particle",
+        "viral organism",
+        "viral pathogen"
+    ],
+    "visit": [
+        "appointment",
+        "consultation",
+        "check-up",
+        "medical examination",
+        "clinical visit"
+    ],
+    "vitamin c": [
+        "ascorbic acid",
+        "L-ascorbic acid",
+        "Cenolate",
+        "Cecon",
+        "Vitamin C"
+    ],
+    "water": [
+        "H2O",
+        "Aqua",
+        "Dihydrogen monoxide",
+        "Distilled water",
+        "Purified water"
+    ],
+    "zdv": [
+        "Zidovudine",
+        "Azidothymidine",
+        "Retrovir",
+        "AZT",
+        "Compound S"
+    ],
+    "zidovudine": [
+        "ZDV",
+        "Azidothymidine",
+        "Retrovir",
+        "AZT",
+        "Compound S"
+    ]
+}

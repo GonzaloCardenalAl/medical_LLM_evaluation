@@ -1,0 +1,64 @@
+Many modules are hidden in this stack. Use "module --show_hidden spider SOFTWARE" if you are not able to find the required software
+/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/torch/cuda/__init__.py:716: UserWarning: Can't initialize NVML
+  warnings.warn("Can't initialize NVML")
+Traceback (most recent call last):
+  File "/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/urllib3/connection.py", line 199, in _new_conn
+    sock = connection.create_connection(
+  File "/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+OSError: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/urllib3/connectionpool.py", line 789, in urlopen
+    response = self._make_request(
+  File "/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/urllib3/connectionpool.py", line 490, in _make_request
+    raise new_e
+  File "/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/urllib3/connectionpool.py", line 466, in _make_request
+    self._validate_conn(conn)
+  File "/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/urllib3/connectionpool.py", line 1095, in _validate_conn
+    conn.connect()
+  File "/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/urllib3/connection.py", line 693, in connect
+    self.sock = sock = self._new_conn()
+  File "/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/urllib3/connection.py", line 214, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x14673a84af40>: Failed to establish a new connection: [Errno 101] Network is unreachable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/requests/adapters.py", line 667, in send
+    resp = conn.urlopen(
+  File "/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/urllib3/connectionpool.py", line 843, in urlopen
+    retries = retries.increment(
+  File "/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /stanfordnlp/stanza-resources/main/resources_1.9.0.json (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x14673a84af40>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/cluster/home/gcardenal/HIV/deploy_medical_LLM_evaluation/deploy_medical_llm_evaluation/f1_score.py", line 38, in <module>
+    stanza.download('en', package='mimic', processors='tokenize,pos,lemma')
+  File "/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/stanza/resources/common.py", line 579, in download
+    download_resources_json(model_dir, resources_url, resources_branch, resources_version, resources_filepath=None, proxies=proxies)
+  File "/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/stanza/resources/common.py", line 459, in download_resources_json
+    request_file(
+  File "/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/stanza/resources/common.py", line 157, in request_file
+    download_file(url, temppath, proxies, raise_for_status)
+  File "/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/stanza/resources/common.py", line 119, in download_file
+    r = requests.get(url, stream=True, proxies=proxies)
+  File "/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+  File "/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+  File "/cluster/home/gcardenal/miniconda3/envs/scispacy_env/lib/python3.9/site-packages/requests/adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /stanfordnlp/stanza-resources/main/resources_1.9.0.json (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x14673a84af40>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
