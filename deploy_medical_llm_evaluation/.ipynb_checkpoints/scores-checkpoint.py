@@ -459,7 +459,7 @@ def merge_final_df_over_questions(f1_json_path):
 
 
 if __name__ == "__main__":
-    gpt4_api_key = "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"
+    gpt4_api_key = ""  #Add your token for the OpenAI API
     gpt4_base_url = "http://148.187.108.173:8080"
 
     script_dir = os.path.dirname(os.path.abspath(__file__))

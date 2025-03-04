@@ -14,14 +14,14 @@ import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from utils import split_model
 
-claude_api_key = "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"
+claude_api_key = "" #Add you Claude API
 client_claude = anthropic.Anthropic(api_key=claude_api_key)
 
-llama_api_key = "sk-rc-COSy3IVB1YAE1-fbGyHwhg"
+llama_api_key = "" #add your token for the Llama API
 #llama_base_url = "https://fmapi.swissai.cscs.ch"
 llama_base_url = "https://f.swissai.cscs.ch"
 
-meditron_api_key = "research-97b2f4a7-b7f1-4297-b72a-8f3aaa48116d"
+meditron_api_key = "" #add your token for the Meditron API
 meditron_base_url = "https://moovegateway.epfl.ch/v1/"
 
 client_openai = OpenAI(api_key=llama_api_key , base_url=llama_base_url) # For Llama API calls
@@ -649,7 +649,7 @@ if __name__ == "__main__":
   #  model_list = ["Llama", "Meditron", "Claude", "Med42", "NVLM"]  # just a single model for demonstration
     # 1st step: get model answers
     system_prompt="You are a helpful, respectful and honest senior physician specializing in HIV. You are assisting a junior clinician answering medical questions. Keep your answers brief and clear. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information."
-    output_model_dir = obtain_answers_HIV(questions_dir=questions_dir, model_list=model_list, system_prompt= system_prompt)
+   # output_model_dir = obtain_answers_HIV(questions_dir=questions_dir, model_list=model_list, system_prompt= system_prompt)
    # output_model_dir = obtain_answers_HIV(questions_dir=questions_dir, model_list=model_list)
     print("Model inferences have been completed and saved to the output directory.")
     output_model_dir = '/cluster/home/gcardenal/HIV/deploy_medical_LLM_evaluation/deploy_medical_llm_evaluation/model_answers/'
