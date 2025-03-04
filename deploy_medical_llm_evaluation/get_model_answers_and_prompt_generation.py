@@ -14,14 +14,14 @@ import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
 from utils import split_model
 
-claude_api_key = "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"
+claude_api_key = "" #Add you Claude API
 client_claude = anthropic.Anthropic(api_key=claude_api_key)
 
-llama_api_key = "sk-rc-COSy3IVB1YAE1-fbGyHwhg"
+llama_api_key = "" #add your token for the Llama API
 #llama_base_url = "https://fmapi.swissai.cscs.ch"
 llama_base_url = "https://f.swissai.cscs.ch"
 
-meditron_api_key = "research-97b2f4a7-b7f1-4297-b72a-8f3aaa48116d"
+meditron_api_key = "" #add your token for the Meditron API
 meditron_base_url = "https://moovegateway.epfl.ch/v1/"
 
 client_openai = OpenAI(api_key=llama_api_key , base_url=llama_base_url) # For Llama API calls

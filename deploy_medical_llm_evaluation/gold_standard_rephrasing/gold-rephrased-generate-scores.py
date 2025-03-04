@@ -108,7 +108,7 @@ def get_GPT_scores_rephrased(gpt4_api_key,input_dir):
                     json.dump(responses_list, f, indent=2)
 
 if __name__ == "__main__":
-    gpt4_api_key = "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"
+    gpt4_api_key = "" #Add your token for the OpenAI API
     gpt4_base_url = "http://148.187.108.173:8080"
 
     path_to_true_answers = '../model_answers/raw/'
