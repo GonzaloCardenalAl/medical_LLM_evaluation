@@ -1,0 +1,370 @@
+Error while loading conda entry point: anaconda-anon-usage-plugin (No module named 'anaconda_anon_usage')
+Error while loading conda entry point: anaconda-anon-usage-plugin (No module named 'anaconda_anon_usage')
+# packages in environment at /cluster/home/gcardenal/miniconda3/envs/vllm_2:
+#
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                        main  
+_openmp_mutex             5.1                       1_gnu  
+accelerate                1.1.1                    pypi_0    pypi
+aiohappyeyeballs          2.4.0                    pypi_0    pypi
+aiohttp                   3.10.6                   pypi_0    pypi
+aiosignal                 1.3.1                    pypi_0    pypi
+annotated-types           0.7.0                    pypi_0    pypi
+anthropic                 0.40.0                   pypi_0    pypi
+anyio                     4.6.0                    pypi_0    pypi
+argon2-cffi               23.1.0                   pypi_0    pypi
+argon2-cffi-bindings      21.2.0                   pypi_0    pypi
+arrow                     1.3.0                    pypi_0    pypi
+asttokens                 3.0.0                    pypi_0    pypi
+async-lru                 2.0.4                    pypi_0    pypi
+async-timeout             4.0.3                    pypi_0    pypi
+attrs                     24.2.0                   pypi_0    pypi
+babel                     2.17.0                   pypi_0    pypi
+beautifulsoup4            4.12.3                   pypi_0    pypi
+bleach                    6.2.0                    pypi_0    pypi
+bzip2                     1.0.8                h5eee18b_6  
+ca-certificates           2025.2.25            h06a4308_0  
+certifi                   2024.8.30                pypi_0    pypi
+cffi                      1.17.1                   pypi_0    pypi
+charset-normalizer        3.3.2                    pypi_0    pypi
+click                     8.1.7                    pypi_0    pypi
+cloudpickle               3.0.0                    pypi_0    pypi
+comm                      0.2.2                    pypi_0    pypi
+datasets                  3.0.1                    pypi_0    pypi
+debugpy                   1.8.14                   pypi_0    pypi
+decorator                 5.2.1                    pypi_0    pypi
+defusedxml                0.7.1                    pypi_0    pypi
+dill                      0.3.8                    pypi_0    pypi
+diskcache                 5.6.3                    pypi_0    pypi
+distro                    1.9.0                    pypi_0    pypi
+einops                    0.8.0                    pypi_0    pypi
+emoji                     2.14.0                   pypi_0    pypi
+exceptiongroup            1.3.0                    pypi_0    pypi
+executing                 2.2.0                    pypi_0    pypi
+fastapi                   0.115.0                  pypi_0    pypi
+fastjsonschema            2.21.1                   pypi_0    pypi
+filelock                  3.16.1                   pypi_0    pypi
+fqdn                      1.5.1                    pypi_0    pypi
+frozenlist                1.6.0                    pypi_0    pypi
+fsspec                    2024.6.1                 pypi_0    pypi
+gguf                      0.10.0                   pypi_0    pypi
+h11                       0.16.0                   pypi_0    pypi
+hf-xet                    1.1.2                    pypi_0    pypi
+httpcore                  1.0.9                    pypi_0    pypi
+httptools                 0.6.4                    pypi_0    pypi
+httpx                     0.28.1                   pypi_0    pypi
+huggingface-hub           0.32.3                   pypi_0    pypi
+idna                      3.10                     pypi_0    pypi
+importlib-metadata        8.7.0                    pypi_0    pypi
+interegular               0.3.3                    pypi_0    pypi
+ipykernel                 6.29.5                   pypi_0    pypi
+ipython                   8.30.0                   pypi_0    pypi
+ipywidgets                8.1.5                    pypi_0    pypi
+isoduration               20.11.0                  pypi_0    pypi
+jedi                      0.19.2                   pypi_0    pypi
+jinja2                    3.1.4                    pypi_0    pypi
+jiter                     0.10.0                   pypi_0    pypi
+json5                     0.12.0                   pypi_0    pypi
+jsonpointer               3.0.0                    pypi_0    pypi
+jsonschema                4.24.0                   pypi_0    pypi
+jsonschema-specifications 2025.4.1                 pypi_0    pypi
+jupyter                   1.1.1                    pypi_0    pypi
+jupyter-client            8.6.3                    pypi_0    pypi
+jupyter-console           6.6.3                    pypi_0    pypi
+jupyter-core              5.8.1                    pypi_0    pypi
+jupyter-events            0.12.0                   pypi_0    pypi
+jupyter-lsp               2.2.5                    pypi_0    pypi
+jupyter-server            2.16.0                   pypi_0    pypi
+jupyter-server-terminals  0.5.3                    pypi_0    pypi
+jupyterlab                4.3.2                    pypi_0    pypi
+jupyterlab-pygments       0.3.0                    pypi_0    pypi
+jupyterlab-server         2.27.3                   pypi_0    pypi
+jupyterlab-widgets        3.0.15                   pypi_0    pypi
+lark                      1.2.2                    pypi_0    pypi
+ld_impl_linux-64          2.40                 h12ee557_0  
+libffi                    3.4.4                h6a678d5_1  
+libgcc-ng                 11.2.0               h1234567_1  
+libgomp                   11.2.0               h1234567_1  
+libstdcxx-ng              11.2.0               h1234567_1  
+libuuid                   1.41.5               h5eee18b_0  
+llvmlite                  0.43.0                   pypi_0    pypi
+lm-format-enforcer        0.10.6                   pypi_0    pypi
+markupsafe                3.0.2                    pypi_0    pypi
+matplotlib-inline         0.1.7                    pypi_0    pypi
+mistral-common            1.4.3                    pypi_0    pypi
+mistune                   3.1.3                    pypi_0    pypi
+mpmath                    1.3.0                    pypi_0    pypi
+msgpack                   1.1.0                    pypi_0    pypi
+msgspec                   0.19.0                   pypi_0    pypi
+multidict                 6.4.4                    pypi_0    pypi
+multiprocess              0.70.16                  pypi_0    pypi
+nbclient                  0.10.2                   pypi_0    pypi
+nbconvert                 7.16.4                   pypi_0    pypi
+nbformat                  5.10.4                   pypi_0    pypi
+ncurses                   6.4                  h6a678d5_0  
+nest-asyncio              1.6.0                    pypi_0    pypi
+networkx                  3.3                      pypi_0    pypi
+notebook                  7.3.1                    pypi_0    pypi
+notebook-shim             0.2.4                    pypi_0    pypi
+numba                     0.60.0                   pypi_0    pypi
+numpy                     1.26.4                   pypi_0    pypi
+nvidia-cublas-cu12        12.1.3.1                 pypi_0    pypi
+nvidia-cuda-cupti-cu12    12.1.105                 pypi_0    pypi
+nvidia-cuda-nvrtc-cu12    12.1.105                 pypi_0    pypi
+nvidia-cuda-runtime-cu12  12.1.105                 pypi_0    pypi
+nvidia-cudnn-cu12         9.1.0.70                 pypi_0    pypi
+nvidia-cufft-cu12         11.0.2.54                pypi_0    pypi
+nvidia-curand-cu12        10.3.2.106               pypi_0    pypi
+nvidia-cusolver-cu12      11.4.5.107               pypi_0    pypi
+nvidia-cusparse-cu12      12.1.0.106               pypi_0    pypi
+nvidia-ml-py              12.575.51                pypi_0    pypi
+nvidia-nccl-cu12          2.21.5                   pypi_0    pypi
+nvidia-nvjitlink-cu12     12.9.41                  pypi_0    pypi
+nvidia-nvtx-cu12          12.1.105                 pypi_0    pypi
+openai                    1.48.0                   pypi_0    pypi
+openssl                   3.0.16               h5eee18b_0  
+outlines                  0.0.46                   pypi_0    pypi
+overrides                 7.7.0                    pypi_0    pypi
+packaging                 25.0                     pypi_0    pypi
+pandas                    2.2.3                    pypi_0    pypi
+pandocfilters             1.5.1                    pypi_0    pypi
+parso                     0.8.4                    pypi_0    pypi
+partial-json-parser       0.2.1.1.post5            pypi_0    pypi
+pexpect                   4.9.0                    pypi_0    pypi
+pillow                    10.4.0                   pypi_0    pypi
+pip                       25.1               pyhc872135_2  
+platformdirs              4.3.8                    pypi_0    pypi
+plotly                    5.24.1                   pypi_0    pypi
+prometheus-client         0.22.0                   pypi_0    pypi
+prometheus-fastapi-instrumentator 7.1.0                    pypi_0    pypi
+prompt-toolkit            3.0.51                   pypi_0    pypi
+propcache                 0.3.1                    pypi_0    pypi
+protobuf                  5.28.2                   pypi_0    pypi
+psutil                    7.0.0                    pypi_0    pypi
+ptyprocess                0.7.0                    pypi_0    pypi
+pure-eval                 0.2.3                    pypi_0    pypi
+py-cpuinfo                9.0.0                    pypi_0    pypi
+pyairports                2.1.1                    pypi_0    pypi
+pyarrow                   17.0.0                   pypi_0    pypi
+pycountry                 24.6.1                   pypi_0    pypi
+pycparser                 2.22                     pypi_0    pypi
+pydantic                  2.9.2                    pypi_0    pypi
+pydantic-core             2.23.4                   pypi_0    pypi
+pygments                  2.19.1                   pypi_0    pypi
+python                    3.10.16              he870216_1  
+python-dateutil           2.9.0.post0              pypi_0    pypi
+python-dotenv             1.0.1                    pypi_0    pypi
+python-json-logger        3.3.0                    pypi_0    pypi
+pytz                      2025.2                   pypi_0    pypi
+pyyaml                    6.0.2                    pypi_0    pypi
+pyzmq                     26.4.0                   pypi_0    pypi
+ray                       2.37.0                   pypi_0    pypi
+readline                  8.2                  h5eee18b_0  
+referencing               0.36.2                   pypi_0    pypi
+regex                     2024.11.6                pypi_0    pypi
+requests                  2.32.3                   pypi_0    pypi
+rfc3339-validator         0.1.4                    pypi_0    pypi
+rfc3986-validator         0.1.1                    pypi_0    pypi
+rpds-py                   0.25.1                   pypi_0    pypi
+safetensors               0.4.5                    pypi_0    pypi
+send2trash                1.8.3                    pypi_0    pypi
+sentencepiece             0.2.0                    pypi_0    pypi
+setuptools                78.1.1          py310h06a4308_0  
+six                       1.17.0                   pypi_0    pypi
+sniffio                   1.3.1                    pypi_0    pypi
+soupsieve                 2.7                      pypi_0    pypi
+sqlite                    3.45.3               h5eee18b_0  
+stack-data                0.6.3                    pypi_0    pypi
+starlette                 0.38.6                   pypi_0    pypi
+sympy                     1.13.1                   pypi_0    pypi
+tenacity                  9.1.2                    pypi_0    pypi
+terminado                 0.18.1                   pypi_0    pypi
+tiktoken                  0.7.0                    pypi_0    pypi
+timm                      1.0.12                   pypi_0    pypi
+tinycss2                  1.4.0                    pypi_0    pypi
+tk                        8.6.14               h39e8969_0  
+tokenizers                0.21.1                   pypi_0    pypi
+tomli                     2.2.1                    pypi_0    pypi
+torch                     2.5.0+cu121              pypi_0    pypi
+torchvision               0.19.0                   pypi_0    pypi
+tornado                   6.5.1                    pypi_0    pypi
+tqdm                      4.66.5                   pypi_0    pypi
+traitlets                 5.14.3                   pypi_0    pypi
+transformers              4.52.4                   pypi_0    pypi
+triton                    3.1.0                    pypi_0    pypi
+types-python-dateutil     2.9.0.20250516           pypi_0    pypi
+typing-extensions         4.13.2                   pypi_0    pypi
+tzdata                    2025.2                   pypi_0    pypi
+uri-template              1.3.0                    pypi_0    pypi
+urllib3                   2.4.0                    pypi_0    pypi
+uvicorn                   0.30.6                   pypi_0    pypi
+uvloop                    0.21.0                   pypi_0    pypi
+vllm                      0.6.2                    pypi_0    pypi
+watchfiles                1.0.5                    pypi_0    pypi
+wcwidth                   0.2.13                   pypi_0    pypi
+webcolors                 24.11.1                  pypi_0    pypi
+webencodings              0.5.1                    pypi_0    pypi
+websocket-client          1.8.0                    pypi_0    pypi
+websockets                15.0.1                   pypi_0    pypi
+wheel                     0.45.1          py310h06a4308_0  
+widgetsnbextension        4.0.14                   pypi_0    pypi
+xformers                  0.0.27.post2             pypi_0    pypi
+xxhash                    3.5.0                    pypi_0    pypi
+xz                        5.6.4                h5eee18b_1  
+yarl                      1.20.0                   pypi_0    pypi
+zipp                      3.22.0                   pypi_0    pypi
+zlib                      1.2.13               h5eee18b_1  
+Package                  Version
+------------------------ -----------
+accelerate               1.7.0
+anaconda-anon-usage      0.7.0
+annotated-types          0.6.0
+anthropic                0.52.1
+anyio                    4.9.0
+archspec                 0.2.3
+boltons                  24.1.0
+Brotli                   1.0.9
+certifi                  2025.4.26
+cffi                     1.17.1
+charset-normalizer       3.3.2
+conda                    25.3.1
+conda-anaconda-telemetry 0.1.2
+conda-anaconda-tos       0.1.3
+conda-content-trust      0.2.0
+conda-libmamba-solver    25.4.0
+conda-package-handling   2.4.0
+conda_package_streaming  0.11.0
+cryptography             44.0.1
+distro                   1.9.0
+filelock                 3.18.0
+frozendict               2.4.2
+fsspec                   2025.5.1
+h11                      0.16.0
+hf-xet                   1.1.2
+httpcore                 1.0.9
+httpx                    0.28.1
+huggingface-hub          0.32.3
+idna                     3.7
+Jinja2                   3.1.4
+jiter                    0.10.0
+jsonpatch                1.33
+jsonpointer              2.1
+libmambapy               2.0.5
+markdown-it-py           2.2.0
+MarkupSafe               3.0.2
+mdurl                    0.1.0
+menuinst                 2.2.0
+mpmath                   1.3.0
+networkx                 3.3
+numpy                    2.2.6
+nvidia-cublas-cu12       12.1.3.1
+nvidia-cuda-cupti-cu12   12.1.105
+nvidia-cuda-nvrtc-cu12   12.1.105
+nvidia-cuda-runtime-cu12 12.1.105
+nvidia-cudnn-cu12        9.1.0.70
+nvidia-cufft-cu12        11.0.2.54
+nvidia-curand-cu12       10.3.2.106
+nvidia-cusolver-cu12     11.4.5.107
+nvidia-cusparse-cu12     12.1.0.106
+nvidia-nccl-cu12         2.21.5
+nvidia-nvjitlink-cu12    12.1.105
+nvidia-nvtx-cu12         12.1.105
+openai                   1.82.1
+packaging                24.2
+pandas                   2.2.3
+pip                      25.0
+platformdirs             4.3.7
+pluggy                   1.5.0
+psutil                   7.0.0
+pycosat                  0.6.6
+pycparser                2.21
+pydantic                 2.10.3
+pydantic_core            2.27.1
+Pygments                 2.19.1
+PySocks                  1.7.1
+python-dateutil          2.9.0.post0
+pytz                     2025.2
+PyYAML                   6.0.2
+regex                    2024.11.6
+requests                 2.32.3
+rich                     13.9.4
+ruamel.yaml              0.18.10
+ruamel.yaml.clib         0.2.12
+safetensors              0.5.3
+setuptools               78.1.1
+six                      1.17.0
+sniffio                  1.3.1
+sympy                    1.13.1
+tokenizers               0.21.1
+torch                    2.5.1+cu121
+tqdm                     4.67.1
+transformers             4.52.4
+truststore               0.10.0
+typing_extensions        4.12.2
+tzdata                   2025.2
+urllib3                  2.3.0
+wheel                    0.45.1
+zstandard                0.23.0
+
+Currently Loaded Modules:
+  1) stack/2024-05   3) cuda/12.2.1          5) eth_proxy   7) hdf5/1.14.3
+  2) gcc/13.2.0      4) python/3.11.6_cuda   6) r/4.3.2     8) julia/1.10.3
+
+ 
+
+Using Python at: /cluster/home/gcardenal/miniconda3/bin/python
+Using torchrun at: /cluster/home/gcardenal/miniconda3/bin/torchrun
+✅ openai imported successfully
+{'SHELL': '/bin/bash', 'JUPYTER_CONFIG_DIR': '/cluster/home/gcardenal/.jupyterlab', 'JUPYTERHUB_ADMIN_ACCESS': '1', 'SLURM_JOB_USER': 'gcardenal', 'LIBGL_ALWAYS_INDIRECT': '1', 'SLURM_TASKS_PER_NODE': '1', 'SLURM_JOB_UID': '608619', 'no_proxy': 'api.wandb.ai,app.neptune.ai,jupyter.eu-dev.hpc.ethz.ch,jupyter-staging.euler.hpc.ethz.ch,jupyter.euler.hpc.ethz.ch,.consul,localhost,127.0.0.1,127.0.0.0/8,169.254.0.0/16', 'SLURM_TASK_PID': '18046', 'CONDA_EXE': '/cluster/home/gcardenal/miniconda3/bin/conda', 'R_HOME': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/rlib/R', 'JUPYTERHUB_SERVICE_URL': 'https://0.0.0.0:0/user/gcardenal/', 'PKG_CONFIG_PATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/lib/pkgconfig:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/rlib/pkgconfig:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/lib/pkgconfig', 'SLURM_LOCALID': '0', 'PYTHONNOUSERSITE': '1', 'SLURM_SUBMIT_DIR': '/cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation', 'HOSTNAME': 'eu-g5-030-2', 'SLURMD_NODENAME': 'eu-g5-030-2', 'JUPYTERHUB_API_TOKEN': '1cccf186a6c8457e82f79b55f92e3e77', 'SLURM_JOB_START_TIME': '1748933039', 'HYDRA_LAUNCHER_EXTRA_ARGS': '--external-launcher', '_ModuleTable007_': 'fQo=', '_ModuleTable002_': 'MDAwMDAxMi4wMDAwMDAwMDIuMDAwMDAwMDAxLip6ZmluYWwiLAp9LApldGhfcHJveHkgPSB7CmZuID0gIi9jbHVzdGVyL3NvZnR3YXJlL2xtb2RzL2V0aF9wcm94eS5sdWEiLApmdWxsTmFtZSA9ICJldGhfcHJveHkiLApsb2FkT3JkZXIgPSA1LApwcm9wVCA9IHt9LApzdGFja0RlcHRoID0gMCwKc3RhdHVzID0gImFjdGl2ZSIsCnVzZXJOYW1lID0gImV0aF9wcm94eSIsCndWID0gIk0uKnpmaW5hbCIsCn0sCmdjYyA9IHsKZm4gPSAiL2NsdXN0ZXIvc29mdHdhcmUvc3RhY2tzLzIwMjQtMDUvc3BhY2svc2hhcmUvc3BhY2svbG1vZC9saW51eC11YnVudHUyMi4wNC14ODZfNjQvQ29yZS9nY2MvMTMuMi4wLmx1YSIsCmZ1bGxOYW1lID0gImdjYy8xMy4yLjAiLApsb2FkT3JkZXIg', 'HDF5_EULER_ROOT': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr', 'CPUS': '1', '__LMOD_REF_COUNT_MODULEPATH': '/cluster/software/lmods:1', '__LMOD_REF_COUNT_CPLUS_INCLUDE_PATH': '/cluster/software/manual/julia/1.10.3/x86_64/include:1', 'JUPYTERHUB_BASE_URL': '/', '_ModuleTable005_': 'bWUgPSAicHl0aG9uLzMuMTEuNl9jdWRhIiwKbG9hZE9yZGVyID0gNCwKcHJvcFQgPSB7fSwKc3RhY2tEZXB0aCA9IDAsCnN0YXR1cyA9ICJhY3RpdmUiLAp1c2VyTmFtZSA9ICJweXRob24vMy4xMS42X2N1ZGEiLAp3ViA9ICIwMDAwMDAwMDMuMDAwMDAwMDExLjAwMDAwMDAwNi4qXy4qY3VkYS4qemZpbmFsIiwKfSwKciA9IHsKZm4gPSAiL2NsdXN0ZXIvc29mdHdhcmUvc3RhY2tzLzIwMjQtMDUvc3BhY2svc2hhcmUvc3BhY2svbG1vZC9saW51eC11YnVudHUyMi4wNC14ODZfNjQvZ2NjLzEzLjIuMC9yLzQuMy4yLmx1YSIsCmZ1bGxOYW1lID0gInIvNC4zLjIiLApsb2FkT3JkZXIgPSA2LApwcm9wVCA9IHt9LApzdGFja0RlcHRoID0gMCwKc3RhdHVzID0gImFjdGl2ZSIsCnVz', 'SLURM_CLUSTER_NAME': 'euler-24-production', 'SLURM_JOB_END_TIME': '1748947439', 'SLURM_CPUS_ON_NODE': '8', 'SLURM_JOB_CPUS_PER_NODE': '8', 'LMOD_DIR': '/cluster/software/stacks/2024-06/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-12.2.0/lmod-8.7.24-ou4i7x2rgiaysly4vgawaga6muhkdye4/lmod/lmod/libexec', 'PWD': '/cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation', 'PRTE_MCA_plm_slurm_args': '--external-launcher', 'SLURM_GTIDS': '0', 'LOGNAME': 'gcardenal', 'CONDA_PREFIX': '/cluster/home/gcardenal/miniconda3/envs/vllm_2', 'SLURM_JOB_PARTITION': 'bigmem.4h', 'SCRIPTS_PATH': '/cluster/software/others/services/jupyterhub/scripts', 'MODULESHOME': '/cluster/software/stacks/2024-06/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-12.2.0/lmod-8.7.24-ou4i7x2rgiaysly4vgawaga6muhkdye4/lmod/lmod', 'JUPYTER_SERVER_URL': 'https://eu-g5-044-1:37571/user/gcardenal/', 'MANPATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/share/man:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/share/man:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/share/man::', 'SLURM_TRES_PER_TASK': 'cpu=8', 'PYTHON_EULER_ROOT': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i', 'SLURM_JOB_NUM_NODES': '1', 'CXX': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/bin/g++', '__LMOD_REF_COUNT_CMAKE_PREFIX_PATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog:1', '__LMOD_REF_COUNT_INCLUDE': '/cluster/software/manual/julia/1.10.3/x86_64/include:1', 'SLURM_JOBID': '33778126', 'ftp_proxy': 'http://proxy.service.consul:3128', 'JUPYTERHUB_SERVER_NAME': '', 'SLURM_JOB_QOS': 'es_ilic/bigmem/4', 'I_MPI_HYDRA_BOOTSTRAP_EXEC_EXTRA_ARGS': '--external-launcher', 'JUPYTER_DIR': '/', 'LINES': '54', 'GI_TYPELIB_PATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/pango-1.50.13-m6jqr7uchlpizk7kjhwpq6yl56vdtjb2/lib/girepository-1.0:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/harfbuzz-7.3.0-kfcjmvrteszehgnzwgjp5mmiyyhiggsc/lib/girepository-1.0', '__LMOD_REF_COUNT_PATH': '/cluster/software/manual/julia/1.10.3/x86_64/bin:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/bin:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/bin:1;/cluster/software/stacks/2024-05/python-cuda/3.11.6/bin:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt/bin:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/bin:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/bin:1;/usr/local/bin:2;/usr/local/sbin:1;/usr/sbin:1;/usr/bin:1;/sbin:1;/bin:1;/cluster/slurm/apps/bin:1', 'HOME': '/cluster/home/gcardenal', '_ModuleTable_Sz_': '7', '__LMOD_REF_COUNT_LIBRARY_PATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/lib:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt/lib64:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/lib:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/lib64:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/lib:1', 'LANG': 'C.UTF-8', '__LMOD_REF_COUNT_PKG_CONFIG_PATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/lib/pkgconfig:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/rlib/pkgconfig:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/lib/pkgconfig:1', 'SLURM_PROCID': '0', 'JPY_API_TOKEN': '1cccf186a6c8457e82f79b55f92e3e77', 'COLUMNS': '139', '__LMOD_REF_COUNT_XLOCALEDIR': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/libx11-1.8.4-pdy3nkfzllbwmmmhnxrwhxonuqg4v2b7/share/X11/locale:1', 'SCRATCH': '/cluster/scratch/gcardenal', '__LMOD_REF_COUNT_CPATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/include:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/include:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt/include:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/include:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/include:1', 'LMOD_SETTARG_FULL_SUPPORT': 'no', 'JUPYTERLAB_ROOT': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i', 'CONDA_PROMPT_MODIFIER': '(vllm_2) ', 'TMPDIR': '/scratch/tmp.33778126.gcardenal', 'JUPYTERHUB_SERVICE_PREFIX': '/user/gcardenal/', 'CUDA_EULER_ROOT': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt', 'CMAKE_PREFIX_PATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog', 'JUPYTERHUB_OAUTH_CALLBACK_URL': '/user/gcardenal/oauth_callback', 'https_proxy': 'http://proxy.service.consul:3128', 'R_EULER_ROOT': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn', 'SLURM_CPUS_PER_TASK': '8', 'SLURM_NTASKS': '1', 'CONFIG_PATH': '/cluster/home/gcardenal/.config/euler/jupyterhub', 'SLURM_TOPOLOGY_ADDR': 'euler_80.lca-135-lca-f22-u.eu-g5-030-2', 'LMOD_VERSION': '8.7.24', 'JUPYTER_CONFIG_PATH': '/cluster/home/gcardenal/.jupyterlab:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/share/jupyter', 'LMOD_PACKAGE_PATH': '/cluster/software/etc/lmod', 'JUPYTERHUB_OAUTH_CLIENT_ALLOWED_SCOPES': '[]', '_ModuleTable003_': 'PSAyLApwcm9wVCA9IHt9LApzdGFja0RlcHRoID0gMCwKc3RhdHVzID0gImFjdGl2ZSIsCnVzZXJOYW1lID0gImdjYy8xMy4yLjAiLAp3ViA9ICIwMDAwMDAwMTMuMDAwMDAwMDAyLip6ZmluYWwiLAp9LApoZGY1ID0gewpmbiA9ICIvY2x1c3Rlci9zb2Z0d2FyZS9zdGFja3MvMjAyNC0wNS9zcGFjay9zaGFyZS9zcGFjay9sbW9kL2xpbnV4LXVidW50dTIyLjA0LXg4Nl82NC9nY2MvMTMuMi4wL2hkZjUvMS4xNC4zLmx1YSIsCmZ1bGxOYW1lID0gImhkZjUvMS4xNC4zIiwKbG9hZE9yZGVyID0gNywKcHJvcFQgPSB7fSwKc3RhY2tEZXB0aCA9IDAsCnN0YXR1cyA9ICJhY3RpdmUiLAp1c2VyTmFtZSA9ICJoZGY1LzEuMTQuMyIsCndWID0gIjAwMDAwMDAwMS4wMDAwMDAwMTQuMDAw', 'HYDRA_BOOTSTRAP': 'slurm', '__LMOD_REF_COUNT_XDG_DATA_DIRS': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/pango-1.50.13-m6jqr7uchlpizk7kjhwpq6yl56vdtjb2/share:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/harfbuzz-7.3.0-kfcjmvrteszehgnzwgjp5mmiyyhiggsc/share:1', 'PROXY_PORT': '37571', 'SLURM_TOPOLOGY_ADDR_PATTERN': 'switch.switch.node', 'SLURM_MEM_PER_CPU': '40960', 'LMOD_PKG': '/cluster/software/stacks/2024-06/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-12.2.0/lmod-8.7.24-ou4i7x2rgiaysly4vgawaga6muhkdye4/lmod/lmod', 'SLURM_SCRIPT_CONTEXT': 'prolog_task', 'JUPYTER_SERVER_ROOT': '/', 'PYTHONPATH': '/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/scratch/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/envs/vllm_2/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/scratch/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/condabin:/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/scratch/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/scratch/gcardenal/miniconda3/bin:/cluster/software/manual/julia/1.10.3/x86_64/bin:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/bin:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/bin:/cluster/software/stacks/2024-05/python-cuda/3.11.6/bin:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt/bin:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/bin:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/bin:/usr/local/bin:/usr/local/sbin:/usr/sbin:/usr/bin:/sbin:/bin:/cluster/slurm/apps/bin:/cluster/software/bin:/cluster/home/gcardenal/.local/bin:/cluster/home/gcardenal/bin', 'TERM': 'xterm-256color', 'JUPYTERHUB_SSL_KEYFILE': '.config/euler/jupyterhub/jupyter.key', 'JUPYTER_EXTRA_ARGS': '', 'ZES_ENABLE_SYSMAN': '1', 'CPLUS_INCLUDE_PATH': '/cluster/software/manual/julia/1.10.3/x86_64/include', 'XLOCALEDIR': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/libx11-1.8.4-pdy3nkfzllbwmmmhnxrwhxonuqg4v2b7/share/X11/locale', 'F77': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/bin/gfortran', '__LMOD_REF_COUNT_GI_TYPELIB_PATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/pango-1.50.13-m6jqr7uchlpizk7kjhwpq6yl56vdtjb2/lib/girepository-1.0:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/harfbuzz-7.3.0-kfcjmvrteszehgnzwgjp5mmiyyhiggsc/lib/girepository-1.0:1', 'USER': 'gcardenal', 'LIBRARY_PATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/lib:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt/lib64:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/lib:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/lib64:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/lib', 'SLURM_NODELIST': 'eu-g5-030-2', 'ENVIRONMENT': 'BATCH', 'CONDA_SHLVL': '1', 'LOADEDMODULES': 'stack/2024-05:gcc/13.2.0:cuda/12.2.1:python/3.11.6_cuda:eth_proxy:r/4.3.2:hdf5/1.14.3:julia/1.10.3', 'SLURM_JOB_ACCOUNT': 'bigmem/es_ilic', 'SLURM_PRIO_PROCESS': '0', 'JUPYTERHUB_OAUTH_ACCESS_SCOPES': '["access:servers!server=gcardenal/", "access:servers!user=gcardenal"]', 'SLURM_NPROCS': '1', 'INCLUDE': '/cluster/software/manual/julia/1.10.3/x86_64/include', 'JUPYTERHUB_COOKIE_HOST_PREFIX_ENABLED': '0', 'LMOD_ROOT': '/cluster/software/stacks/2024-06/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-12.2.0/lmod-8.7.24-ou4i7x2rgiaysly4vgawaga6muhkdye4/lmod', 'NVHPC_CUDA_HOME': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt', 'SHLVL': '4', 'SLURM_NNODES': '1', 'PYXTERM_DIMENSIONS': '80x25', 'BASH_ENV': '/cluster/software/stacks/2024-06/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-12.2.0/lmod-8.7.24-ou4i7x2rgiaysly4vgawaga6muhkdye4/lmod/lmod/init/bash', '_ModuleTable006_': 'ZXJOYW1lID0gInIvNC4zLjIiLAp3ViA9ICIwMDAwMDAwMDQuMDAwMDAwMDAzLjAwMDAwMDAwMi4qemZpbmFsIiwKfSwKc3RhY2sgPSB7CmZuID0gIi9jbHVzdGVyL3NvZnR3YXJlL2xtb2RzL3N0YWNrLzIwMjQtMDUubHVhIiwKZnVsbE5hbWUgPSAic3RhY2svMjAyNC0wNSIsCmxvYWRPcmRlciA9IDEsCnByb3BUID0ge30sCnN0YWNrRGVwdGggPSAwLApzdGF0dXMgPSAiYWN0aXZlIiwKdXNlck5hbWUgPSAic3RhY2svMjAyNC0wNSIsCndWID0gIjAwMDAwMjAyNC4qemZpbmFsLS4wMDAwMDAwMDUuKnpmaW5hbCIsCn0sCn0sCm1wYXRoQSA9IHsKIi9jbHVzdGVyL3NvZnR3YXJlL2xtb2RzIiwKfSwKc3lzdGVtQmFzZU1QQVRIID0gIi9jbHVzdGVyL3NvZnR3YXJlL2xtb2RzIiwK', 'I_MPI_PMI_LIBRARY': '/cluster/apps/slurm/lib/libpmi2.so', 'JULIA_ROOT': '/cluster/software/manual/julia/1.10.3/x86_64', 'JUPYTERHUB_API_URL': 'https://jupyter.euler.hpc.ethz.ch/hub/api', 'JUPYTER_PATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/share/jupyter', 'JUPYTERLAB_DIR': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/share/jupyter/lab', 'JUPYTERHUB_CLIENT_ID': 'jupyterhub-user-gcardenal', 'JUPYTERHUB_OAUTH_SCOPES': '["access:servers!server=gcardenal/", "access:servers!user=gcardenal"]', '__LMOD_REF_COUNT_MANPATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/share/man:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/share/man:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/share/man:1;:3', 'JUPYTER_HOME': '/cluster/home/gcardenal', 'http_proxy': 'http://proxy.service.consul:3128', 'SLURM_SUBMIT_HOST': 'eu-g5-044-1', 'JUPYTERHUB_HOST': '', '_ModuleTable001_': 'X01vZHVsZVRhYmxlXyA9IHsKTVR2ZXJzaW9uID0gMywKY19yZWJ1aWxkVGltZSA9IGZhbHNlLApjX3Nob3J0VGltZSA9IGZhbHNlLApkZXB0aFQgPSB7fSwKZmFtaWx5ID0gewpjb21waWxlciA9ICJnY2MiLAp9LAptVCA9IHsKY3VkYSA9IHsKZm4gPSAiL2NsdXN0ZXIvc29mdHdhcmUvc3RhY2tzLzIwMjQtMDUvc3BhY2svc2hhcmUvc3BhY2svbG1vZC9saW51eC11YnVudHUyMi4wNC14ODZfNjQvZ2NjLzEzLjIuMC9jdWRhLzEyLjIuMS5sdWEiLApmdWxsTmFtZSA9ICJjdWRhLzEyLjIuMSIsCmxvYWRPcmRlciA9IDMsCnByb3BUID0ge30sCnJlZl9jb3VudCA9IDEsCnN0YWNrRGVwdGggPSAxLApzdGF0dXMgPSAiYWN0aXZlIiwKdXNlck5hbWUgPSAiY3VkYSIsCndWID0gIjAw', 'CONDA_PYTHON_EXE': '/cluster/home/gcardenal/miniconda3/bin/python', 'LD_LIBRARY_PATH': '/cluster/software/manual/julia/1.10.3/x86_64/lib:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/rlib:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/rlib/R/lib:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt/lib64:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/lib:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/lib64:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/lib:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/lib', 'LMOD_FAMILY_COMPILER': 'gcc', 'SLURM_JOB_ID': '33778126', 'SLURM_NODEID': '0', '_ModuleTable004_': 'MDAwMDAzLip6ZmluYWwiLAp9LApqdWxpYSA9IHsKZm4gPSAiL2NsdXN0ZXIvc29mdHdhcmUvbG1vZHMvanVsaWEvMS4xMC4zLmx1YSIsCmZ1bGxOYW1lID0gImp1bGlhLzEuMTAuMyIsCmxvYWRPcmRlciA9IDgsCnByb3BUID0ge30sCnN0YWNrRGVwdGggPSAwLApzdGF0dXMgPSAiYWN0aXZlIiwKdXNlck5hbWUgPSAianVsaWEvMS4xMC4zIiwKd1YgPSAiMDAwMDAwMDAxLjAwMDAwMDAxMC4wMDAwMDAwMDMuKnpmaW5hbCIsCn0sCnB5dGhvbiA9IHsKZm4gPSAiL2NsdXN0ZXIvc29mdHdhcmUvc3RhY2tzLzIwMjQtMDUvc3BhY2svc2hhcmUvc3BhY2svbG1vZC9saW51eC11YnVudHUyMi4wNC14ODZfNjQvZ2NjLzEzLjIuMC9weXRob24vMy4xMS42X2N1ZGEubHVhIiwKZnVsbE5h', 'CONDA_DEFAULT_ENV': 'vllm_2', 'OMP_NUM_THREADS': '1', 'FC': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/bin/gfortran', 'TMOUT': '86400', 'LMOD_FAMILY_COMPILER_VERSION': '13.2.0', 'CUDA_HOME': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt', '__LMOD_REF_COUNT_C_INCLUDE_PATH': '/cluster/software/manual/julia/1.10.3/x86_64/include:1', 'XDG_DATA_DIRS': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/pango-1.50.13-m6jqr7uchlpizk7kjhwpq6yl56vdtjb2/share:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/harfbuzz-7.3.0-kfcjmvrteszehgnzwgjp5mmiyyhiggsc/share', 'SERVICE_PORT': '42397', 'JUPYTERHUB_SSL_CLIENT_CA': '.config/euler/jupyterhub/jupyter.ca', 'SLURM_CONF': '/cluster/slurm/adm/etc/slurm.conf', 'PATH': '/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/scratch/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/envs/vllm_2/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/scratch/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/condabin:/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/scratch/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/scratch/gcardenal/miniconda3/bin:/cluster/software/manual/julia/1.10.3/x86_64/bin:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/bin:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/bin:/cluster/software/stacks/2024-05/python-cuda/3.11.6/bin:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt/bin:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/bin:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/bin:/usr/local/bin:/usr/local/sbin:/usr/sbin:/usr/bin:/sbin:/bin:/cluster/slurm/apps/bin:/cluster/software/bin:/cluster/home/gcardenal/.local/bin:/cluster/home/gcardenal/bin', 'SLURM_JOB_NAME': 'GPT_score', 'MODULEPATH': '/cluster/software/lmods', 'CC': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/bin/gcc', '_LMFILES_': '/cluster/software/lmods/stack/2024-05.lua:/cluster/software/stacks/2024-05/spack/share/spack/lmod/linux-ubuntu22.04-x86_64/Core/gcc/13.2.0.lua:/cluster/software/stacks/2024-05/spack/share/spack/lmod/linux-ubuntu22.04-x86_64/gcc/13.2.0/cuda/12.2.1.lua:/cluster/software/stacks/2024-05/spack/share/spack/lmod/linux-ubuntu22.04-x86_64/gcc/13.2.0/python/3.11.6_cuda.lua:/cluster/software/lmods/eth_proxy.lua:/cluster/software/stacks/2024-05/spack/share/spack/lmod/linux-ubuntu22.04-x86_64/gcc/13.2.0/r/4.3.2.lua:/cluster/software/stacks/2024-05/spack/share/spack/lmod/linux-ubuntu22.04-x86_64/gcc/13.2.0/hdf5/1.14.3.lua:/cluster/software/lmods/julia/1.10.3.lua', 'LMOD_CMD': '/cluster/software/stacks/2024-06/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-12.2.0/lmod-8.7.24-ou4i7x2rgiaysly4vgawaga6muhkdye4/lmod/lmod/libexec/lmod', 'C_INCLUDE_PATH': '/cluster/software/manual/julia/1.10.3/x86_64/include', 'JUPYTERHUB_USER': 'gcardenal', 'MAIL': '/var/mail/gcardenal', 'JUPYTERHUB_SSL_CERTFILE': '.config/euler/jupyterhub/jupyter.crt', '__LMOD_REF_COUNT_LD_LIBRARY_PATH': '/cluster/software/manual/julia/1.10.3/x86_64/lib:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/rlib:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/rlib/R/lib:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt/lib64:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/lib:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/lib64:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/lib:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/lib:2', 'JUPYTERHUB_ACTIVITY_URL': 'https://jupyter.euler.hpc.ethz.ch/hub/api/users/gcardenal/activity', 'OMPI_MCA_plm_slurm_args': '--external-launcher', 'SLURM_JOB_GID': '492010', 'CPATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/include:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/include:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt/include:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/include:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/include', 'GCC_EULER_ROOT': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog', 'OLDPWD': '/cluster/home/gcardenal', 'SLURM_JOB_NODELIST': 'eu-g5-030-2', 'CONSUL_HTTP_ADDR': 'unix:///var/run/consul/http.sock', 'I_MPI_HYDRA_BOOTSTRAP': 'slurm', 'BASH_FUNC_ml%%': '() {  eval "$($LMOD_DIR/ml_cmd "$@")"\n}', 'BASH_FUNC_module%%': '() {  if [ -z "${LMOD_SH_DBG_ON+x}" ]; then\n case "$-" in \n *v*x*)\n __lmod_sh_dbg=\'vx\'\n ;;\n *v*)\n __lmod_sh_dbg=\'v\'\n ;;\n *x*)\n __lmod_sh_dbg=\'x\'\n ;;\n esac;\n fi;\n if [ -n "${__lmod_sh_dbg:-}" ]; then\n set +$__lmod_sh_dbg;\n echo "Shell debugging temporarily silenced: export LMOD_SH_DBG_ON=1 for Lmod\'s output" 1>&2;\n fi;\n eval "$($LMOD_CMD shell "$@")" && eval "$(${LMOD_SETTARG_CMD:-:} -s sh)";\n __lmod_my_status=$?;\n if [ -n "${__lmod_sh_dbg:-}" ]; then\n echo "Shell debugging restarted" 1>&2;\n set -$__lmod_sh_dbg;\n fi;\n unset __lmod_sh_dbg;\n return $__lmod_my_status\n}', '_': '/cluster/home/gcardenal/miniconda3/bin/python'}
+Conda env: /cluster/home/gcardenal/miniconda3/envs/vllm_2
+/cluster/home/gcardenal/miniconda3/bin/python
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Gemma-3-27B/GPT-score_Gemma-3-27B_answers_category_5.1_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Gemma-3-27B/GPT-score_Gemma-3-27B_answers_category_5.2_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Gemma-3-27B/GPT-score_Gemma-3-27B_answers_category_5.3_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Gemma-3-27B/GPT-score_Gemma-3-27B_answers_category_5.4_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Gemma-3-27B/GPT-score_Gemma-3-27B_answers_category_5.5_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Gemma-3-27B/GPT-score_Gemma-3-27B_answers_category_6.1_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Gemma-3-27B/GPT-score_Gemma-3-27B_answers_category_6.2_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Gemma-3-27B/GPT-score_Gemma-3-27B_answers_category_6.3_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Gemma-3-27B/GPT-score_Gemma-3-27B_answers_category_6.4_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Gemma-3-27B/GPT-score_Gemma-3-27B_answers_category_6.5_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/MedGemma-3-27B/GPT-score_MedGemma-3-27B_answers_category_5.1_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/MedGemma-3-27B/GPT-score_MedGemma-3-27B_answers_category_5.2_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/MedGemma-3-27B/GPT-score_MedGemma-3-27B_answers_category_5.3_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/MedGemma-3-27B/GPT-score_MedGemma-3-27B_answers_category_5.4_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/MedGemma-3-27B/GPT-score_MedGemma-3-27B_answers_category_5.5_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/MedGemma-3-27B/GPT-score_MedGemma-3-27B_answers_category_6.1_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/MedGemma-3-27B/GPT-score_MedGemma-3-27B_answers_category_6.2_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/MedGemma-3-27B/GPT-score_MedGemma-3-27B_answers_category_6.3_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/MedGemma-3-27B/GPT-score_MedGemma-3-27B_answers_category_6.4_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/MedGemma-3-27B/GPT-score_MedGemma-3-27B_answers_category_6.5_HIV_EQ.json
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_2.1_HIV_EQ.json, Q#3
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_2.1_HIV_EQ.json, Q#6
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_2.2_HIV_EQ.json, Q#3
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_2.2_HIV_EQ.json, Q#6
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_2.3_HIV_EQ.json, Q#3
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_2.4_HIV_EQ.json, Q#3
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_2.4_HIV_EQ.json, Q#6
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_2.5_HIV_EQ.json, Q#3
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_2.5_HIV_EQ.json, Q#6
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.1_HIV_EQ.json, Q#13
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.1_HIV_EQ.json, Q#19
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.1_HIV_EQ.json, Q#23
+Error parsing JSON in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.2_HIV_EQ.json, Q#13: could not convert string to float: '2-3'
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.2_HIV_EQ.json, Q#19
+Error parsing JSON in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.3_HIV_EQ.json, Q#13: could not convert string to float: '2-3'
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.3_HIV_EQ.json, Q#19
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.4_HIV_EQ.json, Q#13
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.4_HIV_EQ.json, Q#19
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.5_HIV_EQ.json, Q#13
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.5_HIV_EQ.json, Q#19
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_4.2_HIV_EQ.json, Q#6
+Saved GPT-4 scores with answer details to CSV: ./evaluation_results/raw_GPT4-score.csv
+Warning: Some groups have fewer than expected iterations.
+    subfolder  category_id  question_index  num_iterations
+529     Med42            3              12               3
+Saved aggregated GPT-4 scores over iterations: ./evaluation_results/averaged_over_iterations_GPT4-score.csv
+Saved merged CSV with iteration-level data: ./evaluation_results/evaluation_results_merged_over_iterations.csv
+Saved GPT scores over questions & iterations: ./evaluation_results/averaged_over_questions_GPT4-score.csv
+Saved synonyms-based F1 scores (means & std over questions & iterations).
+Saved merged dataset (F1 & GPT) over questions to: ./evaluation_results/evaluation_results_merged_mean_over_questions.csv

@@ -1,0 +1,1195 @@
+Error while loading conda entry point: anaconda-anon-usage-plugin (No module named 'anaconda_anon_usage')
+Error while loading conda entry point: anaconda-anon-usage-plugin (No module named 'anaconda_anon_usage')
+# packages in environment at /cluster/home/gcardenal/miniconda3/envs/vllm_2:
+#
+# Name                    Version                   Build  Channel
+_libgcc_mutex             0.1                        main  
+_openmp_mutex             5.1                       1_gnu  
+accelerate                1.1.1                    pypi_0    pypi
+aiohappyeyeballs          2.4.0                    pypi_0    pypi
+aiohttp                   3.10.6                   pypi_0    pypi
+aiosignal                 1.3.1                    pypi_0    pypi
+annotated-types           0.7.0                    pypi_0    pypi
+anthropic                 0.40.0                   pypi_0    pypi
+anyio                     4.6.0                    pypi_0    pypi
+argon2-cffi               23.1.0                   pypi_0    pypi
+argon2-cffi-bindings      21.2.0                   pypi_0    pypi
+arrow                     1.3.0                    pypi_0    pypi
+asttokens                 3.0.0                    pypi_0    pypi
+async-lru                 2.0.4                    pypi_0    pypi
+async-timeout             4.0.3                    pypi_0    pypi
+attrs                     24.2.0                   pypi_0    pypi
+babel                     2.17.0                   pypi_0    pypi
+beautifulsoup4            4.12.3                   pypi_0    pypi
+bleach                    6.2.0                    pypi_0    pypi
+bzip2                     1.0.8                h5eee18b_6  
+ca-certificates           2025.2.25            h06a4308_0  
+certifi                   2024.8.30                pypi_0    pypi
+cffi                      1.17.1                   pypi_0    pypi
+charset-normalizer        3.3.2                    pypi_0    pypi
+click                     8.1.7                    pypi_0    pypi
+cloudpickle               3.0.0                    pypi_0    pypi
+comm                      0.2.2                    pypi_0    pypi
+datasets                  3.0.1                    pypi_0    pypi
+debugpy                   1.8.14                   pypi_0    pypi
+decorator                 5.2.1                    pypi_0    pypi
+defusedxml                0.7.1                    pypi_0    pypi
+dill                      0.3.8                    pypi_0    pypi
+diskcache                 5.6.3                    pypi_0    pypi
+distro                    1.9.0                    pypi_0    pypi
+einops                    0.8.0                    pypi_0    pypi
+emoji                     2.14.0                   pypi_0    pypi
+exceptiongroup            1.3.0                    pypi_0    pypi
+executing                 2.2.0                    pypi_0    pypi
+fastapi                   0.115.0                  pypi_0    pypi
+fastjsonschema            2.21.1                   pypi_0    pypi
+filelock                  3.16.1                   pypi_0    pypi
+fqdn                      1.5.1                    pypi_0    pypi
+frozenlist                1.6.0                    pypi_0    pypi
+fsspec                    2024.6.1                 pypi_0    pypi
+gguf                      0.10.0                   pypi_0    pypi
+h11                       0.16.0                   pypi_0    pypi
+hf-xet                    1.1.2                    pypi_0    pypi
+httpcore                  1.0.9                    pypi_0    pypi
+httptools                 0.6.4                    pypi_0    pypi
+httpx                     0.28.1                   pypi_0    pypi
+huggingface-hub           0.32.3                   pypi_0    pypi
+idna                      3.10                     pypi_0    pypi
+importlib-metadata        8.7.0                    pypi_0    pypi
+interegular               0.3.3                    pypi_0    pypi
+ipykernel                 6.29.5                   pypi_0    pypi
+ipython                   8.30.0                   pypi_0    pypi
+ipywidgets                8.1.5                    pypi_0    pypi
+isoduration               20.11.0                  pypi_0    pypi
+jedi                      0.19.2                   pypi_0    pypi
+jinja2                    3.1.4                    pypi_0    pypi
+jiter                     0.10.0                   pypi_0    pypi
+json5                     0.12.0                   pypi_0    pypi
+jsonpointer               3.0.0                    pypi_0    pypi
+jsonschema                4.24.0                   pypi_0    pypi
+jsonschema-specifications 2025.4.1                 pypi_0    pypi
+jupyter                   1.1.1                    pypi_0    pypi
+jupyter-client            8.6.3                    pypi_0    pypi
+jupyter-console           6.6.3                    pypi_0    pypi
+jupyter-core              5.8.1                    pypi_0    pypi
+jupyter-events            0.12.0                   pypi_0    pypi
+jupyter-lsp               2.2.5                    pypi_0    pypi
+jupyter-server            2.16.0                   pypi_0    pypi
+jupyter-server-terminals  0.5.3                    pypi_0    pypi
+jupyterlab                4.3.2                    pypi_0    pypi
+jupyterlab-pygments       0.3.0                    pypi_0    pypi
+jupyterlab-server         2.27.3                   pypi_0    pypi
+jupyterlab-widgets        3.0.15                   pypi_0    pypi
+lark                      1.2.2                    pypi_0    pypi
+ld_impl_linux-64          2.40                 h12ee557_0  
+libffi                    3.4.4                h6a678d5_1  
+libgcc-ng                 11.2.0               h1234567_1  
+libgomp                   11.2.0               h1234567_1  
+libstdcxx-ng              11.2.0               h1234567_1  
+libuuid                   1.41.5               h5eee18b_0  
+llvmlite                  0.43.0                   pypi_0    pypi
+lm-format-enforcer        0.10.6                   pypi_0    pypi
+markupsafe                3.0.2                    pypi_0    pypi
+matplotlib-inline         0.1.7                    pypi_0    pypi
+mistral-common            1.4.3                    pypi_0    pypi
+mistune                   3.1.3                    pypi_0    pypi
+mpmath                    1.3.0                    pypi_0    pypi
+msgpack                   1.1.0                    pypi_0    pypi
+msgspec                   0.19.0                   pypi_0    pypi
+multidict                 6.4.4                    pypi_0    pypi
+multiprocess              0.70.16                  pypi_0    pypi
+nbclient                  0.10.2                   pypi_0    pypi
+nbconvert                 7.16.4                   pypi_0    pypi
+nbformat                  5.10.4                   pypi_0    pypi
+ncurses                   6.4                  h6a678d5_0  
+nest-asyncio              1.6.0                    pypi_0    pypi
+networkx                  3.3                      pypi_0    pypi
+notebook                  7.3.1                    pypi_0    pypi
+notebook-shim             0.2.4                    pypi_0    pypi
+numba                     0.60.0                   pypi_0    pypi
+numpy                     1.26.4                   pypi_0    pypi
+nvidia-cublas-cu12        12.1.3.1                 pypi_0    pypi
+nvidia-cuda-cupti-cu12    12.1.105                 pypi_0    pypi
+nvidia-cuda-nvrtc-cu12    12.1.105                 pypi_0    pypi
+nvidia-cuda-runtime-cu12  12.1.105                 pypi_0    pypi
+nvidia-cudnn-cu12         9.1.0.70                 pypi_0    pypi
+nvidia-cufft-cu12         11.0.2.54                pypi_0    pypi
+nvidia-curand-cu12        10.3.2.106               pypi_0    pypi
+nvidia-cusolver-cu12      11.4.5.107               pypi_0    pypi
+nvidia-cusparse-cu12      12.1.0.106               pypi_0    pypi
+nvidia-ml-py              12.575.51                pypi_0    pypi
+nvidia-nccl-cu12          2.21.5                   pypi_0    pypi
+nvidia-nvjitlink-cu12     12.9.41                  pypi_0    pypi
+nvidia-nvtx-cu12          12.1.105                 pypi_0    pypi
+openai                    1.48.0                   pypi_0    pypi
+openssl                   3.0.16               h5eee18b_0  
+outlines                  0.0.46                   pypi_0    pypi
+overrides                 7.7.0                    pypi_0    pypi
+packaging                 25.0                     pypi_0    pypi
+pandas                    2.2.3                    pypi_0    pypi
+pandocfilters             1.5.1                    pypi_0    pypi
+parso                     0.8.4                    pypi_0    pypi
+partial-json-parser       0.2.1.1.post5            pypi_0    pypi
+pexpect                   4.9.0                    pypi_0    pypi
+pillow                    10.4.0                   pypi_0    pypi
+pip                       25.1               pyhc872135_2  
+platformdirs              4.3.8                    pypi_0    pypi
+plotly                    5.24.1                   pypi_0    pypi
+prometheus-client         0.22.0                   pypi_0    pypi
+prometheus-fastapi-instrumentator 7.1.0                    pypi_0    pypi
+prompt-toolkit            3.0.51                   pypi_0    pypi
+propcache                 0.3.1                    pypi_0    pypi
+protobuf                  5.28.2                   pypi_0    pypi
+psutil                    7.0.0                    pypi_0    pypi
+ptyprocess                0.7.0                    pypi_0    pypi
+pure-eval                 0.2.3                    pypi_0    pypi
+py-cpuinfo                9.0.0                    pypi_0    pypi
+pyairports                2.1.1                    pypi_0    pypi
+pyarrow                   17.0.0                   pypi_0    pypi
+pycountry                 24.6.1                   pypi_0    pypi
+pycparser                 2.22                     pypi_0    pypi
+pydantic                  2.9.2                    pypi_0    pypi
+pydantic-core             2.23.4                   pypi_0    pypi
+pygments                  2.19.1                   pypi_0    pypi
+python                    3.10.16              he870216_1  
+python-dateutil           2.9.0.post0              pypi_0    pypi
+python-dotenv             1.0.1                    pypi_0    pypi
+python-json-logger        3.3.0                    pypi_0    pypi
+pytz                      2025.2                   pypi_0    pypi
+pyyaml                    6.0.2                    pypi_0    pypi
+pyzmq                     26.4.0                   pypi_0    pypi
+ray                       2.37.0                   pypi_0    pypi
+readline                  8.2                  h5eee18b_0  
+referencing               0.36.2                   pypi_0    pypi
+regex                     2024.11.6                pypi_0    pypi
+requests                  2.32.3                   pypi_0    pypi
+rfc3339-validator         0.1.4                    pypi_0    pypi
+rfc3986-validator         0.1.1                    pypi_0    pypi
+rpds-py                   0.25.1                   pypi_0    pypi
+safetensors               0.4.5                    pypi_0    pypi
+send2trash                1.8.3                    pypi_0    pypi
+sentencepiece             0.2.0                    pypi_0    pypi
+setuptools                78.1.1          py310h06a4308_0  
+six                       1.17.0                   pypi_0    pypi
+sniffio                   1.3.1                    pypi_0    pypi
+soupsieve                 2.7                      pypi_0    pypi
+sqlite                    3.45.3               h5eee18b_0  
+stack-data                0.6.3                    pypi_0    pypi
+starlette                 0.38.6                   pypi_0    pypi
+sympy                     1.13.1                   pypi_0    pypi
+tenacity                  9.1.2                    pypi_0    pypi
+terminado                 0.18.1                   pypi_0    pypi
+tiktoken                  0.7.0                    pypi_0    pypi
+timm                      1.0.12                   pypi_0    pypi
+tinycss2                  1.4.0                    pypi_0    pypi
+tk                        8.6.14               h39e8969_0  
+tokenizers                0.21.1                   pypi_0    pypi
+tomli                     2.2.1                    pypi_0    pypi
+torch                     2.5.0+cu121              pypi_0    pypi
+torchvision               0.19.0                   pypi_0    pypi
+tornado                   6.5.1                    pypi_0    pypi
+tqdm                      4.66.5                   pypi_0    pypi
+traitlets                 5.14.3                   pypi_0    pypi
+transformers              4.52.4                   pypi_0    pypi
+triton                    3.1.0                    pypi_0    pypi
+types-python-dateutil     2.9.0.20250516           pypi_0    pypi
+typing-extensions         4.13.2                   pypi_0    pypi
+tzdata                    2025.2                   pypi_0    pypi
+uri-template              1.3.0                    pypi_0    pypi
+urllib3                   2.4.0                    pypi_0    pypi
+uvicorn                   0.30.6                   pypi_0    pypi
+uvloop                    0.21.0                   pypi_0    pypi
+vllm                      0.6.2                    pypi_0    pypi
+watchfiles                1.0.5                    pypi_0    pypi
+wcwidth                   0.2.13                   pypi_0    pypi
+webcolors                 24.11.1                  pypi_0    pypi
+webencodings              0.5.1                    pypi_0    pypi
+websocket-client          1.8.0                    pypi_0    pypi
+websockets                15.0.1                   pypi_0    pypi
+wheel                     0.45.1          py310h06a4308_0  
+widgetsnbextension        4.0.14                   pypi_0    pypi
+xformers                  0.0.27.post2             pypi_0    pypi
+xxhash                    3.5.0                    pypi_0    pypi
+xz                        5.6.4                h5eee18b_1  
+yarl                      1.20.0                   pypi_0    pypi
+zipp                      3.22.0                   pypi_0    pypi
+zlib                      1.2.13               h5eee18b_1  
+Package                  Version
+------------------------ -----------
+accelerate               1.7.0
+anaconda-anon-usage      0.7.0
+annotated-types          0.6.0
+anthropic                0.52.1
+anyio                    4.9.0
+archspec                 0.2.3
+boltons                  24.1.0
+Brotli                   1.0.9
+certifi                  2025.4.26
+cffi                     1.17.1
+charset-normalizer       3.3.2
+conda                    25.3.1
+conda-anaconda-telemetry 0.1.2
+conda-anaconda-tos       0.1.3
+conda-content-trust      0.2.0
+conda-libmamba-solver    25.4.0
+conda-package-handling   2.4.0
+conda_package_streaming  0.11.0
+cryptography             44.0.1
+distro                   1.9.0
+filelock                 3.18.0
+frozendict               2.4.2
+fsspec                   2025.5.1
+h11                      0.16.0
+hf-xet                   1.1.2
+httpcore                 1.0.9
+httpx                    0.28.1
+huggingface-hub          0.32.3
+idna                     3.7
+Jinja2                   3.1.4
+jiter                    0.10.0
+jsonpatch                1.33
+jsonpointer              2.1
+libmambapy               2.0.5
+markdown-it-py           2.2.0
+MarkupSafe               3.0.2
+mdurl                    0.1.0
+menuinst                 2.2.0
+mpmath                   1.3.0
+networkx                 3.3
+numpy                    2.2.6
+nvidia-cublas-cu12       12.1.3.1
+nvidia-cuda-cupti-cu12   12.1.105
+nvidia-cuda-nvrtc-cu12   12.1.105
+nvidia-cuda-runtime-cu12 12.1.105
+nvidia-cudnn-cu12        9.1.0.70
+nvidia-cufft-cu12        11.0.2.54
+nvidia-curand-cu12       10.3.2.106
+nvidia-cusolver-cu12     11.4.5.107
+nvidia-cusparse-cu12     12.1.0.106
+nvidia-nccl-cu12         2.21.5
+nvidia-nvjitlink-cu12    12.1.105
+nvidia-nvtx-cu12         12.1.105
+openai                   1.82.1
+packaging                24.2
+pandas                   2.2.3
+pip                      25.0
+platformdirs             4.3.7
+pluggy                   1.5.0
+psutil                   7.0.0
+pycosat                  0.6.6
+pycparser                2.21
+pydantic                 2.10.3
+pydantic_core            2.27.1
+Pygments                 2.19.1
+PySocks                  1.7.1
+python-dateutil          2.9.0.post0
+pytz                     2025.2
+PyYAML                   6.0.2
+regex                    2024.11.6
+requests                 2.32.3
+rich                     13.9.4
+ruamel.yaml              0.18.10
+ruamel.yaml.clib         0.2.12
+safetensors              0.5.3
+setuptools               78.1.1
+six                      1.17.0
+sniffio                  1.3.1
+sympy                    1.13.1
+tokenizers               0.21.1
+torch                    2.5.1+cu121
+tqdm                     4.67.1
+truststore               0.10.0
+typing_extensions        4.12.2
+tzdata                   2025.2
+urllib3                  2.3.0
+wheel                    0.45.1
+zstandard                0.23.0
+
+Currently Loaded Modules:
+  1) stack/2024-05   3) cuda/12.2.1          5) eth_proxy   7) hdf5/1.14.3
+  2) gcc/13.2.0      4) python/3.11.6_cuda   6) r/4.3.2     8) julia/1.10.3
+
+ 
+
+Using Python at: /cluster/home/gcardenal/miniconda3/bin/python
+Using torchrun at: /cluster/home/gcardenal/miniconda3/bin/torchrun
+✅ openai imported successfully
+{'SHELL': '/bin/bash', 'JUPYTER_CONFIG_DIR': '/cluster/home/gcardenal/.jupyterlab', 'JUPYTERHUB_ADMIN_ACCESS': '1', 'SLURM_JOB_USER': 'gcardenal', 'LIBGL_ALWAYS_INDIRECT': '1', 'SLURM_TASKS_PER_NODE': '1', 'SLURM_JOB_UID': '608619', 'no_proxy': 'api.wandb.ai,app.neptune.ai,jupyter.eu-dev.hpc.ethz.ch,jupyter-staging.euler.hpc.ethz.ch,jupyter.euler.hpc.ethz.ch,.consul,localhost,127.0.0.1,127.0.0.0/8,169.254.0.0/16', 'SLURM_TASK_PID': '3066124', 'CONDA_EXE': '/cluster/home/gcardenal/miniconda3/bin/conda', 'R_HOME': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/rlib/R', 'JUPYTERHUB_SERVICE_URL': 'https://0.0.0.0:0/user/gcardenal/', 'SLURM_JOB_GPUS': '6,7', 'PKG_CONFIG_PATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/lib/pkgconfig:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/rlib/pkgconfig:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/lib/pkgconfig', 'SLURM_LOCALID': '0', 'PYTHONNOUSERSITE': '1', 'SLURM_SUBMIT_DIR': '/cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation', 'HOSTNAME': 'eu-ts-02', 'SLURMD_NODENAME': 'eu-ts-02', 'JUPYTERHUB_API_TOKEN': 'af64847746424f48b19949dac9d1a3c1', 'SLURM_JOB_START_TIME': '1748697902', 'HYDRA_LAUNCHER_EXTRA_ARGS': '--external-launcher', '_ModuleTable007_': 'fQo=', '_ModuleTable002_': 'MDAwMDAxMi4wMDAwMDAwMDIuMDAwMDAwMDAxLip6ZmluYWwiLAp9LApldGhfcHJveHkgPSB7CmZuID0gIi9jbHVzdGVyL3NvZnR3YXJlL2xtb2RzL2V0aF9wcm94eS5sdWEiLApmdWxsTmFtZSA9ICJldGhfcHJveHkiLApsb2FkT3JkZXIgPSA1LApwcm9wVCA9IHt9LApzdGFja0RlcHRoID0gMCwKc3RhdHVzID0gImFjdGl2ZSIsCnVzZXJOYW1lID0gImV0aF9wcm94eSIsCndWID0gIk0uKnpmaW5hbCIsCn0sCmdjYyA9IHsKZm4gPSAiL2NsdXN0ZXIvc29mdHdhcmUvc3RhY2tzLzIwMjQtMDUvc3BhY2svc2hhcmUvc3BhY2svbG1vZC9saW51eC11YnVudHUyMi4wNC14ODZfNjQvQ29yZS9nY2MvMTMuMi4wLmx1YSIsCmZ1bGxOYW1lID0gImdjYy8xMy4yLjAiLApsb2FkT3JkZXIg', 'HDF5_EULER_ROOT': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr', 'CPUS': '8', '__LMOD_REF_COUNT_MODULEPATH': '/cluster/software/lmods:1', '__LMOD_REF_COUNT_CPLUS_INCLUDE_PATH': '/cluster/software/manual/julia/1.10.3/x86_64/include:1', 'JUPYTERHUB_BASE_URL': '/', '_ModuleTable005_': 'bWUgPSAicHl0aG9uLzMuMTEuNl9jdWRhIiwKbG9hZE9yZGVyID0gNCwKcHJvcFQgPSB7fSwKc3RhY2tEZXB0aCA9IDAsCnN0YXR1cyA9ICJhY3RpdmUiLAp1c2VyTmFtZSA9ICJweXRob24vMy4xMS42X2N1ZGEiLAp3ViA9ICIwMDAwMDAwMDMuMDAwMDAwMDExLjAwMDAwMDAwNi4qXy4qY3VkYS4qemZpbmFsIiwKfSwKciA9IHsKZm4gPSAiL2NsdXN0ZXIvc29mdHdhcmUvc3RhY2tzLzIwMjQtMDUvc3BhY2svc2hhcmUvc3BhY2svbG1vZC9saW51eC11YnVudHUyMi4wNC14ODZfNjQvZ2NjLzEzLjIuMC9yLzQuMy4yLmx1YSIsCmZ1bGxOYW1lID0gInIvNC4zLjIiLApsb2FkT3JkZXIgPSA2LApwcm9wVCA9IHt9LApzdGFja0RlcHRoID0gMCwKc3RhdHVzID0gImFjdGl2ZSIsCnVz', 'SLURM_CLUSTER_NAME': 'euler-24-production', 'SLURM_JOB_END_TIME': '1748784302', 'SLURM_CPUS_ON_NODE': '8', 'SLURM_JOB_CPUS_PER_NODE': '8', 'LMOD_DIR': '/cluster/software/stacks/2024-06/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-12.2.0/lmod-8.7.24-ou4i7x2rgiaysly4vgawaga6muhkdye4/lmod/lmod/libexec', 'SLURM_GPUS_ON_NODE': '2', 'PWD': '/cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation', 'PRTE_MCA_plm_slurm_args': '--external-launcher', 'SLURM_GTIDS': '0', 'LOGNAME': 'gcardenal', 'CONDA_PREFIX': '/cluster/home/gcardenal/miniconda3/envs/vllm_2', 'SLURM_JOB_PARTITION': 'gpupr.24h', 'SCRIPTS_PATH': '/cluster/software/others/services/jupyterhub/scripts', 'MODULESHOME': '/cluster/software/stacks/2024-06/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-12.2.0/lmod-8.7.24-ou4i7x2rgiaysly4vgawaga6muhkdye4/lmod/lmod', 'JUPYTER_SERVER_URL': 'https://eu-g5-008-3:33099/user/gcardenal/', 'MANPATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/share/man:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/share/man:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/share/man::', 'SLURM_TRES_PER_TASK': 'cpu=8', 'PYTHON_EULER_ROOT': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i', 'SLURM_JOB_NUM_NODES': '1', 'CXX': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/bin/g++', '__LMOD_REF_COUNT_CMAKE_PREFIX_PATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog:1', '__LMOD_REF_COUNT_INCLUDE': '/cluster/software/manual/julia/1.10.3/x86_64/include:1', 'SLURM_JOBID': '33560864', 'SLURM_GPUS': 'nvidia_a100_80gb_pcie:2', 'ftp_proxy': 'http://proxy.service.consul:3128', 'JUPYTERHUB_SERVER_NAME': '', 'SLURM_JOB_QOS': 'es_ilic/gpupr/24', 'I_MPI_HYDRA_BOOTSTRAP_EXEC_EXTRA_ARGS': '--external-launcher', 'JUPYTER_DIR': '/', 'LINES': '54', 'GI_TYPELIB_PATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/pango-1.50.13-m6jqr7uchlpizk7kjhwpq6yl56vdtjb2/lib/girepository-1.0:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/harfbuzz-7.3.0-kfcjmvrteszehgnzwgjp5mmiyyhiggsc/lib/girepository-1.0', '__LMOD_REF_COUNT_PATH': '/cluster/software/manual/julia/1.10.3/x86_64/bin:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/bin:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/bin:1;/cluster/software/stacks/2024-05/python-cuda/3.11.6/bin:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt/bin:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/bin:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/bin:1;/usr/local/bin:2;/usr/local/sbin:1;/usr/sbin:1;/usr/bin:1;/sbin:1;/bin:1;/cluster/slurm/apps/bin:1', 'HOME': '/cluster/home/gcardenal', '_ModuleTable_Sz_': '7', '__LMOD_REF_COUNT_LIBRARY_PATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/lib:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt/lib64:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/lib:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/lib64:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/lib:1', 'LANG': 'C.UTF-8', '__LMOD_REF_COUNT_PKG_CONFIG_PATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/lib/pkgconfig:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/rlib/pkgconfig:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/lib/pkgconfig:1', 'SLURM_PROCID': '0', 'JPY_API_TOKEN': 'af64847746424f48b19949dac9d1a3c1', 'COLUMNS': '134', '__LMOD_REF_COUNT_XLOCALEDIR': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/libx11-1.8.4-pdy3nkfzllbwmmmhnxrwhxonuqg4v2b7/share/X11/locale:1', 'SCRATCH': '/cluster/scratch/gcardenal', '__LMOD_REF_COUNT_CPATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/include:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/include:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt/include:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/include:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/include:1', 'LMOD_SETTARG_FULL_SUPPORT': 'no', 'JUPYTERLAB_ROOT': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i', 'CONDA_PROMPT_MODIFIER': '(vllm_2) ', 'TMPDIR': '/scratch/tmp.33560864.gcardenal', 'JUPYTERHUB_SERVICE_PREFIX': '/user/gcardenal/', 'CUDA_EULER_ROOT': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt', 'CMAKE_PREFIX_PATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog', 'JUPYTERHUB_OAUTH_CALLBACK_URL': '/user/gcardenal/oauth_callback', 'https_proxy': 'http://proxy.service.consul:3128', 'R_EULER_ROOT': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn', 'SLURM_CPUS_PER_TASK': '8', 'SLURM_NTASKS': '1', 'CONFIG_PATH': '/cluster/home/gcardenal/.config/euler/jupyterhub', 'SLURM_TOPOLOGY_ADDR': '.euler_a100_80_lca_ib.eu-ts-02', 'LMOD_VERSION': '8.7.24', 'JUPYTER_CONFIG_PATH': '/cluster/home/gcardenal/.jupyterlab:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/share/jupyter', 'LMOD_PACKAGE_PATH': '/cluster/software/etc/lmod', 'JUPYTERHUB_OAUTH_CLIENT_ALLOWED_SCOPES': '[]', '_ModuleTable003_': 'PSAyLApwcm9wVCA9IHt9LApzdGFja0RlcHRoID0gMCwKc3RhdHVzID0gImFjdGl2ZSIsCnVzZXJOYW1lID0gImdjYy8xMy4yLjAiLAp3ViA9ICIwMDAwMDAwMTMuMDAwMDAwMDAyLip6ZmluYWwiLAp9LApoZGY1ID0gewpmbiA9ICIvY2x1c3Rlci9zb2Z0d2FyZS9zdGFja3MvMjAyNC0wNS9zcGFjay9zaGFyZS9zcGFjay9sbW9kL2xpbnV4LXVidW50dTIyLjA0LXg4Nl82NC9nY2MvMTMuMi4wL2hkZjUvMS4xNC4zLmx1YSIsCmZ1bGxOYW1lID0gImhkZjUvMS4xNC4zIiwKbG9hZE9yZGVyID0gNywKcHJvcFQgPSB7fSwKc3RhY2tEZXB0aCA9IDAsCnN0YXR1cyA9ICJhY3RpdmUiLAp1c2VyTmFtZSA9ICJoZGY1LzEuMTQuMyIsCndWID0gIjAwMDAwMDAwMS4wMDAwMDAwMTQuMDAw', 'HYDRA_BOOTSTRAP': 'slurm', '__LMOD_REF_COUNT_XDG_DATA_DIRS': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/pango-1.50.13-m6jqr7uchlpizk7kjhwpq6yl56vdtjb2/share:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/harfbuzz-7.3.0-kfcjmvrteszehgnzwgjp5mmiyyhiggsc/share:1', 'PROXY_PORT': '33099', 'SLURM_TOPOLOGY_ADDR_PATTERN': 'switch.switch.node', 'CUDA_VISIBLE_DEVICES': '0,1', 'SLURM_MEM_PER_CPU': '20480', 'LMOD_PKG': '/cluster/software/stacks/2024-06/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-12.2.0/lmod-8.7.24-ou4i7x2rgiaysly4vgawaga6muhkdye4/lmod/lmod', 'SLURM_SCRIPT_CONTEXT': 'prolog_task', 'JUPYTER_SERVER_ROOT': '/', 'PYTHONPATH': '/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/scratch/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/scratch/gcardenal/miniconda3/bin:/cluster/software/manual/julia/1.10.3/x86_64/bin:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/bin:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/bin:/cluster/software/stacks/2024-05/python-cuda/3.11.6/bin:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt/bin:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/bin:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/bin:/usr/local/bin:/usr/local/sbin:/usr/sbin:/usr/bin:/sbin:/bin:/cluster/slurm/apps/bin:/cluster/software/bin:/cluster/home/gcardenal/.local/bin:/cluster/home/gcardenal/bin', 'TERM': 'xterm-256color', 'JUPYTERHUB_SSL_KEYFILE': '.config/euler/jupyterhub/jupyter.key', 'JUPYTER_EXTRA_ARGS': '', 'ZES_ENABLE_SYSMAN': '1', 'CPLUS_INCLUDE_PATH': '/cluster/software/manual/julia/1.10.3/x86_64/include', 'XLOCALEDIR': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/libx11-1.8.4-pdy3nkfzllbwmmmhnxrwhxonuqg4v2b7/share/X11/locale', 'F77': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/bin/gfortran', '__LMOD_REF_COUNT_GI_TYPELIB_PATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/pango-1.50.13-m6jqr7uchlpizk7kjhwpq6yl56vdtjb2/lib/girepository-1.0:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/harfbuzz-7.3.0-kfcjmvrteszehgnzwgjp5mmiyyhiggsc/lib/girepository-1.0:1', 'USER': 'gcardenal', 'LIBRARY_PATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/lib:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt/lib64:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/lib:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/lib64:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/lib', 'SLURM_NODELIST': 'eu-ts-02', 'ENVIRONMENT': 'BATCH', 'CONDA_SHLVL': '2', 'LOADEDMODULES': 'stack/2024-05:gcc/13.2.0:cuda/12.2.1:python/3.11.6_cuda:eth_proxy:r/4.3.2:hdf5/1.14.3:julia/1.10.3', 'SLURM_JOB_ACCOUNT': 'gpupr/es_ilic', 'SLURM_PRIO_PROCESS': '0', 'JUPYTERHUB_OAUTH_ACCESS_SCOPES': '["access:servers!server=gcardenal/", "access:servers!user=gcardenal"]', 'SLURM_NPROCS': '1', 'INCLUDE': '/cluster/software/manual/julia/1.10.3/x86_64/include', 'JUPYTERHUB_COOKIE_HOST_PREFIX_ENABLED': '0', 'LMOD_ROOT': '/cluster/software/stacks/2024-06/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-12.2.0/lmod-8.7.24-ou4i7x2rgiaysly4vgawaga6muhkdye4/lmod', 'NVHPC_CUDA_HOME': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt', 'SHLVL': '4', 'SLURM_NNODES': '1', 'PYXTERM_DIMENSIONS': '80x25', 'BASH_ENV': '/cluster/software/stacks/2024-06/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-12.2.0/lmod-8.7.24-ou4i7x2rgiaysly4vgawaga6muhkdye4/lmod/lmod/init/bash', '_ModuleTable006_': 'ZXJOYW1lID0gInIvNC4zLjIiLAp3ViA9ICIwMDAwMDAwMDQuMDAwMDAwMDAzLjAwMDAwMDAwMi4qemZpbmFsIiwKfSwKc3RhY2sgPSB7CmZuID0gIi9jbHVzdGVyL3NvZnR3YXJlL2xtb2RzL3N0YWNrLzIwMjQtMDUubHVhIiwKZnVsbE5hbWUgPSAic3RhY2svMjAyNC0wNSIsCmxvYWRPcmRlciA9IDEsCnByb3BUID0ge30sCnN0YWNrRGVwdGggPSAwLApzdGF0dXMgPSAiYWN0aXZlIiwKdXNlck5hbWUgPSAic3RhY2svMjAyNC0wNSIsCndWID0gIjAwMDAwMjAyNC4qemZpbmFsLS4wMDAwMDAwMDUuKnpmaW5hbCIsCn0sCn0sCm1wYXRoQSA9IHsKIi9jbHVzdGVyL3NvZnR3YXJlL2xtb2RzIiwKfSwKc3lzdGVtQmFzZU1QQVRIID0gIi9jbHVzdGVyL3NvZnR3YXJlL2xtb2RzIiwK', 'I_MPI_PMI_LIBRARY': '/cluster/apps/slurm/lib/libpmi2.so', 'JULIA_ROOT': '/cluster/software/manual/julia/1.10.3/x86_64', 'JUPYTERHUB_API_URL': 'https://jupyter.euler.hpc.ethz.ch/hub/api', 'JUPYTER_PATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/share/jupyter', 'JUPYTERLAB_DIR': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/share/jupyter/lab', 'JUPYTERHUB_CLIENT_ID': 'jupyterhub-user-gcardenal', 'JUPYTERHUB_OAUTH_SCOPES': '["access:servers!server=gcardenal/", "access:servers!user=gcardenal"]', '__LMOD_REF_COUNT_MANPATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/share/man:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/share/man:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/share/man:1;:3', 'JUPYTER_HOME': '/cluster/home/gcardenal', 'http_proxy': 'http://proxy.service.consul:3128', 'SLURM_SUBMIT_HOST': 'eu-g5-008-3', 'JUPYTERHUB_HOST': '', '_ModuleTable001_': 'X01vZHVsZVRhYmxlXyA9IHsKTVR2ZXJzaW9uID0gMywKY19yZWJ1aWxkVGltZSA9IGZhbHNlLApjX3Nob3J0VGltZSA9IGZhbHNlLApkZXB0aFQgPSB7fSwKZmFtaWx5ID0gewpjb21waWxlciA9ICJnY2MiLAp9LAptVCA9IHsKY3VkYSA9IHsKZm4gPSAiL2NsdXN0ZXIvc29mdHdhcmUvc3RhY2tzLzIwMjQtMDUvc3BhY2svc2hhcmUvc3BhY2svbG1vZC9saW51eC11YnVudHUyMi4wNC14ODZfNjQvZ2NjLzEzLjIuMC9jdWRhLzEyLjIuMS5sdWEiLApmdWxsTmFtZSA9ICJjdWRhLzEyLjIuMSIsCmxvYWRPcmRlciA9IDMsCnByb3BUID0ge30sCnJlZl9jb3VudCA9IDEsCnN0YWNrRGVwdGggPSAxLApzdGF0dXMgPSAiYWN0aXZlIiwKdXNlck5hbWUgPSAiY3VkYSIsCndWID0gIjAw', 'CONDA_PYTHON_EXE': '/cluster/home/gcardenal/miniconda3/bin/python', 'LD_LIBRARY_PATH': '/cluster/software/manual/julia/1.10.3/x86_64/lib:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/rlib:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/rlib/R/lib:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt/lib64:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/lib:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/lib64:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/lib:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/lib', 'LMOD_FAMILY_COMPILER': 'gcc', 'SLURM_JOB_ID': '33560864', 'SLURM_NODEID': '0', '_ModuleTable004_': 'MDAwMDAzLip6ZmluYWwiLAp9LApqdWxpYSA9IHsKZm4gPSAiL2NsdXN0ZXIvc29mdHdhcmUvbG1vZHMvanVsaWEvMS4xMC4zLmx1YSIsCmZ1bGxOYW1lID0gImp1bGlhLzEuMTAuMyIsCmxvYWRPcmRlciA9IDgsCnByb3BUID0ge30sCnN0YWNrRGVwdGggPSAwLApzdGF0dXMgPSAiYWN0aXZlIiwKdXNlck5hbWUgPSAianVsaWEvMS4xMC4zIiwKd1YgPSAiMDAwMDAwMDAxLjAwMDAwMDAxMC4wMDAwMDAwMDMuKnpmaW5hbCIsCn0sCnB5dGhvbiA9IHsKZm4gPSAiL2NsdXN0ZXIvc29mdHdhcmUvc3RhY2tzLzIwMjQtMDUvc3BhY2svc2hhcmUvc3BhY2svbG1vZC9saW51eC11YnVudHUyMi4wNC14ODZfNjQvZ2NjLzEzLjIuMC9weXRob24vMy4xMS42X2N1ZGEubHVhIiwKZnVsbE5h', 'CONDA_DEFAULT_ENV': 'vllm_2', 'OMP_NUM_THREADS': '8', 'FC': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/bin/gfortran', 'TMOUT': '86400', 'LMOD_FAMILY_COMPILER_VERSION': '13.2.0', 'CUDA_HOME': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt', '__LMOD_REF_COUNT_C_INCLUDE_PATH': '/cluster/software/manual/julia/1.10.3/x86_64/include:1', 'XDG_DATA_DIRS': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/pango-1.50.13-m6jqr7uchlpizk7kjhwpq6yl56vdtjb2/share:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/harfbuzz-7.3.0-kfcjmvrteszehgnzwgjp5mmiyyhiggsc/share', 'SERVICE_PORT': '47189', 'JUPYTERHUB_SSL_CLIENT_CA': '.config/euler/jupyterhub/jupyter.ca', 'SLURM_CONF': '/cluster/slurm/adm/etc/slurm.conf', 'PATH': '/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/envs/vllm_2/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/home/gcardenal/miniconda3/bin:/cluster/scratch/gcardenal/miniconda3/bin:/cluster/software/manual/julia/1.10.3/x86_64/bin:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/bin:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/bin:/cluster/software/stacks/2024-05/python-cuda/3.11.6/bin:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt/bin:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/bin:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/bin:/usr/local/bin:/usr/local/sbin:/usr/sbin:/usr/bin:/sbin:/bin:/cluster/slurm/apps/bin:/cluster/software/bin:/cluster/home/gcardenal/.local/bin:/cluster/home/gcardenal/bin', 'SLURM_JOB_NAME': 'final_results', 'MODULEPATH': '/cluster/software/lmods', 'CC': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/bin/gcc', '_LMFILES_': '/cluster/software/lmods/stack/2024-05.lua:/cluster/software/stacks/2024-05/spack/share/spack/lmod/linux-ubuntu22.04-x86_64/Core/gcc/13.2.0.lua:/cluster/software/stacks/2024-05/spack/share/spack/lmod/linux-ubuntu22.04-x86_64/gcc/13.2.0/cuda/12.2.1.lua:/cluster/software/stacks/2024-05/spack/share/spack/lmod/linux-ubuntu22.04-x86_64/gcc/13.2.0/python/3.11.6_cuda.lua:/cluster/software/lmods/eth_proxy.lua:/cluster/software/stacks/2024-05/spack/share/spack/lmod/linux-ubuntu22.04-x86_64/gcc/13.2.0/r/4.3.2.lua:/cluster/software/stacks/2024-05/spack/share/spack/lmod/linux-ubuntu22.04-x86_64/gcc/13.2.0/hdf5/1.14.3.lua:/cluster/software/lmods/julia/1.10.3.lua', 'LMOD_CMD': '/cluster/software/stacks/2024-06/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-12.2.0/lmod-8.7.24-ou4i7x2rgiaysly4vgawaga6muhkdye4/lmod/lmod/libexec/lmod', 'C_INCLUDE_PATH': '/cluster/software/manual/julia/1.10.3/x86_64/include', 'JUPYTERHUB_USER': 'gcardenal', 'MAIL': '/var/mail/gcardenal', 'JUPYTERHUB_SSL_CERTFILE': '.config/euler/jupyterhub/jupyter.crt', '__LMOD_REF_COUNT_LD_LIBRARY_PATH': '/cluster/software/manual/julia/1.10.3/x86_64/lib:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/rlib:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/rlib/R/lib:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt/lib64:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/lib:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/lib64:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/lib:1;/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/lib:2', 'JUPYTERHUB_ACTIVITY_URL': 'https://jupyter.euler.hpc.ethz.ch/hub/api/users/gcardenal/activity', 'CONDA_PREFIX_1': '/cluster/scratch/gcardenal/miniconda3', 'OMPI_MCA_plm_slurm_args': '--external-launcher', 'SLURM_JOB_GID': '492010', 'CPATH': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/hdf5-1.14.3-djiamwqmf55x25kua4cbbio5newzctbr/include:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/r-4.3.2-c6hxdn6t4ao6fbqv4cg2xqinhwtwdwbn/include:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/cuda-12.2.1-fv6yilrnidoe35nh24iszjkf63bihikt/include:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-13.2.0/python-3.11.6-m4n2ny4dwaqmeobuqquo3gpyw2bct67i/include:/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog/include', 'GCC_EULER_ROOT': '/cluster/software/stacks/2024-05/spack/opt/spack/linux-ubuntu22.04-x86_64_v3/gcc-11.4.0/gcc-13.2.0-6t2bdhlkrktlyopht3nbmjz3emlsqeog', 'OLDPWD': '/cluster/home/gcardenal', 'SLURM_JOB_NODELIST': 'eu-ts-02', 'CONSUL_HTTP_ADDR': 'unix:///var/run/consul/http.sock', 'I_MPI_HYDRA_BOOTSTRAP': 'slurm', 'BASH_FUNC_ml%%': '() {  eval "$($LMOD_DIR/ml_cmd "$@")"\n}', 'BASH_FUNC_module%%': '() {  if [ -z "${LMOD_SH_DBG_ON+x}" ]; then\n case "$-" in \n *v*x*)\n __lmod_sh_dbg=\'vx\'\n ;;\n *v*)\n __lmod_sh_dbg=\'v\'\n ;;\n *x*)\n __lmod_sh_dbg=\'x\'\n ;;\n esac;\n fi;\n if [ -n "${__lmod_sh_dbg:-}" ]; then\n set +$__lmod_sh_dbg;\n echo "Shell debugging temporarily silenced: export LMOD_SH_DBG_ON=1 for Lmod\'s output" 1>&2;\n fi;\n eval "$($LMOD_CMD shell "$@")" && eval "$(${LMOD_SETTARG_CMD:-:} -s sh)";\n __lmod_my_status=$?;\n if [ -n "${__lmod_sh_dbg:-}" ]; then\n echo "Shell debugging restarted" 1>&2;\n set -$__lmod_sh_dbg;\n fi;\n unset __lmod_sh_dbg;\n return $__lmod_my_status\n}', '_': '/cluster/home/gcardenal/miniconda3/bin/python'}
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    from transformers import Gemma3ForCausalLM; print('✅importing Gemma3 It works')
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'transformers'
+Testing Slurm Variables...
+SLURM_JOB_USER=gcardenal
+SLURM_TASKS_PER_NODE=1
+SLURM_JOB_UID=608619
+SLURM_TASK_PID=3066124
+SLURM_JOB_GPUS=6,7
+SLURM_LOCALID=0
+SLURM_SUBMIT_DIR=/cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation
+SLURMD_NODENAME=eu-ts-02
+SLURM_JOB_START_TIME=1748697902
+SLURM_CLUSTER_NAME=euler-24-production
+SLURM_JOB_END_TIME=1748784302
+SLURM_CPUS_ON_NODE=8
+SLURM_JOB_CPUS_PER_NODE=8
+SLURM_GPUS_ON_NODE=2
+SLURM_GTIDS=0
+SLURM_JOB_PARTITION=gpupr.24h
+SLURM_TRES_PER_TASK=cpu=8
+SLURM_JOB_NUM_NODES=1
+SLURM_JOBID=33560864
+SLURM_GPUS=nvidia_a100_80gb_pcie:2
+SLURM_JOB_QOS=es_ilic/gpupr/24
+SLURM_PROCID=0
+SLURM_CPUS_PER_TASK=8
+SLURM_NTASKS=1
+SLURM_TOPOLOGY_ADDR=.euler_a100_80_lca_ib.eu-ts-02
+SLURM_TOPOLOGY_ADDR_PATTERN=switch.switch.node
+SLURM_MEM_PER_CPU=20480
+SLURM_SCRIPT_CONTEXT=prolog_task
+SLURM_NODELIST=eu-ts-02
+SLURM_JOB_ACCOUNT=gpupr/es_ilic
+SLURM_PRIO_PROCESS=0
+SLURM_NPROCS=1
+SLURM_NNODES=1
+SLURM_SUBMIT_HOST=eu-g5-008-3
+SLURM_JOB_ID=33560864
+SLURM_NODEID=0
+SLURM_CONF=/cluster/slurm/adm/etc/slurm.conf
+SLURM_JOB_NAME=final_results
+SLURM_JOB_GID=492010
+SLURM_JOB_NODELIST=eu-ts-02
+Sat May 31 15:25:17 2025       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 570.133.20             Driver Version: 570.133.20     CUDA Version: 12.8     |
+|-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA A100 80GB PCIe          On  |   00000000:E3:00.0 Off |                    0 |
+| N/A   48C    P0             50W /  300W |       0MiB /  81920MiB |      0%      Default |
+|                                         |                        |             Disabled |
++-----------------------------------------+------------------------+----------------------+
+|   1  NVIDIA A100 80GB PCIe          On  |   00000000:E4:00.0 Off |                    0 |
+| N/A   57C    P0             59W /  300W |       0MiB /  81920MiB |      0%      Default |
+|                                         |                        |             Disabled |
++-----------------------------------------+------------------------+----------------------+
+                                                                                         
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+Node IP: 10.205.9.18
+JobId=33560864 JobName=final_results
+   UserId=gcardenal(608619) GroupId=gcardenal-group(492010) MCS_label=N/A
+   Priority=5773 Nice=0 Account=gpupr/es_ilic QOS=es_ilic/gpupr/24
+   JobState=RUNNING Reason=None Dependency=(null)
+   Requeue=0 Restarts=0 BatchFlag=1 Reboot=0 ExitCode=0:0
+   RunTime=00:00:16 TimeLimit=1-00:00:00 TimeMin=N/A
+   SubmitTime=2025-05-31T15:10:30 EligibleTime=2025-05-31T15:10:30
+   AccrueTime=2025-05-31T15:10:30
+   StartTime=2025-05-31T15:25:02 EndTime=2025-06-01T15:25:02 Deadline=N/A
+   SuspendTime=None SecsPreSuspend=0 LastSchedEval=2025-05-31T15:25:02 Scheduler=Backfill
+   Partition=gpupr.24h AllocNode:Sid=eu-g5-008-3:1820250
+   ReqNodeList=(null) ExcNodeList=(null)
+   NodeList=eu-ts-02
+   BatchHost=eu-ts-02
+   NumNodes=1 NumCPUs=8 NumTasks=1 CPUs/Task=8 ReqB:S:C:T=0:0:*:*
+   ReqTRES=cpu=8,mem=160G,node=1,billing=694681,gres/gpu=2,gres/gpu:nvidia_a100_80gb_pcie=2,gres/gpumem=85899345920
+   AllocTRES=cpu=8,mem=160G,node=1,billing=694681,gres/gpu=2,gres/gpu:nvidia_a100_80gb_pcie=2,gres/gpumem=0
+   Socks/Node=* NtasksPerN:B:S:C=0:0:*:1 CoreSpec=*
+   MinCPUsNode=8 MinMemoryCPU=20G MinTmpDiskNode=0
+   Features=(null) DelayBoot=00:00:00
+   OverSubscribe=OK Contiguous=0 Licenses=(null) Network=(null)
+   Command=/cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/generate_answers-medgemma.sh
+   WorkDir=/cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation
+   StdErr=/cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/final_results33560864.out
+   StdIn=/dev/null
+   StdOut=/cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/final_results33560864.out
+   TresPerJob=gres/gpu:nvidia_a100_80gb_pcie:2
+   TresPerNode=gres/gpumem:80G
+   TresPerTask=cpu=8
+   
+
+Conda env: /cluster/home/gcardenal/miniconda3/envs/vllm_2
+/cluster/home/gcardenal/miniconda3/bin/python
+Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+    import transformers; print(transformers.__version__)
+    ^^^^^^^^^^^^^^^^^^^
+ModuleNotFoundError: No module named 'transformers'
+Collecting transformers==4.52.4
+  Using cached transformers-4.52.4-py3-none-any.whl.metadata (38 kB)
+Requirement already satisfied: filelock in /cluster/home/gcardenal/miniconda3/lib/python3.13/site-packages (from transformers==4.52.4) (3.18.0)
+Requirement already satisfied: huggingface-hub<1.0,>=0.30.0 in /cluster/home/gcardenal/miniconda3/lib/python3.13/site-packages (from transformers==4.52.4) (0.32.3)
+Requirement already satisfied: numpy>=1.17 in /cluster/home/gcardenal/miniconda3/lib/python3.13/site-packages (from transformers==4.52.4) (2.2.6)
+Requirement already satisfied: packaging>=20.0 in /cluster/home/gcardenal/miniconda3/lib/python3.13/site-packages (from transformers==4.52.4) (24.2)
+Requirement already satisfied: pyyaml>=5.1 in /cluster/home/gcardenal/miniconda3/lib/python3.13/site-packages (from transformers==4.52.4) (6.0.2)
+Requirement already satisfied: regex!=2019.12.17 in /cluster/home/gcardenal/miniconda3/lib/python3.13/site-packages (from transformers==4.52.4) (2024.11.6)
+Requirement already satisfied: requests in /cluster/home/gcardenal/miniconda3/lib/python3.13/site-packages (from transformers==4.52.4) (2.32.3)
+Requirement already satisfied: tokenizers<0.22,>=0.21 in /cluster/home/gcardenal/miniconda3/lib/python3.13/site-packages (from transformers==4.52.4) (0.21.1)
+Requirement already satisfied: safetensors>=0.4.3 in /cluster/home/gcardenal/miniconda3/lib/python3.13/site-packages (from transformers==4.52.4) (0.5.3)
+Requirement already satisfied: tqdm>=4.27 in /cluster/home/gcardenal/miniconda3/lib/python3.13/site-packages (from transformers==4.52.4) (4.67.1)
+Requirement already satisfied: fsspec>=2023.5.0 in /cluster/home/gcardenal/miniconda3/lib/python3.13/site-packages (from huggingface-hub<1.0,>=0.30.0->transformers==4.52.4) (2025.5.1)
+Requirement already satisfied: typing-extensions>=3.7.4.3 in /cluster/home/gcardenal/miniconda3/lib/python3.13/site-packages (from huggingface-hub<1.0,>=0.30.0->transformers==4.52.4) (4.12.2)
+Requirement already satisfied: hf-xet<2.0.0,>=1.1.2 in /cluster/home/gcardenal/miniconda3/lib/python3.13/site-packages (from huggingface-hub<1.0,>=0.30.0->transformers==4.52.4) (1.1.2)
+Requirement already satisfied: charset-normalizer<4,>=2 in /cluster/home/gcardenal/miniconda3/lib/python3.13/site-packages (from requests->transformers==4.52.4) (3.3.2)
+Requirement already satisfied: idna<4,>=2.5 in /cluster/home/gcardenal/miniconda3/lib/python3.13/site-packages (from requests->transformers==4.52.4) (3.7)
+Requirement already satisfied: urllib3<3,>=1.21.1 in /cluster/home/gcardenal/miniconda3/lib/python3.13/site-packages (from requests->transformers==4.52.4) (2.3.0)
+Requirement already satisfied: certifi>=2017.4.17 in /cluster/home/gcardenal/miniconda3/lib/python3.13/site-packages (from requests->transformers==4.52.4) (2025.4.26)
+Using cached transformers-4.52.4-py3-none-any.whl (10.5 MB)
+Installing collected packages: transformers
+Successfully installed transformers-4.52.4
+Running in standalone mode...
+Transformers version inside run: 4.52.4
+Running run_inference.sh...
+Found existing installation: transformers 4.52.4
+Uninstalling transformers-4.52.4:
+  Successfully uninstalled transformers-4.52.4
+Error while loading conda entry point: anaconda-anon-usage-plugin (No module named 'anaconda_anon_usage')
+Found existing installation: torch 2.5.0+cu121
+Uninstalling torch-2.5.0+cu121:
+  Successfully uninstalled torch-2.5.0+cu121
+Looking in indexes: https://download.pytorch.org/whl/cu121
+Collecting torch==2.5.0
+  Using cached https://download.pytorch.org/whl/cu121/torch-2.5.0%2Bcu121-cp310-cp310-linux_x86_64.whl (780.4 MB)
+Requirement already satisfied: filelock in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from torch==2.5.0) (3.16.1)
+Requirement already satisfied: typing-extensions>=4.8.0 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from torch==2.5.0) (4.13.2)
+Requirement already satisfied: networkx in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from torch==2.5.0) (3.3)
+Requirement already satisfied: jinja2 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from torch==2.5.0) (3.1.4)
+Requirement already satisfied: fsspec in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from torch==2.5.0) (2024.6.1)
+Requirement already satisfied: nvidia-cuda-nvrtc-cu12==12.1.105 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from torch==2.5.0) (12.1.105)
+Requirement already satisfied: nvidia-cuda-runtime-cu12==12.1.105 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from torch==2.5.0) (12.1.105)
+Requirement already satisfied: nvidia-cuda-cupti-cu12==12.1.105 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from torch==2.5.0) (12.1.105)
+Requirement already satisfied: nvidia-cudnn-cu12==9.1.0.70 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from torch==2.5.0) (9.1.0.70)
+Requirement already satisfied: nvidia-cublas-cu12==12.1.3.1 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from torch==2.5.0) (12.1.3.1)
+Requirement already satisfied: nvidia-cufft-cu12==11.0.2.54 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from torch==2.5.0) (11.0.2.54)
+Requirement already satisfied: nvidia-curand-cu12==10.3.2.106 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from torch==2.5.0) (10.3.2.106)
+Requirement already satisfied: nvidia-cusolver-cu12==11.4.5.107 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from torch==2.5.0) (11.4.5.107)
+Requirement already satisfied: nvidia-cusparse-cu12==12.1.0.106 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from torch==2.5.0) (12.1.0.106)
+Requirement already satisfied: nvidia-nccl-cu12==2.21.5 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from torch==2.5.0) (2.21.5)
+Requirement already satisfied: nvidia-nvtx-cu12==12.1.105 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from torch==2.5.0) (12.1.105)
+Requirement already satisfied: triton==3.1.0 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from torch==2.5.0) (3.1.0)
+Requirement already satisfied: sympy==1.13.1 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from torch==2.5.0) (1.13.1)
+Requirement already satisfied: nvidia-nvjitlink-cu12 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from nvidia-cusolver-cu12==11.4.5.107->torch==2.5.0) (12.9.41)
+Requirement already satisfied: mpmath<1.4,>=1.1.0 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from sympy==1.13.1->torch==2.5.0) (1.3.0)
+Requirement already satisfied: MarkupSafe>=2.0 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from jinja2->torch==2.5.0) (3.0.2)
+Installing collected packages: torch
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+vllm 0.6.2 requires transformers>=4.45.0, which is not installed.
+torchvision 0.19.0 requires torch==2.4.0, but you have torch 2.5.0+cu121 which is incompatible.
+vllm 0.6.2 requires torch==2.4.0, but you have torch 2.5.0+cu121 which is incompatible.
+xformers 0.0.27.post2 requires torch==2.4.0, but you have torch 2.5.0+cu121 which is incompatible.
+Successfully installed torch-2.5.0+cu121
+Collecting transformers
+  Using cached transformers-4.52.4-py3-none-any.whl.metadata (38 kB)
+Requirement already satisfied: filelock in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from transformers) (3.16.1)
+Requirement already satisfied: huggingface-hub<1.0,>=0.30.0 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from transformers) (0.32.3)
+Requirement already satisfied: numpy>=1.17 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from transformers) (1.26.4)
+Requirement already satisfied: packaging>=20.0 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from transformers) (25.0)
+Requirement already satisfied: pyyaml>=5.1 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from transformers) (6.0.2)
+Requirement already satisfied: regex!=2019.12.17 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from transformers) (2024.11.6)
+Requirement already satisfied: requests in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from transformers) (2.32.3)
+Requirement already satisfied: tokenizers<0.22,>=0.21 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from transformers) (0.21.1)
+Requirement already satisfied: safetensors>=0.4.3 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from transformers) (0.4.5)
+Requirement already satisfied: tqdm>=4.27 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from transformers) (4.66.5)
+Requirement already satisfied: fsspec>=2023.5.0 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from huggingface-hub<1.0,>=0.30.0->transformers) (2024.6.1)
+Requirement already satisfied: typing-extensions>=3.7.4.3 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from huggingface-hub<1.0,>=0.30.0->transformers) (4.13.2)
+Requirement already satisfied: hf-xet<2.0.0,>=1.1.2 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from huggingface-hub<1.0,>=0.30.0->transformers) (1.1.2)
+Requirement already satisfied: charset-normalizer<4,>=2 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from requests->transformers) (3.3.2)
+Requirement already satisfied: idna<4,>=2.5 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from requests->transformers) (3.10)
+Requirement already satisfied: urllib3<3,>=1.21.1 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from requests->transformers) (2.4.0)
+Requirement already satisfied: certifi>=2017.4.17 in /cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages (from requests->transformers) (2024.8.30)
+Using cached transformers-4.52.4-py3-none-any.whl (10.5 MB)
+Installing collected packages: transformers
+ERROR: pip's dependency resolver does not currently take into account all the packages that are installed. This behaviour is the source of the following dependency conflicts.
+vllm 0.6.2 requires torch==2.4.0, but you have torch 2.5.0+cu121 which is incompatible.
+Successfully installed transformers-4.52.4
+Inside srun:
+/cluster/home/gcardenal/miniconda3/envs/vllm_2/bin/python
+✅ Python version: 3.10.16 (main, Dec 11 2024, 16:24:50) [GCC 11.2.0]
+✅ Transformers version: 4.52.4
+2.5.0+cu121
+I0531 15:26:56.384000 3066372 site-packages/torch/distributed/run.py:897] 
+I0531 15:26:56.384000 3066372 site-packages/torch/distributed/run.py:897] **************************************
+I0531 15:26:56.384000 3066372 site-packages/torch/distributed/run.py:897] Rendezvous info:
+I0531 15:26:56.384000 3066372 site-packages/torch/distributed/run.py:897] --rdzv-backend=c10d --rdzv-endpoint=localhost:0 --rdzv-id=9e06a2c7-3ea9-4d72-a55a-e811690d5487
+I0531 15:26:56.384000 3066372 site-packages/torch/distributed/run.py:897] **************************************
+I0531 15:26:56.384000 3066372 site-packages/torch/distributed/run.py:897] 
+I0531 15:26:56.384000 3066372 site-packages/torch/distributed/launcher/api.py:194] Starting elastic_operator with launch configs:
+I0531 15:26:56.384000 3066372 site-packages/torch/distributed/launcher/api.py:194]   entrypoint       : get_model_answers_and_prompt_generation.py
+I0531 15:26:56.384000 3066372 site-packages/torch/distributed/launcher/api.py:194]   min_nodes        : 1
+I0531 15:26:56.384000 3066372 site-packages/torch/distributed/launcher/api.py:194]   max_nodes        : 1
+I0531 15:26:56.384000 3066372 site-packages/torch/distributed/launcher/api.py:194]   nproc_per_node   : 1
+I0531 15:26:56.384000 3066372 site-packages/torch/distributed/launcher/api.py:194]   run_id           : 9e06a2c7-3ea9-4d72-a55a-e811690d5487
+I0531 15:26:56.384000 3066372 site-packages/torch/distributed/launcher/api.py:194]   rdzv_backend     : c10d
+I0531 15:26:56.384000 3066372 site-packages/torch/distributed/launcher/api.py:194]   rdzv_endpoint    : localhost:0
+I0531 15:26:56.384000 3066372 site-packages/torch/distributed/launcher/api.py:194]   rdzv_configs     : {'timeout': 900}
+I0531 15:26:56.384000 3066372 site-packages/torch/distributed/launcher/api.py:194]   max_restarts     : 0
+I0531 15:26:56.384000 3066372 site-packages/torch/distributed/launcher/api.py:194]   monitor_interval : 0.1
+I0531 15:26:56.384000 3066372 site-packages/torch/distributed/launcher/api.py:194]   log_dir          : /scratch/tmp.33560864.gcardenal/torchelastic_a82qckp8
+I0531 15:26:56.384000 3066372 site-packages/torch/distributed/launcher/api.py:194]   metrics_cfg      : {}
+I0531 15:26:56.384000 3066372 site-packages/torch/distributed/launcher/api.py:194] 
+I0531 15:26:56.399000 3066372 site-packages/torch/distributed/elastic/agent/server/api.py:845] [default] starting workers for entrypoint: python3.10
+I0531 15:26:56.400000 3066372 site-packages/torch/distributed/elastic/agent/server/api.py:662] [default] Rendezvous'ing worker group
+I0531 15:26:56.591000 3066372 site-packages/torch/distributed/elastic/agent/server/api.py:525] [default] Rendezvous complete for workers. Result:
+I0531 15:26:56.591000 3066372 site-packages/torch/distributed/elastic/agent/server/api.py:525]   restart_count=0
+I0531 15:26:56.591000 3066372 site-packages/torch/distributed/elastic/agent/server/api.py:525]   master_addr=localhost
+I0531 15:26:56.591000 3066372 site-packages/torch/distributed/elastic/agent/server/api.py:525]   master_port=40033
+I0531 15:26:56.591000 3066372 site-packages/torch/distributed/elastic/agent/server/api.py:525]   group_rank=0
+I0531 15:26:56.591000 3066372 site-packages/torch/distributed/elastic/agent/server/api.py:525]   group_world_size=1
+I0531 15:26:56.591000 3066372 site-packages/torch/distributed/elastic/agent/server/api.py:525]   local_ranks=[0]
+I0531 15:26:56.591000 3066372 site-packages/torch/distributed/elastic/agent/server/api.py:525]   role_ranks=[0]
+I0531 15:26:56.591000 3066372 site-packages/torch/distributed/elastic/agent/server/api.py:525]   global_ranks=[0]
+I0531 15:26:56.591000 3066372 site-packages/torch/distributed/elastic/agent/server/api.py:525]   role_world_sizes=[1]
+I0531 15:26:56.591000 3066372 site-packages/torch/distributed/elastic/agent/server/api.py:525]   global_world_sizes=[1]
+I0531 15:26:56.591000 3066372 site-packages/torch/distributed/elastic/agent/server/api.py:525] 
+I0531 15:26:56.591000 3066372 site-packages/torch/distributed/elastic/agent/server/api.py:670] [default] Starting worker group
+I0531 15:26:56.591000 3066372 site-packages/torch/distributed/elastic/agent/server/local_elastic_agent.py:291] use_agent_store: True
+I0531 15:26:56.592000 3066372 site-packages/torch/distributed/elastic/agent/server/local_elastic_agent.py:192] Environment variable 'TORCHELASTIC_ENABLE_FILE_TIMER' not found. Do not start FileTimerServer.
+I0531 15:26:56.592000 3066372 site-packages/torch/distributed/elastic/agent/server/local_elastic_agent.py:229] Environment variable 'TORCHELASTIC_HEALTH_CHECK_PORT' not found. Do not start health check.
+✅ transformers version being used: 4.52.4
+✅ Python executable: /cluster/home/gcardenal/miniconda3/envs/vllm_2/bin/python3.10
+✅ sys.path: ['/cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation', '/cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python310.zip', '/cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10', '/cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/lib-dynload', '/cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages']
+Loading MedGemma-3-27B model locally...
+Loading checkpoint shards:   0%|                                                                              | 0/11 [00:00<?, ?it/s]Loading checkpoint shards:  18%|████████████▋                                                         | 2/11 [00:00<00:00, 17.24it/s]Loading checkpoint shards:  36%|█████████████████████████▍                                            | 4/11 [00:00<00:00, 12.42it/s]Loading checkpoint shards:  55%|██████████████████████████████████████▏                               | 6/11 [00:00<00:00, 13.55it/s]Loading checkpoint shards:  73%|██████████████████████████████████████████████████▉                   | 8/11 [00:00<00:00, 13.38it/s]Loading checkpoint shards:  91%|██████████████████████████████████████████████████████████████▋      | 10/11 [00:00<00:00, 11.90it/s]Loading checkpoint shards: 100%|█████████████████████████████████████████████████████████████████████| 11/11 [00:00<00:00, 12.25it/s]
+Starting inference for question (MedGemma-3-27B): How is HIV diagnosed?
+Device set to use cuda:0
+/cluster/home/gcardenal/miniconda3/envs/vllm_2/lib/python3.10/site-packages/torch/_inductor/compile_fx.py:167: UserWarning: TensorFloat32 tensor cores for float32 matrix multiplication available but not enabled. Consider setting `torch.set_float32_matmul_precision('high')` for better performance.
+  warnings.warn(
+Answer for question (MedGemma-3-27B): The user is asking about the diagnosis of HIV. I need to provide a brief and clear explanation of how HIV is diagnosed.
+
+1.  **Initial Screening:** Start with the common screening tests.
+2.  **Types of Tests:** Mention the different types (antibody, antigen/antibody, NAT).
+3.  **Confirmation:** Explain that positive screening tests usually require confirmation.
+4.  **Timing:** Briefly touch upon the window period.
+5.  **Context:** Mention that diagnosis is usually made in a clinical setting.
+
+**Draft 1:** HIV is diagnosed using blood or oral fluid tests. These tests look for antibodies to HIV, antigens (part of the virus), or the virus itself (RNA). A positive screening test is usually confirmed with a different type of test. It's important to test at the right time after potential exposure due to the window period.
+
+**Critique 1:** This is accurate and covers the main points. It's brief and clear.
+
+**Revise 1:** No major revisions needed. Maybe slightly rephrase for flow.
+
+**Final Answer Plan:**
+*   Start with the primary method: laboratory tests on blood or oral fluid.
+*   Mention the main targets: antibodies, antigens (p24), and viral RNA (NAT).
+*   Explain the process: screening followed by confirmation.
+*   Briefly mention the window period concept.<unused95>HIV is diagnosed using laboratory tests on blood or oral fluid. These tests look for:
+
+1.  **Antibodies** to HIV (proteins your body makes in response to the virus).
+2.  **Antigens** (part of the virus itself, like p24).
+3.  **Viral RNA** (the virus's genetic material, using Nucleic Acid Tests or NATs).
+
+Most commonly, a screening test (like a 4th generation antigen/antibody test) is done first. If positive, it's confirmed with a different type of test (often a NAT or an HIV-1/HIV-2 antibody differentiation test). The timing of the test after potential exposure is important due to the "window period."
+Starting inference for question (MedGemma-3-27B): What are the different stages of HIV?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking about the stages of HIV infection. I need to provide a clear and concise explanation of the different stages.
+
+1.  **Acute HIV Infection:** This is the earliest stage, occurring within 2-4 weeks after infection. Symptoms can resemble the flu. The virus is highly active and the viral load is very high.
+2.  **Clinical Latency (Chronic HIV Infection):** The virus is still active but reproduces at very low levels. People may not have symptoms during this stage, which can last for many years (a decade or more) if untreated. However, the virus can still be transmitted.
+3.  **Acquired Immunodeficiency Syndrome (AIDS):** This is the most severe stage. The immune system is badly damaged, making the person vulnerable to opportunistic infections and cancers. AIDS is diagnosed when the CD4 cell count drops below 200 cells/mm³ or when certain opportunistic illnesses develop.
+
+I will structure the answer to cover these three stages briefly.<unused95>HIV infection typically progresses through three stages:
+
+1.  **Acute HIV Infection:** This is the earliest stage, occurring within 2-4 weeks after infection. The virus is multiplying rapidly, and the viral load is very high. Some people experience flu-like symptoms.
+2.  **Clinical Latency (Chronic HIV Infection):** The virus is still active but reproduces at much lower levels. People in this stage may not have any symptoms for many years, but the virus can still be transmitted. Without treatment, this stage eventually progresses to AIDS.
+3.  **Acquired Immunodeficiency Syndrome (AIDS):** This is the most severe stage. The immune system is severely damaged, leading to a high risk of opportunistic infections and cancers. AIDS is diagnosed when the CD4 cell count falls below 200 cells/mm³ or when certain AIDS-defining illnesses occur.
+
+With effective antiretroviral therapy (ART), many people with HIV remain in the clinical latency stage for decades and may never progress to AIDS.
+Starting inference for question (MedGemma-3-27B): How is HIV transmitted?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking about the modes of HIV transmission. I need to provide a clear and concise explanation of how HIV spreads.
+
+1.  **Identify the core question:** How is HIV transmitted?
+2.  **Recall key transmission routes:** HIV is transmitted through specific body fluids from an infected person.
+3.  **List the relevant body fluids:** Blood, semen, pre-seminal fluid, rectal fluids, vaginal fluids, breast milk.
+4.  **List the main routes of transmission:**
+    *   Sexual contact (vaginal, anal, oral sex)
+    *   Sharing needles or syringes (injection drug use, tattoos, piercings with unsterilized equipment)
+    *   Mother-to-child transmission (during pregnancy, childbirth, or breastfeeding)
+    *   Occupational exposure (needlestick injuries in healthcare settings - less common now with precautions)
+    *   Blood transfusions/organ transplants (very rare in countries with screening)
+5.  **Emphasize what HIV is NOT transmitted through:** Casual contact (hugging, kissing, sharing utensils, toilets, etc.).
+6.  **Structure the answer:** Start with the core concept (body fluids), list the main routes, and briefly mention what it's *not* transmitted through. Keep it brief and clear as requested.
+
+**Draft Answer:**
+
+HIV is transmitted through specific body fluids of an infected person: blood, semen, pre-seminal fluid, rectal fluids, vaginal fluids, and breast milk.
+
+The main ways it spreads are:
+*   **Sexual contact:** Vaginal, anal, or oral sex with someone who has HIV.
+*   **Sharing needles or syringes:** Especially for injection drug use, but also potentially through unsterilized tattoo or piercing equipment.
+*   **From mother to child:** During pregnancy, childbirth, or breastfeeding.
+
+HIV is *not* spread through casual contact like hugging, kissing, sharing toilets, or sharing dishes.<unused95>HIV is transmitted through specific body fluids of an infected person: blood, semen, pre-seminal fluid, rectal fluids, vaginal fluids, and breast milk.
+
+The main routes of transmission are:
+
+1.  **Sexual contact:** Vaginal, anal, or oral sex with someone who has HIV.
+2.  **Sharing needles or syringes:** Primarily associated with injection drug use, but also potentially through unsterilized tattoo or piercing equipment.
+3.  **From mother to child:** During pregnancy, childbirth, or breastfeeding.
+
+HIV is *not* transmitted through casual contact like hugging, kissing, sharing utensils, or using the same toilet.
+Starting inference for question (MedGemma-3-27B): What comorbidities are common among people living 
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking about common comorbidities associated with HIV infection. I should list the major categories of conditions that are more frequent or severe in people living with HIV compared to the general population.
+
+1.  **Cardiovascular Disease:** Increased risk of heart attack, stroke, peripheral vascular disease.
+2.  **Kidney Disease:** HIV-associated nephropathy (HIVAN), chronic kidney disease.
+3.  **Liver Disease:** Hepatitis B and C co-infection, non-alcoholic fatty liver disease (NAFLD), alcohol-related liver disease.
+4.  **Cancers:** Certain cancers are more common, including Kaposi's sarcoma, non-Hodgkin lymphoma, cervical cancer, anal cancer, lung cancer.
+5.  **Bone Disease:** Osteoporosis, osteopenia.
+6.  **Neurological Disorders:** Neurocognitive impairment (HIV-associated neurocognitive disorders or HAND), peripheral neuropathy.
+7.  **Mental Health Conditions:** Depression, anxiety, substance use disorders.
+8.  **Infectious Diseases:** Increased susceptibility to opportunistic infections (especially if CD4 count is low or unsuppressed), tuberculosis, pneumonia.
+9.  **Metabolic Issues:** Dyslipidemia, insulin resistance, diabetes.
+
+I need to keep the answer brief and clear, as requested. I will list the main categories.<unused95>People living with HIV have an increased risk for several comorbidities, including:
+
+*   **Cardiovascular disease:** Heart attack, stroke.
+*   **Kidney disease:** Chronic kidney disease, HIV-associated nephropathy.
+*   **Liver disease:** Hepatitis B or C co-infection, fatty liver disease.
+*   **Certain cancers:** Kaposi's sarcoma, non-Hodgkin lymphoma, cervical and anal cancers.
+*   **Bone disease:** Osteoporosis and fractures.
+*   **Neurological issues:** Cognitive impairment, peripheral neuropathy.
+*   **Mental health conditions:** Depression, anxiety.
+*   **Metabolic conditions:** Diabetes, high cholesterol.
+
+Early diagnosis, effective antiretroviral therapy, and managing traditional risk factors (like smoking, blood pressure, cholesterol) are crucial for preventing these conditions.
+Starting inference for question (MedGemma-3-27B): How can HIV be prevented?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking for ways to prevent HIV transmission. I need to provide a concise and accurate answer covering the main prevention strategies.
+
+1.  **Identify the core question:** How to prevent HIV.
+2.  **Recall key prevention methods:**
+    *   Safe sex practices (condoms).
+    *   Pre-exposure prophylaxis (PrEP).
+    *   Post-exposure prophylaxis (PEP).
+    *   Needle exchange programs/avoiding sharing needles.
+    *   Testing and treatment (Treatment as Prevention - TasP).
+    *   Prevention of mother-to-child transmission (PMTCT).
+3.  **Structure the answer:** List the main methods clearly.
+4.  **Keep it brief and clear:** Use simple language.
+5.  **Review for accuracy and completeness (within brevity constraints):** Ensure the main, evidence-based methods are included.
+6.  **Final check:** Does the answer directly address the question? Is it respectful and honest? Yes.<unused95>HIV prevention involves several strategies:
+
+1.  **Safe Sex:** Consistent and correct use of condoms significantly reduces the risk of transmission during sexual activity.
+2.  **Pre-Exposure Prophylaxis (PrEP):** Taking daily medication can prevent HIV infection in high-risk individuals.
+3.  **Post-Exposure Prophylaxis (PEP):** Taking medication soon after a potential exposure can prevent infection.
+4.  **Testing and Treatment:** Knowing your HIV status and, if positive, adhering to treatment (antiretroviral therapy) reduces the viral load, often to undetectable levels, making transmission highly unlikely (Undetectable = Untransmittable, U=U).
+5.  **Needle Safety:** Avoiding sharing needles or using sterile needles prevents transmission through injection drug use.
+6.  **Prevention of Mother-to-Child Transmission (PMTCT):** Antiretroviral treatment for pregnant individuals with HIV drastically reduces the risk of transmission to their baby.
+Starting inference for question (MedGemma-3-27B): How frequently ART must be taken?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking about the frequency of taking Antiretroviral Therapy (ART) for HIV. As a senior physician specializing in HIV, I need to provide a clear and concise answer.
+
+1.  **Identify the core question:** The user wants to know how often ART medications should be taken.
+2.  **Recall standard ART guidelines:** ART regimens are typically designed for daily administration. This is the standard of care for achieving and maintaining viral suppression.
+3.  **Consider exceptions/nuances (but keep it brief):** While daily is standard, some older or specific regimens might have different frequencies. However, for a general answer, daily is the key point. Mentioning exceptions might complicate the answer unnecessarily for a junior clinician unless specifically asked.
+4.  **Formulate a concise answer:** State that ART is typically taken daily.
+5.  **Add important context:** Emphasize adherence is crucial for effectiveness.
+6.  **Review for clarity and brevity:** The answer should be easy to understand and direct. "ART is typically taken once daily. Consistent adherence is essential for treatment success." This covers the main point and the importance of adherence.<unused95>ART is typically taken once daily. Consistent adherence is essential for treatment success.
+Starting inference for question (MedGemma-3-27B): How can we prevent Perinatal transmission of HIV?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking for methods to prevent mother-to-child transmission (MTCT) of HIV, also known as perinatal transmission. I need to provide a concise and clear answer outlining the key strategies.
+
+1.  **Antiretroviral Therapy (ART) for the mother:** This is the cornerstone. ART significantly reduces the viral load in the mother, making transmission much less likely. It should be started as early as possible during pregnancy and continued lifelong.
+2.  **Antiretroviral Prophylaxis for the infant:** The baby receives ART medication for a period (typically 4-6 weeks, sometimes longer depending on risk) after birth to prevent infection if any exposure occurred during delivery.
+3.  **Mode of Delivery:** Cesarean section (C-section) before labor and rupture of membranes can reduce transmission risk, especially if the mother's viral load is not fully suppressed. Vaginal delivery is generally safe if the viral load is undetectable.
+4.  **Infant Feeding:** In high-income countries where safe alternatives are available, formula feeding is recommended to eliminate the risk of transmission through breast milk. In resource-limited settings, the benefits of breastfeeding might outweigh the risk if the mother is virally suppressed on ART, but this requires careful counseling and monitoring.
+5.  **Early Infant Diagnosis:** Testing the infant for HIV shortly after birth and regularly thereafter allows for prompt initiation of treatment if infection is detected.
+
+I should structure the answer to cover these points clearly and briefly.<unused95>Preventing perinatal HIV transmission involves several key strategies:
+
+1.  **Antiretroviral Therapy (ART) for the mother:** Starting and maintaining effective ART during pregnancy, labor, and delivery dramatically reduces the risk of transmission. The goal is to achieve an undetectable viral load.
+2.  **Antiretroviral Prophylaxis for the infant:** The newborn receives ART medication for several weeks after birth.
+3.  **Mode of Delivery:** A scheduled cesarean section (before labor and membrane rupture) may be recommended if the mother's viral load is not fully suppressed. Vaginal delivery is usually safe with suppressed viral load.
+4.  **Infant Feeding:** Avoiding breastfeeding is recommended in settings where safe alternatives (like formula) are available and feasible. If breastfeeding is necessary, the mother must be on effective ART with viral suppression.
+5.  **Early Infant Diagnosis:** Regular HIV testing of the infant is crucial to detect any infection early and start treatment promptly.
+Starting inference for question (MedGemma-3-27B): What are the main cell types infected with HIV?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking about the primary cell types infected by HIV. I need to provide a concise and accurate answer based on my knowledge as an HIV specialist.
+
+1.  **Identify the main target cells:** HIV primarily targets cells of the immune system.
+2.  **Specify the key receptors:** The virus uses CD4 and coreceptors (CCR5 or CXCR4) to enter cells.
+3.  **List the most important cell types:**
+    *   CD4+ T helper lymphocytes (the most crucial target).
+    *   Macrophages.
+    *   Dendritic cells.
+4.  **Mention other potential targets (briefly, if necessary):** Microglia (in the brain), Langerhans cells (in skin/mucosa), etc., but focus on the main ones.
+5.  **Formulate a brief answer:** State the main cell types (CD4+ T cells, macrophages, dendritic cells) and mention the role of CD4 receptors.<unused95>HIV primarily infects cells that express the CD4 receptor on their surface, along with a coreceptor (usually CCR5 or CXCR4).
+
+The main cell types infected are:
+
+1.  **CD4+ T helper lymphocytes:** These are the most important targets and their depletion leads to immune deficiency.
+2.  **Macrophages:** These cells can harbor the virus for long periods.
+3.  **Dendritic cells:** These cells play a role in initial infection and can also be infected.
+Starting inference for question (MedGemma-3-27B): What is the difference between HIV and AIDS?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking for the difference between HIV and AIDS. I need to provide a clear and concise explanation distinguishing the two.
+
+1.  **HIV:** Human Immunodeficiency Virus. It's the virus itself. It attacks the immune system, specifically CD4 cells (T cells).
+2.  **AIDS:** Acquired Immunodeficiency Syndrome. It's the *late stage* of HIV infection. It's a syndrome, meaning a collection of symptoms and illnesses, that occurs when the immune system is severely damaged by HIV.
+
+Key points to include:
+*   HIV is the virus.
+*   AIDS is the condition/syndrome resulting from advanced HIV infection.
+*   Not everyone with HIV develops AIDS.
+*   AIDS is diagnosed based on a very low CD4 count or the presence of opportunistic infections.
+
+Plan:
+*   Define HIV as the virus.
+*   Define AIDS as the late stage/syndrome caused by HIV.
+*   Mention that HIV leads to AIDS if untreated.
+*   Briefly mention the diagnostic criteria for AIDS (low CD4 count or opportunistic infections).
+*   Emphasize that treatment prevents progression to AIDS.<unused95>Okay, here's the key difference:
+
+*   **HIV (Human Immunodeficiency Virus)** is the *virus* itself. It attacks and weakens the immune system, specifically CD4 cells (T cells).
+*   **AIDS (Acquired Immunodeficiency Syndrome)** is the *late stage* of HIV infection. It's a condition or syndrome diagnosed when the immune system is severely damaged by HIV, typically when the CD4 count drops below 200 cells/mm³ or when certain opportunistic infections or cancers develop.
+
+Essentially, HIV is the cause, and AIDS is the potential outcome if the HIV infection is not treated. With effective treatment, people with HIV can live long, healthy lives and may never develop AIDS.
+Starting inference for question (MedGemma-3-27B): How is HIV not transmitted?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking about modes of HIV transmission that are *not* possible. I need to list common misconceptions about HIV transmission and clarify that these are not routes of transmission. I should keep the answer brief and clear, as requested.
+
+1.  **Identify common misconceptions:** Casual contact, sharing utensils, saliva, tears, sweat, insects, toilet seats, hugging, kissing (closed-mouth).
+2.  **State clearly that HIV is *not* transmitted through these routes.**
+3.  **Briefly explain *why* (if possible and concise):** HIV is fragile outside the body and requires direct blood or specific bodily fluids.
+4.  **Review the answer for clarity and brevity.**
+
+Misconceptions to address:
+*   Casual contact (hugging, shaking hands, sharing phones/toilets)
+*   Air or water
+*   Insects (mosquitoes, ticks)
+*   Saliva, tears, sweat
+*   Sharing utensils, cups, food
+*   Kissing (closed-mouth/social kissing)
+
+Draft answer:
+HIV is not transmitted through casual contact like hugging, shaking hands, or sharing toilets. It's also not spread through air, water, insects (like mosquitoes), or saliva, tears, or sweat. You cannot get HIV from sharing utensils, cups, or food, or from closed-mouth kissing. HIV requires direct contact with specific body fluids (blood, semen, pre-seminal fluid, rectal fluids, vaginal fluids, breast milk) from an infected person.<unused95>HIV is not transmitted through casual contact. This includes:
+
+*   Hugging or shaking hands
+*   Sharing toilets, dishes, or utensils
+*   Kissing (closed-mouth or "social" kissing)
+*   Sharing drinks
+*   Air or water
+*   Insects like mosquitoes or ticks
+*   Saliva, tears, or sweat (unless mixed with blood)
+Starting inference for question (MedGemma-3-27B): What is known about the switch that occurs between
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking about the transition from latent HIV infection to active HIV infection. I need to explain the key factors and mechanisms involved in this switch.
+
+1.  **Define Latency:** Briefly explain what latent HIV means - the virus is dormant within certain cells, not actively replicating, and not detectable by standard tests.
+2.  **Define Activation:** Explain what active infection means - the virus starts replicating, producing new virions, and becomes detectable.
+3.  **Key Factors Triggering Activation:** Mention the main triggers:
+    *   Immune activation (e.g., due to other infections, inflammation)
+    *   Certain medications (e.g., immune modulators)
+    *   Cytokine stimulation (e.g., IL-15)
+4.  **Cellular Mechanisms:** Briefly touch upon the cellular processes involved:
+    *   Reversal of transcriptional silencing (e.g., involving transcription factors like NF-κB).
+    *   Viral gene expression (transition from integrated provirus to mRNA to protein).
+    *   Viral replication and assembly.
+5.  **Clinical Significance:** Briefly mention why this switch is important (e.g., viral rebound, disease progression, challenge for cure).
+6.  **Keep it brief and clear:** Use simple language suitable for a junior clinician. Avoid excessive detail.<unused95>Okay, let's break down the switch from latent to active HIV infection.
+
+**Latent HIV:** The virus exists as integrated DNA (provirus) within certain immune cells, primarily resting CD4+ T cells. In this state, the virus isn't actively replicating, and the cells aren't producing new virus particles. This reservoir is invisible to standard HIV tests and antiretroviral therapy (ART).
+
+**Activation:** This is the process where the latent virus "wakes up" and starts replicating. Key factors triggering this include:
+
+1.  **Immune Activation:** Signals from the immune system (like cytokines, e.g., IL-15) can stimulate the resting CD4+ T cells, leading to viral gene expression. Other infections or inflammation can also cause this.
+2.  **Cellular Signals:** Specific signaling pathways within the cell (e.g., involving transcription factors like NF-κB) are activated, turning on the transcription of the integrated proviral DNA.
+3.  **Viral Replication:** Once the viral genes are expressed, the cell machinery is hijacked to produce new viral RNA, proteins, assemble new virions, and release them, leading to active infection and detectable viral load.
+
+This switch is crucial because it's the main reason why HIV isn't completely eradicated by ART and why viral rebound can occur if therapy is stopped. Understanding these activation pathways is key to developing strategies aimed at eliminating the latent reservoir, often referred to as a "cure" or "remission."
+Saved MedGemma-3-27B answers (category=1, iteration=1) to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/raw/MedGemma-3-27B/MedGemma-3-27B_answers_category_1.1_HIV_EQ.json
+Starting inference for question (MedGemma-3-27B): How is HIV diagnosed?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking about the diagnosis of HIV. I need to provide a brief and clear explanation of the diagnostic process.
+
+1.  **Initial Screening:** Mention the common screening tests (antibody tests).
+2.  **Confirmatory Testing:** Explain that positive screening tests require confirmation.
+3.  **Types of Confirmatory Tests:** Briefly list the types (e.g., antibody/antigen tests, NAT).
+4.  **Context:** Mention that diagnosis involves clinical evaluation and risk assessment.
+
+Plan:
+- Start with screening tests (antibody tests).
+- Mention the need for confirmation.
+- List confirmatory tests (4th gen, NAT).
+- Briefly touch on clinical context.
+- Keep it concise and clear, suitable for a junior clinician.<unused95>HIV diagnosis typically involves a multi-step process:
+
+1.  **Screening:** Usually starts with an antibody test (blood or oral fluid). These tests detect antibodies the body makes in response to HIV.
+2.  **Confirmatory Testing:** If the screening test is positive, a confirmatory test is needed. This is often a fourth-generation test that detects both HIV antibodies and the p24 antigen (a part of the virus itself). Nucleic Acid Tests (NAT), which detect the virus's genetic material, may also be used, especially if early infection is suspected.
+
+Diagnosis also involves considering the patient's risk factors and clinical presentation.
+Starting inference for question (MedGemma-3-27B): What are the different stages of HIV?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking about the stages of HIV infection. I should provide a brief and clear description of the typical stages.
+
+1.  **Acute HIV Infection:** This is the earliest stage, occurring within 2-4 weeks after infection. Symptoms can resemble the flu. Viral load is very high, and the person is highly infectious.
+2.  **Clinical Latency (Chronic HIV Infection):** The virus is still active but reproduces at low levels. People may not have symptoms or only mild ones. Without treatment, this stage can last for years, eventually progressing to AIDS. Viral load is lower than in the acute stage but still present.
+3.  **Acquired Immunodeficiency Syndrome (AIDS):** This is the most severe stage. The immune system is badly damaged, leading to opportunistic infections and cancers. It's defined by a very low CD4 cell count (below 200 cells/mm³) or the presence of specific opportunistic illnesses.
+
+I need to present this information clearly and concisely, suitable for a junior clinician. I should avoid overly technical jargon where possible.<unused95>Okay, here are the main stages of HIV infection:
+
+1.  **Acute HIV Infection:** This is the earliest stage, usually within 2-4 weeks of infection. The virus replicates rapidly, and viral load is very high. People may experience flu-like symptoms.
+2.  **Clinical Latency (Chronic HIV Infection):** The virus is still active but reproduces at lower levels. People may have no symptoms or only mild ones. Without treatment, this stage can last many years and eventually progress to AIDS.
+3.  **Acquired Immunodeficiency Syndrome (AIDS):** This is the most advanced stage. The immune system is severely damaged, making the person vulnerable to opportunistic infections and cancers. It's typically diagnosed when the CD4 count drops below 200 cells/mm³ or certain opportunistic illnesses develop.
+
+With effective antiretroviral therapy (ART), many people with HIV can stay in the clinical latency stage for decades and never progress to AIDS.
+Starting inference for question (MedGemma-3-27B): How is HIV transmitted?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking about the modes of HIV transmission. I need to provide a clear and concise answer listing the main ways HIV can be transmitted.
+
+1.  **Identify the core question:** How is HIV transmitted?
+2.  **Recall key transmission routes:**
+    *   Sexual contact (vaginal, anal, oral)
+    *   Sharing needles/syringes (injection drug use, etc.)
+    *   Mother-to-child (during pregnancy, childbirth, breastfeeding)
+    *   Blood transfusions/organ transplants (rare in developed countries due to screening)
+    *   Occupational exposure (needlestick injuries)
+3.  **Formulate a brief and clear answer:** List these routes concisely.
+4.  **Review for clarity and accuracy:** Ensure the answer is easy to understand and medically correct.<unused95>HIV is transmitted through specific bodily fluids:
+
+1.  **Blood:** Sharing needles, syringes, or other injection equipment; accidental needlesticks; unsafe transfusions (rare now).
+2.  **Semen and Pre-seminal Fluid:** Through vaginal, anal, or oral sex.
+3.  **Rectal Fluids:** Through anal sex.
+4.  **Vaginal Fluids:** Through vaginal sex.
+5.  **Breast Milk:** From an HIV-positive mother to her child during breastfeeding.
+
+It is *not* transmitted through casual contact like hugging, kissing, sharing utensils, or toilet seats.
+Starting inference for question (MedGemma-3-27B): What comorbidities are common among people living 
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking about common comorbidities associated with HIV infection. I need to list the conditions that frequently occur alongside HIV. I should focus on common ones and keep the answer brief and clear, as per the persona instructions.
+
+1.  **Identify the core question:** What are common comorbidities in people with HIV?
+2.  **Recall knowledge about HIV and its long-term effects:** HIV infection, even when well-controlled, is associated with chronic inflammation and immune dysregulation, which increases the risk of various other health problems.
+3.  **List common comorbidities:**
+    *   Cardiovascular disease (heart attack, stroke, hypertension)
+    *   Kidney disease (HIV-associated nephropathy, chronic kidney disease)
+    *   Liver disease (hepatitis B/C co-infection, non-alcoholic fatty liver disease)
+    *   Certain cancers (Kaposi's sarcoma, non-Hodgkin lymphoma, cervical cancer, anal cancer)
+    *   Bone disease (osteoporosis, osteopenia)
+    *   Neurological disorders (neurocognitive impairment, peripheral neuropathy)
+    *   Mental health conditions (depression, anxiety)
+    *   Lung disease (COPD, pneumonia)
+    *   Diabetes mellitus
+4.  **Select the most common/significant ones for a brief answer:** Cardiovascular disease, kidney disease, liver disease (especially co-infections), certain cancers, bone disease, and mental health conditions are very common.
+5.  **Format the answer:** Present as a list for clarity. Keep it concise.
+6.  **Review against persona:** Is it brief? Yes. Is it clear? Yes. Is it respectful and honest? Yes. Does it avoid speculation or incorrect information? Yes.<unused95>Common comorbidities among people living with HIV include:
+
+*   **Cardiovascular disease:** Such as heart attack, stroke, and hypertension.
+*   **Kidney disease:** Including chronic kidney disease and HIV-associated nephropathy.
+*   **Liver disease:** Often related to hepatitis B or C co-infection, or fatty liver disease.
+*   **Certain cancers:** Including Kaposi's sarcoma, non-Hodgkin lymphoma, cervical, and anal cancers.
+*   **Bone disease:** Osteoporosis and osteopenia.
+*   **Neurological conditions:** Including neurocognitive impairment.
+*   **Mental health conditions:** Such as depression and anxiety.
+*   **Lung disease:** Including COPD and pneumonia.
+Starting inference for question (MedGemma-3-27B): How can HIV be prevented?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking for ways to prevent HIV transmission. I need to provide a clear and concise list of effective prevention strategies.
+
+1.  **Identify key prevention methods:**
+    *   Condom use (male and female)
+    *   Pre-exposure prophylaxis (PrEP)
+    *   Post-exposure prophylaxis (PEP)
+    *   Treatment as Prevention (TasP) - Undetectable = Untransmittable (U=U)
+    *   Needle exchange programs / sterile injection equipment
+    *   Testing and counseling
+    *   Mother-to-child transmission prevention (during pregnancy, labor, delivery, breastfeeding)
+    *   Voluntary Medical Male Circumcision (VMMC)
+
+2.  **Structure the answer:** Start with a general statement and then list the main methods.
+
+3.  **Keep it brief and clear:** Use simple language, avoid jargon where possible, and focus on the core actions.
+
+4.  **Review:** Ensure the answer is accurate, comprehensive (covering major routes), and easy to understand for a junior clinician.<unused95>HIV can be prevented through several effective strategies:
+
+1.  **Consistent and correct condom use** during sexual activity.
+2.  **Pre-exposure prophylaxis (PrEP)** for individuals at high risk.
+3.  **Post-exposure prophylaxis (PEP)** after a potential exposure.
+4.  **Treatment as Prevention (TasP)**: People with HIV on effective antiretroviral therapy (ART) who achieve and maintain an undetectable viral load cannot sexually transmit HIV (Undetectable = Untransmittable, U=U).
+5.  **Using sterile needles and syringes**; never sharing injection equipment.
+6.  **Testing and counseling** to know one's status and that of partners.
+7.  **Preventing mother-to-child transmission** through ART during pregnancy, labor, and delivery, and infant prophylaxis.
+8.  **Voluntary Medical Male Circumcision (VMMC)** reduces risk for heterosexual men.
+Starting inference for question (MedGemma-3-27B): How frequently ART must be taken?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking about the frequency of taking Antiretroviral Therapy (ART) for HIV. This is a standard question in HIV management.
+
+1.  **Identify the core question:** The user wants to know how often ART medications need to be taken.
+2.  **Recall standard ART regimens:** Most modern ART regimens involve taking pills once daily.
+3.  **Consider exceptions:** While once-daily is the standard, some older regimens or specific medications might have different frequencies (e.g., twice daily). However, the vast majority of current first-line treatments are once daily.
+4.  **Formulate a concise answer:** State that most ART is taken once daily.
+5.  **Add important context/caveats:** Emphasize adherence is crucial and that the specific regimen prescribed by the clinician dictates the frequency. Avoid giving specific drug names unless asked, as regimens vary.
+6.  **Review against persona:** The answer should be brief, clear, respectful, and medically accurate, reflecting a senior physician's guidance to a junior clinician.
+
+*Self-correction:* Initially, I might just say "once daily." But it's important to add the nuance that adherence is key and the specific regimen matters, as prescribed by the treating physician. This adds necessary context and reinforces the importance of following medical advice.<unused95>For most modern Antiretroviral Therapy (ART) regimens, medication is taken **once daily**.
+
+Adherence to the prescribed schedule is crucial for treatment success. Always follow the specific instructions provided with the prescribed regimen.
+Starting inference for question (MedGemma-3-27B): How can we prevent Perinatal transmission of HIV?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking for methods to prevent perinatal HIV transmission. I need to provide a concise and clear answer outlining the key strategies.
+
+1.  **Antiretroviral Therapy (ART) for the mother:** This is the cornerstone. Start ART as early as possible during pregnancy, continue through pregnancy, labor, and delivery, and postpartum.
+2.  **Antiretroviral prophylaxis for the infant:** Give the baby ART starting soon after birth.
+3.  **Mode of delivery:** Cesarean section *may* be recommended in certain situations (e.g., high maternal viral load near delivery), but ART significantly reduces the need. Vaginal delivery is often possible with suppressed viral load.
+4.  **Infant feeding:** Avoid breastfeeding in settings where safe alternatives are available and feasible. Formula feeding is recommended.
+
+I will combine these points into a brief, clear answer.<unused95>Preventing perinatal HIV transmission involves several key strategies:
+
+1.  **Antiretroviral therapy (ART) for the mother:** Starting ART as early as possible during pregnancy and continuing it throughout pregnancy, labor, delivery, and postpartum is crucial. This significantly reduces the mother's viral load.
+2.  **ART prophylaxis for the infant:** The baby should receive ART starting shortly after birth.
+3.  **Mode of delivery:** Cesarean delivery might be considered if the mother's viral load is high near delivery, but with effective ART suppressing the virus, vaginal delivery is often safe.
+4.  **Infant feeding:** Avoiding breastfeeding and using formula feeding is recommended where safe alternatives are available.
+Starting inference for question (MedGemma-3-27B): What are the main cell types infected with HIV?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking about the main cell types infected by HIV. I need to provide a clear and concise answer.
+
+1.  **Identify the primary target:** HIV primarily targets cells of the immune system.
+2.  **Specify the key cell type:** The most important cell type is the CD4+ T lymphocyte (also known as T helper cell).
+3.  **Mention other relevant cell types:** HIV can also infect other cells that express the CD4 receptor or related co-receptors (CCR5 or CXCR4), such as macrophages and dendritic cells.
+4.  **Keep it brief and clear:** State the main cell type first, then mention others briefly.<unused95>HIV primarily infects cells of the immune system that express the CD4 receptor on their surface.
+
+The main cell types are:
+
+1.  **CD4+ T lymphocytes (T helper cells):** These are the most critical target cells, and their depletion is a hallmark of HIV infection leading to immunodeficiency.
+2.  **Macrophages:** These cells can also be infected and act as a reservoir for the virus.
+3.  **Dendritic cells:** These cells play a role in transmitting the virus to T cells.
+
+Other cells expressing CD4 can also be infected, but these three are the most significant.
+Starting inference for question (MedGemma-3-27B): What is the difference between HIV and AIDS?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking for the difference between HIV and AIDS. I need to explain this clearly and concisely, as a senior physician would to a junior clinician.
+
+1.  **Define HIV:** Human Immunodeficiency Virus. It's a virus.
+2.  **Define AIDS:** Acquired Immunodeficiency Syndrome. It's a syndrome, a *condition*, not a virus.
+3.  **Explain the relationship:** HIV is the virus that *causes* AIDS.
+4.  **Explain the progression:** HIV attacks the immune system (specifically CD4 cells). If left untreated, it weakens the immune system over time.
+5.  **Define AIDS criteria:** AIDS is diagnosed when the immune system is severely damaged (low CD4 count, typically <200 cells/mm³) or when certain opportunistic infections or cancers develop.
+6.  **Emphasize treatment:** With treatment (antiretroviral therapy - ART), HIV can be controlled, preventing progression to AIDS. Someone with HIV who is on effective ART may never develop AIDS.
+
+**Simplified explanation for a junior clinician:**
+
+*   **HIV** is the *virus* that infects a person.
+*   **AIDS** is the *late stage* of HIV infection, a *condition* where the immune system is severely damaged.
+*   HIV causes AIDS, but having HIV doesn't automatically mean someone has AIDS, especially with treatment. Effective treatment prevents AIDS.<unused95>Okay, let's clarify this.
+
+*   **HIV (Human Immunodeficiency Virus)** is the *virus* itself. It attacks the body's immune system, specifically CD4 cells (T cells).
+*   **AIDS (Acquired Immunodeficiency Syndrome)** is the *most advanced stage* of HIV infection. It's a *condition* or *syndrome* that develops when HIV has severely damaged the immune system, leaving the person vulnerable to opportunistic infections and certain cancers.
+
+Essentially, HIV is the cause, and AIDS is the potential outcome if HIV is left untreated and progresses. With effective antiretroviral therapy (ART), people with HIV can control the virus, maintain a healthy immune system, and prevent the development of AIDS.
+Starting inference for question (MedGemma-3-27B): How is HIV not transmitted?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking for ways HIV is *not* transmitted. I should list common misconceptions and clarify the actual modes of transmission, focusing on the negative examples.
+
+1.  **Identify common misconceptions:** Casual contact, saliva, tears, sweat, insects, sharing utensils, toilets, etc.
+2.  **State clearly that HIV is NOT transmitted through these ways.**
+3.  **Briefly mention the actual modes of transmission for context (optional but helpful):** Blood, semen, pre-seminal fluid, rectal fluids, vaginal fluids, breast milk.
+4.  **Keep it brief and clear, as requested.**<unused95>HIV is *not* transmitted through:
+
+*   Casual contact like hugging, shaking hands, or sharing toilets.
+*   Air or water.
+*   Saliva, tears, or sweat (unless mixed with blood).
+*   Insects like mosquitoes or ticks.
+*   Sharing dishes, drinking glasses, or eating utensils.
+
+HIV is transmitted through specific bodily fluids: blood, semen, pre-seminal fluid, rectal fluids, vaginal fluids, and breast milk, typically during unprotected sex or sharing needles.
+Starting inference for question (MedGemma-3-27B): What is known about the switch that occurs between
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking about the mechanism that triggers the switch from latent HIV infection to active infection. This involves understanding the process of viral reactivation.
+
+1.  **Identify the core concept:** The question is about HIV latency and reactivation.
+2.  **Recall key concepts:**
+    *   Latent HIV: Virus is integrated into host cell DNA but is transcriptionally silent.
+    *   Active HIV: Virus is actively replicating.
+    *   Reactivation: The process where latent virus becomes active again.
+    *   HIV reservoir: The main site of latent virus, primarily resting CD4+ T cells.
+    *   Viral proteins involved: Tat, Rev, Nef.
+    *   Host factors involved: Transcription factors (NF-κB, AP-1, CREB), co-activators, cellular signaling pathways, immune activation.
+3.  **Explain the mechanism:**
+    *   Latency is maintained by transcriptional silencing of the integrated provirus.
+    *   Reactivation requires the breakdown of this silencing.
+    *   Various stimuli (immune activation, inflammatory cytokines, other infections, certain drugs) can trigger signaling pathways in the host cell.
+    *   These pathways activate host transcription factors (like NF-κB, AP-1, CREB) that bind to regulatory regions of the HIV provirus (like the LTR).
+    *   Binding of these factors recruits transcriptional machinery, initiating transcription of HIV genes.
+    *   Early transcripts (like Tat) are produced.
+    *   Tat protein acts as a potent transcriptional activator, significantly boosting HIV gene expression.
+    *   Rev protein facilitates the export of unspliced and singly spliced viral mRNAs from the nucleus.
+    *   This leads to the production of viral proteins, assembly of new virions, and release, resulting in active infection.
+4.  **Simplify for clarity and brevity:** Focus on the key players: host cell activation, transcription factors, HIV provirus, and Tat protein.
+5.  **Structure the answer:**
+    *   Start by defining latency and reactivation.
+    *   Explain that reactivation is triggered by stimuli leading to host cell activation.
+    *   Mention the role of transcription factors binding to the HIV provirus.
+    *   Highlight the crucial role of the Tat protein in amplifying transcription.
+    *   Conclude by stating this process leads to viral replication.
+6.  **Refine language:** Ensure it's clear, concise, and uses appropriate medical terminology without being overly complex. Avoid jargon where possible or explain it simply. Ensure it reflects the perspective of a senior physician assisting a junior clinician.<unused95>Okay, let's break down the switch from latent to active HIV infection.
+
+Essentially, HIV establishes latency by integrating its genetic material into the host cell's DNA, primarily in resting CD4+ T cells. In this state, viral gene transcription is largely silenced.
+
+Reactivation occurs when certain stimuli trigger signaling pathways within the host cell. These stimuli can include:
+
+1.  **Immune activation:** Cytokines (like IL-15, TNF-α) released during immune responses.
+2.  **Other infections:** Co-infections can trigger inflammation.
+3.  **Cellular signals:** Changes in the cell cycle or other cellular stresses.
+
+These signals lead to the activation of host transcription factors (like NF-κB, AP-1, CREB) which bind to the HIV provirus's Long Terminal Repeat (LTR). This binding initiates transcription of HIV genes.
+
+A key step is the production of the **Tat protein**. Tat dramatically enhances HIV transcription, leading to a burst of viral RNA production, protein synthesis, virion assembly, and release – essentially switching the infection from latent to active.
+
+This reactivation is a major barrier to curing HIV, as it replenishes the pool of actively infected cells.
+Saved MedGemma-3-27B answers (category=1, iteration=2) to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/raw/MedGemma-3-27B/MedGemma-3-27B_answers_category_1.2_HIV_EQ.json
+Starting inference for question (MedGemma-3-27B): How is HIV diagnosed?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking about the diagnostic methods for HIV. I need to provide a brief and clear explanation of how HIV is diagnosed.
+
+1.  **Initial Screening:** Mention antibody tests (blood or oral fluid).
+2.  **Confirmatory Testing:** Mention antigen/antibody tests or nucleic acid tests (NATs).
+3.  **Key Concept:** Explain the window period.
+4.  **Context:** Briefly mention the importance of testing in clinical settings.
+
+Plan:
+*   Start with the most common initial screening method: antibody tests.
+*   Explain the need for confirmation, mentioning antigen/antibody tests and NATs.
+*   Briefly explain the concept of the window period.
+*   Keep it concise and clear.<unused95>HIV diagnosis typically involves several steps:
+
+1.  **Initial Screening:** Usually done with an antibody test using blood or oral fluid. These tests look for antibodies your body makes in response to HIV.
+2.  **Confirmatory Testing:** If the screening test is positive, a follow-up test is needed. This is often an antigen/antibody test (detects both antibodies and the p24 antigen) or a nucleic acid test (NAT, detects the virus's genetic material).
+3.  **Window Period:** It's important to remember there's a "window period" after infection before tests can reliably detect HIV. NATs can detect it sooner than antibody tests.
+
+Testing is crucial for early diagnosis and treatment.
+Starting inference for question (MedGemma-3-27B): What are the different stages of HIV?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking about the stages of HIV infection. I should provide a concise and accurate description of the different stages as commonly defined.
+
+1.  **Acute HIV Infection:** Initial stage, often flu-like symptoms. High viral load.
+2.  **Clinical Latency (Chronic HIV Infection):** Virus is still active but reproduces at low levels. Can last for years without symptoms. Viral load is low but detectable.
+3.  **Acquired Immunodeficiency Syndrome (AIDS):** Most severe stage. Immune system is severely damaged. High risk of opportunistic infections and cancers. Defined by low CD4 count (<200 cells/mm³) or presence of AIDS-defining illnesses.
+
+I will present these stages clearly and briefly.<unused95>HIV infection typically progresses through three stages:
+
+1.  **Acute HIV Infection:** This is the earliest stage, occurring within 2-4 weeks after infection. Symptoms can be flu-like (fever, chills, rash, night sweats, muscle aches, sore throat, fatigue, swollen lymph nodes, mouth ulcers). Viral load is very high during this stage.
+2.  **Clinical Latency (Chronic HIV Infection):** The virus is still active but reproduces at very low levels. People may not have any symptoms for many years. With treatment, people can stay in this stage for decades. Without treatment, the virus slowly weakens the immune system.
+3.  **Acquired Immunodeficiency Syndrome (AIDS):** This is the most severe stage. The immune system is badly damaged, leaving the person vulnerable to opportunistic infections and cancers. AIDS is diagnosed when the CD4 cell count drops below 200 cells/mm³ or when certain opportunistic illnesses develop.
+
+Early diagnosis and treatment are crucial to prevent progression to AIDS.
+Starting inference for question (MedGemma-3-27B): How is HIV transmitted?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking about the modes of HIV transmission. I need to provide a concise and accurate answer covering the main ways HIV spreads.
+
+1.  **Identify the core question:** How is HIV transmitted?
+2.  **Recall key transmission routes:**
+    *   Sexual contact (vaginal, anal, oral)
+    *   Sharing needles/syringes (injection drug use, tattoos, piercings with unsterilized equipment)
+    *   Mother-to-child (during pregnancy, childbirth, or breastfeeding)
+    *   Blood transfusions/organ transplants (rare in countries with screening)
+    *   Occupational exposure (needlestick injuries in healthcare settings)
+3.  **Structure the answer:** List the main routes clearly.
+4.  **Keep it brief and clear:** Use simple language.
+5.  **Add a crucial point:** Mention that HIV is *not* transmitted through casual contact.
+6.  **Review:** Ensure accuracy and clarity.<unused95>HIV is transmitted through specific bodily fluids: blood, semen, pre-seminal fluid, rectal fluids, vaginal fluids, and breast milk.
+
+The main ways transmission occurs are:
+
+1.  **Sexual contact:** Vaginal, anal, or oral sex with someone who has HIV.
+2.  **Sharing needles or syringes:** Primarily associated with injection drug use, but also includes sharing equipment for tattoos or piercings if not properly sterilized.
+3.  **Mother-to-child:** During pregnancy, childbirth, or breastfeeding.
+4.  **Blood exposure:** Through contaminated blood transfusions or organ transplants (rare in countries with effective screening) or sharing needles.
+
+HIV is **not** transmitted through casual contact like hugging, kissing, sharing utensils, or using the same toilet.
+Starting inference for question (MedGemma-3-27B): What comorbidities are common among people living 
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking about common comorbidities in people living with HIV. I need to list the conditions that frequently occur alongside HIV infection. I should keep the answer brief and clear, as per the instructions.
+
+Common comorbidities include:
+1.  **Cardiovascular disease:** Heart attack, stroke, peripheral artery disease.
+2.  **Kidney disease:** Chronic kidney disease, HIV-associated nephropathy.
+3.  **Liver disease:** Hepatitis B or C co-infection, fatty liver disease, cirrhosis.
+4.  **Lung disease:** Pneumonia (including opportunistic infections), COPD.
+5.  **Neurological disorders:** Neurocognitive impairment (HIV-associated neurocognitive disorder - HAND), peripheral neuropathy.
+6.  **Cancers:** Certain cancers like Kaposi's sarcoma, non-Hodgkin lymphoma, cervical cancer, anal cancer.
+7.  **Mental health conditions:** Depression, anxiety, substance use disorders.
+8.  **Bone disease:** Osteoporosis, osteopenia.
+9.  **Metabolic conditions:** Diabetes, dyslipidemia.
+
+I should select the most common and significant ones for a brief answer. Cardiovascular disease, kidney disease, liver disease (especially co-infections), certain cancers, and mental health conditions are very important. Opportunistic infections are also common, especially if CD4 counts are low.
+
+Let's structure the answer:
+*   Acknowledge the question.
+*   State that people with HIV have a higher risk for certain conditions.
+*   List key categories of common comorbidities.
+*   Keep it concise.
+
+Example answer structure:
+"People living with HIV are at increased risk for several comorbidities. Common ones include:
+*   Cardiovascular diseases (heart attack, stroke)
+*   Kidney disease
+*   Liver disease (often related to Hepatitis B or C co-infection)
+*   Certain cancers (e.g., Kaposi's sarcoma, lymphoma)
+*   Lung diseases (including opportunistic infections)
+*   Neurological disorders (like HAND)
+*   Mental health conditions (depression, anxiety)"
+
+This seems clear, brief, and covers the major categories. I will ensure the language is appropriate for a junior clinician.<unused95>People living with HIV have an increased risk for several comorbidities. Common ones include:
+
+*   **Cardiovascular disease:** Heart attack, stroke, peripheral artery disease.
+*   **Kidney disease:** Chronic kidney disease, HIV-associated nephropathy.
+*   **Liver disease:** Often due to co-infection with Hepatitis B or C, but also fatty liver disease.
+*   **Certain cancers:** Kaposi's sarcoma, non-Hodgkin lymphoma, cervical and anal cancers.
+*   **Lung diseases:** Including opportunistic infections like Pneumocystis pneumonia, especially with lower CD4 counts.
+*   **Neurological disorders:** HIV-associated neurocognitive disorder (HAND).
+*   **Mental health conditions:** Depression, anxiety, substance use disorders.
+*   **Bone disease:** Osteoporosis and osteopenia.
+
+Effective HIV treatment significantly reduces the risk of many of these, especially opportunistic infections and HIV-related cancers. However, the risk for conditions like cardiovascular disease, kidney disease, and some cancers remains elevated compared to the general population.
+Starting inference for question (MedGemma-3-27B): How can HIV be prevented?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking about HIV prevention methods. I should provide a concise and accurate list of evidence-based prevention strategies.
+
+1.  **Identify the core question:** How to prevent HIV transmission.
+2.  **Recall key prevention methods:**
+    *   Condoms (male and female)
+    *   Pre-exposure prophylaxis (PrEP)
+    *   Post-exposure prophylaxis (PEP)
+    *   Treatment as Prevention (TasP) - undetectable = untransmittable (U=U)
+    *   Harm reduction (needle exchange, safer sex education)
+    *   Testing and counseling
+    *   Prevention of mother-to-child transmission (PMTCT)
+3.  **Structure the answer:** Start with a general statement, then list the main methods. Keep it brief and clear as requested.
+4.  **Refine the language:** Use clear, accessible terms. Ensure the tone is professional and helpful.
+5.  **Final check:** Does the answer directly address the question? Is it accurate? Is it brief and clear? Yes.<unused95>HIV prevention involves several strategies:
+
+1.  **Condom Use:** Consistent and correct use of male or female condoms significantly reduces transmission risk during sexual activity.
+2.  **Pre-exposure Prophylaxis (PrEP):** Taking daily medication (usually a combination of two antiretroviral drugs) can prevent HIV infection in high-risk individuals.
+3.  **Post-exposure Prophylaxis (PEP):** Taking antiretroviral medication within 72 hours of a potential exposure can prevent infection.
+4.  **Treatment as Prevention (TasP):** People with HIV who achieve and maintain an undetectable viral load through antiretroviral therapy cannot sexually transmit the virus to others (Undetectable = Untransmittable, U=U).
+5.  **Harm Reduction:** Programs like needle exchange reduce transmission among people who inject drugs.
+6.  **Testing and Counseling:** Regular testing allows for early diagnosis and linkage to care, preventing further transmission.
+7.  **Prevention of Mother-to-Child Transmission (PMTCT):** Antiretroviral therapy for pregnant individuals with HIV dramatically reduces the risk of transmission to their baby.
+Starting inference for question (MedGemma-3-27B): How frequently ART must be taken?
+Device set to use cuda:0
+Answer for question (MedGemma-3-27B): The user is asking about the frequency of taking Antiretroviral Therapy (ART) for HIV. I need to provide a brief and clear answer based on current medical guidelines.
+
+1.  **Identify the core question:** How often should ART be taken?
+2.  **Recall standard ART guidelines:** Most modern ART regimens are taken once daily.
+3.  **Consider exceptions:** Some older or specific regimens might have different frequencies (e.g., twice daily), but the vast majority are once daily.
+4.  **Formulate a brief, clear answer:** State that most ART is taken once daily.
+5.  **Add important context:** Emphasize adherence is crucial for effectiveness, regardless of frequency. Mention that specific instructions depend on the prescribed regimen.
+6.  **Review:** Is the answer brief? Yes. Is it clear? Yes. Is it accurate? Yes. Does it address the core question? Yes. Does it include important context? Yes.<unused95>Most Antiretroviral Therapy (ART) regimens for HIV are taken **once daily**.
+
+It's crucial to take the medication exactly as prescribed by your healthcare provider to ensure effectiveness. Adherence is key.
+Starting inference for question (MedGemma-3-27B): How can we prevent Perinatal transmission of HIV?
+Device set to use cuda:0
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 33560864.0 ON eu-ts-02 CANCELLED AT 2025-05-31T15:42:08 ***
+slurmstepd: error: *** JOB 33560864 ON eu-ts-02 CANCELLED AT 2025-05-31T15:42:08 ***

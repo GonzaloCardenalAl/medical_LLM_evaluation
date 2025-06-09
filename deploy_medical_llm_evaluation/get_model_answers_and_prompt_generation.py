@@ -11,21 +11,34 @@ import numpy as np
 import anthropic
 import math
 import torch
-from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
+import transformers
+
+print(f"✅ transformers version being used: {transformers.__version__}")
+
+import sys
+print(f"✅ Python executable: {sys.executable}")
+print(f"✅ sys.path: {sys.path}")
+
+
+from transformers import AutoTokenizer, AutoModelForCausalLM, AutoConfig, pipeline, Gemma3ForCausalLM
 from utils import split_model
+from huggingface_hub import snapshot_download
+#from google import genai
+#from google.genai import types
 
 claude_api_key = "" #Add you Claude API
 client_claude = anthropic.Anthropic(api_key=claude_api_key)
 
-llama_api_key = "" #add your token for the Llama API
+#llama_api_key = "" #add your token for the Llama API
 #llama_base_url = "https://fmapi.swissai.cscs.ch"
-llama_base_url = "https://f.swissai.cscs.ch"
+#llama_base_url = "https://f.swissai.cscs.ch"
 
-meditron_api_key = "" #add your token for the Meditron API
-meditron_base_url = "https://moovegateway.epfl.ch/v1/"
+#meditron_api_key = "" #add your token for the Meditron API
+#meditron_base_url = "https://moovegateway.epfl.ch/v1/"
 
-client_openai = OpenAI(api_key=llama_api_key , base_url=llama_base_url) # For Llama API calls
-client_openai_meditron = OpenAI(api_key=meditron_api_key , base_url=meditron_base_url) 
+#client_google =  genai.Client(api_key="AIzaSyD0RDX5rvHhb6T7W9HBqgq5HPPFAdE3qzE")
+#client_openai = OpenAI(api_key=llama_api_key , base_url=llama_base_url) # For Llama API calls
+#client_openai_meditron = OpenAI(api_key=meditron_api_key , base_url=meditron_base_url) 
 
 # Store references to loaded models (for fallback) so we don't load them multiple times
 loaded_models = {
@@ -34,7 +47,11 @@ loaded_models = {
     "NVLM": {"model": None, "tokenizer": None},
     "Med42": {"model": None, "tokenizer": None},
     "Llama-8B": {"model": None, "tokenizer": None},
-    "Llama-1B": {"model": None, "tokenizer": None} 
+    "Llama-1B": {"model": None, "tokenizer": None},
+    "Llama-4-17B": {"model": None, "tokenizer": None},
+    "Deepseek_R1": {"model": None, "tokenizer": None},
+    "Gemma-3-27B": {"model": None, "tokenizer": None},
+    "MedGemma-3-27B": {"model": None, "tokenizer": None}
 }
 
 custom_cache_dir = "/cluster/scratch/gcardenal/LLM_models"
@@ -76,7 +93,7 @@ def try_api_inference(model_name, question, system_prompt):
             )
             answer = res.choices[0].message.content.strip()
             return answer
-
+        
         return None
     except Exception as e:
         print(f"API call for {model_name} failed with error: {e}")
@@ -408,6 +425,274 @@ def run_llama_1b_inference(question, system_prompt):
     # 4) Return the final string
     return cleaned_answer
 
+def load_llama_4_scout_17B_16E_inference():
+    """
+    Loads the local Llama-4-17B model if not already loaded.
+    """
+    if loaded_models["Llama-4-17B"]["model"] is None:
+        print("Loading Llama-4-17B model locally...")
+        tokenizer = AutoTokenizer.from_pretrained(
+            "meta-llama/Llama-4-Scout-17B-16E-Instruct", 
+            cache_dir=custom_cache_dir
+        )
+        model = AutoModelForCausalLM.from_pretrained(
+            "meta-llama/Llama-4-Scout-17B-16E-Instruct",
+            cache_dir=custom_cache_dir,
+            device_map="auto",
+            torch_dtype="auto"
+        )
+        # Store references
+        loaded_models["Llama-4-17B"]["model"] = model
+        loaded_models["Llama-4-17B"]["tokenizer"] = tokenizer
+
+def run_llama_4_scout_17B_16E_inference(question, system_prompt):
+    """
+    Llama 4-17BB is local only. No API calls are attempted.
+    Returns the generated answer as a string.
+    """
+    # Ensure model is loaded
+    load_llama_4_scout_17B_16E_inference()
+    
+    model = loaded_models["Llama-4-17B"]["model"]
+    tokenizer = loaded_models["Llama-4-17B"]["tokenizer"]
+
+    print("Starting inference for question (Llama-4-17B):", question[:50])
+
+    # 2) Run the generation pipeline
+    pipe = pipeline(
+        "text-generation",
+        model=model,
+        tokenizer=tokenizer,
+        model_kwargs={"torch_dtype": torch.bfloat16},
+        device_map="auto"
+    )
+    messages = [
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": question}
+    ]
+    messages_templated = tokenizer.apply_chat_template(messages, tokenize=False)
+
+    raw_output = pipe(messages_templated, max_new_tokens=1024)
+    generated_text = raw_output[0]["generated_text"]
+
+    # 3) Clean up the special tokens
+    pattern = r'^<\|begin_of_text\|>.*?<\|eot_id\|>assistant\s*'
+    cleaned_answer = re.sub(pattern, '', generated_text, flags=re.DOTALL).strip()
+
+    # 4) Return the final string
+    return cleaned_answer
+
+def load_Deepseek_R1_inference():
+    """
+    Loads the local Deepseek_R1 model if not already loaded.
+    Downloads it first if necessary.
+    """
+    repo_id = "deepseek-ai/DeepSeek-R1"
+    if loaded_models["Deepseek_R1"]["model"] is None:
+        # Check if model is already downloaded
+        local_model_dir = os.path.join(custom_cache_dir, "models--deepseek-ai--DeepSeek-R1")
+        if not os.path.exists(local_model_dir):
+            print("Model not found locally. Downloading...")
+            snapshot_download(repo_id=repo_id, cache_dir=custom_cache_dir)
+
+        config = AutoConfig.from_pretrained(repo_id, trust_remote_code=True)
+        if hasattr(config, "quantization_config"):
+            delattr(config, "quantization_config")
+
+        print("Loading Deepseek_R1 model locally...")
+        tokenizer = AutoTokenizer.from_pretrained(
+            repo_id, 
+            cache_dir=custom_cache_dir,
+            trust_remote_code=True
+        )
+        model = AutoModelForCausalLM.from_pretrained(
+          repo_id,
+            cache_dir=custom_cache_dir,
+            device_map="auto",
+            torch_dtype="auto",
+            trust_remote_code=True
+        )
+        
+        # Store references
+        loaded_models["Deepseek_R1"]["model"] = model
+        loaded_models["Deepseek_R1"]["tokenizer"] = tokenizer
+
+def run_Deepseek_R1_inference(question, system_prompt):
+    """
+    Deepseek R1 is local only. No API calls are attempted.
+    Returns the generated answer as a string.
+    """
+    # Ensure model is loaded
+    load_Deepseek_R1_inference()
+    
+    model = loaded_models["Deepseek_R1"]["model"]
+    tokenizer = loaded_models["Deepseek_R1"]["tokenizer"]
+
+    print("Starting inference for question (Deepseek_R1):", question[:50])
+
+    # Prepare the chat prompt
+    messages = [
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": question}
+    ]
+    messages_templated = tokenizer.apply_chat_template(messages, tokenize=False)
+
+    # Run the generation pipeline with specified sampling parameters
+    pipe = pipeline(
+        "text-generation",
+        model=model,
+        tokenizer=tokenizer,
+        model_kwargs={"torch_dtype": torch.bfloat16},
+        device_map="auto"
+    )
+
+    raw_output = pipe(
+        messages_templated,
+        max_new_tokens=1024,
+        temperature=0.6,
+        top_p=0.95,
+        do_sample=True,
+        return_full_text=False
+    )
+
+    generated_text = raw_output[0]["generated_text"]
+
+    # Clean up special tokens
+    pattern = r'^<\|begin_of_text\|>.*?<\|eot_id\|>assistant\s*'
+    cleaned_answer = re.sub(pattern, '', generated_text, flags=re.DOTALL).strip()
+
+    return cleaned_answer
+
+def load_gemma_3_27b_model():
+    """
+    Loads the local Gemma-3-27B model if not already loaded.
+    """
+    if loaded_models["Gemma-3-27B"]["model"] is None:
+        print("Loading Gemma-3-27B model locally...")
+        
+        tokenizer = AutoTokenizer.from_pretrained(
+            "google/gemma-3-27b-it", 
+            cache_dir=custom_cache_dir
+        )
+
+        model = AutoModelForCausalLM.from_pretrained(
+            "google/gemma-3-27b-it",
+            cache_dir=custom_cache_dir,
+            torch_dtype=torch.bfloat16,
+            device_map=None  # disable sharding
+        ).to("cuda:0")
+
+        loaded_models["Gemma-3-27B"]["model"] = model
+        loaded_models["Gemma-3-27B"]["tokenizer"] = tokenizer
+
+
+def run_gemma_3_27b_inference(question, system_prompt):
+    """
+    Gemma-3-27B is local only. No API calls are attempted.
+    Returns the generated answer as a string.
+    """
+    # Ensure model is loaded
+    load_gemma_3_27b_model()
+    
+    model = loaded_models["Gemma-3-27B"]["model"]
+    tokenizer = loaded_models["Gemma-3-27B"]["tokenizer"]
+
+    print("Starting inference for question (Gemma-3-27B):", question[:50])
+
+    # 2) Run the generation pipeline
+    pipe = pipeline(
+        "text-generation",
+        model=model,
+        tokenizer=tokenizer,
+        device=0
+    )
+    messages = [
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": question}
+    ]
+
+    raw_output = pipe(
+    messages,
+    max_new_tokens=1024,
+  #  use_cache= False 
+)
+    generated_text = raw_output[0]["generated_text"][-1]["content"]
+
+    # 3) Clean up the special tokens
+    pattern = r'^<\|begin_of_text\|>.*?<start_of_turn>model\n'
+  #  pattern = r'^<\|begin_of_text\|>.*<start_of_turn>model\n'
+    cleaned_answer = re.sub(pattern, '', generated_text, flags=re.DOTALL).strip()
+    
+    print("Answer for question (Gemma-3-27B):", cleaned_answer)
+    # 4) Return the final string
+    return cleaned_answer
+
+def load_medgemma_3_27b_model():
+    """
+    Loads the local MedGemma-3-27B model if not already loaded.
+    """
+    if loaded_models["MedGemma-3-27B"]["model"] is None:
+        print("Loading MedGemma-3-27B model locally...")
+        
+        tokenizer = AutoTokenizer.from_pretrained(
+            "google/medgemma-27b-text-it", 
+            cache_dir=custom_cache_dir
+        )
+
+        model = AutoModelForCausalLM.from_pretrained(
+            "google/medgemma-27b-text-it",
+            cache_dir=custom_cache_dir,
+            torch_dtype=torch.bfloat16,
+            device_map=None  # disable sharding
+        ).to("cuda:0")
+
+        loaded_models["MedGemma-3-27B"]["model"] = model
+        loaded_models["MedGemma-3-27B"]["tokenizer"] = tokenizer
+
+
+def run_medgemma_3_27b_inference(question, system_prompt):
+    """
+    MedGemma-3-27B is local only. No API calls are attempted.
+    Returns the generated answer as a string.
+    """
+    # Ensure model is loaded
+    load_medgemma_3_27b_model()
+    
+    model = loaded_models["MedGemma-3-27B"]["model"]
+    tokenizer = loaded_models["MedGemma-3-27B"]["tokenizer"]
+
+    print("Starting inference for question (MedGemma-3-27B):", question[:50])
+
+    # 2) Run the generation pipeline
+    pipe = pipeline(
+        "text-generation",
+        model=model,
+        tokenizer=tokenizer,
+        device=0
+    )
+    messages = [
+        {"role": "system", "content": system_prompt},
+        {"role": "user", "content": question}
+    ]
+
+    raw_output = pipe(
+    messages,
+    max_new_tokens=1024,
+  #  use_cache= False 
+)
+    generated_text = raw_output[0]["generated_text"][-1]["content"]
+
+    # 3) Clean up the special tokens
+    pattern = r'^<\|begin_of_text\|>.*?<start_of_turn>model\n'
+  #  pattern = r'^<\|begin_of_text\|>.*<start_of_turn>model\n'
+    cleaned_answer = re.sub(pattern, '', generated_text, flags=re.DOTALL).strip()
+    cleaned_answer = cleaned_answer.replace("<unused94>thought\n", "")
+    
+    print("Answer for question (MedGemma-3-27B):", cleaned_answer)
+    # 4) Return the final string
+    return cleaned_answer
+
+
 # ---------------------------------------------------
 # Main functions to obtain answers and prompt them
 # ---------------------------------------------------
@@ -435,7 +720,7 @@ def obtain_answers_HIV(
 
     for model_name in model_list:
         for category_id, input_file in input_files:
-            with open(input_file, 'r') as f:
+            with open(input_file, 'r', encoding='utf-8') as f:
                 questions = json.load(f)
 
             #for iteration_number in range(1, 2):
@@ -472,6 +757,22 @@ def obtain_answers_HIV(
                         model_answer = run_llama_1b_inference(question_text, system_prompt)
                         used_api = False
 
+                    elif model_name == "Llama-4-17B":
+                        model_answer = run_llama_4_scout_17B_16E_inference(question_text, system_prompt)
+                        used_api = False
+
+                    elif model_name == "Deepseek_R1":
+                        model_answer = run_Deepseek_R1_inference(question_text, system_prompt)
+                        used_api = False
+
+                    elif model_name == "Gemma-3-27B":
+                        model_answer = run_gemma_3_27b_inference(question_text, system_prompt)
+                        used_api = False
+
+                    elif model_name == "MedGemma-3-27B":
+                        model_answer = run_medgemma_3_27b_inference(question_text, system_prompt)
+                        used_api = False
+
                     else:
                         continue
 
@@ -504,7 +805,7 @@ def obtain_answers_HIV(
                 print(f"Saved {model_name} answers (category={category_id}, iteration={iteration_number}) to: {output_file}")
 
         # After finishing all inferences for this model, if we loaded a local model, unload it
-        if model_name in ["Llama", "Meditron", "NVLM", "Med42","Llama-8B", "Llama-1B"]:
+        if model_name in ["Llama", "Meditron", "NVLM", "Med42","Llama-8B", "Llama-1B", "Llama-4-17B", "Deepseek_R1", "Gemma-3-27B", "MedGemma-3-27B"]:
             if loaded_models[model_name]["model"] is not None:
                 del loaded_models[model_name]["model"]
                 del loaded_models[model_name]["tokenizer"]
@@ -638,7 +939,7 @@ if __name__ == "__main__":
         "--model",
         nargs="+",
         default=["Llama"],
-        help="Which model(s) to run, e.g. --model Llama, Meditron, Claude, Med42, NVLM, Llama-8B, Llama-1B"
+        help="Which model(s) to run, e.g. --model Llama, Meditron, Claude, Med42, NVLM, Llama-8B, Llama-1B, Gemini_2.5Pro, Gemma-3-27B, MedGemma-3-27B"
     )
     args = parser.parse_args()
 
@@ -649,9 +950,9 @@ if __name__ == "__main__":
   #  model_list = ["Llama", "Meditron", "Claude", "Med42", "NVLM"]  # just a single model for demonstration
     # 1st step: get model answers
     system_prompt="You are a helpful, respectful and honest senior physician specializing in HIV. You are assisting a junior clinician answering medical questions. Keep your answers brief and clear. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information."
-   # output_model_dir = obtain_answers_HIV(questions_dir=questions_dir, model_list=model_list, system_prompt= system_prompt)
+    output_model_dir = obtain_answers_HIV(questions_dir=questions_dir, model_list=model_list, system_prompt= system_prompt)
    # output_model_dir = obtain_answers_HIV(questions_dir=questions_dir, model_list=model_list)
     print("Model inferences have been completed and saved to the output directory.")
-    output_model_dir = '/cluster/home/gcardenal/HIV/deploy_medical_LLM_evaluation/deploy_medical_llm_evaluation/model_answers/'
+    output_model_dir = '/cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/'
     # 2nd step: build or add GPT-based prompt for scoring
     prompt_model_answers(input_answer_dir=output_model_dir, model_list=model_list)

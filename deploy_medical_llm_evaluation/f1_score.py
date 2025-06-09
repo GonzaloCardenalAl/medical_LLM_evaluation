@@ -26,13 +26,15 @@ DOWNLOAD_URL = 'https://download.nlm.nih.gov/umls/kss/2024AB/umls-2024AB-metathe
 DESTINATION_PATH = '/cluster/scratch/gcardenal/LLM_models/pymedtermino_sql/umls-2024AB-metathesaurus-full.zip'
 
 def download_umls_file(api_key, download_url, destination_path):
+    # Ensure parent directory exists
+    os.makedirs(os.path.dirname(destination_path), exist_ok=True)
+
     # Append API key to the URL
     url_with_api_key = f"https://uts-ws.nlm.nih.gov/download?url={download_url}&apiKey={api_key}"
     
     # Make the GET request
     response = requests.get(url_with_api_key, stream=True)
     if response.status_code == 200:
-        # Save the file to the specified path
         with open(destination_path, "wb") as file:
             for chunk in response.iter_content(chunk_size=1024):
                 file.write(chunk)
@@ -385,6 +387,6 @@ def parsing_and_computing_f1(input_answer_dir, model_list, rephrased=False):
 if __name__ == "__main__":
     script_dir = os.path.dirname(os.path.abspath(__file__))
     model_answers_files_path = os.path.join(script_dir, 'model_answers')
-    model_list = ["NVLM", "Med42", "Claude", "Llama", "Meditron", "Llama-8B", "Llama-1B"]
+    model_list = ["Gemma-3-27B","NVLM", "Med42", "Claude", "Llama", "Meditron", "Llama-8B", "Llama-1B", "Gemini_2.5Pro",  "MedGemma-3-27B"]
     
     parsing_and_computing_f1(model_answers_files_path, model_list)

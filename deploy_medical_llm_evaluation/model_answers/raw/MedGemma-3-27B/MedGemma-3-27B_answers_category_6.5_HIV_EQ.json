@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which five antiretroviral drugs were most frequently administered in 1990 in Switzerland?",
+    "answer": "That's an interesting question about the early days of HIV treatment.\n\nUnfortunately, pinpointing the *exact* five most frequently administered antiretroviral drugs in Switzerland specifically in 1990 is difficult. Data from that specific time and location isn't readily available in a way that ranks individual drug frequency.\n\nHowever, I can tell you what the landscape looked like:\n\n1.  **AZT (Zidovudine):** This was the first approved antiretroviral and was the cornerstone of treatment in 1990. It was definitely the most commonly used drug.\n2.  **ddI (Didanosine):** Approved in 1991, it was used shortly after AZT, often in combination or as an alternative.\n3.  **ddC (Zalcitabine):** Approved in 1992, also used around that time, often with AZT.\n4.  **D4T (Stavudine):** Approved in 1994, but clinical trials were ongoing before that, so it might have been used experimentally or in trials in 1990.\n5.  **DDI (Didanosine)** - *Correction: Already listed above.*\n\nIt's important to remember that treatment in 1990 was primarily *monotherapy* (using a single drug, usually AZT) and was not nearly as effective as the combination therapies we use today. Also, access and usage patterns could vary significantly.\n\n**Therefore, AZT was certainly the most frequent, and ddI and ddC were likely among the next most common, though precise ranking is challenging.**",
+    "true_answer": "The top five HIV first-line treatments most frequently administered in Switzerland in 1990 were Ritonavir (RTV), Didanosine (ddI), Stavudine (d4T), Zidovudine (AZT or ZDV), and Lamivudine (3TC), in that order."
+  },
+  {
+    "question": "Which five antiretroviral drugs were most frequently administered in Switzerland in 2010?",
+    "answer": "Okay, let's look at the antiretroviral (ARV) landscape in Switzerland around 2010.\n\nBased on data from the Swiss HIV Cohort Study (SHCS) and national reports from that era, the five most frequently administered ARVs in Switzerland in 2010 were likely:\n\n1.  **Tenofovir (TDF)** - A key component of many first-line regimens.\n2.  **Efavirenz (EFV)** - A widely used non-nucleoside reverse transcriptase inhibitor (NNRTI).\n3.  **Lamivudine (3TC)** - A common nucleoside reverse transcriptase inhibitor (NRTI), often paired with TDF.\n4.  **Abacavir (ABC)** - Another NRTI, used in specific regimens, particularly for patients with certain HLA types.\n5.  **Ritonavir (RTV)** - Primarily used as a pharmacokinetic booster for other protease inhibitors (PIs).\n\nThese drugs formed the backbone of many standard treatment regimens at that time.",
+    "true_answer": "The top five antiretrovirals most frequently administered in Switzerland in 2010 were Tenofovir alafenamide (TAF), Dolutegravir (DTG), Emtricitabine (FTC), Tenofovir disoproxil (TDF), and Lamivudine (3TC), in that order."
+  },
+  {
+    "question": "Is there a difference in the overall birth rate in Switzerland between women with and without HIV in 2010?",
+    "answer": "Yes, there was a difference in the overall birth rate in Switzerland between women with and without HIV in 2010.\n\nWomen living with HIV had a lower birth rate compared to women without HIV. This difference is likely due to several factors, including:\n\n*   **Increased awareness and use of contraception:** Women living with HIV may be more aware of the importance of preventing pregnancy due to the potential risks to both the mother and the baby.\n*   **Delayed childbearing:** Women living with HIV may delay childbearing until their health is more stable or until effective antiretroviral therapy (ART) is available.\n*   **Social and economic factors:** Women living with HIV may face social stigma or economic challenges that impact their decision to have children.\n\nIt is important to note that with effective ART, women living with HIV can have healthy pregnancies and give birth to HIV-negative babies. Therefore, the difference in birth rates is not necessarily due to an inability to conceive or carry a pregnancy to term.",
+    "true_answer": "Yes, in 2010, there were 1.52 births per woman in the general population, compared to 0.9 births per woman living with HIV."
+  },
+  {
+    "question": "Is there a difference in the overall birth rate in Switzerland between women with and without HIV in 2020?",
+    "answer": "Yes, there is a difference.\n\nWomen living with HIV in Switzerland generally have lower birth rates compared to women without HIV. This is likely due to several factors, including:\n\n*   **Delayed childbearing:** Women with HIV may delay starting a family due to concerns about their health and the health of their child.\n*   **Effective HIV treatment:** Antiretroviral therapy (ART) allows women with HIV to live long, healthy lives and reduces the risk of transmitting HIV to their child during pregnancy and childbirth. However, some women may still choose to avoid pregnancy due to potential risks or side effects of ART.\n*   **Socioeconomic factors:** Women with HIV may face socioeconomic challenges that can impact their decision to have children.\n\nData from 2020 specifically shows a lower fertility rate among women living with HIV in Switzerland compared to the general population.",
+    "true_answer": " Yes, in 2020, there were 1.46 births per woman in the general population, compared to 0.42 births per woman living with HIV."
+  },
+  {
+    "question": "What is the most common source of HIV infection in Switzerland?",
+    "answer": "The most common source of HIV infection in Switzerland is men who have sex with men (MSM).",
+    "true_answer": "The most common sources of HIV infection in Switzerland are, in order, sexual contacts and drug use."
+  },
+  {
+    "question": "In Switzerland, based on self-reported treatment adherence, what proportion of visits involve patients who have missed taking their treatment at least once per month?",
+    "answer": "Okay, I can help with that.\n\nBased on Swiss HIV Cohort Study data, approximately **15-20%** of visits involve patients reporting at least one missed dose in the past month.\n\nIt's important to note that this is based on *self-reported* adherence, which can sometimes overestimate actual adherence. However, it gives a good indication of the prevalence of occasional missed doses in this population.",
+    "true_answer": "Based on self-reported treatment adherence, in Switzerland 6% of visits involve patients who have missed taking their treatment at least once per month."
+  },
+  {
+    "question": "From 2020, what is the proportion of PLWH in Switzerland who 'feel guilty because they have HIV'?",
+    "answer": "Okay, I can help with that.\n\nBased on the Swiss HIV Cohort Study (SHCS) data from 2020, approximately **11%** of people living with HIV (PLWH) in Switzerland reported feeling guilty because they have HIV.\n\nIt's important to note that this figure can fluctuate slightly year to year, but 11% is the most recent reliable estimate I have access to.",
+    "true_answer": "As of 2020, 26% of people living with HIV (PLWH) feel guilty because they have HIV."
+  },
+  {
+    "question": "From 2020, what proportion of PWH in Switzerland consider that 'People with HIV are treated like outcasts'?",
+    "answer": "According to the Swiss HIV Cohort Study (SHCS) from 2020, 15.9% of people with HIV (PWH) in Switzerland reported feeling treated like outcasts.",
+    "true_answer": "As of 2020, 83% of people living with HIV (PLWH) consider that people with HIV are treated like outcasts."
+  },
+  {
+    "question": "In Switzerland, What proportion of PWH who died from HIV-related causes had their first positive HIV test before the age of 20?",
+    "answer": "Okay, I can help with that.\n\nBased on the Swiss HIV Cohort Study (SHCS) data, approximately **40-50%** of people living with HIV (PLWH) who died from HIV-related causes had their first positive HIV test before the age of 20.\n\nThis highlights the importance of early diagnosis and treatment in adolescents and young adults.",
+    "true_answer": "Among PWH who died from HIV-related causes, 95% had their first positive HIV test before the age of 20."
+  },
+  {
+    "question": "For individuals in Switzerland who had their first positive HIV test between 1990 and 2010 and an initial CD4 count above 300, is there a difference between PWH tested before or after the age of 20 and the time taken for the CD4 cell count to drop below 200?",
+    "answer": "Okay, I can help with this.\n\nBased on Swiss HIV Cohort Study data and other research, there is evidence suggesting a difference. Individuals diagnosed with HIV *before* the age of 20 generally experience a faster decline in CD4 cell count compared to those diagnosed *after* the age of 20, even if their initial CD4 count was above 300.\n\nThis difference is likely due to a combination of factors, including the impact of HIV on a developing immune system and potentially other co-factors associated with younger age at diagnosis.\n\nIt's important to note that this is a general trend, and individual progression can vary significantly.",
+    "true_answer": "Yes, there is a difference. For PWH diagnosed before the age of 20, 19% experienced a drop in CD4 count to below 200 within 5 years. In contrast, for those diagnosed after the age of 20, 32% experienced this drop within 5 years."
+  }
+]
