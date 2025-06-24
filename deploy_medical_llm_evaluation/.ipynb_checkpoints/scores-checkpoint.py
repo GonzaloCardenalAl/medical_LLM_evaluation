@@ -459,21 +459,20 @@ def merge_final_df_over_questions(f1_json_path):
 
 
 if __name__ == "__main__":
-    gpt4_api_key = "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"  #Add your token for the OpenAI API
+    gpt4_api_key = ""  #Add your token for the OpenAI API
     gpt4_base_url = "http://148.187.108.173:8080"
 
     script_dir = os.path.dirname(os.path.abspath(__file__))
     model_answers_files_path = os.path.join(script_dir, 'model_answers')
     
     #model_list = ["Llama", "Meditron", "NVLM", "Med42", "Claude", "Llama-8B", "Llama-1B", "Gemini_2.5Pro", "Gemma-3-27B"]
-    #model_list = ["Gemini_2.5Pro", "Gemma-3-27B"]
     model_list = ["Gemma-3-27B", "MedGemma-3-27B"]
     
     f1_json_path = './evaluation_results/f1_results.json'
     
     if os.path.isfile(f1_json_path): 
         # (Optional) if you still need to run GPT scoring:
-        get_GPT_scores(model_list=model_list, gpt4_api_key=gpt4_api_key, model_answers_files_path=model_answers_files_path)
+        #get_GPT_scores(model_list=model_list, gpt4_api_key=gpt4_api_key, model_answers_files_path=model_answers_files_path)
         model_list = ["Llama", "Meditron", "NVLM", "Med42", "Claude", "Llama-8B", "Llama-1B", "Gemini_2.5Pro", "Gemma-3-27B", "MedGemma-3-27B"]
         json_to_df(model_list=model_list, model_answers_files_path=model_answers_files_path)
         

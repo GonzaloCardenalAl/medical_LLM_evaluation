@@ -23,20 +23,16 @@ print(f"✅ sys.path: {sys.path}")
 from transformers import AutoTokenizer, AutoModelForCausalLM, AutoConfig, pipeline, Gemma3ForCausalLM
 from utils import split_model
 from huggingface_hub import snapshot_download
-#from google import genai
-#from google.genai import types
 
 claude_api_key = "" #Add you Claude API
 client_claude = anthropic.Anthropic(api_key=claude_api_key)
 
 #llama_api_key = "" #add your token for the Llama API
-#llama_base_url = "https://fmapi.swissai.cscs.ch"
 #llama_base_url = "https://f.swissai.cscs.ch"
 
 #meditron_api_key = "" #add your token for the Meditron API
 #meditron_base_url = "https://moovegateway.epfl.ch/v1/"
 
-#client_google =  genai.Client(api_key="AIzaSyD0RDX5rvHhb6T7W9HBqgq5HPPFAdE3qzE")
 #client_openai = OpenAI(api_key=llama_api_key , base_url=llama_base_url) # For Llama API calls
 #client_openai_meditron = OpenAI(api_key=meditron_api_key , base_url=meditron_base_url) 
 
@@ -942,12 +938,8 @@ if __name__ == "__main__":
         help="Which model(s) to run, e.g. --model Llama, Meditron, Claude, Med42, NVLM, Llama-8B, Llama-1B, Gemini_2.5Pro, Gemma-3-27B, MedGemma-3-27B"
     )
     args = parser.parse_args()
-
-    # Build a list of models from command line
     model_list = args.model
     
-    # Example usage: modify model_list as needed
-  #  model_list = ["Llama", "Meditron", "Claude", "Med42", "NVLM"]  # just a single model for demonstration
     # 1st step: get model answers
     system_prompt="You are a helpful, respectful and honest senior physician specializing in HIV. You are assisting a junior clinician answering medical questions. Keep your answers brief and clear. If a question does not make any sense, or is not factually coherent, explain why instead of answering something not correct. If you don't know the answer to a question, please don't share false information."
     output_model_dir = obtain_answers_HIV(questions_dir=questions_dir, model_list=model_list, system_prompt= system_prompt)
