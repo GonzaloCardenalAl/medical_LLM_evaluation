@@ -47,6 +47,10 @@ pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/e
 ```
 
 ## Architecture & Workflow
+	1.	Load the different questionnaire categories available on question_files and load the desired LLM.
+	2.	Run inference subsquently inputting the system prompt and current question. .
+	3.	Obtain the emperical maximum MedGPT and F1 by rephrasing the reference answer and obtained the scores
+	4.	Compute Metrics (MedGPT and F1 score) from the models answer and aggrete results.
 
 ## Usage
 
@@ -58,11 +62,3 @@ Please open an issue or pull request. Include tests and follow best practices wh
 MIT License © [2025] [Gonzalo Cardenal Antolin]
 See LICENSE file for details.
 ---
-
-### 📝 Formatting Notes
-
-- Uses **GitHub-Flavored Markdown**: headers, task lists, code blocks, relative links, etc.  [oai_citation:0‡docs.github.com](https://docs.github.com/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes?utm_source=chatgpt.com) [oai_citation:1‡arxiv.org](https://arxiv.org/abs/2506.04078?utm_source=chatgpt.com) [oai_citation:2‡docs.github.com](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax?utm_source=chatgpt.com) [oai_citation:3‡stackoverflow.com](https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github?utm_source=chatgpt.com)  
-- Auto-generated TOC enabled via `##` headings  [oai_citation:4‡docs.github.com](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax?utm_source=chatgpt.com)  
-- Asset embeds (e.g., badges, diagrams) can be added using `![alt](path)`  [oai_citation:5‡stackoverflow.com](https://stackoverflow.com/questions/14494747/how-to-add-images-to-readme-md-on-github?utm_source=chatgpt.com)  
-
-Feel free to customize logos, badges, or diagrams! Let me know if you'd like help generating badges (e.g. benchmark status, license).
