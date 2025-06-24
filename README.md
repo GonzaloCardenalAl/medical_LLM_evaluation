@@ -55,12 +55,8 @@ pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/e
 ## Usage
 
 There are 3 main python files to obtain the scoring of the models answer:
-- get_model_answers_and_prompt_generation.py: loads a model (either from Hugging Face for open-source models or via an API) and generates responses using prompts.  
-- f1_score.py: obtains the different modalities of f1 score from different the 3 different sources: SNOMED CT from PyMedtermino 2, WordNet and custom GPT dictionary, and applaying lemmatization.
-- scores.py: computes MedGPT score and averages results over iterations and questions of the same category.
-
-- **`get_model_answers_and_prompt_generation.py`**  
-  Use this script in environments with GPU support. To run across multiple GPUs or nodes, utilize:
+- **`get_model_answers_and_prompt_generation.py`** : loads a model (either from Hugging Face for open-source models or via an API) and generates responses using prompts.
+Use this script in environments with GPU support. To run across multiple GPUs or nodes, utilize:
   
   **Example (multi-GPU/cluster)**:
   ```bash
@@ -69,6 +65,12 @@ There are 3 main python files to obtain the scoring of the models answer:
   
   # Alternative script targeting NVLM model (requires more GPU)
   sbatch generate_answers-NVLM.sh
+  
+- **`f1_score.py`**: obtains the different modalities of f1 score from different the 3 different sources: SNOMED CT from PyMedtermino 2, WordNet and custom GPT dictionary, and applaying lemmatization.
+-**`scores.py`**: computes MedGPT score and averages results over iterations and questions of the same category.
+
+- **`get_model_answers_and_prompt_generation.py`**  
+  Use this script in environments with GPU support. To run across multiple GPUs or nodes, utilize:
    
 
 ## Contributing 
