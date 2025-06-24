@@ -24,8 +24,8 @@ def get_GPT_scores(model_list, gpt4_api_key, model_answers_files_path):
             if not os.path.isdir(prompted_files_path_model):
                 continue
 
-            for category_id in [str(num) for num in range(1, 7)]:
-                for iteration_number in range(4, 6):
+            for category_id in [str(num) for num in range(1, 5)]:
+                for iteration_number in range(1, 6):
                     prompted_file_name = (
                         f"prompted_{model}_answers_category_{category_id}."
                         f"{iteration_number}_HIV_EQ.json"
@@ -42,7 +42,7 @@ def get_GPT_scores(model_list, gpt4_api_key, model_answers_files_path):
                     for prompt_data in prompts_list:
                         prompt_text = prompt_data['prompt']
                         res = client.chat.completions.create(
-                            model="gpt-4o",
+                            model="gpt-4o-2024-08-06",
                             messages=[
                                 {"role": "user", "content": prompt_text}
                             ],
@@ -465,13 +465,15 @@ if __name__ == "__main__":
     script_dir = os.path.dirname(os.path.abspath(__file__))
     model_answers_files_path = os.path.join(script_dir, 'model_answers')
     
-    model_list = ["Llama", "Meditron", "NVLM", "Med42", "Claude", "Llama-8B", "Llama-1B"]
+    #model_list = ["Llama", "Meditron", "NVLM", "Med42", "Claude", "Llama-8B", "Llama-1B", "Gemini_2.5Pro", "Gemma-3-27B"]
+    model_list = ["Gemma-3-27B", "MedGemma-3-27B"]
     
     f1_json_path = './evaluation_results/f1_results.json'
     
     if os.path.isfile(f1_json_path): 
         # (Optional) if you still need to run GPT scoring:
         #get_GPT_scores(model_list=model_list, gpt4_api_key=gpt4_api_key, model_answers_files_path=model_answers_files_path)
+        model_list = ["Llama", "Meditron", "NVLM", "Med42", "Claude", "Llama-8B", "Llama-1B", "Gemini_2.5Pro", "Gemma-3-27B", "MedGemma-3-27B"]
         json_to_df(model_list=model_list, model_answers_files_path=model_answers_files_path)
         
         # 1. GPT means & std over iterations

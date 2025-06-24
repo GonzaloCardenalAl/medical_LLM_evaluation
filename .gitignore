@@ -2,4 +2,4 @@ deploy_medical_llm_evaluation/old/
 deploy_medical_llm_evaluation/evaluation_results/old
 deploy_medical_llm_evaluation/evaluation_results/old-19.01.25
 deploy_medical_llm_evaluation/gold_standard_rephrasing/old
-deploy_medical_llm_evaluation/get_final_csv.ipnyb
+notebooks/get_final_csv.ipnyb

@@ -91,7 +91,6 @@ dependencies:
       - confection==0.1.5
       - conllu==6.0.0
       - emoji==2.14.0
-      - en-core-sci-lg==0.5.4
       - filelock==3.16.1
       - fsspec==2024.10.0
       - langcodes==3.5.0
