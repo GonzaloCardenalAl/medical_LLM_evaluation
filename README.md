@@ -70,9 +70,6 @@ There are 3 main python files to obtain the scoring of the models answer:
   # Alternative script targeting NVLM model (requires more GPU)
   sbatch generate_answers-NVLM.sh
    
-get_model_answers_and_prompt_generation.py needs to be run in a cluster with sufficient GPU power to load the selected LLM. For that, get_answers.sh and get_answers-NVLM.sh were used.
-
-torchrun get_model_answers_and_prompt_generation.py --model MedGemma-3-27B
 
 ## Contributing 
 Contributions are welcome!
