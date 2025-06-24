@@ -67,10 +67,16 @@ Use this script in environments with GPU support. To run across multiple GPUs or
   sbatch generate_answers-NVLM.sh
   
 - **`f1_score.py`**: obtains the different modalities of f1 score from different the 3 different sources: SNOMED CT from PyMedtermino 2, WordNet and custom GPT dictionary, and applaying lemmatization.
--**`scores.py`**: computes MedGPT score and averages results over iterations and questions of the same category.
-
-- **`get_model_answers_and_prompt_generation.py`**  
-  Use this script in environments with GPU support. To run across multiple GPUs or nodes, utilize:
+  ```bash
+  conda activate scispacy_env
+  python f1_score.py
+  ```
+  
+- **`scores.py`**: computes MedGPT score and averages results over iterations and questions of the same category.
+  ```bash
+  conda activate transformers_llm
+  python scores.py
+  ```
    
 
 ## Contributing 
