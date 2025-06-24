@@ -47,10 +47,10 @@ pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/e
 ```
 
 ## Architecture & Workflow
-	1.	Load the different questionnaire categories available on question_files and load the desired LLM.
-	2.	Run inference subsquently inputting the system prompt and current question. .
-	3.	Obtain the emperical maximum MedGPT and F1 by rephrasing the reference answer and obtained the scores
-	4.	Compute Metrics (MedGPT and F1 score) from the models answer and aggrete results.
+1.	Load the different questionnaire categories available on question_files and load the desired LLM.
+2.	Run inference subsquently inputting the system prompt and current question. .
+3.	Obtain the emperical maximum MedGPT and F1 by rephrasing the reference answer and obtained the scores
+4.	Compute Metrics (MedGPT and F1 score) from the models answer and aggrete results.
 
 ## Usage
 
