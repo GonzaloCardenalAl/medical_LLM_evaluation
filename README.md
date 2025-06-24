@@ -15,13 +15,36 @@ Large language models (LLMs) are emerging as valuable tools to support clinician
 ## Overview
 
 This study aims to evaluate the performance of current LLMs in the context of curbside consults for HIV care and provide actionable insights for their future development Specifically, we focus on:
-- (1) assessing the reliability of LLMs as judges 
-- (2) identifying the most effective lexical matching techniques for open-ended question evaluation
-- (3) comparing the performance of small-scale versus large-scale LLMs
-- (4) evaluating domain-specific (medical) models against generalized LLMs
-- (5) benchmarking clinical skills of LLMs across the key dimensions comprehension, reasoning, knowledge recall, bias, and harm.
+- (1) Assessing the reliability of LLMs as judges 
+- (2) Identifying the most effective lexical matching techniques for open-ended question evaluation
+- (3) Comparing the performance of small-scale versus large-scale LLMs
+- (4) Evaluating domain-specific (medical) models against generalized LLMs
+- (5) Benchmarking clinical skills of LLMs across the key dimensions comprehension, reasoning, knowledge recall, bias, and harm.
 
 ## Getting Started
+
+To set up the two separate environments needed to run inference and scoring components of the `medical_LLM_evaluation` project.
+
+### 1. Purpose of Environments
+
+- **`transformers_llm.yml`** — installs dependencies required for running inference with various large language models.
+- **`scispacy_env.yml`** — sets up scispaCy and related tools necessary for computing biomedical F1 scores and entity extraction.
+
+### 2. Creating the Environments
+
+Run the following commands to create both Conda environments:
+
+```bash
+conda env create --file transformers_llm.yml
+conda env create --file scispacy_env.yml
+```
+
+### 3. Installing scispaCy Models 
+To install the scispacy model manually:
+```bash
+pip install scispacy
+pip install https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.4/en_core_sci_sm-0.5.4.tar.gz
+```
 
 ## Architecture & Workflow
 
