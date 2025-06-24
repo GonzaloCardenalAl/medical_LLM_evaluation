@@ -15,7 +15,7 @@ source ~/.bashrc
 source /cluster/home/gcardenal/miniconda3/etc/profile.d/conda.sh
 
 export PYTHONNOUSERSITE=1
-conda activate vllm_2 || { echo "Failed to activate Conda environment"; exit 1; }
+conda activate transformers_llm || { echo "Failed to activate Conda environment"; exit 1; }
 
 # Debugging
 conda list

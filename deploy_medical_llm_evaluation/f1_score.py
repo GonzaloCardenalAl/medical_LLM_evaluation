@@ -191,14 +191,21 @@ def compute_f1_from_expanded(entities_true, entities_answer, true_expanded, answ
     for true_entity, true_synonyms_set in true_expanded.items():
         for ans_entity, ans_synonyms_set in answer_expanded.items():
             if ans_entity not in used_answer_entities:
-                # If the sets overlap => treat as a match
                 if not true_synonyms_set.isdisjoint(ans_synonyms_set):
-                    intersection_count += 1
+                    intersection_count_recall += 1
                     used_answer_entities.add(ans_entity)
                     break
 
-    precision = intersection_count / len(entities_answer) if len(entities_answer) > 0 else 0.0
-    recall = intersection_count / len(entities_true) if len(entities_true) > 0 else 0.0
+    for ans_entity, ans_synonyms_set in answer_expanded.items():
+        for true_entity, true_synonyms_set in true_expanded.items():
+            if true_entity not in used_true_entities:
+                if not ans_synonyms_set.isdisjoint(true_synonyms_set):
+                    intersection_count_precision += 1
+                    used_true_entities.add(true_entity)
+                    break
+
+    precision = intersection_count_precision / len(entities_answer) if len(entities_answer) > 0 else 0.0
+    recall = intersection_count_recall / len(entities_true) if len(entities_true) > 0 else 0.0
     if (precision + recall) > 0:
         f1 = 2.0 * (precision * recall) / (precision + recall)
     else:

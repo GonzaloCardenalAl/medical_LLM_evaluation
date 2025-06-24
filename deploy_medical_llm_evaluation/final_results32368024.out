@@ -1,5 +1,0 @@
-Fatal Python error: initfsencoding: Unable to get the locale encoding
-ModuleNotFoundError: No module named 'encodings'
-
-Current thread 0x000014b26c073740 (most recent call first):
-Failed to activate Conda environment

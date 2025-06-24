@@ -1,5 +1,5 @@
 #!/bin/bash
-# File: run_inference.sh
+# File: run_inference-NVLM.sh
 
 unset PYTHONPATH
 unset PYTHONHOME
@@ -18,7 +18,7 @@ rm -rf $CONDA_PREFIX/lib/python3.10/site-packages/transformers-*.dist-info
 source "$HOME/miniconda3/etc/profile.d/conda.sh"
 
 source /cluster/home/gcardenal/miniconda3/etc/profile.d/conda.sh
-conda activate vllm_2 || { echo "Failed to activate conda env"; exit 1; }
+conda activate transformers_llm || { echo "Failed to activate conda env"; exit 1; }
 
 export PATH="$CONDA_PREFIX/bin:$PATH"
 
@@ -35,4 +35,4 @@ python -c "import sys; print('✅ Python version:', sys.version)"
 python -c "import transformers; print('✅ Transformers version:', transformers.__version__)"
 python -c "import torch; print(torch.__version__)"
 
-torchrun --standalone --nproc_per_node=${SLURM_NTASKS:-1} get_model_answers_and_prompt_generation.py --model MedGemma-3-27B
+torchrun --standalone --nproc_per_node=${SLURM_NTASKS:-1} get_model_answers_and_prompt_generation.py --model NVLM 

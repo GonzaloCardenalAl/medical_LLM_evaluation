@@ -17,8 +17,8 @@ from utils import split_model
 custom_cache_dir = "/cluster/scratch/gcardenal/LLM_models"
 
 # Directories
-input_dir = "./questions_files/"
-output_dir = "./model_answers/"
+input_dir = "../questions_files/"
+output_dir = "../model_answers/"
 os.makedirs(output_dir, exist_ok=True)
 
 def prompt_model_answers(input_answer_dir, model_list):

@@ -1,4 +1,4 @@
-name: vllm_2
+name: transformers_llm
 channels:
   - defaults
   - conda-forge
