@@ -1,0 +1,470 @@
+[
+  {
+    "question": "A 58-year-old woman with HIV infection is brought to the emergency department because of a 2-week history of headaches, blurred vision, and confusion. Her current medications include antiretroviral therapy and trimethoprim-sulfamethoxazole. Neurological examination shows ataxia and memory impairment. Her CD4+ T-lymphocyte count is 90/\u03bcL. Analysis of her cerebrospinal fluid analysis shows lymphocytic predominant pleocytosis, and PCR is positive for Epstein-Barr virus DNA. An MRI of the brain with contrast shows a solitary, weakly ring-enhancing lesion with well-defined borders involving the corpus callosum. What is the most likely diagnosis?",
+    "answer": "The user wants me to determine the most likely diagnosis for a 58-year-old woman with HIV, presenting with neurological symptoms, based on the provided clinical information and guideline excerpts.\n\nHere's a breakdown of the information provided:\n*   **Patient:** 58-year-old woman with HIV.\n*   **Symptoms:** 2-week history of headaches, blurred vision, confusion.\n*   **Neurological Exam:** Ataxia, memory impairment.\n*   **Medications:** ART, TMP-SMX.\n*   **CD4 Count:** 90/\u03bcL (severe immunosuppression).\n*   **CSF:** Lymphocytic predominant pleocytosis, positive for EBV DNA.\n*   **MRI Brain (with contrast):** Solitary, weakly ring-enhancing lesion with well-defined borders involving the corpus callosum.\n\nNow, let's consider potential diagnoses in an HIV patient with neurological symptoms and a low CD4 count, focusing on lesions involving the corpus callosum:\n\n1.  **Progressive Multifocal Leukoencephalopathy (PML):**\n    *   Caused by JC virus (JCV).\n    *   Common in severe immunosuppression (CD4 < 200).\n    *   Typically presents with subacute focal neurological deficits (ataxia, confusion, vision changes fit).\n    *   MRI often shows white matter lesions (T2 hyperintense, T1 hypointense), typically *without* mass effect or significant enhancement (though some enhancement can occur, especially with immune reconstitution).\n    *   Lesions can occur anywhere but often involve subcortical white matter, cerebellum, brainstem. Corpus callosum involvement is less typical but possible.\n    *   Diagnosis often involves CSF PCR for JCV DNA (positive in 70-90% of non-ART patients).\n    *   CSF pleocytosis is *not* typical for PML; CSF is often normal or shows mild protein elevation.\n    *   EBV DNA in CSF is not associated with PML.\n\n2.  **Cerebral Toxoplasmosis:**\n    *   Caused by *Toxoplasma gondii*.\n    *   Common opportunistic infection in HIV (CD4 < 100).\n    *   Presents with headache, fever, confusion, focal deficits.\n    *   MRI typically shows multiple ring-enhancing lesions, often in the basal ganglia or corticomedullary junction, with surrounding edema and mass effect. Solitary lesions are less common but possible.\n    *   CSF may show mild pleocytosis or be normal. PCR for *Toxoplasma* in CSF has low sensitivity.\n    *   EBV DNA in CSF is not associated with toxoplasmosis.\n\n3.  **Primary CNS Lymphoma (PCNSL):**\n    *   Associated with EBV infection in HIV patients.\n    *   Common in severe immunosuppression (CD4 < 50).\n    *   Presents with headache, confusion, focal deficits.\n    *   MRI often shows solitary or multiple ring-enhancing lesions, often periventricular, sometimes involving the corpus callosum. Lesions typically have significant mass effect.\n    *   CSF often shows lymphocytic pleocytosis and elevated protein.\n    *   **CSF PCR for EBV DNA is highly suggestive of PCNSL in HIV patients.**\n\n4.  **HIV Encephalitis (HIV-associated Dementia/Neurocognitive Disorder):**\n    *   Occurs with advanced immunosuppression.\n    *   Presents with cognitive decline, motor deficits, behavioral changes.\n    *   MRI shows diffuse white matter changes, atrophy, sometimes T2 hyperintensities, but typically not focal ring-enhancing lesions.\n    *   CSF may show mild pleocytosis.\n\n5.  **CMV Encephalitis/Ventriculoencephalitis:**\n    *   Occurs in severe immunosuppression.\n    *   Presents with altered mental status, confusion, focal deficits. Ventriculoencephalitis is more acute.\n    *   MRI can show periventricular enhancement (ventriculoencephalitis) or diffuse changes.\n    *   CSF may show pleocytosis. CMV PCR in CSF can be positive.\n\n**Evaluating the patient's findings against the possibilities:**\n\n*   **Low CD4 (90/\u03bcL):** Increases risk for PML, Toxoplasmosis, PCNSL, CMV.\n*   **Symptoms (Headache, blurred vision, confusion, ataxia, memory impairment):** Non-specific, could fit several diagnoses.\n*   **CSF (Lymphocytic pleocytosis, positive EBV DNA):** The lymphocytic pleocytosis argues against typical PML (which usually has normal CSF). The positive EBV DNA strongly points towards PCNSL.\n*   **MRI (Solitary, weakly ring-enhancing lesion, well-defined borders, involving corpus callosum",
+    "true_answer": "The most likely diagnosis for a patient with HIV, presenting with neurological symptoms and a solitary ring-enhancing lesion, is primary cerebral lymphoma.",
+    "rag_sources": [
+      {
+        "score": 0.649315774,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 586,
+        "chunk_in_page": 0,
+        "chunk_global": 1671,
+        "id": "bded9b3c-e698-4c07-a34f-110fae6166ce"
+      },
+      {
+        "score": 0.648563325,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 171,
+        "chunk_in_page": 0,
+        "chunk_global": 1161,
+        "id": "5086bbfe-8c0f-436b-81ef-9e61699069ab"
+      },
+      {
+        "score": 0.644386292,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 587,
+        "chunk_in_page": 0,
+        "chunk_global": 1673,
+        "id": "baeb6369-c28a-4184-8600-8770e41bbc7a"
+      },
+      {
+        "score": 0.643824577,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 577,
+        "chunk_in_page": 0,
+        "chunk_global": 1659,
+        "id": "1e0b7a1a-8bfb-48c4-83c2-02537b55344d"
+      }
+    ]
+  },
+  {
+    "question": "A 25-year-old sexually active male presents to an internal medicine physician for a routine health check up after having several unprotected sexual encounters. After appropriate testing the physician discusses with the patient that he is HIV+ and must be started on anti-retroviral treatment. What medication prescribed acts on the gp41 subunit of the HIV envelope glycoprotein?",
+    "answer": "1.  **Identify the core question:** The question asks for a medication that acts on the gp41 subunit of the HIV envelope glycoprotein.\n\n2.  **Scan the provided guidelines for keywords:** Look for \"gp41\", \"gp120\", \"envelope glycoprotein\", \"attachment inhibitor\", \"fusion inhibitor\", or specific drug names known to target these proteins.\n\n3.  **Analyze the guideline excerpts:**\n    *   Table 15 (Acute/Recent HIV) lists recommended ART regimens (BIC/TAF/FTC, DTG-based, DRV-based) but doesn't mention gp41 or specific mechanisms beyond drug class (INSTI, NRTI, PI).\n    *   Guideline B-2 (Rapid Start) discusses *when* to start ART and baseline evaluations but doesn't detail mechanisms of action.\n    *   Guideline H-13 discusses treatment options for *multidrug-resistant HIV* and mentions:\n        *   Ibalizumab (IBA): CD4 post-attachment inhibitor.\n        *   Fostemsavir (FTR): gp120-directed attachment inhibitor.\n        *   Lenacapavir (LEN): HIV capsid inhibitor.\n    *   Guideline B-1 (Baseline Evaluation) lists recommended baseline tests and mentions genotypic resistance testing, but not specific drug mechanisms.\n\n4.  **Evaluate findings:** The guidelines mention inhibitors targeting CD4 (Ibalizumab), gp120 (Fostemsavir), and the capsid (Lenacapavir). None of these directly target gp41.\n\n5.  **Recall/Search external knowledge (if necessary and permitted):** The question asks about gp41. The only FDA-approved drug class that targets gp41 is the *fusion inhibitor*. The specific drug in this class is Enfuvirtide (Fuzeon).\n\n6.  **Check if Enfuvirtide is mentioned in the guidelines:** Enfuvirtide is *not* mentioned in the provided excerpts. The excerpts focus on first-line and salvage therapy options currently recommended, and Enfuvirtide is rarely used now due to its route of administration (subcutaneous injection) and side effects.\n\n7.  **Formulate the answer:**\n    *   Acknowledge the question.\n    *   State that the provided guidelines *do not* mention a medication acting on gp41.\n    *   Provide the correct information based on general medical knowledge: Enfuvirtide is the fusion inhibitor that acts on gp41.\n    *   Explain *why* it might not be in the guidelines (e.g., not a first-line or commonly used agent anymore).\n    *   Maintain the persona: Helpful, respectful, honest senior physician. Keep it brief and clear.<unused95>Based on the provided guidelines, there is no mention of a medication that acts on the gp41 subunit.\n\nHowever, based on general medical knowledge, the drug **Enfuvirtide** is a fusion inhibitor that acts on the gp41 subunit of the HIV envelope glycoprotein to prevent the virus from entering host cells. It is not typically used as a first-line agent due to its route of administration (subcutaneous injection) and side effects, which is likely why it's not included in these guideline excerpts focused on initial therapy.",
+    "true_answer": "The medication that targets the gp41 subunit of the HIV envelope glycoprotein is enfuvirtide.",
+    "rag_sources": [
+      {
+        "score": 0.628148139,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 293,
+        "chunk_in_page": 0,
+        "chunk_global": 2594,
+        "id": "04841c76-8af9-4b35-ba94-ff4aacd43b34"
+      },
+      {
+        "score": 0.625884116,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 22,
+        "chunk_in_page": 0,
+        "chunk_global": 2243,
+        "id": "d5febca2-7bff-4890-96f6-638f4a3d2f26"
+      },
+      {
+        "score": 0.618123174,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 173,
+        "chunk_in_page": 0,
+        "chunk_global": 2427,
+        "id": "f5118574-0841-4cea-b397-d8f38d726dbf"
+      },
+      {
+        "score": 0.612567961,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 21,
+        "chunk_in_page": 0,
+        "chunk_global": 2242,
+        "id": "de8af976-f72d-46ea-a3d1-be1a9c412259"
+      }
+    ]
+  },
+  {
+    "question": "A 27-year-old man presents with a 2-week history of fever, malaise, and occasional diarrhea. On physical examination, the physician notes enlarged inguinal lymph nodes. An HIV-1 detection test is positive. Laboratory studies show a CD4+ count of 650/mm3. This patient is most likely currently in what stage of HIV infection?",
+    "answer": "Based on the provided guidelines and the patient's presentation, the patient is most likely in the **acute HIV infection** stage.\n\nHere's why:\n*   He has symptoms consistent with acute retroviral syndrome (fever, malaise, lymphadenopathy).\n*   His HIV-1 detection test is positive.\n*   His CD4 count is relatively high (650/mm3), which is typical for early infection before significant immune decline occurs.\n\nThe guidelines state that acute HIV infection is characterized by viremia and often presents with non-specific symptoms like fever, lymphadenopathy, and malaise, occurring soon after transmission. The presence of these symptoms along with a positive HIV test and a normal CD4 count strongly suggests this stage.",
+    "true_answer": "This patient is most likely currently in the stage of acute HIV infection.",
+    "rag_sources": [
+      {
+        "score": 0.585845053,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 287,
+        "chunk_in_page": 1,
+        "chunk_global": 2587,
+        "id": "9001ad3c-cb6c-412d-894d-f842b9b8c0af"
+      },
+      {
+        "score": 0.581990302,
+        "reference": "HIV_guidelines/9789240118164-eng.pdf",
+        "page": 12,
+        "chunk_in_page": 0,
+        "chunk_global": 1938,
+        "id": "b33fec49-1049-4a47-b391-e0a31f089e52"
+      },
+      {
+        "score": 0.578489363,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 478,
+        "chunk_in_page": 0,
+        "chunk_global": 1544,
+        "id": "cffe70cc-a388-4106-b053-0db18f18aca8"
+      },
+      {
+        "score": 0.577482283,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 287,
+        "chunk_in_page": 0,
+        "chunk_global": 2586,
+        "id": "25563b38-a826-4a84-b0cb-20e32462b003"
+      }
+    ]
+  },
+  {
+    "question": "A 50-year-old male with HIV presents to his primary care provider complaining of persistent fevers and night sweats over the past four months. He has also experienced a productive cough. He has been poorly adherent to his HAART regimen. His past medical history also includes gout, hypertension, and diabetes mellitus. He takes allopurinol, enalapril, and metformin. His temperature is 100.9\u00b0F (38.3\u00b0C), blood pressure is 125/75 mmHg, pulse is 95/min, and respirations are 20/min. His CD4 count is 85 cell/mm^3 and a PPD is negative. A chest radiograph reveals cavitations in the left upper lobe and left lower lobe. Bronchoalveolar lavage reveals the presence of partially acid-fast gram-positive branching rods. A head CT is negative for any intracranial process. What is the mechanism of action of the most appropriate drug for managing this patient\u2019s condition?",
+    "answer": "The user wants to know the mechanism of action of the most appropriate drug for a patient with HIV presenting with symptoms suggestive of tuberculosis (TB).\n\n1.  **Identify the condition:** The patient has HIV with a low CD4 count (85 cells/mm\u00b3), symptoms of fever, night sweats, and productive cough, chest radiograph showing cavitations (though atypical for HIV with low CD4, it is still suggestive of TB), and bronchoalveolar lavage (BAL) revealing partially acid-fast gram-positive branching rods, which is highly suggestive of *Mycobacterium tuberculosis*. The negative PPD does not rule out active TB, especially in severely immunocompromised individuals.\n2.  **Identify the most appropriate drug:** The standard treatment for active TB involves a multi-drug regimen. The first-line drugs include isoniazid (INH), rifampin (RIF), pyrazinamide (PZA), and ethambutol (EMB). Rifampin is often considered a cornerstone drug due to its potent bactericidal activity against *M. tuberculosis*.\n3.  **Identify the mechanism of action of the chosen drug:** Rifampin inhibits bacterial DNA-dependent RNA polymerase, thereby inhibiting RNA synthesis.\n4.  **Check if the provided guidelines mention Rifampin or its mechanism:** The guidelines mention Rifampin as part of the 3HR regimen for latent TB treatment. While they don't explicitly detail the mechanism of action for *active* TB treatment drugs, Rifampin is a standard first-line agent.\n5.  **Formulate the answer:** State the most appropriate drug (Rifampin, as part of a multi-drug regimen) and its mechanism of action (inhibition of bacterial DNA-dependent RNA polymerase).<unused95>The most appropriate drug regimen for active tuberculosis (TB) includes multiple first-line agents, such as rifampin, isoniazid, pyrazinamide, and ethambutol.\n\nRifampin inhibits bacterial DNA-dependent RNA polymerase, thereby inhibiting RNA synthesis.",
+    "true_answer": "The mechanism of action of the most appropriate drug to manage this patient's condition is inhibition of bacterial folic acid synthesis.",
+    "rag_sources": [
+      {
+        "score": 0.637777388,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 478,
+        "chunk_in_page": 0,
+        "chunk_global": 1544,
+        "id": "cffe70cc-a388-4106-b053-0db18f18aca8"
+      },
+      {
+        "score": 0.637256682,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 682,
+        "chunk_in_page": 0,
+        "chunk_global": 1790,
+        "id": "f2ce5d23-96c4-4627-bc57-0a1a01093e63"
+      },
+      {
+        "score": 0.634180129,
+        "reference": "HIV_guidelines/9789240118164-eng.pdf",
+        "page": 67,
+        "chunk_in_page": 0,
+        "chunk_global": 2003,
+        "id": "5ff22994-d52d-4f6e-9540-a67799d8186e"
+      },
+      {
+        "score": 0.632595122,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 137,
+        "chunk_in_page": 0,
+        "chunk_global": 916,
+        "id": "cd8908e0-e115-43a5-8258-d9667fa43cf0"
+      }
+    ]
+  },
+  {
+    "question": "A physician scientist is looking for a more efficient way to treat HIV. Patients infected with HIV mount a humoral immune response by producing antibodies against the HIV envelope proteins. These antibodies are the same antibodies detected by the ELISA and western blot assays used to diagnose the disease. The physician scientist is trying to generate a new, more potent antibody against the same HIV envelope proteins targeted by the natural humoral immune response. Of the following proteins, which is the most likely target of the antibody he is designing?",
+    "answer": "1.  **Analyze the Request:** The user wants me to act as a senior HIV physician assisting a junior clinician. I need to answer a question based on provided guideline excerpts, keeping answers brief, clear, honest, and respectful. If the excerpts are insufficient, I should state that and use best medical judgment. If the question is nonsensical, I should explain why.\n\n2.  **Examine the Question:** The question asks which HIV envelope protein is the *most likely* target for a *new, potent antibody* being designed by a physician scientist, given that the natural immune response targets these proteins (as detected by ELISA/Western blot). The question implies the scientist is trying to *improve* on the natural response.\n\n3.  **Scan the Guideline Excerpts:**\n    *   **PHI Excerpts:** Discusses timing of viral load, p24 antigen, and antibody detection; seroconversion; elite controllers; post-treatment controllers; need for STI screening. Mentions envelope proteins implicitly through antibody detection. *Not directly relevant to specific envelope protein targets.*\n    *   **Pregnancy Excerpts:** Discusses HIV subtypes (non-B), diagnostic testing (RNA, DNA) in infants, especially with non-B strains, and false positives from CAR T-cell/gene therapy. *Not relevant to specific envelope protein targets.*\n    *   **Adult/Adolescent ART Excerpts:** Discusses resistance testing (genotypic/phenotypic), specific drug classes (NRTIs, NNRTIs, PIs, INSTIs, fusion inhibitors, attachment inhibitors, capsid inhibitors), resistance mutations (RT, PR, IN, gp41), co-receptor tropism, and interpreting resistance tests. Mentions gp41 (envelope) in relation to enfuvirtide resistance. *Mentions gp41 but doesn't prioritize it as a target for *new* potent antibodies based on natural response.*\n    *   **Acute HIV/PrEP Excerpts:** Discusses diagnosis using Ag/Ab tests and RNA tests, especially in acute infection or with PrEP use, and potential for low viral loads or ambiguous results. *Not relevant to specific envelope protein targets.*\n\n4.  **Evaluate Sufficiency of Excerpts:** The provided excerpts *do not* contain information about the specific HIV envelope proteins targeted by the natural humoral immune response, nor do they discuss potential targets for *new* antibody therapies. They mention gp41 in the context of resistance testing for enfuvirtide, but this is not the focus of the question.\n\n5.  **Formulate the Answer:**\n    *   Acknowledge the question.\n    *   State that the provided guideline excerpts do not contain the necessary information to answer the question about specific HIV envelope protein targets for antibody design.\n    *   Use best medical judgment (outside the excerpts) to answer the question.\n    *   Recall general knowledge about HIV envelope proteins and antibody responses. The major envelope glycoproteins are gp120 and gp41. gp120 is the primary target for entry into CD4 cells and is highly variable, making it a major target for broadly neutralizing antibodies (bnAbs). gp41 is the transmembrane protein involved in membrane fusion.\n    *   Consider the goal: a \"new, more potent antibody\" targeting the same proteins as the natural response. The natural response targets both gp120 and gp41. However, gp120 is the most immunogenic and the primary target for entry inhibitors and bnAbs. Efforts to generate potent antibodies often focus on conserved regions of gp120 or unique epitopes.\n    *   Therefore, gp120 is the most likely target.\n    *   Keep the answer brief and clear, as requested.\n\n6.  **Refine the Answer:** Start by stating the excerpts are insufficient. Then, provide the answer based on general knowledge, focusing on gp120 as the most likely target due to its role in entry and immunogenicity. Avoid overly technical details.<unused95>The provided guideline excerpts do not contain information about specific HIV envelope protein targets for antibody design.\n\nBased on general knowledge of HIV immunology:\n\nThe HIV envelope is composed primarily of two glycoproteins: gp120 and gp41. gp120 is the surface protein that binds to CD4 receptors and co-receptors on host cells, making it the primary target for the natural humoral immune response and the main focus for developing neutralizing antibodies. Therefore, **gp120** is the most likely target for the antibody the physician scientist is designing.",
+    "true_answer": "The most likely target of the antibody being designed for HIV envelope proteins is gp120.",
+    "rag_sources": [
+      {
+        "score": 0.587006629,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 15,
+        "chunk_in_page": 1,
+        "chunk_global": 743,
+        "id": "890bbdfe-7e2b-405a-bcc0-9d3e18da57d8"
+      },
+      {
+        "score": 0.563641548,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 343,
+        "chunk_in_page": 0,
+        "chunk_global": 385,
+        "id": "2a951e4b-bbb0-4f08-87bc-0edce6eefc8a"
+      },
+      {
+        "score": 0.560690939,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 41,
+        "chunk_in_page": 0,
+        "chunk_global": 2266,
+        "id": "e02d306a-dcc6-4ae7-bac9-0c850f3800fe"
+      },
+      {
+        "score": 0.554427207,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 288,
+        "chunk_in_page": 0,
+        "chunk_global": 2588,
+        "id": "ed2fcc33-abb4-4781-a75f-9fcd182e6d30"
+      }
+    ]
+  },
+  {
+    "question": "A 50-year-old HIV-positive male presents to the ER with a two-day history of fever and hemoptysis. Chest radiograph shows a fibrocavitary lesion in the right middle lobe. Biopsy of the afflicted area demonstrates septate hyphae that branch at acute angles. What is the most likely causal organism?",
+    "answer": "The user wants me to identify the most likely causal organism based on the clinical presentation and biopsy findings in an HIV-positive patient.\n\n1.  **Analyze the clinical presentation:**\n    *   50-year-old HIV-positive male.\n    *   Symptoms: Fever, hemoptysis (coughing up blood).\n    *   Duration: Two days.\n    *   Chest radiograph: Fibrocavitary lesion in the right middle lobe.\n\n2.  **Analyze the biopsy findings:**\n    *   Septate hyphae.\n    *   Branching at acute angles (approximately 45 degrees).\n\n3.  **Evaluate potential pathogens based on findings:**\n    *   **HIV status:** Increases risk for opportunistic infections, including fungal infections.\n    *   **Fever and hemoptysis:** Suggestive of a pulmonary infection, potentially severe or necrotizing.\n    *   **Fibrocavitary lesion:** Often associated with certain bacterial (e.g., *Mycobacterium tuberculosis*, *Klebsiella pneumoniae*) or fungal infections (e.g., *Aspergillus*, *Mucorales*).\n    *   **Septate hyphae:** Rules out Zygomycetes (Mucorales), which are non-septate.\n    *   **Acute-angle branching (45 degrees):** This is the key feature differentiating *Aspergillus* species from other septate fungi like *Fusarium* or *Scedosporium*, which typically branch dichotomously at wider angles.\n\n4.  **Consider common pulmonary infections in HIV:**\n    *   *Pneumocystis jirovecii* pneumonia (PCP): Typically causes diffuse ground-glass opacities, not usually cavitary lesions. Biopsy shows cysts/trophozoites, not hyphae.\n    *   *Mycobacterium tuberculosis* (TB): Can cause cavitary lesions, especially in upper lobes, but less commonly in the middle lobe. Acid-fast bacilli would be seen on stain, not hyphae.\n    *   *Cryptococcus neoformans*: Usually causes meningitis or diffuse pulmonary infiltrates, rarely cavitary lesions. Biopsy shows encapsulated yeast.\n    *   Bacterial pneumonia: Can cause cavitary lesions (e.g., *Klebsiella*, *Staphylococcus aureus*), but biopsy would show bacteria, not hyphae.\n    *   *Aspergillus* species: Known to cause pulmonary infections, including invasive aspergillosis, in immunocompromised patients. Can present with nodules, consolidation, and cavitation. Histopathology characteristically shows septate hyphae branching at acute angles.\n\n5.  **Synthesize the information:** The presence of septate hyphae branching at acute angles (45 degrees) in a biopsy from a cavitary lung lesion in an immunocompromised (HIV-positive) patient strongly points towards *Aspergillus* species.\n\n6.  **Formulate the answer:** Based on the biopsy finding of septate hyphae branching at acute angles, the most likely causal organism is *Aspergillus*.<unused95>Based on the biopsy finding of septate hyphae branching at acute angles, the most likely causal organism is *Aspergillus*.",
+    "true_answer": "The most likely causal organism for the symptoms presented is Aspergillus fumigatus.",
+    "rag_sources": [
+      {
+        "score": 0.564046919,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 542,
+        "chunk_in_page": 0,
+        "chunk_global": 1613,
+        "id": "2b02828c-12c1-47e9-8148-e9d796f89caa"
+      },
+      {
+        "score": 0.554064751,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 478,
+        "chunk_in_page": 0,
+        "chunk_global": 1544,
+        "id": "cffe70cc-a388-4106-b053-0db18f18aca8"
+      },
+      {
+        "score": 0.549069405,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 541,
+        "chunk_in_page": 0,
+        "chunk_global": 1612,
+        "id": "69f9b04e-5e59-455f-8089-3699b58cdc0d"
+      },
+      {
+        "score": 0.537323,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 122,
+        "chunk_in_page": 0,
+        "chunk_global": 1104,
+        "id": "f0cdc1a4-f96b-49a7-b386-7a377bf27429"
+      }
+    ]
+  },
+  {
+    "question": "A 43-year-old man with HIV infection comes to the physician because of a 2-week history of progressive diarrhea and a 3-kg (6.6-lb) weight loss. During this period, he has had 3\u20134 episodes of watery stools daily, with multiple instances of blood in the stool. He is currently receiving antiretroviral therapy with zidovudine, lamivudine, and dolutegravir. Physical examination shows pallor and dry mucous membranes. A colonoscopy shows multiple linear ulcers. Polymerase chain reaction of a stool sample is positive for cytomegalovirus. Treatment with valganciclovir is begun. Adding this drug to his current medication regimen puts this patient at greatest risk for what specific adverse effects?",
+    "answer": "The provided guideline excerpts do not contain information about the adverse effects of valganciclovir or its interactions with zidovudine, lamivudine, and dolutegravir. Therefore, I cannot answer the question based solely on the provided text.\n\nHowever, based on general medical knowledge, valganciclovir can cause bone marrow suppression (anemia, neutropenia, thrombocytopenia), particularly when used with zidovudine, which also causes bone marrow suppression. This combination significantly increases the risk of severe hematologic toxicity. Therefore, the patient is at greatest risk for myelosuppression, including neutropenia and anemia.",
+    "true_answer": "Treatment with valganciclovir places the patient at increased risk for pancytopenia.",
+    "rag_sources": [
+      {
+        "score": 0.663093567,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 15,
+        "chunk_in_page": 0,
+        "chunk_global": 976,
+        "id": "94f9d676-49a9-4cba-9834-6d0aba784c78"
+      },
+      {
+        "score": 0.647319853,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 231,
+        "chunk_in_page": 0,
+        "chunk_global": 2512,
+        "id": "ecdcb77e-acdf-4666-b3be-ce54834fde69"
+      },
+      {
+        "score": 0.642975867,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 16,
+        "chunk_in_page": 0,
+        "chunk_global": 977,
+        "id": "10943801-cd21-4850-8832-2afc4a8832e6"
+      },
+      {
+        "score": 0.639643669,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 685,
+        "chunk_in_page": 0,
+        "chunk_global": 1794,
+        "id": "bf157b6d-14fb-4965-a185-085236929de3"
+      }
+    ]
+  },
+  {
+    "question": "A 28-year-old G1P0 woman at 16 weeks estimated gestational age presents for prenatal care. Routine prenatal screening tests are performed and reveal a positive HIV antibody test. The patient is extremely concerned about the possible transmission of HIV to her baby and wants to have the baby tested as soon as possible after delivery. Which of the following would be the most appropriate diagnostic test to address this patient\u2019s concern?",
+    "answer": "The user wants to know the most appropriate diagnostic test for a newborn infant whose mother tested positive for HIV during pregnancy.\n\n1.  **Identify the core issue:** The mother tested positive for HIV during pregnancy (at 16 weeks). The concern is about HIV transmission to the baby and testing the baby after delivery.\n2.  **Analyze the provided guidelines:** The guidelines discuss HIV testing during pregnancy, discordant results, acute infection, and perinatal transmission. They emphasize early diagnosis in the mother to prevent transmission. They mention testing during labor if status is unknown. They detail the testing algorithm for the mother (antigen/antibody immunoassay, differentiation assay, RNA assay). However, the guidelines *do not* explicitly state the *specific* test to use on the newborn immediately after birth to diagnose HIV infection.\n3.  **Evaluate the question's premise:** The question asks for the *most appropriate diagnostic test* for the *baby* after delivery, given the mother's positive test.\n4.  **Consider standard practice (outside the provided text):** Standard practice for diagnosing HIV in infants born to HIV-positive mothers involves virologic testing (HIV DNA PCR or HIV RNA PCR) because maternal antibodies can persist in the infant for up to 18 months, making antibody tests unreliable for diagnosis in this age group. These virologic tests are typically performed starting at birth or shortly after.\n5.  **Relate to the guidelines:** The guidelines mention HIV RNA assays for the mother, especially in cases of suspected acute infection or discordant results. While they don't explicitly detail infant testing, the principle of using RNA (a virologic marker) is relevant. The guidelines emphasize preventing perinatal transmission, which necessitates accurate diagnosis in the infant.\n6.  **Synthesize the answer:** The guidelines don't specify the infant test. Based on standard medical practice for diagnosing HIV in newborns of HIV-positive mothers, virologic testing is required. An HIV RNA assay (or DNA PCR) is the appropriate method because maternal antibodies can cross the placenta and cause false positives on antibody tests in the infant for many months. Therefore, an HIV RNA assay is the most appropriate diagnostic test for the infant.\n7.  **Refine the answer:** Keep it brief and clear, directly addressing the question. State the appropriate test (HIV RNA assay) and briefly explain why (maternal antibodies). Acknowledge that the specific infant testing details aren't in the provided excerpts but that this is the standard approach.<unused95>Based on the provided guidelines, they do not specify the exact test for the infant. However, standard medical practice for diagnosing HIV in infants born to HIV-positive mothers involves virologic testing, such as an HIV RNA assay (or HIV DNA PCR), because maternal antibodies can persist in the infant for up to 18 months, making antibody tests unreliable. Therefore, an HIV RNA assay would be the most appropriate diagnostic test for the infant.",
+    "true_answer": "The most appropriate test for early HIV diagnosis in a newborn is the polymerase chain reaction (PCR) for HIV RNA.",
+    "rag_sources": [
+      {
+        "score": 0.707994461,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 30,
+        "chunk_in_page": 0,
+        "chunk_global": 30,
+        "id": "1f8dd9e5-10a9-4efa-abd5-d812c4d6d39b"
+      },
+      {
+        "score": 0.707586348,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 29,
+        "chunk_in_page": 0,
+        "chunk_global": 29,
+        "id": "87d8987e-5212-4eef-931a-4ecb0687a9d6"
+      },
+      {
+        "score": 0.703121185,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 32,
+        "chunk_in_page": 0,
+        "chunk_global": 32,
+        "id": "340a1ae9-9b74-402b-abec-d63db4d1c5fb"
+      },
+      {
+        "score": 0.691316605,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 238,
+        "chunk_in_page": 0,
+        "chunk_global": 268,
+        "id": "b278c229-444f-4a39-9393-6902a79721eb"
+      }
+    ]
+  },
+  {
+    "question": "A 32-year-old man comes to the office for a routine health maintenance examination. He admits to recently having an affair several months ago and requests STD testing. One week later, the results of a fourth-generation HIV antibody and antigen test return positive. The patient is counseled on the test result. The patient requests that his diagnosis not be disclosed to anyone, including his wife. The man's wife is also the physician's patient. What should be the most appropriate next step by the physician?",
+    "answer": "The user wants to know the most appropriate next step for a physician when a patient discloses a positive HIV test result but requests confidentiality, even from his wife who is also the physician's patient.\n\n1.  **Identify the core ethical dilemma:** Patient confidentiality vs. duty to warn/protect a potentially at-risk partner (the wife).\n2.  **Consult the provided guidelines:** The guidelines discuss HIV transmission, U=U, partner notification, STI screening, and reproductive health. However, they do *not* explicitly address the specific ethical conflict of a patient requesting confidentiality when their partner is also a patient of the same physician.\n3.  **Apply general medical ethics principles:**\n    *   **Confidentiality:** Physicians have a strong ethical obligation to maintain patient confidentiality. Breaking this confidentiality without the patient's consent is generally unethical and potentially illegal.\n    *   **Duty to Warn/Protect:** In some jurisdictions, physicians may have a legal or ethical duty to warn identifiable third parties who are at significant risk of serious harm (like HIV infection) from a patient's condition, *if* the patient poses a danger and refuses to warn the third party themselves.\n    *   **Informed Consent:** The physician should discuss the implications of the patient's request for confidentiality, including the risks to his wife.\n    *   **Patient Autonomy:** The patient has the right to make decisions about their own health information, including who it is shared with.\n4.  **Synthesize the information:**\n    *   The patient has a right to confidentiality.\n    *   The physician cannot disclose the patient's HIV status to the wife without the patient's consent.\n    *   The physician should strongly encourage the patient to inform his wife himself. This respects patient autonomy and fulfills the ethical obligation to encourage risk reduction.\n    *   The physician should discuss the risks of non-disclosure to the wife and the importance of her own testing.\n    *   The physician should document the conversation, including the patient's request for confidentiality and the advice given.\n    *   The physician should consider legal and ethical obligations specific to their jurisdiction regarding duty to warn. In many places, this duty requires specific conditions to be met (e.g., imminent danger, patient's refusal to warn). Simply being HIV positive doesn't automatically trigger this duty, especially if the patient is likely to start ART and achieve viral suppression.\n5.  **Formulate the answer:** The most appropriate next step is to respect the patient's request for confidentiality while strongly encouraging him to inform his wife himself. The physician should counsel the patient on the importance of disclosure for his wife's health and the risks of non-disclosure. The physician cannot breach confidentiality without consent. The physician should document the conversation thoroughly. Legal/ethical consultation regarding duty-to-warn laws in the specific jurisdiction may be necessary.\n\n6.  **Refine the answer for brevity and clarity:** Focus on the immediate next step. The primary action is counseling the patient to disclose while respecting confidentiality.<unused95>The most appropriate next step is to respect the patient's request for confidentiality while strongly counseling him on the importance of informing his wife himself. You cannot disclose his HIV status to her without his consent. Discuss the risks of non-disclosure and encourage him to take responsibility for informing her. Document this conversation thoroughly. You should also be aware of and follow any specific legal or ethical guidelines in your jurisdiction regarding duty to warn.",
+    "true_answer": "The physician should report the HIV infection to the national health authorities while maintaining confidentiality per regulations.",
+    "rag_sources": [
+      {
+        "score": 0.55723381,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 101,
+        "chunk_in_page": 0,
+        "chunk_global": 869,
+        "id": "8b4a2a76-c5e3-4219-aa87-615c420b29d4"
+      },
+      {
+        "score": 0.538399696,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 598,
+        "chunk_in_page": 0,
+        "chunk_global": 1687,
+        "id": "5c6e6a25-9190-48b4-8c60-0c93d21baa39"
+      },
+      {
+        "score": 0.536868095,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 15,
+        "chunk_in_page": 1,
+        "chunk_global": 743,
+        "id": "890bbdfe-7e2b-405a-bcc0-9d3e18da57d8"
+      },
+      {
+        "score": 0.533155441,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 248,
+        "chunk_in_page": 0,
+        "chunk_global": 1262,
+        "id": "21c7ac1d-2ec8-4239-b4e5-f419dbd7938a"
+      }
+    ]
+  },
+  {
+    "question": "A 41-year-old woman presents with acute onset severe epigastric pain radiating to the back that began a few hours ago. She also complains of nausea and has vomited twice in the past hour. She denies any history of similar symptoms or trauma in the past. Past medical history is significant for diabetes type 2 and HIV infection diagnosed 6 months ago long-standing mild intermittent asthma, and generalized anxiety disorder. She takes metformin for her diabetes but does not remember the names of her HIV medications. She reports moderate social alcohol use. Her vital signs include temperature 37.6\u00b0C (99.6 \u00b0F), pulse 95/min, blood pressure 110/74 mm Hg, respiratory rate 12/min Her body mass index (BMI) is 21 kg/m2. Laboratory findings are significant for the following: Serum amylase: 415 U/L, Serum lipase: 520 U/L. A contrast CT of the abdomen reveals an edematous pancreas with peripancreatic fluid collection with a normal gallbladder. What is the most likely etiology of this patient\u2019s condition?",
+    "answer": "The user wants to know the most likely etiology of acute pancreatitis in a 41-year-old woman with HIV.\n\n1.  **Identify the condition:** The patient presents with symptoms (acute severe epigastric pain radiating to the back, nausea, vomiting) and lab findings (elevated amylase and lipase) consistent with acute pancreatitis, confirmed by CT scan (edematous pancreas, peripancreatic fluid).\n2.  **Review patient history for common causes:**\n    *   Gallstones: CT showed a normal gallbladder, making gallstones less likely.\n    *   Alcohol: Patient reports moderate social alcohol use. While possible, it's not described as heavy.\n    *   Hypertriglyceridemia: Not mentioned, but diabetes is a risk factor. However, triglycerides would typically be very high (>1000 mg/dL).\n    *   Medications: Patient takes metformin (not typically associated with pancreatitis) and unspecified HIV medications. Some HIV medications (e.g., didanosine - ddI, stavudine - d4T, rarely others) can cause pancreatitis, but these are less commonly used now.\n    *   Trauma: Denied.\n    *   Infections: Viral infections (e.g., mumps, CMV) can cause pancreatitis, but are less common.\n    *   Hypercalcemia: Not mentioned.\n    *   ERCP: Not mentioned.\n    *   Autoimmune: Possible, but less common.\n    *   Idiopathic: A significant portion of cases remain idiopathic.\n3.  **Consider HIV-specific factors:**\n    *   HIV infection itself can be associated with pancreatitis, although the mechanism is unclear.\n    *   Certain HIV medications are known causes (ddI, d4T). We don't know her specific regimen.\n    *   Opportunistic infections (e.g., CMV, MAC) can sometimes involve the pancreas, but usually present differently.\n    *   Hypertriglyceridemia can be associated with HIV and its treatment.\n4.  **Evaluate the provided guidelines:**\n    *   The provided guidelines cover bacterial enteric infections, hyperlactatemia/lactic acidosis, liver enzyme elevation, and anxiety disorders in HIV.\n    *   None of these guidelines directly address the etiology of acute pancreatitis in HIV patients.\n5.  **Synthesize the information:**\n    *   The most common causes of acute pancreatitis are gallstones and alcohol. Gallstones are unlikely based on CT. Alcohol use is reported as moderate.\n    *   Medication-induced pancreatitis is a possibility, especially given the patient is on HIV medications (though the specific drugs are unknown). Didanosine (ddI) and stavudine (d4T) are strongly associated, but less commonly used now. Other NRTIs have been implicated rarely. Protease inhibitors are less commonly associated.\n    *   HIV infection itself might be a contributing factor.\n    *   Hypertriglyceridemia is a possibility, especially with diabetes, but levels are not given.\n    *   Other causes (idiopathic, infections, autoimmune) are possible but less likely given the typical presentation.\n6.  **Formulate the answer:** Since the guidelines don't provide specific information on pancreatitis etiology in HIV, I need to use best medical judgment based on common causes and HIV-related factors.\n    *   The most common causes (gallstones, alcohol) are less likely or uncertain here.\n    *   Medication-induced pancreatitis is a strong consideration, given the patient is on HIV ART. Without knowing the specific regimen, it's hard to be definitive, but it's a key factor to investigate.\n    *   HIV infection itself could play a role.\n    *   Other causes like hypertriglyceridemia (related to diabetes/HIV/ART) should also be considered.\n\n7.  **Refine the answer based on the prompt:** The prompt asks for the *most likely* etiology. While medication-induced pancreatitis is a significant possibility in HIV patients, it's often less common than idiopathic pancreatitis or pancreatitis related to other causes like alcohol or gallstones (which are less likely here). HIV itself is associated with an increased risk, but it's often multifactorial. Without knowing the specific ART regimen or triglyceride levels, it's difficult to pinpoint the *most* likely single cause. However, given the context of HIV and the exclusion of gallstones, medication side effects (specifically from ART) and potentially HIV-associated factors (like increased susceptibility or related metabolic issues like hypertriglyceridemia) are high on the differential. Idiopathic pancreatitis is also common.\n\n8.  **Final Answer Construction:** State that the guidelines don't address this. List the common causes. Mention HIV-specific considerations (ART, HIV itself, opportunistic infections, metabolic issues). Conclude that without",
+    "true_answer": "It is most likely related to their HIV medication.",
+    "rag_sources": [
+      {
+        "score": 0.50445652,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 15,
+        "chunk_in_page": 0,
+        "chunk_global": 976,
+        "id": "94f9d676-49a9-4cba-9834-6d0aba784c78"
+      },
+      {
+        "score": 0.498081207,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 96,
+        "chunk_in_page": 0,
+        "chunk_global": 862,
+        "id": "7af75f38-796c-4311-a23e-84531357ac9f"
+      },
+      {
+        "score": 0.491271973,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 86,
+        "chunk_in_page": 0,
+        "chunk_global": 849,
+        "id": "907024ca-9b9e-4aff-955f-2fe634cf03a6"
+      },
+      {
+        "score": 0.485658646,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 110,
+        "chunk_in_page": 0,
+        "chunk_global": 881,
+        "id": "47a9fd51-0c0b-4e98-9335-5f7c5c00710d"
+      }
+    ]
+  },
+  {
+    "question": " A 28-year-old primigravid woman at 38 weeks' gestation is brought to the emergency department in active labor. She has not had regular prenatal care. She has a history of HIV infection but is not currently on antiretroviral therapy. Her previous viral load is unknown. Treatment with intravenous zidovudine is begun to reduce perinatal transmission of the virus. What biological process is most likely disrupted by this drug\u2019s action mechanism?",
+    "answer": "1.  **Identify the core question:** The question asks about the biological process disrupted by intravenous zidovudine (AZT).\n\n2.  **Scan the provided text for \"zidovudine\" or \"ZDV\":** The text mentions ZDV multiple times, primarily in the context of preventing perinatal HIV transmission.\n\n3.  **Look for information about ZDV's mechanism of action:** The provided excerpts discuss *when* and *how* to use ZDV during pregnancy and labor (e.g., based on viral load, adherence, timing relative to cesarean birth). They mention its pharmacokinetic properties (e.g., placental transfer, levels in cord blood) and its effectiveness in reducing transmission. However, *none* of the excerpts explicitly state ZDV's mechanism of action or the biological process it disrupts.\n\n4.  **Evaluate if the excerpts are sufficient:** The excerpts provide clinical guidance on using ZDV but *do not* describe its mechanism of action.\n\n5.  **Formulate the answer:** Since the provided excerpts do not contain the answer, state that the excerpts are insufficient. Then, provide the answer based on general medical knowledge (as allowed by the prompt's instructions).\n\n6.  **Recall or look up ZDV's mechanism:** Zidovudine (AZT) is a nucleoside reverse transcriptase inhibitor (NRTI). It is a thymidine analog.\n\n7.  **Describe the mechanism:**\n    *   AZT is phosphorylated intracellularly to its active triphosphate form (AZT-TP).\n    *   HIV reverse transcriptase (RT) mistakenly incorporates AZT-TP into the growing viral DNA chain instead of thymidine triphosphate (dTTP).\n    *   Once incorporated, AZT-TP lacks the 3'-hydroxyl group necessary for the addition of the next nucleotide.\n    *   This causes chain termination, preventing further elongation of the viral DNA.\n\n8.  **Identify the disrupted biological process:** The drug disrupts the process of **reverse transcription**, specifically by causing **chain termination** during the synthesis of viral DNA from the viral RNA genome.\n\n9.  **Refine the answer for clarity and brevity:** State that the excerpts don't provide the mechanism. Then, clearly state that ZDV is an NRTI that inhibits HIV reverse transcriptase by causing DNA chain termination.<unused95>The provided guideline excerpts do not describe the mechanism of action for zidovudine.\n\nBased on general medical knowledge, zidovudine (AZT) is a nucleoside reverse transcriptase inhibitor (NRTI). It disrupts the biological process of **reverse transcription** by inhibiting the HIV enzyme reverse transcriptase. Specifically, it acts as a chain terminator when incorporated into the growing viral DNA strand.",
+    "true_answer": " Zidovudine affects elongation of viral DNA by inhibiting the viral reverse transcriptase enzyme.",
+    "rag_sources": [
+      {
+        "score": 0.722149789,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 115,
+        "chunk_in_page": 0,
+        "chunk_global": 123,
+        "id": "8012d5a9-1cdc-485a-bcbe-bfe69fe280ae"
+      },
+      {
+        "score": 0.704480112,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 248,
+        "chunk_in_page": 0,
+        "chunk_global": 281,
+        "id": "b3c4c9d8-d746-408f-b3ce-5b3a5b3eaed5"
+      },
+      {
+        "score": 0.704202592,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 247,
+        "chunk_in_page": 0,
+        "chunk_global": 280,
+        "id": "9b98e5e6-ac41-42ba-a23a-9ff9ee07d8b2"
+      },
+      {
+        "score": 0.700230539,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 249,
+        "chunk_in_page": 0,
+        "chunk_global": 283,
+        "id": "1b4d107e-8ec9-4c0b-8a98-0fcbe7876db2"
+      }
+    ]
+  },
+  {
+    "question": "What is known about DNA methylation profiles in patients with latent HIV-1 or with an active infection?",
+    "answer": "Based on the provided excerpts, DNA methylation profiles are associated with chronic HIV infection and biological age.\n\nSpecifically:\n*   A study by Gross et al. (2016) found that chronic HIV infection is associated with a five-year increase in biological age, as measured by a methylome-wide analysis. They also noted epigenetic targeting of HLA genes.\n*   Lu et al. (2019) found that DNA methylation GrimAge strongly predicts lifespan and healthspan.\n*   De Armas et al. (2021) explored immunological age prediction in HIV-infected individuals treated with ART.\n\nThe excerpts do not provide specific information distinguishing DNA methylation profiles between latent HIV-1 and active infection.",
+    "true_answer": "DNA methylation is correlated with and functionally linked to HIV-1 pathogenesis and latency. In active infection, HIV-1 infection is associated with global changes in host cell DNA methylation patterns, while in latent infection, methylation of the proviral DNA, particularly in the 5\u2019 LTR promoter and intragenic regions, plays a crucial role in maintaining viral latency.",
+    "rag_sources": [
+      {
+        "score": 0.518498421,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 324,
+        "chunk_in_page": 1,
+        "chunk_global": 2640,
+        "id": "5a5c783a-5947-4516-9c5f-cbe16a402698"
+      },
+      {
+        "score": 0.515452385,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 324,
+        "chunk_in_page": 0,
+        "chunk_global": 2639,
+        "id": "c71bf5c5-644c-4569-b6be-825b460f6486"
+      },
+      {
+        "score": 0.512189865,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 385,
+        "chunk_in_page": 1,
+        "chunk_global": 1428,
+        "id": "826fd321-7642-4df3-a65e-2b06db335970"
+      },
+      {
+        "score": 0.505460799,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 348,
+        "chunk_in_page": 0,
+        "chunk_global": 390,
+        "id": "e38fac31-0bf5-47a1-aed6-0d55722d9a30"
+      }
+    ]
+  }
+]

@@ -1,0 +1,4 @@
+Using python: /cluster/scratch/gcardenal/venvs/transformers_llm_rag/bin/python
+Python: 3.10.12 (main, Jan  8 2026, 06:52:19) [GCC 11.4.0]
+Executable: /cluster/scratch/gcardenal/venvs/transformers_llm_rag/bin/python
+/var/spool/slurm/slurmd/state/job55762836/slurm_script: line 42: OPENAI_API_KEY: OPENAI_API_KEY is not set
