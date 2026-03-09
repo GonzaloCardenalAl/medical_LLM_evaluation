@@ -1,0 +1,431 @@
+[
+  {
+    "question": "How is HIV diagnosed?",
+    "answer": "According to the provided guideline excerpts, HIV diagnosis involves a multi-step process:\n\n1. Initial screening with a combination immunoassay that detects HIV-1 and HIV-2 antibodies, as well as HIV p24 antigen (Ag/Ab assay).\n2. If the initial assay is reactive, a confirmatory test that differentiates HIV-1 from HIV-2 antibodies is performed.\n3. If the initial assay is reactive but the antibody differentiation test result is negative or indeterminate, a quantitative or qualitative HIV RNA test is performed.\n4. An undetectable HIV RNA test result indicates a false-positive Ag/Ab test result, while a positive HIV RNA test result suggests acute HIV infection.\n5. In some cases, especially when the HIV RNA level is low (<200 copies/mL) or when the person is taking PrEP, a confirmatory HIV antibody test and repeat quantitative plasma HIV RNA test may be performed to confirm the diagnosis.\n\nIt's also worth noting that in people taking PrEP, a positive HIV Ag/Ab test result or a positive HIV RNA test result in the setting of a negative HIV antibody test result should prompt immediate confirmation of HIV diagnosis.",
+    "true_answer": "HIV is diagnosed through HIV testing. There are three types of tests used to diagnose HIV infection: antibody tests, antigen/antibody tests, and nucleic acid tests (NATs). How soon each test can detect HIV infection differs, because each test has a different window period. The window period is the time between when a person may have been exposed to HIV and when a test can accurately detect HIV infection. Window periods for different HIV tests are the followings: Antibody tests can usually detect HIV 23 to 90 days after exposure. Most rapid tests and self-tests are antibody tests. A rapid antigen/antibody test done with blood from a finger stick can usually detect HIV 18 to 90 days after exposure. An antigen/antibody lab test using blood from a vein can usually detect HIV 18 to 45 days after exposure. A NAT can usually detect HIV 10 to 33 days after exposure. When an HIV test is positive, a follow-up test will be conducted for confirmation. Sometimes people will need to visit a health care provider to take a follow-up test using another blood sample. Other times, the follow-up test may be performed in a lab using the original blood sample to ensure that the first positive result wasn\u2019t a false positive",
+    "rag_sources": [
+      {
+        "score": 0.614549637,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 287,
+        "chunk_in_page": 0,
+        "chunk_global": 2586,
+        "id": "25563b38-a826-4a84-b0cb-20e32462b003"
+      },
+      {
+        "score": 0.606254637,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 287,
+        "chunk_in_page": 1,
+        "chunk_global": 2587,
+        "id": "9001ad3c-cb6c-412d-894d-f842b9b8c0af"
+      },
+      {
+        "score": 0.604800224,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 15,
+        "chunk_in_page": 1,
+        "chunk_global": 743,
+        "id": "890bbdfe-7e2b-405a-bcc0-9d3e18da57d8"
+      },
+      {
+        "score": 0.604092658,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 288,
+        "chunk_in_page": 0,
+        "chunk_global": 2588,
+        "id": "ed2fcc33-abb4-4781-a75f-9fcd182e6d30"
+      }
+    ]
+  },
+  {
+    "question": "What are the different stages of HIV?",
+    "answer": "The World Health Organization (WHO) uses a four-stage system to categorize the clinical staging of HIV-related disease for adults and children. However, this system is primarily used as a tool for surveillance and not for clinical management. The stages are:\n\n1. Stage 1: No HIV-related symptoms or conditions\n2. Stage 2: HIV-related symptoms or conditions that do not compromise the patient's quality of life\n3. Stage 3: HIV-related symptoms or conditions that compromise the patient's quality of life but do not require hospitalization\n4. Stage 4: HIV-related symptoms or conditions that require hospitalization or have a high risk of mortality\n\nHowever, the WHO clinical staging system has limitations, and CD4 cell count is considered a more accurate method for identifying advanced HIV disease. According to the guidelines, advanced HIV disease is defined as a CD4 cell count \u2264200 cells/mm3 for adults, adolescents, and children five years and older. For children younger than five years, all should be considered as having advanced HIV disease unless they have received ART for more than a year and are clinically stable.\n\nIt's worth noting that the term \"AIDS\" is sometimes used interchangeably with advanced HIV disease, but it's recommended to use the term \"advanced HIV disease\" for clinical purposes, and \"AIDS\" for advocacy and education purposes.",
+    "true_answer": "The different stages of HIV are either defined as three: (1) acute HIV infection, (2) chronic HIV infection, and (3) acquired immunodeficiency syndrome (AIDS); or four: (1) acute HIV infection, (2) asymptomatic stage, (3) symptomatic HIV, and (4) Late-stage HIV or AIDS.",
+    "rag_sources": [
+      {
+        "score": 0.607521057,
+        "reference": "HIV_guidelines/9789240118164-eng.pdf",
+        "page": 12,
+        "chunk_in_page": 0,
+        "chunk_global": 1938,
+        "id": "b33fec49-1049-4a47-b391-e0a31f089e52"
+      },
+      {
+        "score": 0.58779335,
+        "reference": "HIV_guidelines/9789240118164-eng.pdf",
+        "page": 7,
+        "chunk_in_page": 0,
+        "chunk_global": 1932,
+        "id": "eb171c24-8a19-460b-af2d-88e59ada85e0"
+      },
+      {
+        "score": 0.579263687,
+        "reference": "HIV_guidelines/9789240118164-eng.pdf",
+        "page": 18,
+        "chunk_in_page": 0,
+        "chunk_global": 1944,
+        "id": "51012d06-dff5-4104-b12a-f6d1714604d5"
+      },
+      {
+        "score": 0.574851036,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 15,
+        "chunk_in_page": 1,
+        "chunk_global": 743,
+        "id": "890bbdfe-7e2b-405a-bcc0-9d3e18da57d8"
+      }
+    ]
+  },
+  {
+    "question": "How is HIV transmitted?",
+    "answer": "According to the provided guidelines, HIV is transmitted through various routes, including:\n\n1. Mother-to-child transmission during pregnancy, childbirth, or breastfeeding.\n2. Blood-to-blood contact, such as through sharing of contaminated needles or equipment used for injecting drugs.\n3. Sexual transmission, including through unprotected anal receptive sex among men who have sex with men (MSM) with HIV.\n4. Premastication (pre-chewing or pre-warming food) by an HIV-infected caregiver.\n5. Needlestick injuries with contaminated needles.\n6. Sexual abuse.\n7. Receipt of contaminated blood products.\n\nThese routes of transmission are supported by various studies and guidelines, including the Centers for Disease Control and Prevention (CDC) and the World Health Organization (WHO).",
+    "true_answer": "HIV is spread from the body fluids of an infected person, including blood, breast milk, semen and vaginal fluids. It can also spread from a mother to her baby.",
+    "rag_sources": [
+      {
+        "score": 0.549600661,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 77,
+        "chunk_in_page": 1,
+        "chunk_global": 2308,
+        "id": "a8141955-fb94-47f8-a61f-8d52ee084839"
+      },
+      {
+        "score": 0.546235144,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 339,
+        "chunk_in_page": 0,
+        "chunk_global": 381,
+        "id": "6a5c3301-16bc-4d80-9605-6ee27c4e180e"
+      },
+      {
+        "score": 0.536946356,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 226,
+        "chunk_in_page": 0,
+        "chunk_global": 1237,
+        "id": "3f2cb757-bf49-4e98-9f4a-4d32e2d1c5b0"
+      },
+      {
+        "score": 0.530575812,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 347,
+        "chunk_in_page": 0,
+        "chunk_global": 389,
+        "id": "2834eaed-fdfe-4499-935a-7559c2fcf328"
+      }
+    ]
+  },
+  {
+    "question": "What comorbidities are common among people living with HIV?",
+    "answer": "According to the provided guideline excerpts, common comorbidities among people living with HIV include:\n\n1. Hypertension\n2. Hypercholesterolemia\n3. Diabetes\n4. Heart disease\n5. Cancer (especially in older individuals)\n6. Cognitive impairment\n7. Liver disease\n8. Kidney disease\n9. Osteoporosis (lower bone mineral density)\n10. Multimorbidity (having two or more comorbidities)\n11. Mental health comorbidities (64% of people with HIV on ART have at least one mental health comorbidity)\n\nAdditionally, the excerpts mention that smoking, dyslipidemia, and other psychosocial factors (such as depression and substance use disorder) are also disproportionately present in people with HIV, contributing to their comorbidity burden.",
+    "true_answer": "The most common comorbidities amongst patients with HIV include: diabetes mellitus, cardiovascular disease (CVD, e.g. hypertension), respiratory diseases (e.g. chronic obstructive pulmonary diseases and pneumonia), and hepatic diseases (hepatitis B and C). Liver disease, renal disease, substance dependence and abuse, sexually transmitted infections (herpes simplex, syphilis, gonorrhoea and Mycoplasma genitalium) and psychiatric disorders (including depression, anxiety, schizophrenia and cognitive impairment) are also greater among HIV-positive individuals.",
+    "rag_sources": [
+      {
+        "score": 0.666444838,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 314,
+        "chunk_in_page": 0,
+        "chunk_global": 2624,
+        "id": "826717d0-082d-466d-b0b5-c708b05ded45"
+      },
+      {
+        "score": 0.662921,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 326,
+        "chunk_in_page": 1,
+        "chunk_global": 2644,
+        "id": "a438fa94-669f-4625-b94a-cf0b9eb9b28e"
+      },
+      {
+        "score": 0.661115706,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 326,
+        "chunk_in_page": 0,
+        "chunk_global": 2643,
+        "id": "2bdd2a46-b380-4759-9610-9298047e087f"
+      },
+      {
+        "score": 0.640785277,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 170,
+        "chunk_in_page": 0,
+        "chunk_global": 1160,
+        "id": "b703a92a-9189-4678-8f3a-b7c3606b99b8"
+      }
+    ]
+  },
+  {
+    "question": "How can HIV be prevented?",
+    "answer": "HIV can be prevented through several methods:\n\n1.  **Antiretroviral therapy (ART)**: Maintaining a plasma HIV RNA (viral load) of <200 copies/mL with ART prevents sexual transmission of HIV. This concept is recognized as Undetectable = Untransmittable (U=U).\n2.  **Pre-exposure prophylaxis (PrEP)**: Taking antiretroviral medication daily to prevent HIV infection in people who are HIV-negative.\n3.  **Condoms**: Consistent use of condoms reduces the risk of HIV transmission.\n4.  **Sexual abstinence**: Avoiding sexual contact can prevent HIV transmission.\n5.  **HIV testing and treatment**: Knowing your HIV status and seeking treatment if infected can prevent further transmission.\n6.  **HIV vaccine**: While not currently available, research is ongoing to develop an effective HIV vaccine.\n7.  **Medical male circumcision**: In some populations, medical male circumcision has been shown to decrease the risk of HIV acquisition and transmission.\n\nIt's essential to note that no single method can guarantee complete prevention, and a combination of these methods can provide the best protection against HIV transmission.",
+    "true_answer": "HIV prevention involves several key strategies. To reduce the risk of getting HIV, it is important to use condoms correctly every time during sex. For individuals who inject drugs, avoiding drug use altogether is recommended, but if drugs are used, only sterile injection equipment and water should be used, and equipment should never be shared with others. Pre-exposure prophylaxis (PrEP) is an option for those at risk of HIV, involving either a daily HIV medicine or an injectable HIV medicine every two months to lower the risk of infection through sex or injection drug use. For those already living with HIV, taking antiretroviral therapy (ART) as prescribed can reduce the amount of HIV in the blood to undetectable levels, preventing transmission to sexual partners. To prevent perinatal transmission, individuals with HIV who take HIV medicine as prescribed throughout pregnancy and childbirth reduce the risk of passing HIV to their baby to less than 1%. Additionally, in cases where one partner has HIV, PrEP can help protect both the individual and their baby while trying to conceive, during pregnancy, or while breastfeeding.",
+    "rag_sources": [
+      {
+        "score": 0.625475883,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 83,
+        "chunk_in_page": 0,
+        "chunk_global": 2317,
+        "id": "d0fd9bef-eaba-4537-b946-91e301c97d95"
+      },
+      {
+        "score": 0.622267723,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 249,
+        "chunk_in_page": 0,
+        "chunk_global": 1263,
+        "id": "fa777ef7-7316-4595-b5c4-a2386682b8b9"
+      },
+      {
+        "score": 0.604109824,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 80,
+        "chunk_in_page": 0,
+        "chunk_global": 87,
+        "id": "bbdacef8-97a3-4063-87f3-154ddbe1afa0"
+      },
+      {
+        "score": 0.60401541,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 226,
+        "chunk_in_page": 0,
+        "chunk_global": 1237,
+        "id": "3f2cb757-bf49-4e98-9f4a-4d32e2d1c5b0"
+      }
+    ]
+  },
+  {
+    "question": "How frequently ART must be taken?",
+    "answer": "The guidelines do not explicitly state how frequently ART must be taken. However, it implies that ART should be taken daily as part of the treatment regimen. The guidelines focus on laboratory testing schedules before and after ART initiation, as well as timing of ART initiation and adherence evaluation, but they do not provide information on the dosing frequency of ART.",
+    "true_answer": "Antiretroviral therapy (ART) must be taken as a pill every day or as a shot once every month or two months.",
+    "rag_sources": [
+      {
+        "score": 0.640723288,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 28,
+        "chunk_in_page": 0,
+        "chunk_global": 2249,
+        "id": "eeab39f3-5da2-4a95-8ec8-22bf487ce431"
+      },
+      {
+        "score": 0.637181282,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 29,
+        "chunk_in_page": 0,
+        "chunk_global": 2250,
+        "id": "fa8a1d90-4805-4739-9475-a2c0d9f79175"
+      },
+      {
+        "score": 0.622472763,
+        "reference": "HIV_guidelines/9789240118164-eng.pdf",
+        "page": 32,
+        "chunk_in_page": 1,
+        "chunk_global": 1962,
+        "id": "7e53c667-f3c0-4d59-a65a-c9bd2e749a7a"
+      },
+      {
+        "score": 0.613957405,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 25,
+        "chunk_in_page": 0,
+        "chunk_global": 2246,
+        "id": "85c0fb21-3b05-4a75-89f8-1884f5925d1c"
+      }
+    ]
+  },
+  {
+    "question": "How can we prevent Perinatal transmission of HIV?",
+    "answer": "According to the provided guidelines, the best way to prevent perinatal HIV transmission is to emphasize overall medical care before, during, and after pregnancy. This includes:\n\n1. Comprehensive reproductive health care and family planning services.\n2. Preconception care services.\n3. Optimization of HIV treatment, including initiating antiretroviral therapy (ART) as early as possible during pregnancy or ideally before conception to sustainably suppress viral replication.\n4. Maintenance of care between pregnancies.\n\nAdditionally, the guidelines recommend:\n\n1. Universal prenatal HIV testing.\n2. Scheduled cesarean delivery when plasma HIV RNA is >1,000 copies/mL near delivery.\n3. Intrapartum ART, including intravenous zidovudine during labor.\n4. Postpartum HIV testing, especially if there was no testing during pregnancy or labor.\n5. Expedited testing during the immediate postpartum period for those with increased risk of HIV acquisition.\n6. Breastfeeding should be avoided if possible, especially in the first 6 months, to minimize the risk of HIV transmission. If breastfeeding is chosen, exclusive breastfeeding for the first 6 months is recommended, and the mother should be supported in this decision.",
+    "true_answer": "To prevent perinatal transmission of HIV, pregnant women should take antiretroviral therapy (ART) throughout pregnancy and childbirth. ART throughout pregnancy and childbirth reduces the chances of perinatal transmission of HIV to less than 1%.",
+    "rag_sources": [
+      {
+        "score": 0.723230422,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 278,
+        "chunk_in_page": 0,
+        "chunk_global": 313,
+        "id": "ea9c91fe-adb7-44de-9728-a0adee42f19a"
+      },
+      {
+        "score": 0.722048819,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 17,
+        "chunk_in_page": 0,
+        "chunk_global": 17,
+        "id": "0cf756f2-df6d-4abf-a077-e7f55a2fca3a"
+      },
+      {
+        "score": 0.718875945,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 33,
+        "chunk_in_page": 0,
+        "chunk_global": 33,
+        "id": "62f4b08e-19e2-424c-90af-e24f0ebb5519"
+      },
+      {
+        "score": 0.717550337,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 131,
+        "chunk_in_page": 0,
+        "chunk_global": 140,
+        "id": "04d807e7-4d91-430f-b8bf-e9f1870c842e"
+      }
+    ]
+  },
+  {
+    "question": "What are the main cell types infected with HIV?",
+    "answer": "Based on the provided guidelines, the main cell types infected with HIV include CD4+ T cells, which are a subset of T lymphocytes. \n\nIn particular, CD4+ T cells are the primary target cells for HIV infection. The virus infects and kills these cells, leading to a decline in CD4+ T cell count, which is a hallmark of HIV infection.\n\nAdditionally, macrophages, which are a type of monocyte, can also be infected by HIV. Macrophages are involved in the immune response and can contribute to the pathogenesis of HIV infection.\n\nHowever, the guidelines do not provide information on other cell types being the primary targets of HIV infection.",
+    "true_answer": "The main cell types found to be infected with HIV are CD4+ T lymphocytes and macrophage-lineage cells.",
+    "rag_sources": [
+      {
+        "score": 0.515236855,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 375,
+        "chunk_in_page": 1,
+        "chunk_global": 1413,
+        "id": "a640fb78-c7c0-4566-a8f0-c445621e137f"
+      },
+      {
+        "score": 0.481886894,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 225,
+        "chunk_in_page": 0,
+        "chunk_global": 2505,
+        "id": "4e33e22a-52eb-4434-9e94-7a48a9064e8f"
+      },
+      {
+        "score": 0.48175621,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 385,
+        "chunk_in_page": 1,
+        "chunk_global": 1428,
+        "id": "826fd321-7642-4df3-a65e-2b06db335970"
+      },
+      {
+        "score": 0.481554061,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 231,
+        "chunk_in_page": 0,
+        "chunk_global": 2512,
+        "id": "ecdcb77e-acdf-4666-b3be-ce54834fde69"
+      }
+    ]
+  },
+  {
+    "question": "What is the difference between HIV and AIDS?",
+    "answer": "The difference between HIV (Human Immunodeficiency Virus) and AIDS (Acquired Immune Deficiency Syndrome) lies in the progression of the disease.\n\nHIV is the virus itself, which attacks the body's immune system, specifically the CD4 cells (T cells), gradually weakening the immune system.\n\nAIDS, on the other hand, is the most advanced stage of HIV infection, characterized by a severely weakened immune system, which makes the body more susceptible to infections and diseases. In the provided guidelines, AIDS is often used interchangeably with the term \"advanced HIV disease.\"\n\nAccording to the guidelines, advanced HIV disease (AHD) is defined as a CD4 cell count \u2264200 cells/mm^3 for adults, adolescents, and children five years and older. This is equivalent to AIDS in the older terminology.\n\nIn simpler terms, HIV is the virus, and AIDS is the condition that occurs when the virus has progressed to a point where the immune system is severely compromised.",
+    "true_answer": "HIV stands for human immunodeficiency virus, which is the virus that causes HIV infection. AIDS stands for acquired immunodeficiency syndrome, the most advanced stage of HIV infection.",
+    "rag_sources": [
+      {
+        "score": 0.518120766,
+        "reference": "HIV_guidelines/9789240118164-eng.pdf",
+        "page": 12,
+        "chunk_in_page": 0,
+        "chunk_global": 1938,
+        "id": "b33fec49-1049-4a47-b391-e0a31f089e52"
+      },
+      {
+        "score": 0.515694618,
+        "reference": "HIV_guidelines/9789240118164-eng.pdf",
+        "page": 7,
+        "chunk_in_page": 0,
+        "chunk_global": 1932,
+        "id": "eb171c24-8a19-460b-af2d-88e59ada85e0"
+      },
+      {
+        "score": 0.462966919,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 11,
+        "chunk_in_page": 1,
+        "chunk_global": 970,
+        "id": "f9783ab0-098b-43d8-9c4d-2c66964f6511"
+      },
+      {
+        "score": 0.45370391,
+        "reference": "HIV_guidelines/9789240118164-eng.pdf",
+        "page": 15,
+        "chunk_in_page": 0,
+        "chunk_global": 1941,
+        "id": "31c19ff0-0e04-40bb-a46b-e630837fec7e"
+      }
+    ]
+  },
+  {
+    "question": "How is HIV not transmitted?",
+    "answer": "HIV can be transmitted through:\n\n1. Blood-to-blood contact (e.g., sharing needles or syringes, blood transfusions from an infected donor)\n2. Sexual contact with an infected person (most often during vaginal, anal, or oral sex, especially during episodes of asymptomatic viral shedding)\n3. Mother-to-child transmission during pregnancy, childbirth, or breastfeeding (if the mother is not on effective antiretroviral therapy)\n\nHIV is not transmitted through:\n\n1. Casual contact (e.g., hugging, shaking hands, sharing food or drinks)\n2. Airborne transmission (e.g., coughing, sneezing, or talking)\n3. Insect vectors (e.g., mosquitoes, ticks)\n\nHowever, it's essential to note that HIV can survive outside the human body for a short period, so it's crucial to follow proper precautions when handling medical equipment or bodily fluids.",
+    "true_answer": "You cannot get HIV from: Air or water. Saliva, tears, sweat, feces, or urine that is not mixed with the blood of a person with HIV. Casual contact with a person who has HIV, such as a handshake, a hug, or a closed-mouth kiss. Contact with objects, such as toilet seats, doorknobs, or dishes used by a person who has HIV. Mosquitoes, ticks, or other biting insects. Other sexual activities that do not involve the exchange of body fluids (for example, touching). HIV can\u2019t be passed through healthy, unbroken skin.",
+    "rag_sources": [
+      {
+        "score": 0.52576828,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 249,
+        "chunk_in_page": 0,
+        "chunk_global": 1263,
+        "id": "fa777ef7-7316-4595-b5c4-a2386682b8b9"
+      },
+      {
+        "score": 0.523482323,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 15,
+        "chunk_in_page": 1,
+        "chunk_global": 743,
+        "id": "890bbdfe-7e2b-405a-bcc0-9d3e18da57d8"
+      },
+      {
+        "score": 0.519405365,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 75,
+        "chunk_in_page": 0,
+        "chunk_global": 2304,
+        "id": "807faf05-b23f-4f86-af93-40a36f17d53b"
+      },
+      {
+        "score": 0.517634451,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 226,
+        "chunk_in_page": 0,
+        "chunk_global": 1237,
+        "id": "3f2cb757-bf49-4e98-9f4a-4d32e2d1c5b0"
+      }
+    ]
+  },
+  {
+    "question": "What is known about the switch that occurs between patients with latent HIV and active infection?",
+    "answer": "The switch from latent HIV to active infection is not explicitly described in the provided excerpts. However, the excerpts do mention the concept of rebounding/founder HIV variants (Rothenberger et al., 2015) and the emergence of new viral strains in lymphatic tissues after treatment interruption (Rothenberger et al., 2015). This suggests that HIV can reactivate and change its genetic makeup in response to treatment interruption.\n\nThe excerpts also discuss the phenomenon of elite controllers (iv) and post-treatment controllers (v), who can spontaneously control HIV infection without treatment. However, this does not provide direct insight into the switch from latent to active infection.\n\nIn the absence of specific information on the switch from latent to active HIV infection, I would recommend consulting additional resources or literature for a more comprehensive understanding of this process.",
+    "true_answer": "The switch between latent and active HIV infection is primarily driven by the activation of HIV provirus within latently infected cells. Latent HIV infection occurs when the virus integrates its genetic material into the host cell's DNA, allowing the virus to persist in a dormant state. In latent infection, viral replication and gene expression are minimal or absent, and the infected cells remain functionally normal. This form of infection is responsible for the long-term persistence of HIV in individuals, even when systemic viral replication is suppressed with antiretroviral therapy (ART). The switch to active HIV infection occurs when the provirus becomes transcriptionally active; this is often triggered by extracellular signals or events that activate the host cell . One possible mechanism for the switch involves the binding of cellular transcription factors, such as nuclear factor kappa B (NF-\u03baB) and nuclear factor of activated T-cells (NFAT), to the HIV long terminal repeat (LTR) region, resulting in the activation of proviral transcription. Other factors that can contribute to the switch include cytokines, chemokines, and cellular activation signals. This transition between latent and active HIV infection plays a critical role in the pathogenesis of the disease, as it is during periods of active infection that the virus replicates and spreads to new cells, ultimately leading to the progressive decline of the host immune system . Understanding the molecular mechanisms involved in the switch from latent to active HIV infection could help inform the development of novel therapeutic strategies aimed at targeting and eliminating latently infected cells, which represent a major obstacle to achieving a cure for HIV.",
+    "rag_sources": [
+      {
+        "score": 0.552373886,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 89,
+        "chunk_in_page": 1,
+        "chunk_global": 2324,
+        "id": "f3b3a467-33e8-4ac8-bd43-c34973782af9"
+      },
+      {
+        "score": 0.552166,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 297,
+        "chunk_in_page": 1,
+        "chunk_global": 2601,
+        "id": "a46e9220-2c7b-482b-b7a8-eb1fd86d5f8a"
+      },
+      {
+        "score": 0.5496521,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 15,
+        "chunk_in_page": 1,
+        "chunk_global": 743,
+        "id": "890bbdfe-7e2b-405a-bcc0-9d3e18da57d8"
+      },
+      {
+        "score": 0.542001784,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 231,
+        "chunk_in_page": 0,
+        "chunk_global": 2512,
+        "id": "ecdcb77e-acdf-4666-b3be-ce54834fde69"
+      }
+    ]
+  }
+]

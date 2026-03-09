@@ -7,6 +7,9 @@
 #SBATCH --time=4:00:00
 #SBATCH --mem-per-cpu=40G
 
+#module load stack/2024-04
+module load stack/2024-06 cuda/12.1.1
+
 unset PYTHONPATH
 unset PYTHONHOME
 export PATH=~/miniconda3/bin:$PATH

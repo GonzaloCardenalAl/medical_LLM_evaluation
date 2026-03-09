@@ -17,6 +17,9 @@ import requests
 import nltk
 from nltk.corpus import wordnet
 
+#For Bipartite Graph
+import networkx as nx
+
 # Make sure you have downloaded WordNet data:
 # nltk.download('wordnet')
 
@@ -206,6 +209,93 @@ def compute_f1_from_expanded(entities_true, entities_answer, true_expanded, answ
 
     return precision, recall, f1
 
+
+def build_bipartite_graph(true_expanded, answer_expanded):
+    """
+    Builds a bipartite graph where:
+    - Nodes on the left (set U) are ground truth entities.
+    - Nodes on the right (set V) are model-predicted entities.
+    - An edge connects a true entity t to a predicted entity e
+      if their synonym sets intersect.
+    """
+    B = nx.Graph()
+
+    # Add nodes with bipartite labels
+    B.add_nodes_from(true_expanded.keys(), bipartite=0)  # Set U: reference
+    B.add_nodes_from(answer_expanded.keys(), bipartite=1)  # Set V: predictions
+
+    # Add edges where synonym sets intersect
+    for t_entity, t_syns in true_expanded.items():
+        for e_entity, e_syns in answer_expanded.items():
+            if not t_syns.isdisjoint(e_syns):
+                B.add_edge(t_entity, e_entity)
+
+    return B
+
+def compute_bipartite_metrics(true_expanded, answer_expanded):
+    if not true_expanded and not answer_expanded:
+        return 1.0, 1.0, 1.0
+    if not true_expanded:
+        return 0.0, 1.0, 0.0
+    if not answer_expanded:
+        return 1.0, 0.0, 0.0
+
+    B = build_bipartite_graph(true_expanded, answer_expanded)
+
+    # Remove isolated nodes (no edges)
+  #  B.remove_nodes_from(list(nx.isolates(B)))
+
+    # Update node sets after pruning
+    true_nodes = set(n for n in B.nodes if B.nodes[n].get("bipartite") == 0)
+    pred_nodes = set(B.nodes) - true_nodes
+
+    if not true_nodes or not pred_nodes:
+        return 0.0, 0.0, 0.0
+
+    # Compute maximum matching
+    matching = nx.bipartite.maximum_matching(B, top_nodes=true_nodes)
+
+    num_matches = len(matching) // 2
+    precision = num_matches / len(answer_expanded) if answer_expanded else 0.0
+    recall = num_matches / len(true_expanded) if true_expanded else 0.0
+    f1 = (2 * precision * recall / (precision + recall)) if (precision + recall) > 0 else 0.0
+
+    return precision, recall, f1
+
+def compute_one_to_many_f1_from_expanded(entities_true, entities_answer, true_expanded, answer_expanded):
+    """
+    Given two dicts (true_expanded, answer_expanded) where:
+       - true_expanded[entity_true]  = set of synonyms (including the entity itself)
+       - answer_expanded[entity_ans] = set of synonyms (including the entity itself)
+    Compute precision, recall, and F1 if we consider a match to occur when
+    the sets of synonyms intersect.
+    """
+    if not entities_true and not entities_answer:
+        return 1.0, 1.0, 1.0  # both empty => perfect match in this interpretation
+    if not entities_true:
+        # If there's no ground truth but we predicted something, precision=0, recall=1
+        return 0.0, 1.0, 0.0
+    if not entities_answer:
+        # If we have ground truth but predicted nothing, recall=0
+        return 1.0, 0.0, 0.0
+
+    intersection_count_precision = 0
+    
+    for ans_entity, ans_synonyms_set in answer_expanded.items():
+        for true_entity, true_synonyms_set in true_expanded.items():
+            if not ans_synonyms_set.isdisjoint(true_synonyms_set):
+                intersection_count_precision += 1
+                break  # One match per predicted entity
+
+    precision = intersection_count_precision / len(entities_answer) if len(entities_answer) > 0 else 0.0
+    recall = intersection_count_precision / len(entities_true) if len(entities_true) > 0 else 0.0
+    if (precision + recall) > 0:
+        f1 = 2.0 * (precision * recall) / (precision + recall)
+    else:
+        f1 = 0.0
+        
+    return precision, recall, f1
+
 ####################################################
 # Main parsing and computing F1
 ####################################################
@@ -312,9 +402,20 @@ def parsing_and_computing_f1(input_answer_dir, model_list, rephrased=False):
                              ans_snomed_expanded_lemma,
                              ans_wordnet_expanded_lemma) = expand_with_all_synonyms(entities_answer_lemmatized, synonyms_dict)
 
-                            # Dictionary-based synonyms + lemma F1
+                            # Dictionary-based synonyms + lemma F1 (greedy one-to-one, recall-oriented)
                             dict_lemma_precision, dict_lemma_recall, dict_lemma_f1 = compute_f1_from_expanded(
                                 entities_true_lemmatized, entities_answer_lemmatized,
+                                true_dict_expanded_lemma, ans_dict_expanded_lemma
+                            )
+                            
+                            # Dictionary-based synonyms + lemma F1 (one-to-many matching from predictions)
+                            dict_lemma_one2many_precision, dict_lemma_one2many_recall, dict_lemma_one2many_f1 = compute_one_to_many_f1_from_expanded(
+                                entities_true_lemmatized, entities_answer_lemmatized,
+                                true_dict_expanded_lemma, ans_dict_expanded_lemma
+                            )
+
+                            # Dictionary-based synonyms + lemma F1 (bipartite matching)
+                            dict_lemma_bipartite_precision, dict_lemma_bipartite_recall, dict_lemma_bipartite_f1 = compute_bipartite_metrics(
                                 true_dict_expanded_lemma, ans_dict_expanded_lemma
                             )
 
@@ -364,6 +465,16 @@ def parsing_and_computing_f1(input_answer_dir, model_list, rephrased=False):
                                 'synonyms_lemmatized_precision_dict': dict_lemma_precision,
                                 'synonyms_lemmatized_recall_dict': dict_lemma_recall,
                                 'synonyms_lemmatized_f1_dict': dict_lemma_f1,
+                                
+                                # + bipartite
+                                'synonyms_lemmatized_precision_dict_bipartite': dict_lemma_bipartite_precision,
+                                'synonyms_lemmatized_recall_dict_bipartite': dict_lemma_bipartite_recall,
+                                'synonyms_lemmatized_f1_dict_bipartite': dict_lemma_bipartite_f1,
+                                
+                                # + one-to-many
+                                'synonyms_lemmatized_precision_dict_one2many': dict_lemma_one2many_precision,
+                                'synonyms_lemmatized_recall_dict_one2many': dict_lemma_one2many_recall,
+                                'synonyms_lemmatized_f1_dict_one2many': dict_lemma_one2many_f1,
 
                                 # SNOMED-based synonyms + lemma
                                 'synonyms_lemmatized_precision_snomed': snomed_lemma_precision,
@@ -387,6 +498,7 @@ def parsing_and_computing_f1(input_answer_dir, model_list, rephrased=False):
 if __name__ == "__main__":
     script_dir = os.path.dirname(os.path.abspath(__file__))
     model_answers_files_path = os.path.join(script_dir, 'model_answers')
-    model_list = ["Gemma-3-27B","NVLM", "Med42", "Claude", "Llama", "Meditron", "Llama-8B", "Llama-1B", "Gemini_2.5Pro",  "MedGemma-3-27B"]
+    model_list = ["Gemma-3-27B","NVLM", "Med42", "Claude", "Llama", "Meditron", "Llama-8B", "Llama-1B", "Gemini_2.5Pro",  "MedGemma-3-27B", "MedGemma-3-27B-RAG","Llama-8B-RAG"]
+    #model_list = ["MedGemma-3-27B-RAG","Llama-8B-RAG"]
     
     parsing_and_computing_f1(model_answers_files_path, model_list)

@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Which five antiretroviral drugs were most frequently administered in 1990 in Switzerland?",
+    "answer": "I couldn't find any information in the provided guideline excerpts regarding the frequency of antiretroviral drug administration in Switzerland in 1990. The provided excerpts only list the prices of various antiretroviral drugs, their formulations, and their monthly costs as of 2025.\n\nTo answer your question, I would need access to historical data on antiretroviral drug use in Switzerland in 1990. This information is not available in the provided excerpts.",
+    "true_answer": "The top five HIV first-line treatments most frequently administered in Switzerland in 1990 were Ritonavir (RTV), Didanosine (ddI), Stavudine (d4T), Zidovudine (AZT or ZDV), and Lamivudine (3TC), in that order.",
+    "rag_sources": [
+      {
+        "score": 0.585644722,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 477,
+        "chunk_in_page": 0,
+        "chunk_global": 2834,
+        "id": "d032dffa-b591-4ad5-be92-96d4149646cd"
+      },
+      {
+        "score": 0.573533118,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 475,
+        "chunk_in_page": 0,
+        "chunk_global": 2832,
+        "id": "9cd4dbe0-faed-4b6a-9d1d-74de26b2f846"
+      },
+      {
+        "score": 0.572603226,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 476,
+        "chunk_in_page": 0,
+        "chunk_global": 2833,
+        "id": "f5d79fdf-66b6-4cbf-aaac-d5ff38c15068"
+      },
+      {
+        "score": 0.570753157,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 478,
+        "chunk_in_page": 0,
+        "chunk_global": 2835,
+        "id": "96b590e5-1410-47a9-bca3-b37ba1f96256"
+      }
+    ]
+  },
+  {
+    "question": "Which five antiretroviral drugs were most frequently administered in Switzerland in 2010?",
+    "answer": "Unfortunately, the provided guidelines do not contain information on the most frequently administered antiretroviral drugs in Switzerland in 2010. The tables only provide a list of commonly used antiretroviral drugs and their prices, but they do not include data on usage frequencies.\n\nHowever, according to various studies and reports from 2010, some of the most commonly used antiretroviral drugs in Switzerland during that time included:\n\n1. Efavirenz (EFV) in combination with Tenofovir Disoproxil Fumarate (TDF) and Emtricitabine (FTC)\n2. Darunavir (DRV) in combination with Ritonavir (RTV)\n3. Raltegravir (RAL)\n4. Enfuvirtide (T-20)\n5. Atazanavir (ATV) in combination with Ritonavir (RTV)\n\nPlease note that this information is not directly supported by the provided guidelines, but rather by external knowledge and research from 2010.",
+    "true_answer": "The top five antiretrovirals most frequently administered in Switzerland in 2010 were Tenofovir alafenamide (TAF), Dolutegravir (DTG), Emtricitabine (FTC), Tenofovir disoproxil (TDF), and Lamivudine (3TC), in that order.",
+    "rag_sources": [
+      {
+        "score": 0.593933105,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 477,
+        "chunk_in_page": 0,
+        "chunk_global": 2834,
+        "id": "d032dffa-b591-4ad5-be92-96d4149646cd"
+      },
+      {
+        "score": 0.58212,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 478,
+        "chunk_in_page": 0,
+        "chunk_global": 2835,
+        "id": "96b590e5-1410-47a9-bca3-b37ba1f96256"
+      },
+      {
+        "score": 0.578992903,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 183,
+        "chunk_in_page": 0,
+        "chunk_global": 2441,
+        "id": "d05e57a1-491d-477a-9129-977158fd05f7"
+      },
+      {
+        "score": 0.577916205,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 475,
+        "chunk_in_page": 0,
+        "chunk_global": 2832,
+        "id": "9cd4dbe0-faed-4b6a-9d1d-74de26b2f846"
+      }
+    ]
+  },
+  {
+    "question": "Is there a difference in the overall birth rate in Switzerland between women with and without HIV in 2010?",
+    "answer": "I couldn't find any information about birth rates in Switzerland in the provided guidelines. However, I can suggest a possible source to find this information. The Swiss Federal Statistical Office (FSO) or the Swiss Institute for HIV and AIDS Research (SSA) might have data on birth rates in Switzerland.\n\nHowever, I can tell you that HIV status does not directly influence overall birth rates in a population. If you are looking for information on pregnancy intentions or birth rates among women with HIV, there are studies available that might be relevant. For example, Aebi-Popp K, et al. (2018) and Dude AM, et al. (2021) provide information on unintended pregnancies among women living with HIV.\n\nIf you would like, I can provide more information on these studies.",
+    "true_answer": "Yes, in 2010, there were 1.52 births per woman in the general population, compared to 0.9 births per woman living with HIV.",
+    "rag_sources": [
+      {
+        "score": 0.510486603,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 77,
+        "chunk_in_page": 1,
+        "chunk_global": 2308,
+        "id": "a8141955-fb94-47f8-a61f-8d52ee084839"
+      },
+      {
+        "score": 0.51023674,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 70,
+        "chunk_in_page": 0,
+        "chunk_global": 73,
+        "id": "b852f6f1-295d-4a23-bb27-3bf2f31fa4c6"
+      },
+      {
+        "score": 0.509884894,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 352,
+        "chunk_in_page": 0,
+        "chunk_global": 394,
+        "id": "1e54e9c1-d153-463e-b425-8777b2b9203f"
+      },
+      {
+        "score": 0.508692741,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 261,
+        "chunk_in_page": 0,
+        "chunk_global": 295,
+        "id": "74fe70c8-1280-499c-84f0-60d81592c2c7"
+      }
+    ]
+  },
+  {
+    "question": "Is there a difference in the overall birth rate in Switzerland between women with and without HIV in 2020?",
+    "answer": "Unfortunately, the provided guidelines and references do not contain information on the overall birth rate in Switzerland between women with and without HIV in 2020. The references mainly focus on HIV-related topics, pregnancy, and antiretroviral therapy. \n\nHowever, I can suggest searching the Swiss Federal Statistical Office or other reputable sources for data on birth rates in Switzerland in 2020 to find the answer to your question.",
+    "true_answer": " Yes, in 2020, there were 1.46 births per woman in the general population, compared to 0.42 births per woman living with HIV.",
+    "rag_sources": [
+      {
+        "score": 0.531311035,
+        "reference": "HIV_guidelines/9789240052390-eng.pdf",
+        "page": 123,
+        "chunk_in_page": 1,
+        "chunk_global": 2185,
+        "id": "2d1ab461-c430-4f1c-9499-26f8f8c0a20e"
+      },
+      {
+        "score": 0.528393745,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 70,
+        "chunk_in_page": 0,
+        "chunk_global": 73,
+        "id": "b852f6f1-295d-4a23-bb27-3bf2f31fa4c6"
+      },
+      {
+        "score": 0.5222826,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 85,
+        "chunk_in_page": 0,
+        "chunk_global": 92,
+        "id": "dc952b72-8d02-4af6-8970-736a3ded01b8"
+      },
+      {
+        "score": 0.519018233,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 352,
+        "chunk_in_page": 0,
+        "chunk_global": 394,
+        "id": "1e54e9c1-d153-463e-b425-8777b2b9203f"
+      }
+    ]
+  },
+  {
+    "question": "What is the most common source of HIV infection in Switzerland?",
+    "answer": "Unfortunately, the provided guidelines do not specifically mention the most common source of HIV infection in Switzerland. However, according to the provided excerpt 71, Hampel B, Kusejko K, Kouyos RD, et al. Chemsex drugs on the rise: a longitudinal analysis of the Swiss HIV Cohort Study from 2007 to 2017. HIV Med. 2020;21(4):228-239, there is a mention of a study in the Swiss HIV Cohort Study, but it does not specifically state the most common source of HIV infection in Switzerland.\n\nHowever, the study does mention that chemsex drugs are on the rise among people with HIV in Switzerland, which suggests that there may be a connection between chemsex and HIV transmission in this population.",
+    "true_answer": "The most common sources of HIV infection in Switzerland are, in order, sexual contacts and drug use.",
+    "rag_sources": [
+      {
+        "score": 0.505495071,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 77,
+        "chunk_in_page": 1,
+        "chunk_global": 2308,
+        "id": "a8141955-fb94-47f8-a61f-8d52ee084839"
+      },
+      {
+        "score": 0.499763489,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 241,
+        "chunk_in_page": 0,
+        "chunk_global": 1253,
+        "id": "5beb7161-59f9-4ae6-a709-a6dc70806a0e"
+      },
+      {
+        "score": 0.485160828,
+        "reference": "HIV_guidelines/9789240052390-eng.pdf",
+        "page": 123,
+        "chunk_in_page": 1,
+        "chunk_global": 2185,
+        "id": "2d1ab461-c430-4f1c-9499-26f8f8c0a20e"
+      },
+      {
+        "score": 0.479154617,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 238,
+        "chunk_in_page": 0,
+        "chunk_global": 1250,
+        "id": "a0e9dd86-b5ec-4a7c-8029-bc7923445969"
+      }
+    ]
+  },
+  {
+    "question": "In Switzerland, based on self-reported treatment adherence, what proportion of visits involve patients who have missed taking their treatment at least once per month?",
+    "answer": "Unfortunately, the provided guideline excerpts do not contain data specific to Switzerland or self-reported treatment adherence in that country. However, they do discuss the importance of self-reported adherence and its association with viral load responses and therapeutic outcomes.\n\nThe guidelines mention that self-reporting is a useful tool for evaluating medication adherence, and that a detectable viral load is often the result of poor adherence. They also provide examples of how to elicit self-reported adherence information in a non-judgmental and constructive manner.\n\nGiven the lack of specific data on Switzerland, I cannot provide an answer to the question.",
+    "true_answer": "Based on self-reported treatment adherence, in Switzerland 6% of visits involve patients who have missed taking their treatment at least once per month.",
+    "rag_sources": [
+      {
+        "score": 0.496947229,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 442,
+        "chunk_in_page": 0,
+        "chunk_global": 2795,
+        "id": "52f13369-f7d7-4f40-8f1b-3fd907ec4429"
+      },
+      {
+        "score": 0.492999107,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 428,
+        "chunk_in_page": 0,
+        "chunk_global": 2781,
+        "id": "41cac009-f5d3-4174-9c99-e6f5972dac74"
+      },
+      {
+        "score": 0.46908474,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 443,
+        "chunk_in_page": 0,
+        "chunk_global": 2796,
+        "id": "e804959c-fcd5-410f-aa86-dafd1cdbd618"
+      },
+      {
+        "score": 0.467762947,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 429,
+        "chunk_in_page": 0,
+        "chunk_global": 2782,
+        "id": "786c5ac4-3a4d-477c-aeef-04959da1fda2"
+      }
+    ]
+  },
+  {
+    "question": "From 2020, what is the proportion of PLWH in Switzerland who 'feel guilty because they have HIV'?",
+    "answer": "Unfortunately, the provided guideline excerpts do not include information on the proportion of people living with HIV (PLWH) in Switzerland who feel guilty because they have HIV. The excerpts focus on various topics such as HIV treatment adherence, stigma, and coinfections, but do not provide specific data on Switzerland.\n\nTo answer your question, I would recommend searching for peer-reviewed articles or reports from reputable sources, such as the Swiss Federal Office of Public Health or the Swiss HIV Cohort Study, for more specific information on this topic.",
+    "true_answer": "As of 2020, 26% of people living with HIV (PLWH) feel guilty because they have HIV.",
+    "rag_sources": [
+      {
+        "score": 0.499607116,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 231,
+        "chunk_in_page": 1,
+        "chunk_global": 261,
+        "id": "eb794397-ff80-44e8-9839-2763a98c374c"
+      },
+      {
+        "score": 0.492250472,
+        "reference": "HIV_guidelines/9789240052390-eng.pdf",
+        "page": 107,
+        "chunk_in_page": 1,
+        "chunk_global": 2153,
+        "id": "8a5d8f8d-fe3d-4406-9eed-63c4bfbaa581"
+      },
+      {
+        "score": 0.487863541,
+        "reference": "HIV_guidelines/9789240052390-eng.pdf",
+        "page": 125,
+        "chunk_in_page": 1,
+        "chunk_global": 2189,
+        "id": "85f28a81-ef75-453d-adfb-e4e100a98edd"
+      },
+      {
+        "score": 0.480215073,
+        "reference": "HIV_guidelines/9789240052390-eng.pdf",
+        "page": 123,
+        "chunk_in_page": 1,
+        "chunk_global": 2185,
+        "id": "2d1ab461-c430-4f1c-9499-26f8f8c0a20e"
+      }
+    ]
+  },
+  {
+    "question": "From 2020, what proportion of PWH in Switzerland consider that 'People with HIV are treated like outcasts'?",
+    "answer": "Unfortunately, the provided guideline excerpts do not contain data on the proportion of people with HIV (PWH) in Switzerland who consider that 'People with HIV are treated like outcasts' from 2020. The excerpts do contain information on stigma and its impact on PWH, but they are from various studies and guidelines from different countries and regions.\n\nHowever, according to the 2019 study by Yam EA, Pulerwitz J, Almonte D, Garc\u00eda F, del Valle A, Colom A, et al. (reference 87), stigma among key populations living with HIV in the Dominican Republic, it was reported that 63.4% of participants considered that 'People with HIV are treated like outcasts'. However, this study was conducted in the Dominican Republic, not Switzerland.\n\nFor specific data on Switzerland, I recommend searching for recent studies or surveys conducted in that country to determine the proportion of PWH who consider that 'People with HIV are treated like outcasts'.",
+    "true_answer": "As of 2020, 83% of people living with HIV (PLWH) consider that people with HIV are treated like outcasts.",
+    "rag_sources": [
+      {
+        "score": 0.496995926,
+        "reference": "HIV_guidelines/9789240052390-eng.pdf",
+        "page": 125,
+        "chunk_in_page": 1,
+        "chunk_global": 2189,
+        "id": "85f28a81-ef75-453d-adfb-e4e100a98edd"
+      },
+      {
+        "score": 0.48500827,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 231,
+        "chunk_in_page": 1,
+        "chunk_global": 261,
+        "id": "eb794397-ff80-44e8-9839-2763a98c374c"
+      },
+      {
+        "score": 0.477470428,
+        "reference": "HIV_guidelines/9789240052390-eng.pdf",
+        "page": 125,
+        "chunk_in_page": 0,
+        "chunk_global": 2188,
+        "id": "2b3fa617-5757-46e2-a28a-74055678c1a0"
+      },
+      {
+        "score": 0.477334976,
+        "reference": "HIV_guidelines/9789240052390-eng.pdf",
+        "page": 126,
+        "chunk_in_page": 0,
+        "chunk_global": 2190,
+        "id": "efceaa9f-92bc-4c1a-9eec-4623c092b28c"
+      }
+    ]
+  },
+  {
+    "question": "In Switzerland, What proportion of PWH who died from HIV-related causes had their first positive HIV test before the age of 20?",
+    "answer": "The provided guidelines excerpts do not contain information about the proportion of people with HIV (PWH) who died from HIV-related causes in Switzerland. The information is limited to general population data from the United States and does not include specific country-level data for Switzerland.",
+    "true_answer": "Among PWH who died from HIV-related causes, 95% had their first positive HIV test before the age of 20.",
+    "rag_sources": [
+      {
+        "score": 0.526548386,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 77,
+        "chunk_in_page": 0,
+        "chunk_global": 2307,
+        "id": "88646b7b-f492-4b46-a051-c12837ca3b91"
+      },
+      {
+        "score": 0.521091461,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 346,
+        "chunk_in_page": 0,
+        "chunk_global": 388,
+        "id": "beb5e746-71a6-4a18-bdc2-d7d0a42ec507"
+      },
+      {
+        "score": 0.514852583,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 308,
+        "chunk_in_page": 0,
+        "chunk_global": 1334,
+        "id": "39898e3e-ae26-468b-a400-001d99fa2bc7"
+      },
+      {
+        "score": 0.514688492,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 270,
+        "chunk_in_page": 0,
+        "chunk_global": 2566,
+        "id": "9381ba2d-a4c2-4a4e-859d-99963ed30e6d"
+      }
+    ]
+  },
+  {
+    "question": "For individuals in Switzerland who had their first positive HIV test between 1990 and 2010 and an initial CD4 count above 300, is there a difference between PWH tested before or after the age of 20 and the time taken for the CD4 cell count to drop below 200?",
+    "answer": "Unfortunately, the provided excerpts do not contain specific data on individuals in Switzerland who had their first positive HIV test between 1990 and 2010 with an initial CD4 count above 300, comparing the time taken for the CD4 cell count to drop below 200 based on age at testing (before or after 20). \n\nHowever, we can use related information from the provided excerpts to make an educated estimate.\n\nLodi et al. (2011) mentioned that the time from HIV seroconversion to reaching a CD4+ cell count of <200 cells/mm^3 is approximately 8-10 years (excerpts 14). \n\nHowever, this is a general estimate and not specific to the age group or population in question.\n\nAnother study by Althoff et al. (2010) (excerpts 25) found that older age was associated with a slower rate of CD4 recovery on antiretroviral therapy (ART), but this study did not specifically address the time taken for CD4 counts to drop below 200.\n\nConsidering the lack of specific data, I would recommend caution when drawing conclusions about this population.",
+    "true_answer": "Yes, there is a difference. For PWH diagnosed before the age of 20, 19% experienced a drop in CD4 count to below 200 within 5 years. In contrast, for those diagnosed after the age of 20, 32% experienced this drop within 5 years.",
+    "rag_sources": [
+      {
+        "score": 0.616343498,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 38,
+        "chunk_in_page": 0,
+        "chunk_global": 2262,
+        "id": "d3e49135-9949-4344-82c7-011c90c3538a"
+      },
+      {
+        "score": 0.614783287,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 319,
+        "chunk_in_page": 0,
+        "chunk_global": 2629,
+        "id": "967c72c8-af73-4a16-9139-a270026b0a0a"
+      },
+      {
+        "score": 0.607609808,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 38,
+        "chunk_in_page": 1,
+        "chunk_global": 2263,
+        "id": "db290d72-5034-4e6c-9373-558c1ac73add"
+      },
+      {
+        "score": 0.606036246,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 39,
+        "chunk_in_page": 0,
+        "chunk_global": 2264,
+        "id": "3e7409e0-2b11-4841-b2d6-40591c113071"
+      }
+    ]
+  }
+]

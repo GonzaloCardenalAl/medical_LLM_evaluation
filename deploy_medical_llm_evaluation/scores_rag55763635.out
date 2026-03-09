@@ -1,0 +1,71 @@
+Using python: /cluster/scratch/gcardenal/venvs/transformers_llm_rag/bin/python
+Python: 3.10.12 (main, Nov  4 2025, 08:48:33) [GCC 11.4.0]
+Executable: /cluster/scratch/gcardenal/venvs/transformers_llm_rag/bin/python
+OPENAI_API_KEY present: yes
+PINECONE_API_KEY present: yes
+Fri Jan 30 23:34:58 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 580.105.08             Driver Version: 580.105.08     CUDA Version: 13.0     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA GeForce RTX 4090        On  |   00000000:01:00.0 Off |                  Off |
+| 52%   47C    P8             19W /  450W |       1MiB /  24564MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+torch: 2.5.1+cu121 cuda: 12.1 available: True n_gpus: 1
+transformers: 4.52.4
+pinecone: 8.0.0
+openai client ok
+Running model pipeline...
+Starting MedGPT scoring...
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/MedGemma-3-27B-RAG/GPT-score_MedGemma-3-27B-RAG_answers_category_5.1_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/MedGemma-3-27B-RAG/GPT-score_MedGemma-3-27B-RAG_answers_category_5.2_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/MedGemma-3-27B-RAG/GPT-score_MedGemma-3-27B-RAG_answers_category_5.3_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/MedGemma-3-27B-RAG/GPT-score_MedGemma-3-27B-RAG_answers_category_5.4_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/MedGemma-3-27B-RAG/GPT-score_MedGemma-3-27B-RAG_answers_category_5.5_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Llama-8B-RAG/GPT-score_Llama-8B-RAG_answers_category_5.1_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Llama-8B-RAG/GPT-score_Llama-8B-RAG_answers_category_5.2_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Llama-8B-RAG/GPT-score_Llama-8B-RAG_answers_category_5.3_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Llama-8B-RAG/GPT-score_Llama-8B-RAG_answers_category_5.4_HIV_EQ.json
+Saved GPT-4 scores to: /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Llama-8B-RAG/GPT-score_Llama-8B-RAG_answers_category_5.5_HIV_EQ.json
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_2.1_HIV_EQ.json, Q#3
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_2.1_HIV_EQ.json, Q#6
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_2.2_HIV_EQ.json, Q#3
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_2.2_HIV_EQ.json, Q#6
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_2.3_HIV_EQ.json, Q#3
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_2.4_HIV_EQ.json, Q#3
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_2.4_HIV_EQ.json, Q#6
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_2.5_HIV_EQ.json, Q#3
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_2.5_HIV_EQ.json, Q#6
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.1_HIV_EQ.json, Q#13
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.1_HIV_EQ.json, Q#19
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.1_HIV_EQ.json, Q#23
+Error parsing JSON in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.2_HIV_EQ.json, Q#13: could not convert string to float: '2-3'
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.2_HIV_EQ.json, Q#19
+Error parsing JSON in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.3_HIV_EQ.json, Q#13: could not convert string to float: '2-3'
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.3_HIV_EQ.json, Q#19
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.4_HIV_EQ.json, Q#13
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.4_HIV_EQ.json, Q#19
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.5_HIV_EQ.json, Q#13
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_3.5_HIV_EQ.json, Q#19
+No JSON found in GPT reply for /cluster/home/gcardenal/HIV/medical_llm_evaluation/deploy_medical_llm_evaluation/model_answers/results-GPT-score/Med42/GPT-score_Med42_answers_category_4.2_HIV_EQ.json, Q#6
+Saved GPT-4 scores with answer details to CSV: ./evaluation_results/raw_GPT4-score.csv
+Warning: Some groups have fewer than expected iterations.
+    subfolder  category_id  question_index  num_iterations
+669     Med42            3              12               3
+Saved aggregated GPT-4 scores over iterations: ./evaluation_results/averaged_over_iterations_GPT4-score.csv
+Saved merged CSV with iteration-level data: ./evaluation_results/evaluation_results_merged_over_iterations.csv
+Saved GPT scores over questions & iterations: ./evaluation_results/averaged_over_questions_GPT4-score.csv
+Saved synonyms-based F1 scores (means & std over questions & iterations).
+Saved merged dataset (F1 & GPT) over questions to: ./evaluation_results/evaluation_results_merged_mean_over_questions.csv

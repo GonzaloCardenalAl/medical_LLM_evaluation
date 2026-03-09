@@ -24,7 +24,7 @@ def get_GPT_scores(model_list, gpt4_api_key, model_answers_files_path):
             if not os.path.isdir(prompted_files_path_model):
                 continue
 
-            for category_id in [str(num) for num in range(1, 5)]:
+            for category_id in [str(num) for num in range(5, 6)]:
                 for iteration_number in range(1, 6):
                     prompted_file_name = (
                         f"prompted_{model}_answers_category_{category_id}."
@@ -384,6 +384,8 @@ def merge_final_df_over_questions(f1_json_path):
         'synonyms_precision_snomed', 'synonyms_recall_snomed', 'synonyms_f1_snomed',
         'synonyms_precision_wn', 'synonyms_recall_wn', 'synonyms_f1_wn',
         'synonyms_lemmatized_precision_dict', 'synonyms_lemmatized_recall_dict', 'synonyms_lemmatized_f1_dict',
+        'synonyms_lemmatized_precision_dict_bipartite', 'synonyms_lemmatized_recall_dict_bipartite', 'synonyms_lemmatized_f1_dict_bipartite',
+        'synonyms_lemmatized_precision_dict_one2many', 'synonyms_lemmatized_recall_dict_one2many', 'synonyms_lemmatized_f1_dict_one2many',
         'synonyms_lemmatized_precision_snomed', 'synonyms_lemmatized_recall_snomed', 'synonyms_lemmatized_f1_snomed',
         'synonyms_lemmatized_precision_wn', 'synonyms_lemmatized_recall_wn', 'synonyms_lemmatized_f1_wn'
     ]
@@ -459,21 +461,22 @@ def merge_final_df_over_questions(f1_json_path):
 
 
 if __name__ == "__main__":
-    gpt4_api_key = ""  #Add your token for the OpenAI API
+    gpt4_api_key = "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"  #Add your token for the OpenAI API
     gpt4_base_url = "http://148.187.108.173:8080"
 
     script_dir = os.path.dirname(os.path.abspath(__file__))
     model_answers_files_path = os.path.join(script_dir, 'model_answers')
     
-    #model_list = ["Llama", "Meditron", "NVLM", "Med42", "Claude", "Llama-8B", "Llama-1B", "Gemini_2.5Pro", "Gemma-3-27B"]
-    model_list = ["Gemma-3-27B", "MedGemma-3-27B"]
+    #model_list = ["Llama", "Meditron", "NVLM", "Med42", "Claude", "Llama-8B", "Llama-1B", "Gemini_2.5Pro", "Gemma-3-27B","MedGemma-3-27B"]
+    model_list = ["MedGemma-3-27B-RAG","Llama-8B-RAG"]
     
     f1_json_path = './evaluation_results/f1_results.json'
     
     if os.path.isfile(f1_json_path): 
         # (Optional) if you still need to run GPT scoring:
-        #get_GPT_scores(model_list=model_list, gpt4_api_key=gpt4_api_key, model_answers_files_path=model_answers_files_path)
-        model_list = ["Llama", "Meditron", "NVLM", "Med42", "Claude", "Llama-8B", "Llama-1B", "Gemini_2.5Pro", "Gemma-3-27B", "MedGemma-3-27B"]
+        print("Starting MedGPT scoring...")
+        get_GPT_scores(model_list=model_list, gpt4_api_key=gpt4_api_key, model_answers_files_path=model_answers_files_path)
+        model_list = ["Llama", "Meditron", "NVLM", "Med42", "Claude", "Llama-8B", "Llama-1B", "Gemini_2.5Pro", "Gemma-3-27B", "MedGemma-3-27B", "MedGemma-3-27B-RAG","Llama-8B-RAG"]
         json_to_df(model_list=model_list, model_answers_files_path=model_answers_files_path)
         
         # 1. GPT means & std over iterations

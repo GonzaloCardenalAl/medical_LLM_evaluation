@@ -1,0 +1,30 @@
+Using python: /cluster/scratch/gcardenal/venvs/transformers_llm_rag/bin/python
+Python: 3.10.12 (main, Nov  4 2025, 08:48:33) [GCC 11.4.0]
+Executable: /cluster/scratch/gcardenal/venvs/transformers_llm_rag/bin/python
+OPENAI_API_KEY present: yes
+PINECONE_API_KEY present: yes
+Thu Jan 29 18:09:56 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 580.105.08             Driver Version: 580.105.08     CUDA Version: 13.0     |
++-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  Quadro RTX 6000                On  |   00000000:21:00.0 Off |                  Off |
+| 33%   29C    P8              5W /  260W |       1MiB /  24576MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+|   1  Quadro RTX 6000                On  |   00000000:81:00.0 Off |                  Off |
+| 33%   29C    P8             14W /  260W |       1MiB /  24576MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+[2026-01-29T18:11:05.530+01:00] error: *** JOB 55618254 ON eu-g3-062 CANCELLED AT 2026-01-29T18:11:05 DUE to SIGNAL Terminated ***
