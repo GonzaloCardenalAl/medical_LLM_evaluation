@@ -1,0 +1,938 @@
+[
+  {
+    "question": "A 48-year-old woman is brought to her primary care physician by her sister who is concerned about a deterioration in the patient\u2019s general status. The patient was diagnosed with HIV 7 years ago. She says that her last T cell count was \"good enough\", so she has been skipping every other dose of her antiretroviral medications and trimethoprim-sulfamethoxazole. Her sister has had to drive her home from work several times this month because she has become disoriented and confused about her surroundings. Motor strength is 4/5 on the right and 3/5 on the left. She is able to walk unassisted, but her gait appears mildly uncoordinated. There is diplopia when the right eye is covered. Her CD4 count is 75 cells/\u00b5L. MRI shows numerous asymmetric, hyperintense, non-enhancing lesions bilaterally without mass effect. Brain biopsy shows demyelination and atypical astrocytes. What is most likely responsible for this patient's current condition?",
+    "answer": "Based on the provided clinical information and the patient's presentation, I would say that the most likely diagnosis is Progressive Multifocal Leukoencephalopathy (PML). \n\nPML is a rare and serious demyelinating disease of the central nervous system caused by the JC virus, which is a common virus that typically remains latent in healthy individuals but can reactivate in people with weakened immune systems, such as those with advanced HIV. The patient's low CD4 count (75 cells/\u00b5L) and history of HIV suggest that her immune system is severely compromised.\n\nThe MRI findings of numerous asymmetric, hyperintense, non-enhancing lesions bilaterally without mass effect are consistent with PML. The brain biopsy showing demyelination and atypical astrocytes further supports this diagnosis. \n\nIt's also worth noting that the patient's history of skipping doses of her antiretroviral medications and trimethoprim-sulfamethoxazole, a medication used to prevent Pneumocystis jirovecii pneumonia (PCP) and other opportunistic infections, may have contributed to her weakened immune system and increased susceptibility to PML.\n\nThe symptoms of disorientation, confusion, diplopia, and uncoordinated gait are also consistent with PML. \n\nIt's essential to note that the patient's condition is likely exacerbated by her non-adherence to her antiretroviral therapy, which has led to a significant decline in her CD4 count.",
+    "true_answer": "John Cunningham virus (JC virus) is most likely responsible for this patient's current condition.",
+    "rag_sources": [
+      {
+        "score": 0.60726738,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 197,
+        "chunk_in_page": 1,
+        "chunk_global": 2465,
+        "id": "9ad31fc4-5aaa-4114-a088-81da288c8b00"
+      },
+      {
+        "score": 0.606473863,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 586,
+        "chunk_in_page": 0,
+        "chunk_global": 1671,
+        "id": "bded9b3c-e698-4c07-a34f-110fae6166ce"
+      },
+      {
+        "score": 0.592337608,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 592,
+        "chunk_in_page": 1,
+        "chunk_global": 1681,
+        "id": "bdda6974-30da-4174-91c3-ac791e99d88f"
+      },
+      {
+        "score": 0.58735472,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 39,
+        "chunk_in_page": 0,
+        "chunk_global": 2264,
+        "id": "3e7409e0-2b11-4841-b2d6-40591c113071"
+      }
+    ]
+  },
+  {
+    "question": "A 35-year-old man comes to the physician because of a 6-month history of fatigue and increased sweating at night. He says that he feels 'constantly tired' and needs more rest than usual although he sleeps well. In the morning, his sheets are often wet and his skin is clammy. He has not had any sore throat, runny nose, or cough recently. He has not traveled anywhere. Over the past 4 months, he has had a 6.8-kg (15-lb) weight loss, despite having a normal appetite. He does not drink or urinate more than usual. He is 181 cm (5 ft 11 in) tall and weighs 72 kg (159 lb); BMI is 22 kg/m2. His temperature is 37.9\u00b0C (100.2\u00b0F), pulse is 65/min, and blood pressure is 120/70 mmHg. Physical examination shows no abnormalities. An HIV screening test and confirmatory test are both positive. The CD4 count is 600 cells/\u03bcl and the viral load is 104 copies/mL. Treatment with lamivudine, zidovudine, and indinavir is begun. The patient is at greatest risk for what adverse effects? ",
+    "answer": "Based on the provided clinical scenario, the patient is at greatest risk for:\n\n1. **Lactic acidosis**: The patient has a history of unexplained weight loss, fatigue, and increased sweating, which are non-specific symptoms but can be associated with lactic acidosis, a rare but serious side effect of nucleoside reverse transcriptase inhibitors (NRTIs) such as zidovudine.\n2. **Nephrotoxicity**: The patient is at risk for nephrotoxicity due to the use of indinavir, a protease inhibitor that can cause kidney damage, especially in patients with pre-existing kidney disease or those taking other nephrotoxic medications.\n3. **Pancreatitis**: Although less likely, the patient is at risk for pancreatitis due to the use of indinavir, a protease inhibitor that can cause gastrointestinal side effects, including pancreatitis.\n4. **Hepatitis**: The patient is at risk for hepatitis due to the use of lamivudine, a nucleoside reverse transcriptase inhibitor that can cause liver toxicity.\n\nIt is essential to monitor the patient closely for these potential side effects and adjust the treatment regimen as needed.",
+    "true_answer": "The patient is at greatest risk for developing urolithiasis as an adverse effect.",
+    "rag_sources": [
+      {
+        "score": 0.594368,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 388,
+        "chunk_in_page": 1,
+        "chunk_global": 2725,
+        "id": "522cceab-50f4-4537-a009-5dd8f3df3dd3"
+      },
+      {
+        "score": 0.585185051,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 265,
+        "chunk_in_page": 0,
+        "chunk_global": 2559,
+        "id": "4a4df144-4eb5-41a4-a7ec-d6969e62b871"
+      },
+      {
+        "score": 0.5841465,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 8,
+        "chunk_in_page": 0,
+        "chunk_global": 731,
+        "id": "57b18b33-186c-4267-a8f2-d7ae299c9ed9"
+      },
+      {
+        "score": 0.580213547,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 219,
+        "chunk_in_page": 0,
+        "chunk_global": 1229,
+        "id": "26b01b27-a011-4390-850f-fd51a793baf9"
+      }
+    ]
+  },
+  {
+    "question": "A 52-year-old man is brought to the emergency department because of headaches, vertigo, and changes to his personality for the past few weeks. He was diagnosed with HIV 14 years ago and was started on antiretroviral therapy at that time. Medical records from one month ago indicate that he followed his medication schedule inconsistently. Since then, he has been regularly taking his antiretroviral medications and trimethoprim-sulfamethoxazole. His vital signs are within normal limits. Neurological examination shows ataxia and apathy. Mini-Mental State Examination score is 15/30. Laboratory studies show: Hemoglobin 12.5 g/dL Leukocyte count 8400/mm3 Segmented neutrophils 80% Eosinophils 1% Lymphocytes 17% Monocytes 2% CD4+ T-lymphocytes 90/\u03bcL Platelet count 328,000/mm3 An MRI of the brain with contrast shows a solitary ring-enhancing lesion involving the corpus callosum and measuring 4.5 cm in diameter. A lumbar puncture with subsequent cerebrospinal fluid analysis shows slight pleocytosis, and PCR is positive for Epstein-Barr virus DNA. What is the most likely diagnosis?",
+    "answer": "The information provided suggests that the patient has a solitary ring-enhancing lesion in the corpus callosum, which is more characteristic of a different opportunistic infection rather than progressive multifocal leukoencephalopathy (PML). The presence of a ring-enhancing lesion is more typical of toxoplasmosis or lymphoma. \n\nThe patient's history of inconsistent antiretroviral therapy adherence and low CD4 count may suggest an increased risk for opportunistic infections. However, the presence of Epstein-Barr virus (EBV) DNA in the cerebrospinal fluid (CSF) is more indicative of lymphoma rather than PML.\n\nThe most likely diagnosis in this case is primary central nervous system lymphoma (PCNSL). This is supported by the imaging findings of a solitary ring-enhancing lesion and the positive PCR for EBV DNA in the CSF. PCNSL is a common cause of CNS symptoms in HIV patients, especially in those with low CD4 counts and a history of inconsistent ART adherence.",
+    "true_answer": "The most likely diagnosis is CNS lymphoma.",
+    "rag_sources": [
+      {
+        "score": 0.66904825,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 586,
+        "chunk_in_page": 0,
+        "chunk_global": 1671,
+        "id": "bded9b3c-e698-4c07-a34f-110fae6166ce"
+      },
+      {
+        "score": 0.656826,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 114,
+        "chunk_in_page": 0,
+        "chunk_global": 885,
+        "id": "5d722444-a758-47bf-83ce-8c5ce87aa3ab"
+      },
+      {
+        "score": 0.649101257,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 577,
+        "chunk_in_page": 0,
+        "chunk_global": 1659,
+        "id": "1e0b7a1a-8bfb-48c4-83c2-02537b55344d"
+      },
+      {
+        "score": 0.647140503,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 587,
+        "chunk_in_page": 0,
+        "chunk_global": 1673,
+        "id": "baeb6369-c28a-4184-8600-8770e41bbc7a"
+      }
+    ]
+  },
+  {
+    "question": "A 35-year-old man comes to the emergency department with fever, chills, dyspnea, and a productive cough. His symptoms began suddenly 2 days ago. He was diagnosed with HIV 4 years ago and has been on triple antiretroviral therapy since then. He smokes one pack of cigarettes daily. He is 181 cm (5 ft 11 in) tall and weighs 70 kg (154 lb); BMI is 21.4 kg/m\u00b2. He lives in Illinois and works as a carpenter. His temperature is 38.8\u00b0C (101.8\u00b0F), pulse is 110/min, respirations are 24/min, and blood pressure is 105/74 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 92%. Examination reveals crackles over the right lower lung base. The remainder of the examination shows no abnormalities.\n\nLaboratory studies show:\nHemoglobin: 11.5 g/dL\nLeukocyte count: 12,800/mm\u00b3\nSegmented neutrophils: 80%\nEosinophils: 1%\nLymphocytes: 17%\nMonocytes: 2%\nCD4+ T-lymphocytes: 520/mm\u00b3 (N \u2265 500)\nPlatelet count: 258,000/mm\u00b3\n\nSerum:\nNa\u207a: 137 mEq/L\nCl\u207b: 102 mEq/L\nK\u207a: 5.0 mEq/L\nHCO\u2083\u207b: 22 mEq/L\nGlucose: 92 mg/dL\n\nA chest x-ray shows a right lower-lobe infiltrate of the lung.\n\n What is the most likely causal organism?",
+    "answer": "Based on the provided clinical information, it is challenging to determine the most likely causal organism for this patient's pneumonia. However, I can guide you through the process of differential diagnosis.\n\nThe patient has a history of HIV, is on antiretroviral therapy (ART), and has a CD4 count of 520/mm\u00b3, indicating relatively preserved immune function. He presents with symptoms of pneumonia, including fever, chills, dyspnea, and a productive cough, and has a normal oxygen saturation on room air.\n\nGiven his HIV status, the differential diagnosis should include opportunistic infections such as Pneumocystis jirovecii pneumonia (PCP) and Mycobacterium tuberculosis (TB). However, the patient's CD4 count of 520/mm\u00b3 and the lack of other symptoms suggestive of PCP (e.g., severe hypoxemia, diffuse interstitial infiltrates on chest radiograph) make PCP less likely.\n\nTB should be considered, especially given the patient's HIV status and the presence of a lung infiltrate. However, the patient's symptoms and clinical presentation do not strongly suggest TB.\n\nThe patient's smoking history and the presence of a productive cough suggest a bacterial cause. The most common bacterial causes of pneumonia in HIV-infected individuals include Streptococcus pneumoniae, Haemophilus influenzae, and Staphylococcus aureus.\n\nGiven the patient's presentation and the fact that he is on ART, it is essential to consider other causes of pneumonia, including community-acquired pneumonia (CAP) due to typical bacteria.\n\nTo determine the most likely causal organism, further diagnostic testing is required, such as sputum Gram stain, culture, and PCR for bacterial pathogens, as well as consideration of other tests such as blood cultures and serology for atypical pathogens like Mycoplasma pneumoniae.\n\nIn this case, the most likely causal organism is likely a typical bacterial pathogen, given the patient's symptoms and the presence of a productive cough. However, the final diagnosis should be based on further diagnostic testing.",
+    "true_answer": "The most likely causal organism is Streptococcus pneumoniae.",
+    "rag_sources": [
+      {
+        "score": 0.654839516,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 478,
+        "chunk_in_page": 0,
+        "chunk_global": 1544,
+        "id": "cffe70cc-a388-4106-b053-0db18f18aca8"
+      },
+      {
+        "score": 0.650312424,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 541,
+        "chunk_in_page": 0,
+        "chunk_global": 1612,
+        "id": "69f9b04e-5e59-455f-8089-3699b58cdc0d"
+      },
+      {
+        "score": 0.644341528,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 110,
+        "chunk_in_page": 0,
+        "chunk_global": 1089,
+        "id": "7dce29e6-c486-44a1-8bd1-8a1c73d9bdd0"
+      },
+      {
+        "score": 0.622378349,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 94,
+        "chunk_in_page": 0,
+        "chunk_global": 1070,
+        "id": "c0797938-d2b1-4e66-b174-e46b5f940b2d"
+      }
+    ]
+  },
+  {
+    "question": "A 45-year-old man comes to the emergency department because of chills and numerous skin lesions for 1 week. He has also had watery diarrhea, nausea, and abdominal pain for the past 2 weeks. The skin lesions are nonpruritic and painless. He was diagnosed with HIV infection approximately 20 years ago. He has not taken any medications for over 5 years. He sleeps in homeless shelters and parks. Vital signs are within normal limits. Examination shows several bright red, friable nodules on his face, trunk, extremities. The liver is palpated 3 cm below the right costal margin. His CD4+ T-lymphocyte count is 180/mm3 (N \u2265 500). A rapid plasma reagin test is negative. Abdominal ultrasonography shows hepatomegaly and a single intrahepatic 1.0 x 1.2-cm hypodense lesion. Biopsy of a skin lesion shows vascular proliferation and abundant neutrophils. What is the most likely causal organism?",
+    "answer": "Based on the clinical presentation and laboratory findings, I would consider Leishmania as a possible cause of this patient's symptoms, particularly given the patient's HIV status, skin lesions, and hepatomegaly. The presence of non-pruritic and painless skin lesions, along with hepatomegaly, is consistent with visceral leishmaniasis. However, the skin biopsy findings of vascular proliferation and abundant neutrophils are not typical for Leishmania.\n\nGiven the patient's history of sleeping in homeless shelters and parks, which are areas where Leishmania transmission is more common, and his low CD4 count, I would consider visceral leishmaniasis as a likely diagnosis. However, the biopsy findings suggest a different pathology, and further investigation is needed to determine the exact cause of his symptoms.\n\nTo confirm the diagnosis, additional tests such as a Leishmania serology or PCR should be performed, and a bone marrow biopsy might be considered to rule out other causes of visceral involvement.\n\nIt's also worth noting that the patient's symptoms and laboratory findings could be consistent with other conditions such as Kaposi's sarcoma, which is a common opportunistic infection in HIV-infected individuals. However, the presence of hepatomegaly and the biopsy findings make this less likely.\n\nIn summary, while Leishmania is a possible cause of this patient's symptoms, the biopsy findings suggest that further investigation is needed to determine the exact cause of his symptoms.",
+    "true_answer": "Bartonella henselae is the most likely causal organism.",
+    "rag_sources": [
+      {
+        "score": 0.661158621,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 385,
+        "chunk_in_page": 0,
+        "chunk_global": 1427,
+        "id": "5d7bbdf5-a9c8-4813-b53c-4c26fd3ccbd7"
+      },
+      {
+        "score": 0.648235321,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 385,
+        "chunk_in_page": 1,
+        "chunk_global": 1428,
+        "id": "826fd321-7642-4df3-a65e-2b06db335970"
+      },
+      {
+        "score": 0.630104125,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 428,
+        "chunk_in_page": 0,
+        "chunk_global": 1483,
+        "id": "65ce52c9-7f38-4c6a-b0a4-8ca8794f90f9"
+      },
+      {
+        "score": 0.624927521,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 397,
+        "chunk_in_page": 0,
+        "chunk_global": 1444,
+        "id": "d67c3938-21a5-4c7d-9b48-45d4a184c2ac"
+      }
+    ]
+  },
+  {
+    "question": "A 48-year-old man presents to the clinic with several weeks of watery diarrhea and right upper quadrant pain with fever. He also endorses malaise, nausea, and anorexia. He is HIV-positive and is currently on antiretroviral therapy. He admits to not being compliant with his current medications. His temperature is 37\u00b0C (98.6\u00b0F), respiratory rate is 15/min, pulse is 70/min, and blood pressure is 100/84 mm Hg. A physical examination is performed which is within normal limits. His blood tests results are given below:\n\nHb%: 11 gm/dL\nTotal count (WBC): 3,400 /mm3\nDifferential count:\nNeutrophils: 70%\nLymphocytes: 25%\nMonocytes: 5%\nCD4+ cell count: 88/mm3\n\nStool microscopy results are pending. What is the most likely diagnosis?",
+    "answer": "Based on the provided clinical presentation and laboratory results, the most likely diagnosis is Clostridioides difficile (C. difficile) infection. \n\nThe patient's symptoms of watery diarrhea, right upper quadrant pain, fever, malaise, nausea, and anorexia, along with a low CD4+ cell count of 88/mm3, are consistent with C. difficile infection. The patient's history of non-compliance with antiretroviral therapy may also increase his risk for opportunistic infections, including C. difficile.\n\nThe laboratory results show a low hemoglobin level (Hb%: 11 gm/dL), which may indicate anemia, but the white blood cell count (WBC) is within normal limits. The differential count shows a slightly increased neutrophil count, which may suggest an infectious process.\n\nGiven the patient's immunocompromised state and the clinical presentation, it is essential to test for C. difficile infection, especially since he is at increased risk due to his low CD4+ cell count and non-compliance with antiretroviral therapy. Stool testing for C. difficile toxin or molecular detection methods should be performed to confirm the diagnosis.\n\nPlease note that the patient's symptoms and laboratory results do not strongly suggest an enteric bacterial infection caused by pathogens such as Shigella, Campylobacter, or Salmonella, as his CD4+ cell count is below 200/mm3 and he has a history of non-compliance with antiretroviral therapy.",
+    "true_answer": "Cryptosporidiosis is the most likely diagnosis.",
+    "rag_sources": [
+      {
+        "score": 0.646125793,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 15,
+        "chunk_in_page": 0,
+        "chunk_global": 976,
+        "id": "94f9d676-49a9-4cba-9834-6d0aba784c78"
+      },
+      {
+        "score": 0.631367743,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 16,
+        "chunk_in_page": 0,
+        "chunk_global": 977,
+        "id": "10943801-cd21-4850-8832-2afc4a8832e6"
+      },
+      {
+        "score": 0.626309395,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 23,
+        "chunk_in_page": 0,
+        "chunk_global": 984,
+        "id": "eba1340e-d089-4be2-ad90-683f11c331cf"
+      },
+      {
+        "score": 0.616539,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 30,
+        "chunk_in_page": 0,
+        "chunk_global": 993,
+        "id": "1c78b3a3-46ce-420b-954d-084d7d7a57b1"
+      }
+    ]
+  },
+  {
+    "question": "A 38-year-old man comes to the physician because of fever, malaise, productive cough, and left-sided chest pain for 2 weeks. During this time, he has woken up to a wet pillow in the morning on multiple occasions and has not been as hungry as usual. He was diagnosed with HIV infection 1 year ago. He currently stays at a homeless shelter. He has smoked one pack of cigarettes daily for 22 years. He has a history of intravenous illicit drug use. He drinks 5\u20136 beers daily. He is receiving combined antiretroviral therapy but sometimes misses doses. His temperature is 38.6\u00b0C (101.5\u00b0F), pulse is 106/min, and blood pressure is 125/85 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 94%. Auscultation shows decreased breath sounds over the left base of the lung. There is dullness to percussion on the left lower part of the chest. Laboratory studies show:\n\nHemoglobin 14 g/dL\nLeukocyte count 5,000/mm3\nCD4+ T lymphocytes 240/mm3 (N > 500)\n\nSerum:\nCreatinine 0.9 mg/dL\n\u03b3-Glutamyltransferase (GGT) 65 U/L (N = 5\u201350)\nAspartate aminotransferase (AST) 15 U/L\nAlanine aminotransferase (ALT) 19 U/L\nAlkaline phosphatase 40 U/L\nLactate dehydrogenase (LDH) 50 U/L\n\nAn x-ray of the chest shows a left-sided pleural effusion and hilar lymphadenopathy. Analysis of the pleural fluid shows an effusion with lymphocyte-predominant leukocytosis, high protein, an LDH of 500 U/L, and high adenosine deaminase. What is the most likely cause of this patient's condition?",
+    "answer": "Based on the clinical presentation and laboratory findings, the most likely cause of this patient's condition is tuberculosis (TB). \n\nThe patient's symptoms, including fever, productive cough, and left-sided chest pain, along with the presence of a left-sided pleural effusion and hilar lymphadenopathy on the chest x-ray, are consistent with TB. The lymphocyte-predominant leukocytosis and high LDH in the pleural fluid also support this diagnosis. The patient's history of HIV infection and CD4 count of 240/mm3, although not severely low, increases his susceptibility to TB. Additionally, the patient's social determinants, including homelessness and a history of intravenous illicit drug use, may have contributed to his increased risk of TB exposure.",
+    "true_answer": "Pulmonary tuberculosis is the most likely cause of this patient's condition.",
+    "rag_sources": [
+      {
+        "score": 0.663127,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 478,
+        "chunk_in_page": 0,
+        "chunk_global": 1544,
+        "id": "cffe70cc-a388-4106-b053-0db18f18aca8"
+      },
+      {
+        "score": 0.640190184,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 541,
+        "chunk_in_page": 0,
+        "chunk_global": 1612,
+        "id": "69f9b04e-5e59-455f-8089-3699b58cdc0d"
+      },
+      {
+        "score": 0.631937146,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 110,
+        "chunk_in_page": 0,
+        "chunk_global": 1089,
+        "id": "7dce29e6-c486-44a1-8bd1-8a1c73d9bdd0"
+      },
+      {
+        "score": 0.629285932,
+        "reference": "HIV_guidelines/9789240118164-eng.pdf",
+        "page": 15,
+        "chunk_in_page": 0,
+        "chunk_global": 1941,
+        "id": "31c19ff0-0e04-40bb-a46b-e630837fec7e"
+      }
+    ]
+  },
+  {
+    "question": "A 34-year-old woman with HIV comes to the emergency department because of a 2-week history of diarrhea and abdominal cramping. She has had up to 10 watery stools per day. She also has anorexia and nausea. She returned from a trip to Mexico 4 weeks ago where she went on two hiking trips and often drank from spring water. She was diagnosed with HIV 12 years ago. She says that she has been noncompliant with her therapy. Her last CD4+ T-lymphocyte count was 85/mm3. She appears thin. She is 175 cm (5 ft 9 in) tall and weighs 50 kg (110 lb); BMI is 16.3 kg/m2. Her temperature is 38.3\u00b0C (100.9\u00b0F), pulse is 115/min, and blood pressure is 85/65 mm Hg. Examination shows dry mucous membranes. The abdomen is soft, and there is diffuse tenderness to palpation with no guarding or rebound. Bowel sounds are hyperactive. Microscopy of a modified acid-fast stain on a stool sample reveals oocysts. What is the most likely causal organism?",
+    "answer": "The patient's symptoms, such as diarrhea, abdominal cramping, anorexia, and nausea, along with the history of recent travel to Mexico and consumption of spring water, suggest an enteric infection. However, the presence of oocysts on a modified acid-fast stain in a stool sample suggests a protozoal infection rather than a bacterial one.\n\nThe most likely causal organism in this case is Cryptosporidium, given the presence of oocysts and the patient's immunocompromised state (low CD4 count). Cryptosporidiosis is a common cause of diarrhea in immunocompromised individuals, particularly those with HIV. \n\nIt is essential to note that the Centers for Disease Control and Prevention (CDC) recommend using nucleic acid amplification testing (NAAT) for the diagnosis of Cryptosporidium, and microscopy alone is not sufficient for a definitive diagnosis. However, in this case, the presence of oocysts on a modified acid-fast stain suggests Cryptosporidium as the most likely causal organism.",
+    "true_answer": "Cryptosporidium parvum is the most likely causal organism.",
+    "rag_sources": [
+      {
+        "score": 0.664845467,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 15,
+        "chunk_in_page": 0,
+        "chunk_global": 976,
+        "id": "94f9d676-49a9-4cba-9834-6d0aba784c78"
+      },
+      {
+        "score": 0.654922485,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 23,
+        "chunk_in_page": 0,
+        "chunk_global": 984,
+        "id": "eba1340e-d089-4be2-ad90-683f11c331cf"
+      },
+      {
+        "score": 0.647981703,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 16,
+        "chunk_in_page": 0,
+        "chunk_global": 977,
+        "id": "10943801-cd21-4850-8832-2afc4a8832e6"
+      },
+      {
+        "score": 0.64697361,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 17,
+        "chunk_in_page": 0,
+        "chunk_global": 978,
+        "id": "d53e01f1-cb69-458e-b7d8-04dfb6beecd2"
+      }
+    ]
+  },
+  {
+    "question": "You are reviewing raw data from a research study performed at your medical center examining the effectiveness of a novel AIDS screening examination. The study enrolled 250 patients with confirmed AIDS, and 240 of these patients demonstrated a positive screening examination. The control arm of the study enrolled 250 patients who do not have AIDS, and only 5 of these patients tested positive on the novel screening examination. What is the NPV of this novel test?",
+    "answer": "To calculate the Negative Predictive Value (NPV) of the novel AIDS screening examination, we need to know the number of true negatives (patients without AIDS who tested negative) and the number of false negatives (patients with AIDS who tested negative).\n\nFrom the data provided, we know that 5 out of 250 patients without AIDS tested positive, which means 245 patients without AIDS tested negative. However, we don't know how many patients with AIDS tested negative.\n\nTo calculate the NPV, we need to know the number of true negatives (245 patients without AIDS who tested negative) and the total number of patients with AIDS (250).\n\nWe can use the formula:\n\nNPV = True Negatives / (True Negatives + False Negatives)\n\nUnfortunately, we don't have enough information to calculate the False Negatives. However, we can calculate the Sensitivity of the test, which is the number of True Positives (240 patients with AIDS who tested positive) divided by the total number of patients with AIDS (250).\n\nSensitivity = 240 / 250 = 0.96 or 96%\n\nThis means that the test is highly sensitive, but we still don't have enough information to calculate the NPV.\n\nHowever, we can use the information from the provided guideline excerpts to understand the diagnostic accuracy of clinical staging for detecting advanced HIV disease. The pooled sensitivity of clinical staging was 61% (95% CI 48-73%), and the pooled specificity was 72% (95% CI 60-81%).\n\nIf we assume that the novel screening examination has similar diagnostic accuracy to clinical staging, we can use the sensitivity and specificity values to estimate the NPV. However, this would be an indirect estimate and not a direct calculation based on the provided data.\n\nIf you have more information or would like to use the guideline excerpts to estimate the NPV, please let me know.",
+    "true_answer": "The NPV of this test is calculated as the proportion of true negatives among all negative results, 245 / (245 + 10) = 0.96.",
+    "rag_sources": [
+      {
+        "score": 0.559495866,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 126,
+        "chunk_in_page": 1,
+        "chunk_global": 2371,
+        "id": "7cf25694-fc96-47fc-9140-e9c5fe75dc0a"
+      },
+      {
+        "score": 0.530817032,
+        "reference": "HIV_guidelines/9789240118164-eng.pdf",
+        "page": 19,
+        "chunk_in_page": 0,
+        "chunk_global": 1945,
+        "id": "15466410-785b-468a-a685-b264e573bfaa"
+      },
+      {
+        "score": 0.523887694,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 52,
+        "chunk_in_page": 0,
+        "chunk_global": 2279,
+        "id": "86a6aca0-8ea2-4f23-88c3-234e81e40291"
+      },
+      {
+        "score": 0.51958853,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 287,
+        "chunk_in_page": 1,
+        "chunk_global": 2587,
+        "id": "9001ad3c-cb6c-412d-894d-f842b9b8c0af"
+      }
+    ]
+  },
+  {
+    "question": "A 44-year-old man is brought to the emergency department by his daughter for a 1-week history of right leg weakness, unsteady gait, and multiple falls. During the past 6 months, he has become more forgetful and has sometimes lost his way along familiar routes. He has been having difficulties operating simple kitchen appliances such as the dishwasher and the coffee maker. He has recently become increasingly paranoid, agitated, and restless. He has HIV, hypertension, and type 2 diabetes mellitus. His last visit to a physician was more than 2 years ago, and he has been noncompliant with his medications. His temperature is 37.2\u00b0C (99.0\u00b0F), blood pressure is 152/68 mmHg, pulse is 98/min, and respirations are 14/min. He is somnolent and slightly confused. He is oriented to person, but not place or time. There is mild lymphadenopathy in the cervical, axillary, and inguinal areas. Neurological examination shows right lower extremity weakness with normal tone and no other focal deficits. Laboratory studies show: Hemoglobin 9.2 g/dL, Leukocyte count 3600/mm3, Platelet count 140,000/mm3, CD4+ count 56/\u03bcL, HIV viral load > 100,000 copies/mL, Serum: Cryptococcal antigen negative, Toxoplasma gondii IgG positive. An MRI of the brain shows disseminated, nonenhancing white matter lesions with no mass effect. What is the most likely diagnosis?",
+    "answer": "Based on the provided clinical presentation and laboratory results, the most likely diagnosis is Progressive Multifocal Leukoencephalopathy (PML).\n\nThe patient's symptoms of right leg weakness, unsteady gait, and multiple falls suggest focal neurological deficits, which are characteristic of PML. The patient's history of HIV, low CD4 count (56/\u03bcL), and high HIV viral load (>100,000 copies/mL) also support this diagnosis, as PML is a rare opportunistic infection that occurs in individuals with severely compromised immune systems.\n\nThe MRI findings of disseminated, nonenhancing white matter lesions with no mass effect are consistent with PML. Additionally, the patient's symptoms of forgetfulness, confusion, and paranoia may be related to the multifocal lesions affecting different brain regions.\n\nThe negative cryptococcal antigen test and positive Toxoplasma gondii IgG are less likely to be related to the current presentation, as Toxoplasma gondii encephalitis typically presents with more focal neurological signs and a mass effect on imaging.\n\nIt is essential to note that PML is a rare condition, and a definitive diagnosis requires a combination of clinical presentation, imaging findings, and laboratory results.",
+    "true_answer": "The most likely diagnosis is progressive multifocal leukoencephalopathy.",
+    "rag_sources": [
+      {
+        "score": 0.558717728,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 586,
+        "chunk_in_page": 0,
+        "chunk_global": 1671,
+        "id": "bded9b3c-e698-4c07-a34f-110fae6166ce"
+      },
+      {
+        "score": 0.551617622,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 171,
+        "chunk_in_page": 0,
+        "chunk_global": 1161,
+        "id": "5086bbfe-8c0f-436b-81ef-9e61699069ab"
+      },
+      {
+        "score": 0.547424376,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 576,
+        "chunk_in_page": 0,
+        "chunk_global": 1658,
+        "id": "ed7a9bda-1b2e-4433-ae91-266e559374be"
+      },
+      {
+        "score": 0.542444289,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 123,
+        "chunk_in_page": 0,
+        "chunk_global": 896,
+        "id": "2a386e15-1e6d-461e-b8da-febb7055b506"
+      }
+    ]
+  },
+  {
+    "question": "A 33-year-old HIV-positive male is seen in clinic for follow-up care. When asked if he has been adhering to his HIV medications, the patient exclaims that he has been depressed, thus causing him to not take his medication for six months. His CD4+ count is now 33 cells/mm3. What medication(s) should he take in addition to his anti-retroviral therapy? ",
+    "answer": "Based on the provided clinical guideline excerpts, I cannot determine the specific medications this patient should take in addition to his anti-retroviral therapy (ART). The guidelines do not specify medication recommendations for a patient with a CD4+ count of 33 cells/mm^3 and a history of six months of non-adherence.\n\nHowever, the guidelines do suggest addressing the underlying issues affecting adherence, such as depression, to improve adherence and viral suppression. I would recommend addressing the patient's depression and other potential barriers to adherence, such as substance use, unstable housing, or other mental health challenges, as outlined in the guidelines.\n\nIn this case, the patient's low CD4+ count and history of non-adherence suggest a need for immediate attention to his mental health and adherence to ART. A mental health evaluation and possible treatment for depression should be initiated, and the patient should be encouraged to adhere to his ART regimen.\n\nThe patient should be started on a highly active antiretroviral regimen, and the guidelines do not specify a particular regimen. However, a regimen that is well-tolerated and has minimal drug-drug interactions should be chosen. The patient's ART regimen should be reviewed, and any potential side effects or drug-drug interactions should be addressed.\n\nConsidering the patient's low CD4+ count and history of non-adherence, it is essential to monitor his viral load and CD4+ count closely, and adjust his treatment regimen as needed.\n\nI would recommend referring the patient to a mental health professional for evaluation and treatment of his depression, and working with the patient to improve his adherence to ART.",
+    "true_answer": "In addition to his antiretroviral therapy, the patient should take azithromycin and trimethoprim-sulfamethoxazole to prevent opportunistic infections.",
+    "rag_sources": [
+      {
+        "score": 0.649086952,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 429,
+        "chunk_in_page": 0,
+        "chunk_global": 2782,
+        "id": "786c5ac4-3a4d-477c-aeef-04959da1fda2"
+      },
+      {
+        "score": 0.643230498,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 428,
+        "chunk_in_page": 0,
+        "chunk_global": 2781,
+        "id": "41cac009-f5d3-4174-9c99-e6f5972dac74"
+      },
+      {
+        "score": 0.642503798,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 39,
+        "chunk_in_page": 0,
+        "chunk_global": 2264,
+        "id": "3e7409e0-2b11-4841-b2d6-40591c113071"
+      },
+      {
+        "score": 0.636671066,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 168,
+        "chunk_in_page": 0,
+        "chunk_global": 2419,
+        "id": "0d9359b2-f562-4a72-9c0d-d4ccb6cb6393"
+      }
+    ]
+  },
+  {
+    "question": "A 2300-g (5-lb 1-oz) male newborn is delivered to a 29-year-old primigravid woman. The mother has HIV and received triple antiretroviral therapy during pregnancy. Her HIV viral load was 678 copies/mL 1 week prior to delivery. Labor was uncomplicated. Apgar scores are 7 and 8 at 1 and 5 minutes respectively. Physical examination of the newborn shows no abnormalities. What is the most appropriate next step in management of this infant?",
+    "answer": "Based on the clinical scenario and the provided guideline excerpts, the infant should receive presumptive HIV therapy with a three-drug regimen due to the mother's HIV status and the infant's exposure to HIV in utero. Since the mother's viral load was 678 copies/mL 1 week prior to delivery, which is above 200 copies/mL, the infant is considered to be at a high risk of HIV acquisition.\n\nAccording to Table 11, the management for an infant with a high risk of in utero HIV acquisition (maternal HIV status with at least one positive HIV test at delivery or postpartum) is presumptive HIV therapy with a three-drug regimen. This should be initiated in the first 6 hours after delivery.\n\nA three-drug regimen is recommended for infants at high risk of HIV acquisition, and the optimal duration of this regimen is unknown. However, it is recommended to continue the ZDV component for 6 weeks. The other two ARVs (3TC and NVP) or (3TC and RAL) may be administered for 2 to 6 weeks, depending on infant HIV NAT results, maternal viral load at the time of delivery, and additional risk factors for HIV transmission.\n\nIt is essential to obtain an HIV NAT test at birth before or immediately after starting ARVs, as recommended in Table 11.",
+    "true_answer": "The next best step in management for this infant is to administer zidovudine.",
+    "rag_sources": [
+      {
+        "score": 0.685247481,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 240,
+        "chunk_in_page": 1,
+        "chunk_global": 272,
+        "id": "5355caac-8f59-4a66-b8bb-995099974a12"
+      },
+      {
+        "score": 0.682696402,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 308,
+        "chunk_in_page": 0,
+        "chunk_global": 349,
+        "id": "e5f4bebf-db2b-4ab1-8410-6495a39fb5b9"
+      },
+      {
+        "score": 0.679735243,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 302,
+        "chunk_in_page": 0,
+        "chunk_global": 342,
+        "id": "87b04293-88da-49f4-9c92-0f86e8978ce7"
+      },
+      {
+        "score": 0.677209914,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 317,
+        "chunk_in_page": 0,
+        "chunk_global": 359,
+        "id": "a71bfc59-c06e-4174-96a9-9e4919a2b2ea"
+      }
+    ]
+  },
+  {
+    "question": "A 33-year-old man is brought into the emergency department with fever, lethargy, and confusion. He is a cachectic man in acute distress, unable to respond to questions or follow commands. His friend confides that the patient has been sexually active with multiple male partners and was diagnosed with HIV several months ago, but was lost to follow up. Based on prior records, his most recent CD4 count was 65 cells/uL. What is the most appropriate next step in management?",
+    "answer": "Based on the provided clinical guideline excerpts, the most appropriate next step in management is to initiate emergency HIV testing, as the patient is unconscious and unable to provide informed consent. According to the guidelines, if the person is unconscious, HIV testing may be considered when clinically judged to be in the patient's best interests for optimal care, and the reasoning should be explained to them when they regain mental capacity (section 19).\n\nAdditionally, given the patient's presentation with fever, lethargy, and confusion, and a history of HIV with a CD4 count of 65 cells/\u03bcL, it is likely that the patient is experiencing an opportunistic infection. Starting ART as soon as possible is recommended for individuals living with HIV who are not receiving ART, to prevent increased mortality from opportunistic infections (section 19).\n\nTherefore, the most appropriate next step is to initiate emergency HIV testing and start ART, considering the patient's clinical presentation and history.",
+    "true_answer": "The most appropriate next step in management is a neurological exam with fundoscopy.",
+    "rag_sources": [
+      {
+        "score": 0.612798691,
+        "reference": "HIV_guidelines/9789240118164-eng.pdf",
+        "page": 31,
+        "chunk_in_page": 0,
+        "chunk_global": 1960,
+        "id": "e40aebd2-44f3-4f63-a1a2-e237756a201a"
+      },
+      {
+        "score": 0.590310156,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 39,
+        "chunk_in_page": 0,
+        "chunk_global": 2264,
+        "id": "3e7409e0-2b11-4841-b2d6-40591c113071"
+      },
+      {
+        "score": 0.581248343,
+        "reference": "HIV_guidelines/9789240118164-eng.pdf",
+        "page": 77,
+        "chunk_in_page": 0,
+        "chunk_global": 2015,
+        "id": "5ed8a866-5803-4c86-acfe-0d9fc43b7ac5"
+      },
+      {
+        "score": 0.578093529,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 7,
+        "chunk_in_page": 0,
+        "chunk_global": 730,
+        "id": "23f684c2-0a53-4733-b070-96a6e66f6f31"
+      }
+    ]
+  },
+  {
+    "question": "A 43-year-old man with HIV comes to the physician because of fever and night sweats over the past 15 days. During this period, he has also had headaches and generalized weakness. He has no cough or shortness of breath. He has hypertension controlled with lisinopril and is currently receiving triple antiretroviral therapy. He has smoked one pack of cigarettes daily for the past 15 years and drinks one to two beers on weekends. He is a known user of intravenous illicit drugs. His temperature is 39\u00b0C (102\u00b0F), pulse is 115/min, respirations are 15/min, and blood pressure is 130/80 mm Hg. Examination shows several track marks on the forearms. The lungs are clear to auscultation. A holosystolic murmur that increases on inspiration is heard along the left sternal border. The remainder of the physical examination shows no abnormalities. Laboratory studies show a leukocyte count of 12,800/mm3 and an erythrocyte sedimentation rate of 52 mm/h. His CD4+ T-lymphocyte count is 450/mm3 (normal \u2265 500). What is the most likely diagnosis and sequela of the condition?",
+    "answer": "Based on the provided clinical information, the patient presents with fever, night sweats, headaches, generalized weakness, and a history of intravenous drug use, which are classic symptoms of TB. The presence of a holosystolic murmur that increases on inspiration, also known as a Pericardial friction rub, suggests pericarditis, which is a common manifestation of TB in individuals with HIV, especially with CD4 counts <200 cells/mm3.\n\nGiven the patient's CD4 count of 450/mm3, which is above the threshold for advanced HIV disease, it is possible that the patient's symptoms are due to TB. The patient's presentation of TB is consistent with a disseminated or extrapulmonary form, given the absence of cough or shortness of breath.\n\nThe most likely diagnosis is TB pericarditis, which is a complication of TB disease. The sequela of this condition is potentially life-threatening and requires prompt treatment.",
+    "true_answer": "The most likely diagnosis in this patient is right-sided infective endocarditis. The patient is at high risk of developing septic pulmonary embolism as a sequela.",
+    "rag_sources": [
+      {
+        "score": 0.625894606,
+        "reference": "HIV_guidelines/9789240118164-eng.pdf",
+        "page": 15,
+        "chunk_in_page": 0,
+        "chunk_global": 1941,
+        "id": "31c19ff0-0e04-40bb-a46b-e630837fec7e"
+      },
+      {
+        "score": 0.620677054,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 39,
+        "chunk_in_page": 0,
+        "chunk_global": 2264,
+        "id": "3e7409e0-2b11-4841-b2d6-40591c113071"
+      },
+      {
+        "score": 0.618570328,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 478,
+        "chunk_in_page": 0,
+        "chunk_global": 1544,
+        "id": "cffe70cc-a388-4106-b053-0db18f18aca8"
+      },
+      {
+        "score": 0.61084938,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 477,
+        "chunk_in_page": 0,
+        "chunk_global": 1543,
+        "id": "fe027a9c-ba0f-4fa8-b9fb-7f4f968596a1"
+      }
+    ]
+  },
+  {
+    "question": "A 35-year-old man comes to the physician because of progressive swelling of his legs over the past 2 months. During this period, the patient has had an unintentional 5-kg (11-lb) weight gain. He also reports frequent numbness of the tips of his fingers and cramping in his back and leg muscles. He has a history of HIV infection treated with combined antiretroviral therapy. The patient immigrated to the US from Nigeria 3 years ago. His temperature is 37\u00b0C (98.6\u00b0F), pulse is 80/min, and blood pressure 150/90 mm Hg. Physical examination shows 3+ periorbital and lower extremity edema bilaterally. Sensation to pinprick and light touch is decreased around the mouth and along the fingers. Laboratory studies show:\n\nSerum:\nAlbumin 2.5 g/dL\nTotal cholesterol 270 mg/dL\nHIV antibody positive\n\nUrine:\nBlood negative\nProtein +4\nRBC 1-2/hpf\nRBC casts negative\n\n What are the most likely findings of a kidney biopsy under light microscopy?",
+    "answer": "Based on the provided clinical information, the patient's presentation of progressive swelling, unintentional weight gain, decreased sensation, and proteinuria (4+ on dipstick) in the context of HIV infection, I would consider HIV-associated nephropathy (HIVAN) as a possible diagnosis.\n\nHIVAN is more common in individuals of African descent, and the patient's history of immigration from Nigeria increases the likelihood of this diagnosis. The presence of proteinuria and hematuria (1-2 RBC/hpf) without RBC casts suggests a possible glomerular and/or tubular involvement.\n\nUnder light microscopy, a kidney biopsy in HIVAN typically shows:\n\n1. Focal segmental glomerulosclerosis (FSGS)\n2. Glomerular collapse\n3. Kimmelstiel-Wilson lesions (glomerular tuft collapse with sclerosis)\n4. Tubulointerstitial inflammation and fibrosis\n\nThese findings are consistent with HIVAN, which is characterized by a collapsing form of FSGS. The presence of FSGS is a hallmark of HIVAN, and it is often associated with tubulointerstitial inflammation and fibrosis. However, a definitive diagnosis of HIVAN requires a renal biopsy, which should be performed to confirm the diagnosis.\n\nIt is essential to note that the patient's hypertension (150/90 mmHg) and proteinuria (4+) also suggest the presence of kidney disease, and the patient should be referred to a nephrologist for further evaluation and management.",
+    "true_answer": "Segmental sclerosis is the most likely finding.",
+    "rag_sources": [
+      {
+        "score": 0.592886925,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 81,
+        "chunk_in_page": 0,
+        "chunk_global": 839,
+        "id": "4f5acf2a-7ba0-4d98-a7b2-6f9425cdcf70"
+      },
+      {
+        "score": 0.590427399,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 81,
+        "chunk_in_page": 1,
+        "chunk_global": 840,
+        "id": "a01540e9-d633-492d-a8f4-e176661c0ff8"
+      },
+      {
+        "score": 0.551670074,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 331,
+        "chunk_in_page": 1,
+        "chunk_global": 2654,
+        "id": "0fe28dc9-0077-4004-8685-6b3471a53ffb"
+      },
+      {
+        "score": 0.542689323,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 388,
+        "chunk_in_page": 1,
+        "chunk_global": 2725,
+        "id": "522cceab-50f4-4537-a009-5dd8f3df3dd3"
+      }
+    ]
+  },
+  {
+    "question": "A 55-year-old man is brought to the emergency department because of cough and poor appetite for the past week. Since it began, he has been coughing up small amounts of malodorous phlegm. During the past two nights, he has also had night sweats. He was diagnosed with HIV infection 5 years ago. He has hypertension, type 2 diabetes mellitus, and severe heartburn. The patient is homeless and does not take any medication. He has smoked a pack of cigarettes daily for 30 years. He drinks 8\u201310 beers daily. His temperature is 38.9\u00b0C (102.0\u00b0F), pulse is 101/min, respirations are 25/min, and blood pressure is 145/92 mm Hg. The patient appears intoxicated. Physical examination shows crackles and dullness to percussion at the right lung base. Scattered expiratory wheezing is heard throughout both lung fields. A grade 2/6 mid-systolic ejection murmur is heard along the upper right sternal border. His CD4+ T-lymphocyte count is 280/mm3 (Normal \u2265 500). An x-ray of the chest shows a hazy infiltrate in the right lower lung field. What is the most likely cause of this patient's symptoms?",
+    "answer": "Based on the provided clinical information, the patient's symptoms and findings suggest a diagnosis of Pneumocystis pneumonia (PCP). \n\nThe patient's history of HIV infection, low CD4 count (280/mm3), and symptoms of subacute onset of progressive dyspnea, fever, non-productive cough, and chest discomfort are consistent with PCP. The presence of a hazy infiltrate in the right lower lung field on chest x-ray also supports this diagnosis. \n\nWhile the patient also has risk factors for other infections, such as smoking and alcohol use, and has other comorbidities, such as hypertension and diabetes, the combination of his HIV status, low CD4 count, and symptoms make PCP the most likely cause of his current illness. \n\nIt's worth noting that a high-resolution CT scan of the chest may be helpful in confirming the diagnosis and assessing the extent of the disease.",
+    "true_answer": "Aspiration pneumonia is the most likely cause of this patient's symptoms.",
+    "rag_sources": [
+      {
+        "score": 0.658901274,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 116,
+        "chunk_in_page": 0,
+        "chunk_global": 888,
+        "id": "adc07abe-cd68-4645-bd55-18fe330ec0a4"
+      },
+      {
+        "score": 0.624772131,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 110,
+        "chunk_in_page": 0,
+        "chunk_global": 1089,
+        "id": "7dce29e6-c486-44a1-8bd1-8a1c73d9bdd0"
+      },
+      {
+        "score": 0.619432509,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 541,
+        "chunk_in_page": 0,
+        "chunk_global": 1612,
+        "id": "69f9b04e-5e59-455f-8089-3699b58cdc0d"
+      },
+      {
+        "score": 0.609957755,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 478,
+        "chunk_in_page": 0,
+        "chunk_global": 1544,
+        "id": "cffe70cc-a388-4106-b053-0db18f18aca8"
+      }
+    ]
+  },
+  {
+    "question": "A 46-year-old Caucasian male with past medical history of HIV (CD4: 77/mm^3), hypertension, hyperlipidemia, and osteoarthritis presents to the emergency department with sudden weakness of his right hand. He reports that the weakness has gradually been getting worse and that this morning he dropped his cup of coffee. He has never had anything like this happen to him before, although he was hospitalized last year for pneumonia. He reports inconsistent adherence to his home medications, which include raltegravir, tenofovir, emtricitabine, TMP-SMX, hydrochlorothiazide, pravastatin, and occasional ibuprofen. His father died of a myocardial infarction at the age of 60, and his mother suffered a stroke at the age of 72. The patient's temperature is 102.6\u00b0F (39.2\u00b0C), blood pressure is 156/92 mmHg, pulse is 88/min, and respirations are 18/min. On neurological exam, he has 3/5 strength in the distal muscles of the right extremity with preserved sensation. His neurological exam is normal in all other extremities. What is the next best step in management for this patient?",
+    "answer": "Based on the provided clinical scenario and guidelines, the next best step in management for this patient is to consider a potential acute neurological event such as a stroke or a neuropathy. However, given the patient's history of HIV and inconsistent adherence to ART, opportunistic infections such as cryptococcal meningitis should also be considered.\n\nFirst, I would recommend the following:\n\n1. **Order a stat lab** to check his complete blood count (CBC), blood glucose, and electrolytes to assess for any acute infection or metabolic derangement.\n2. **Perform a lumbar puncture** to rule out cryptococcal meningitis, which is a life-threatening opportunistic infection in HIV patients.\n3. **Assess for signs of sepsis**, such as tachycardia, tachypnea, and hypotension, and consider a sepsis workup if present.\n4. **Review his medication regimen** to assess for potential drug interactions, particularly with his antiretroviral therapy (ART) and ibuprofen, which may have contributed to his current presentation.\n5. **Consider a non-contrast CT or MRI** of the brain to evaluate for acute neurological events such as stroke or hemorrhage.\n\nThe provided guidelines do not directly address this specific clinical scenario, but they do highlight the importance of considering opportunistic infections in HIV patients, particularly those with inconsistent adherence to ART.",
+    "true_answer": "The next best step in management is to perform a head CT to investigate the cause of neurological symptoms.",
+    "rag_sources": [
+      {
+        "score": 0.535952568,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 315,
+        "chunk_in_page": 0,
+        "chunk_global": 2625,
+        "id": "70c20bb5-ad53-4593-9105-1e1da4e8289c"
+      },
+      {
+        "score": 0.534918785,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 8,
+        "chunk_in_page": 0,
+        "chunk_global": 731,
+        "id": "57b18b33-186c-4267-a8f2-d7ae299c9ed9"
+      },
+      {
+        "score": 0.534203529,
+        "reference": "HIV_guidelines/9789240118164-eng.pdf",
+        "page": 31,
+        "chunk_in_page": 0,
+        "chunk_global": 1960,
+        "id": "e40aebd2-44f3-4f63-a1a2-e237756a201a"
+      },
+      {
+        "score": 0.532282829,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 9,
+        "chunk_in_page": 0,
+        "chunk_global": 733,
+        "id": "503ae0a6-dc87-4fd5-a587-3564959c7c04"
+      }
+    ]
+  },
+  {
+    "question": "A 25-year-old nulliparous woman at 8 weeks' gestation comes to her physician accompanied by her husband for her first prenatal visit. She has no personal or family history of serious illness. Her vaccinations are up-to-date and she takes no medications. She has no history of recreational drug use and does not drink alcohol. Her vital signs are within normal limits. She is 167 cm (5 ft 6 in) tall and weighs 68 kg (150 lb); BMI is 24.3 kg/m2. She tested negative for HIV, Chlamydia trachomatis, and Neisseria gonorrhoeae 4 years ago. What tests should be done at this visit?",
+    "answer": "Based on the provided guideline excerpts, at the first antenatal care visit, the following tests and assessments should be performed:\n\n1. Assessment of ART adherence, adherence challenges, and facilitators\n2. Assessment of the need for prophylaxis against opportunistic infections, e.g., Pneumocystis jirovecii pneumonia (considered if CD4 count is <200 cells/mL)\n3. Screening for HAV, HBV, and HCV and assessment of vaccination or treatment need\n4. Assessment and provision of other vaccination needs, e.g., influenza, pneumococcus, Tdap, SARS-CoV-2 (including boosters)\n5. Tuberculosis screening\n6. STI screening, e.g., syphilis (since Chlamydia trachomatis and Neisseria gonorrhoeae were tested 4 years ago, it is recommended to re-screen)\n7. Screening for depression and anxiety\n8. Screening for intimate partner violence (IPV)\n\nPlease note that these are routine screenings and assessments recommended at the first antenatal care visit. The patient's HIV status is already known to be negative, so further HIV testing is not indicated at this visit.",
+    "true_answer": "Tests to conduct at this visit include ELISA for HIV, a rapid plasma reagin test, and serum HBsAg.",
+    "rag_sources": [
+      {
+        "score": 0.570567191,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 92,
+        "chunk_in_page": 0,
+        "chunk_global": 99,
+        "id": "0f0365bd-73cc-497b-bf6a-36e0208af605"
+      },
+      {
+        "score": 0.560798705,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 32,
+        "chunk_in_page": 0,
+        "chunk_global": 32,
+        "id": "340a1ae9-9b74-402b-abec-d63db4d1c5fb"
+      },
+      {
+        "score": 0.552978575,
+        "reference": "HIV_guidelines/guidelines-perinatal.pdf",
+        "page": 31,
+        "chunk_in_page": 0,
+        "chunk_global": 31,
+        "id": "578709e9-e771-4580-ba5f-9c1ad9cb75bf"
+      },
+      {
+        "score": 0.552969038,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 104,
+        "chunk_in_page": 0,
+        "chunk_global": 1082,
+        "id": "b4330a8e-52dd-4894-b4a1-1f53ab3b7d91"
+      }
+    ]
+  },
+  {
+    "question": "A 30-year-old woman with HIV comes to the emergency department because of fever and multiple skin lesions for 1 week. She also has nausea, anorexia, and abdominal pain. The skin lesions are non-pruritic and painless. She has smoked one pack of cigarettes daily for 15 years and drinks 2 beers daily. She has been using intravenous crack cocaine for 6 years. She appears ill. Her temperature is 38\u00b0C (100.4\u00b0F), pulse is 105/min, blood pressure is 110/75 mmHg. Her BMI is 19 kg/m2. Examination shows track marks on both cubital fossae. There are white patches on her palate that can be scraped off. There are several red papules measuring 1 to 2 cm on her face and trunk. Her CD4+ T-lymphocyte count is 98/mm3 (N \u2265 500). Biopsy of a skin lesion shows vascular proliferation and small black bacteria on Warthin-Starry stain. What is the most appropriate pharmacotherapy? ",
+    "answer": "Based on the clinical presentation and biopsy findings, the most likely diagnosis is Kaposi's sarcoma (KS). The patient's history of intravenous drug use and HIV infection with a CD4 count of 98/mm3 are also consistent with this diagnosis.\n\nThe presence of vascular proliferation and small black bacteria on Warthin-Starry stain is characteristic of KS, which is caused by human herpesvirus 8 (HHV-8). The patient's symptoms, including fever, nausea, anorexia, and abdominal pain, may be related to the systemic nature of the disease.\n\nThe recommended pharmacotherapy for KS includes antineoplastic agents such as liposomal doxorubicin, paclitaxel, and vinorelbine. However, the most appropriate initial treatment for this patient would be liposomal doxorubicin, given its efficacy and tolerability in patients with HIV-associated KS.\n\nIt is essential to note that the patient should also receive antiretroviral therapy (ART) to manage her HIV infection and to improve her immune function. This may involve adjusting her current ART regimen or initiating new antiretroviral medications.\n\nIt is also crucial to consider the patient's substance use disorder and to provide her with support and resources to address this issue, as it may impact her adherence to treatment and overall health outcomes.\n\nIn addition, the patient's fever and systemic symptoms may require further evaluation and management, including workup for opportunistic infections such as tuberculosis (TB), which is common in patients with advanced HIV disease.\n\nIn terms of the skin lesions, the patient should be evaluated for potential causes of oral candidiasis, which may be contributing to the white patches on her palate.",
+    "true_answer": "The most appropriate pharmacotherapy for this patient is doxycycline, erythromycin, or azithromycin for bacillary angiomatosis, caused by Bartonella henselae or Bartonella quintana.",
+    "rag_sources": [
+      {
+        "score": 0.616776466,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 385,
+        "chunk_in_page": 1,
+        "chunk_global": 1428,
+        "id": "826fd321-7642-4df3-a65e-2b06db335970"
+      },
+      {
+        "score": 0.613156378,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 385,
+        "chunk_in_page": 0,
+        "chunk_global": 1427,
+        "id": "5d7bbdf5-a9c8-4813-b53c-4c26fd3ccbd7"
+      },
+      {
+        "score": 0.607585907,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 291,
+        "chunk_in_page": 0,
+        "chunk_global": 1310,
+        "id": "10f976b5-07e7-4b8a-b210-80b16127a2cc"
+      },
+      {
+        "score": 0.6008358,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 478,
+        "chunk_in_page": 0,
+        "chunk_global": 1544,
+        "id": "cffe70cc-a388-4106-b053-0db18f18aca8"
+      }
+    ]
+  },
+  {
+    "question": "A 32-year-old man with a past medical history significant for HIV and a social history of multiple sexual partners presents with new skin findings. His past surgical and family histories are noncontributory. The patient's blood pressure is 129/75 mm Hg, the pulse is 66/min, the respiratory rate is 16/min, and the temperature is 37.5\u00b0C (99.6\u00b0F). Physical examination reveals numerous painless skin-colored, flattened and papilliform lesions along the penile shaft and around the anus on physical exam. The application of 5% acetic acid solution causes the lesions to turn white. What is the etiology of these lesions?",
+    "answer": "Based on the physical examination and the application of 5% acetic acid solution causing the lesions to turn white, the likely etiology of these lesions is condyloma acuminata, also known as genital warts. This is a common sexually transmitted infection caused by human papillomavirus (HPV). \n\nGiven the patient's history of multiple sexual partners and his HIV status, it is also possible that he has an underlying immunocompromised state, which may have contributed to the development of these lesions. However, the physical examination findings and the acetic acid test are more specific for HPV infection than other opportunistic infections.\n\nIt would be best to confirm the diagnosis with a biopsy and HPV DNA testing to determine the specific type of HPV and guide treatment.",
+    "true_answer": "The etiology of these lesions is HPV (types 6 & 11) infection.",
+    "rag_sources": [
+      {
+        "score": 0.595157683,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 248,
+        "chunk_in_page": 0,
+        "chunk_global": 1262,
+        "id": "21c7ac1d-2ec8-4239-b4e5-f419dbd7938a"
+      },
+      {
+        "score": 0.57804209,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 385,
+        "chunk_in_page": 1,
+        "chunk_global": 1428,
+        "id": "826fd321-7642-4df3-a65e-2b06db335970"
+      },
+      {
+        "score": 0.574707091,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 334,
+        "chunk_in_page": 0,
+        "chunk_global": 1369,
+        "id": "4a467e96-fc4d-4187-b6ea-b8daeb941420"
+      },
+      {
+        "score": 0.571947157,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 610,
+        "chunk_in_page": 0,
+        "chunk_global": 1700,
+        "id": "92c71c32-9228-4e99-8de3-110d86074e2a"
+      }
+    ]
+  },
+  {
+    "question": "A 24-year-old man, who recently migrated from a developing country, presents to a physician because of a 2-year history of cough, blood in his sputum, fever, and weight loss. His sputum smear and culture confirm the diagnosis of pulmonary tuberculosis due to Mycobacterium tuberculosis. His Mantoux test is 2 mm \u00d7 3 mm, and his chest radiograph is normal. High-sensitivity enzyme-linked immunosorbent assay for HIV-1 and Western blot assay for HIV-1 are positive. His CD4+ T cell count is 90/\u03bcL and HIV RNA is 30,000 copies/mL. He is started on a 4-drug regimen consisting of isoniazid, rifampin, pyrazinamide, and ethambutol in appropriate doses. He becomes sputum smear-negative after 4 weeks and reports significant improvement in symptoms. After another 4 weeks, the physician removes pyrazinamide from the antitubercular regimen and adds antiretroviral therapy (dolutegravir/tenofovir/emtricitabine). After 3 weeks, the patient presents with complaints of fever and significantly increased cough for 3 days. There is no respiratory distress but generalized lymphadenopathy is present. His chest radiograph shows pulmonary infiltrates and mediastinal lymphadenopathy, sputum smear is negative, Mantoux test is 12 mm \u00d7 14 mm, CD4+ T cell count is 370/\u03bcL, and HIV RNA is 2,900 copies/mL. What is the most appropriate initial step in treatment?",
+    "answer": "Based on the provided clinical scenario, the patient has pulmonary tuberculosis (TB) confirmed by sputum smear and culture, and has been started on a 4-drug antitubercular regimen. However, after 8 weeks of treatment, the patient's symptoms worsened, and he developed generalized lymphadenopathy, pulmonary infiltrates, and mediastinal lymphadenopathy on chest radiograph.\n\nGiven the patient's clinical presentation and laboratory findings, it is essential to consider the possibility of immune reconstitution inflammatory syndrome (IRIS) due to the initiation of antiretroviral therapy (ART) in the setting of active TB infection.\n\nThe most appropriate initial step in treatment would be to add corticosteroids as adjunctive therapy to reduce the inflammatory response associated with IRIS. This is particularly important in the case of extrapulmonary TB, as the patient has developed lymphadenopathy and mediastinal lymphadenopathy.\n\nThe addition of corticosteroids may help to alleviate symptoms and reduce the risk of complications associated with IRIS. However, it is crucial to continue the antitubercular regimen and ART, as the patient has shown significant improvement in symptoms after 4 weeks of treatment.\n\nIt is also essential to consider consulting with an expert in treating TB in people with HIV to ensure that the patient receives the best possible care.",
+    "true_answer": "Continue antitubercular therapy and antiretroviral therapy without any change.",
+    "rag_sources": [
+      {
+        "score": 0.749780655,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 478,
+        "chunk_in_page": 0,
+        "chunk_global": 1544,
+        "id": "cffe70cc-a388-4106-b053-0db18f18aca8"
+      },
+      {
+        "score": 0.711526871,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 486,
+        "chunk_in_page": 0,
+        "chunk_global": 1552,
+        "id": "69924ecb-633b-483b-8a22-e8abc53afc43"
+      },
+      {
+        "score": 0.707961082,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 147,
+        "chunk_in_page": 0,
+        "chunk_global": 928,
+        "id": "66d5b9f2-4573-4b78-8d49-ba509991e091"
+      },
+      {
+        "score": 0.702393532,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 477,
+        "chunk_in_page": 0,
+        "chunk_global": 1543,
+        "id": "fe027a9c-ba0f-4fa8-b9fb-7f4f968596a1"
+      }
+    ]
+  },
+  {
+    "question": "A 37-year-old African-American man presents to his primary care provider with a history of fatigue and nausea that started about 6 months ago. His symptoms have slowly gotten worse and now he has trouble climbing the stairs to his 3rd floor apartment without resting. Past medical history is significant for poorly controlled HIV and a remote history of heroin addiction. Today his temperature is 36.9\u00b0C (98.4\u00b0F), the blood pressure is 118/72 mm Hg, and the pulse is 75/min. Physical examination reveals morbid obesity and 1+ pitting edema of both lower extremities. Urine dipstick reveals 2+ proteinuria. Urinalysis shows no abnormal findings. What is the most likely etiology of this patient condition?",
+    "answer": "Based on the provided information, the patient's symptoms and lab results suggest that he may have chronic kidney disease (CKD). The patient's history of poorly controlled HIV, morbid obesity, and 2+ proteinuria on urine dipstick are risk factors for CKD. Additionally, the patient's symptoms of fatigue, nausea, and pitting edema are consistent with CKD.\n\nThe European AIDS Clinical Society guidelines (EACS) recommend that patients with a history of HIV-associated nephropathy or suspected immune complex disease should start antiretroviral therapy (ART) immediately. The guidelines also recommend discontinuing or replacing tenofovir disoproxil fumarate (TDF) with a non-tenofovir drug or tenofovir alafenamide (TAF) if the patient has a low estimated glomerular filtration rate (eGFR) or proteinuria.\n\nGiven the patient's low eGFR is not mentioned, I would recommend assessing the patient's eGFR using the CKD-EPI formula based on serum creatinine, gender, age, and ethnicity. If the patient's eGFR is \u2264 60 mL/min, it would be necessary to discontinue or replace TDF with a non-tenofovir drug or TAF. Additionally, the patient's hypertension and proteinuria also warrant the initiation of ACE inhibitors or angiotensin-II receptor antagonists to manage hypertension and reduce proteinuria.\n\nIt is essential to note that the patient's history of heroin addiction may also be a contributing factor to his current condition, and addressing this aspect is crucial for his overall health management.",
+    "true_answer": "Focal segmental glomerulosclerosis (FSGS) associated with HIV-associated nephropathy (HIVAN) is the most likely etiology of this patient condition.",
+    "rag_sources": [
+      {
+        "score": 0.556137145,
+        "reference": "HIV_guidelines/9789240118164-eng.pdf",
+        "page": 15,
+        "chunk_in_page": 0,
+        "chunk_global": 1941,
+        "id": "31c19ff0-0e04-40bb-a46b-e630837fec7e"
+      },
+      {
+        "score": 0.539040565,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 9,
+        "chunk_in_page": 0,
+        "chunk_global": 733,
+        "id": "503ae0a6-dc87-4fd5-a587-3564959c7c04"
+      },
+      {
+        "score": 0.524106,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 81,
+        "chunk_in_page": 0,
+        "chunk_global": 839,
+        "id": "4f5acf2a-7ba0-4d98-a7b2-6f9425cdcf70"
+      },
+      {
+        "score": 0.524066925,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-arv.pdf",
+        "page": 321,
+        "chunk_in_page": 0,
+        "chunk_global": 2633,
+        "id": "6b37e3cc-319f-4089-aabb-2543d97d271c"
+      }
+    ]
+  },
+  {
+    "question": "A 39-year-old man comes to the emergency department because of increasing shortness of breath over the past 3 months. He has been unable to climb the 3 flights of stairs to his apartment. Six years ago, he was diagnosed with HIV. He is currently receiving triple antiretroviral therapy, but he says that he often misses doses. His temperature is 38.1\u00b0C (100.6\u00b0F), pulse is 90/min, respirations are 22/min, and blood pressure is 160/70 mm Hg. There is a grade 4/6 holodiastolic murmur heard best at the right sternal border. The pupils are 4 mm, round, and not reactive to light. When a pen tip is advanced closer to the face, the pupils constrict. Extraocular movements are intact. When asked to stand, hold his arms in front of him, and close his eyes, he loses his balance and takes a step backward. An x-ray of the chest shows widening of the mediastinum. What is the most likely diagnosis and therapy to reverse the patient\u2019s metabolic abnormalities?",
+    "answer": "Based on the provided clinical information and guidelines, the patient's presentation is suggestive of Pneumocystis pneumonia (PCP). The key findings include:\n\n- Increasing shortness of breath over the past 3 months\n- Inability to climb stairs\n- Fever (38.1\u00b0C)\n- Tachypnea (respirations 22/min)\n- Hypotension (160/70 mm Hg)\n- Pupils that are not reactive to light, but constrict with near response (a sign of impaired autonomic nervous system function)\n- Difficulty with balance and gait (suggestive of neurological impairment)\n- Widening of the mediastinum on chest x-ray (suggestive of Pneumocystis pneumonia)\n\nPCP is a common opportunistic infection in HIV-infected individuals, particularly those with a CD4 count < 200 cells/mm^3. The patient's history of HIV and current CD4 count is not explicitly stated, but given the severity of his symptoms and the presence of PCP on chest x-ray, it is likely that he has advanced HIV disease.\n\nThe therapy to reverse the patient's metabolic abnormalities would be initiation of antiretroviral therapy (ART) and treatment of Pneumocystis pneumonia with trimethoprim-sulfamethoxazole (TMP-SMX) or alternative regimens if the patient is allergic to TMP-SMX. Supportive care, including oxygen therapy and fluid management, may also be necessary.\n\nIt is essential to note that the patient's HIV status should be confirmed, and his CD4 count should be assessed to determine the extent of his immunosuppression. However, given the clinical presentation, it is likely that he has advanced HIV disease and is at risk for opportunistic infections.\n\nThe patient's cardiac murmur and hypotension may also be related to his HIV disease and should be further evaluated and managed accordingly. However, the primary concern is the diagnosis and treatment of PCP.",
+    "true_answer": "A Treponemal test is most likely to confirm the diagnosis.",
+    "rag_sources": [
+      {
+        "score": 0.640058517,
+        "reference": "HIV_guidelines/EACs_guidelines-12.0.pdf",
+        "page": 116,
+        "chunk_in_page": 0,
+        "chunk_global": 888,
+        "id": "adc07abe-cd68-4645-bd55-18fe330ec0a4"
+      },
+      {
+        "score": 0.614325583,
+        "reference": "HIV_guidelines/9789240118164-eng.pdf",
+        "page": 15,
+        "chunk_in_page": 0,
+        "chunk_global": 1941,
+        "id": "31c19ff0-0e04-40bb-a46b-e630837fec7e"
+      },
+      {
+        "score": 0.611571312,
+        "reference": "HIV_guidelines/9789240118164-eng.pdf",
+        "page": 31,
+        "chunk_in_page": 0,
+        "chunk_global": 1960,
+        "id": "e40aebd2-44f3-4f63-a1a2-e237756a201a"
+      },
+      {
+        "score": 0.60200882,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 541,
+        "chunk_in_page": 0,
+        "chunk_global": 1612,
+        "id": "69f9b04e-5e59-455f-8089-3699b58cdc0d"
+      }
+    ]
+  },
+  {
+    "question": "A 51-year-old woman with AIDS presents to her primary care physician with fatigue and weakness. She has a history of type 2 diabetes mellitus, hypertension, infectious mononucleosis, and hypercholesterolemia. She currently smokes 1 pack of cigarettes per day, drinks a glass of wine per day, and denies any illicit drug use. Her temperature is 36.7\u00b0C (98.0\u00b0F), blood pressure is 126/74 mm Hg, pulse is 87/min, and respirations are 17/min. On physical examination, her pulses are bounding. The patient\u2019s complexion is pale. She has an enlarged cervical lymph node, and breath sounds remain clear. Further lab and tissue diagnostic evaluation reveal and confirm Burkitt\u2019s lymphoma with diffuse bulky disease. After receiving more information about her condition and treatment options, the patient agrees to start chemotherapy. Eight days after starting chemotherapy, she presents with decreased urinary output. Laboratory studies show:\n\nCreatinine 7.9 mg/dL\nBUN 41 mg/dL\nSerum uric acid 28 mg/dL\nPotassium 6.9 mEq/L\n\n What is the most likely diagnosis?",
+    "answer": "Based on the information provided, the patient has been diagnosed with Burkitt's lymphoma with diffuse bulky disease and is undergoing chemotherapy. Eight days after starting chemotherapy, she presents with decreased urinary output, elevated creatinine, BUN, and serum uric acid, and hyperkalemia. \n\nThe symptoms and lab results suggest acute kidney injury, specifically tumor lysis syndrome (TLS). TLS is a complication of cancer treatment, particularly with rapid cell lysis, which occurs in Burkitt's lymphoma. The high levels of uric acid, potassium, and creatinine, along with decreased urinary output, are consistent with TLS.\n\nIn this case, the most likely diagnosis is tumor lysis syndrome (TLS) secondary to Burkitt's lymphoma chemotherapy.",
+    "true_answer": "Tumor lysis syndrome is the most likely diagnosis. Fasturtec or hemodialysis are the most likely therapies to reverse the patient\u2019s metabolic abnormalities.",
+    "rag_sources": [
+      {
+        "score": 0.6045084,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 292,
+        "chunk_in_page": 0,
+        "chunk_global": 1311,
+        "id": "1b9a9c93-6fc9-44e5-ad26-14c771ce376b"
+      },
+      {
+        "score": 0.586269379,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 299,
+        "chunk_in_page": 0,
+        "chunk_global": 1321,
+        "id": "e4c97a1a-a009-4490-a176-4b43059e73db"
+      },
+      {
+        "score": 0.572647154,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 280,
+        "chunk_in_page": 0,
+        "chunk_global": 1298,
+        "id": "b6131779-6d16-4dbd-9798-def9f1485d3d"
+      },
+      {
+        "score": 0.569643,
+        "reference": "HIV_guidelines/guidelines-adult-adolescent-oi.pdf",
+        "page": 478,
+        "chunk_in_page": 0,
+        "chunk_global": 1544,
+        "id": "cffe70cc-a388-4106-b053-0db18f18aca8"
+      }
+    ]
+  }
+]

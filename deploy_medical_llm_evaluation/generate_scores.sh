@@ -7,6 +7,14 @@
 #SBATCH --time=4:00:00
 #SBATCH --mem-per-cpu=40G
 
+module load stack/2024-06 cuda/12.1.1
+source /cluster/home/gcardenal/miniconda3/etc/profile.d/conda.sh
+conda activate scispacy_env 
+
+python f1_score.py
+
+conda deactivate
+
 unset PYTHONPATH
 unset PYTHONHOME
 export PATH=~/miniconda3/bin:$PATH
@@ -15,10 +23,7 @@ source ~/.bashrc
 source /cluster/home/gcardenal/miniconda3/etc/profile.d/conda.sh
 
 export PYTHONNOUSERSITE=1
-conda activate scispacy_env
-python f1_score.py
 
-conda deactivate
 conda activate transformers_llm || { echo "Failed to activate Conda environment"; exit 1; }
 
 # Debugging
