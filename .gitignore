@@ -5,3 +5,4 @@ deploy_medical_llm_evaluation/gold_standard_rephrasing/old
 notebooks/get_final_csv.ipnyb
 .*
 deploy_medical_llm_evaluation/logs/
+notebooks/old_files/
