@@ -1,0 +1,12 @@
+model,Category 3 mean,Category 4 mean,Category 3 std,Category 4 std
+Claude 3.5 Sonnet,4.06,4.073,0.034,0.099
+Gemini 2.5 Pro,4.251,4.248,0.047,0.088
+Gemma 3 27B,3.648,3.422,0.054,0.068
+Llama 3.1-8B-Instruct,3.187,3.21,0.133,0.127
+Llama 3.2-1B-Instruct,2.006,1.571,0.121,0.129
+Llama 3.3-70B-Instruct,3.905,3.816,0.095,0.043
+Med42-70B,3.907,3.594,0.043,0.04
+MedGemma 27B,4.184,3.879,0.131,0.227
+Meditron 3-70B,3.746,3.422,0.092,0.197
+NVLM-70B,3.152,2.752,0.051,0.027
+Rephrased Gold Answers,4.663,4.692,0.041,0.043

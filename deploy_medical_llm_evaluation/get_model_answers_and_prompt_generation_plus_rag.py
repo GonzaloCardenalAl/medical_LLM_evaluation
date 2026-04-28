@@ -55,8 +55,6 @@ loaded_models = {
     "Med42": {"model": None, "tokenizer": None},
     "Llama-8B": {"model": None, "tokenizer": None},
     "Llama-1B": {"model": None, "tokenizer": None},
-    "Llama-4-17B": {"model": None, "tokenizer": None},
-    "Deepseek_R1": {"model": None, "tokenizer": None},
     "Gemma-3-27B": {"model": None, "tokenizer": None},
     "MedGemma-3-27B": {"model": None, "tokenizer": None}
 }
@@ -610,9 +608,11 @@ def run_llama_1b_inference(question, system_prompt):
 def run_gemini_inference(question, system_prompt):
 
    res = client_google.models.generate_content(
-        model="models/gemini-2.5-flash-preview-04-17",
+        model="models/gemini-2.5-pro-preview-05-06",
         config=types.GenerateContentConfig(
-            system_instruction=system_prompt),
+            system_instruction=system_prompt,
+            max_output_tokens=1024
+        ),
         contents=question
     )
     answer = res.text

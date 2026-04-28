@@ -1,0 +1,41 @@
+model,category_id,MedGPT4,MedGPT5
+Claude 3.5 Sonnet,1,5.0,5.0
+Claude 3.5 Sonnet,2,5.0,4.94
+Claude 3.5 Sonnet,3,5.0,4.733
+Claude 3.5 Sonnet,4,4.99,4.743
+Gemini 2.5 Pro,1,5.0,5.0
+Gemini 2.5 Pro,2,5.0,4.9
+Gemini 2.5 Pro,3,4.971,4.876
+Gemini 2.5 Pro,4,4.99,4.857
+Gemma 3 27B,1,5.0,5.0
+Gemma 3 27B,2,5.0,4.56
+Gemma 3 27B,3,4.981,4.505
+Gemma 3 27B,4,5.0,4.276
+Llama 3.1-8B-Instruct,1,5.0,4.927
+Llama 3.1-8B-Instruct,2,5.0,4.46
+Llama 3.1-8B-Instruct,3,5.0,4.219
+Llama 3.1-8B-Instruct,4,5.0,4.276
+Llama 3.3-70B-Instruct,1,5.0,5.0
+Llama 3.3-70B-Instruct,2,5.0,4.88
+Llama 3.3-70B-Instruct,3,5.0,4.724
+Llama 3.3-70B-Instruct,4,5.0,4.667
+Med42-70B,1,4.909,4.8
+Med42-70B,2,5.0,4.444
+Med42-70B,3,5.0,4.66
+Med42-70B,4,5.0,4.305
+MedGemma 27B,1,5.0,5.0
+MedGemma 27B,2,5.0,4.82
+MedGemma 27B,3,5.0,4.838
+MedGemma 27B,4,5.0,4.714
+Meditron 3-70B,1,5.0,4.909
+Meditron 3-70B,2,5.0,4.7
+Meditron 3-70B,3,5.0,4.638
+Meditron 3-70B,4,5.0,4.476
+NVLM-70B,1,5.0,5.0
+NVLM-70B,2,5.0,4.58
+NVLM-70B,3,5.0,3.952
+NVLM-70B,4,5.0,3.8
+Rephrased Gold Answers,1,5.0,5.0
+Rephrased Gold Answers,2,5.0,5.0
+Rephrased Gold Answers,3,5.0,4.952
+Rephrased Gold Answers,4,5.0,4.952

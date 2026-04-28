@@ -1,0 +1,16 @@
+metric,value
+category_id,2.5
+Original F1_mean,0.46875
+Original F1_std,0.0135
+GPT-Dict F1_mean,0.49724999999999997
+GPT-Dict F1_std,0.0135
+SNOMED F1_mean,0.49
+SNOMED F1_std,0.0135
+WordNet F1_mean,0.49775
+WordNet F1_std,0.012
+GPT-Dict+Lemma F1_mean,0.5302499999999999
+GPT-Dict+Lemma F1_std,0.0135
+SNOMED+Lemma F1_mean,0.48424999999999996
+SNOMED+Lemma F1_std,0.013999999999999999
+WordNet+Lemma F1_mean,0.50175
+WordNet+Lemma F1_std,0.012750000000000001

@@ -44,8 +44,6 @@ loaded_models = {
     "Med42": {"model": None, "tokenizer": None},
     "Llama-8B": {"model": None, "tokenizer": None},
     "Llama-1B": {"model": None, "tokenizer": None},
-    "Llama-4-17B": {"model": None, "tokenizer": None},
-    "Deepseek_R1": {"model": None, "tokenizer": None},
     "Gemma-3-27B": {"model": None, "tokenizer": None},
     "MedGemma-3-27B": {"model": None, "tokenizer": None}
 }
@@ -421,143 +419,23 @@ def run_llama_1b_inference(question, system_prompt):
     # 4) Return the final string
     return cleaned_answer
 
-def load_llama_4_scout_17B_16E_inference():
-    """
-    Loads the local Llama-4-17B model if not already loaded.
-    """
-    if loaded_models["Llama-4-17B"]["model"] is None:
-        print("Loading Llama-4-17B model locally...")
-        tokenizer = AutoTokenizer.from_pretrained(
-            "meta-llama/Llama-4-Scout-17B-16E-Instruct", 
-            cache_dir=custom_cache_dir
-        )
-        model = AutoModelForCausalLM.from_pretrained(
-            "meta-llama/Llama-4-Scout-17B-16E-Instruct",
-            cache_dir=custom_cache_dir,
-            device_map="auto",
-            torch_dtype="auto"
-        )
-        # Store references
-        loaded_models["Llama-4-17B"]["model"] = model
-        loaded_models["Llama-4-17B"]["tokenizer"] = tokenizer
+def run_gemini_inference(question, system_prompt):
 
-def run_llama_4_scout_17B_16E_inference(question, system_prompt):
-    """
-    Llama 4-17BB is local only. No API calls are attempted.
-    Returns the generated answer as a string.
-    """
-    # Ensure model is loaded
-    load_llama_4_scout_17B_16E_inference()
-    
-    model = loaded_models["Llama-4-17B"]["model"]
-    tokenizer = loaded_models["Llama-4-17B"]["tokenizer"]
-
-    print("Starting inference for question (Llama-4-17B):", question[:50])
-
-    # 2) Run the generation pipeline
-    pipe = pipeline(
-        "text-generation",
-        model=model,
-        tokenizer=tokenizer,
-        model_kwargs={"torch_dtype": torch.bfloat16},
-        device_map="auto"
+   res = client_google.models.generate_content(
+        model="models/gemini-2.5-pro-preview-05-06",
+        config=types.GenerateContentConfig(
+            system_instruction=system_prompt,
+            max_output_tokens=1024
+        ),
+        contents=question
     )
-    messages = [
-        {"role": "system", "content": system_prompt},
-        {"role": "user", "content": question}
-    ]
-    messages_templated = tokenizer.apply_chat_template(messages, tokenize=False)
+    answer = res.text
 
-    raw_output = pipe(messages_templated, max_new_tokens=1024)
-    generated_text = raw_output[0]["generated_text"]
+    # FIX: If answer is a tuple or list, just get the first part
+    if isinstance(answer, (list, tuple)):
+        answer = answer[0]
 
-    # 3) Clean up the special tokens
-    pattern = r'^<\|begin_of_text\|>.*?<\|eot_id\|>assistant\s*'
-    cleaned_answer = re.sub(pattern, '', generated_text, flags=re.DOTALL).strip()
-
-    # 4) Return the final string
-    return cleaned_answer
-
-def load_Deepseek_R1_inference():
-    """
-    Loads the local Deepseek_R1 model if not already loaded.
-    Downloads it first if necessary.
-    """
-    repo_id = "deepseek-ai/DeepSeek-R1"
-    if loaded_models["Deepseek_R1"]["model"] is None:
-        # Check if model is already downloaded
-        local_model_dir = os.path.join(custom_cache_dir, "models--deepseek-ai--DeepSeek-R1")
-        if not os.path.exists(local_model_dir):
-            print("Model not found locally. Downloading...")
-            snapshot_download(repo_id=repo_id, cache_dir=custom_cache_dir)
-
-        config = AutoConfig.from_pretrained(repo_id, trust_remote_code=True)
-        if hasattr(config, "quantization_config"):
-            delattr(config, "quantization_config")
-
-        print("Loading Deepseek_R1 model locally...")
-        tokenizer = AutoTokenizer.from_pretrained(
-            repo_id, 
-            cache_dir=custom_cache_dir,
-            trust_remote_code=True
-        )
-        model = AutoModelForCausalLM.from_pretrained(
-          repo_id,
-            cache_dir=custom_cache_dir,
-            device_map="auto",
-            torch_dtype="auto",
-            trust_remote_code=True
-        )
-        
-        # Store references
-        loaded_models["Deepseek_R1"]["model"] = model
-        loaded_models["Deepseek_R1"]["tokenizer"] = tokenizer
-
-def run_Deepseek_R1_inference(question, system_prompt):
-    """
-    Deepseek R1 is local only. No API calls are attempted.
-    Returns the generated answer as a string.
-    """
-    # Ensure model is loaded
-    load_Deepseek_R1_inference()
-    
-    model = loaded_models["Deepseek_R1"]["model"]
-    tokenizer = loaded_models["Deepseek_R1"]["tokenizer"]
-
-    print("Starting inference for question (Deepseek_R1):", question[:50])
-
-    # Prepare the chat prompt
-    messages = [
-        {"role": "system", "content": system_prompt},
-        {"role": "user", "content": question}
-    ]
-    messages_templated = tokenizer.apply_chat_template(messages, tokenize=False)
-
-    # Run the generation pipeline with specified sampling parameters
-    pipe = pipeline(
-        "text-generation",
-        model=model,
-        tokenizer=tokenizer,
-        model_kwargs={"torch_dtype": torch.bfloat16},
-        device_map="auto"
-    )
-
-    raw_output = pipe(
-        messages_templated,
-        max_new_tokens=1024,
-        temperature=0.6,
-        top_p=0.95,
-        do_sample=True,
-        return_full_text=False
-    )
-
-    generated_text = raw_output[0]["generated_text"]
-
-    # Clean up special tokens
-    pattern = r'^<\|begin_of_text\|>.*?<\|eot_id\|>assistant\s*'
-    cleaned_answer = re.sub(pattern, '', generated_text, flags=re.DOTALL).strip()
-
-    return cleaned_answer
+    return answer
 
 def load_gemma_3_27b_model():
     """

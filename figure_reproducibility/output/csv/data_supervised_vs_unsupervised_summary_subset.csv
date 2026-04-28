@@ -1,0 +1,11 @@
+model,meanGPT,meanUnsupGPT,meanDiff
+Gemini 2.5 Pro,4.11,4.737,-0.627
+MedGemma 27B,3.823,4.675,-0.853
+Claude 3.5 Sonnet,3.852,4.797,-0.945
+Llama 3.3-70B-Instruct,3.694,4.578,-0.883
+Med42-70B,3.161,4.456,-1.295
+Meditron 3-70B,3.495,4.372,-0.878
+Gemma 3 27B,3.748,4.494,-0.747
+Llama 3.1-8B-Instruct,3.238,3.988,-0.75
+NVLM-70B,3.306,4.217,-0.911
+Llama 3.2-1B-Instruct,2.086,2.472,-0.386

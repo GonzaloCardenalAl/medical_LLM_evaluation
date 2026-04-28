@@ -1,0 +1,5 @@
+category_id,Original F1_mean,Original F1_std,GPT-Dict F1_mean,GPT-Dict F1_std,SNOMED F1_mean,SNOMED F1_std,WordNet F1_mean,WordNet F1_std,GPT-Dict+Lemma F1_mean,GPT-Dict+Lemma F1_std,SNOMED+Lemma F1_mean,SNOMED+Lemma F1_std,WordNet+Lemma F1_mean,WordNet+Lemma F1_std
+1,0.418,0.009,0.475,0.003,0.422,0.009,0.48,0.009,0.564,0.004,0.446,0.011,0.496,0.012
+2,0.464,0.015,0.476,0.015,0.498,0.015,0.481,0.015,0.498,0.015,0.498,0.015,0.481,0.015
+3,0.494,0.015,0.511,0.019,0.518,0.015,0.521,0.007,0.521,0.018,0.494,0.015,0.521,0.007
+4,0.499,0.015,0.527,0.017,0.522,0.015,0.509,0.017,0.538,0.017,0.499,0.015,0.509,0.017

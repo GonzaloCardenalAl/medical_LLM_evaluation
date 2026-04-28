@@ -1,0 +1,301 @@
+model,iteration_number,MedGPT,score,GPT
+Claude 3.5 Sonnet,1,Supervised,3.75,GPT1
+Claude 3.5 Sonnet,2,Supervised,3.583333333333333,GPT1
+Claude 3.5 Sonnet,3,Supervised,3.833333333333333,GPT1
+Claude 3.5 Sonnet,4,Supervised,3.916666666666667,GPT1
+Claude 3.5 Sonnet,5,Supervised,3.916666666666667,GPT1
+Gemini 2.5 Pro,1,Supervised,3.916666666666667,GPT1
+Gemini 2.5 Pro,2,Supervised,4.083333333333333,GPT1
+Gemini 2.5 Pro,3,Supervised,4.0,GPT1
+Gemini 2.5 Pro,4,Supervised,3.9833333333333334,GPT1
+Gemini 2.5 Pro,5,Supervised,4.0,GPT1
+Gemma 3 27B,1,Supervised,3.75,GPT1
+Gemma 3 27B,2,Supervised,3.45,GPT1
+Gemma 3 27B,3,Supervised,3.75,GPT1
+Gemma 3 27B,4,Supervised,3.583333333333333,GPT1
+Gemma 3 27B,5,Supervised,3.5833333333333335,GPT1
+Llama 3.1-8B-Instruct,1,Supervised,3.3333333333333335,GPT1
+Llama 3.1-8B-Instruct,2,Supervised,3.333333333333333,GPT1
+Llama 3.1-8B-Instruct,3,Supervised,2.9166666666666665,GPT1
+Llama 3.1-8B-Instruct,4,Supervised,3.166666666666667,GPT1
+Llama 3.1-8B-Instruct,5,Supervised,3.25,GPT1
+Llama 3.2-1B-Instruct,1,Supervised,1.8333333333333333,GPT1
+Llama 3.2-1B-Instruct,2,Supervised,2.25,GPT1
+Llama 3.2-1B-Instruct,3,Supervised,1.9166666666666665,GPT1
+Llama 3.2-1B-Instruct,4,Supervised,2.1833333333333336,GPT1
+Llama 3.2-1B-Instruct,5,Supervised,2.166666666666667,GPT1
+Llama 3.3-70B-Instruct,1,Supervised,3.5833333333333335,GPT1
+Llama 3.3-70B-Instruct,2,Supervised,3.6666666666666665,GPT1
+Llama 3.3-70B-Instruct,3,Supervised,3.583333333333333,GPT1
+Llama 3.3-70B-Instruct,4,Supervised,3.75,GPT1
+Llama 3.3-70B-Instruct,5,Supervised,3.5833333333333335,GPT1
+Med42-70B,1,Supervised,2.966666666666667,GPT1
+Med42-70B,2,Supervised,2.966666666666667,GPT1
+Med42-70B,3,Supervised,3.0833333333333335,GPT1
+Med42-70B,4,Supervised,3.25,GPT1
+Med42-70B,5,Supervised,2.966666666666667,GPT1
+MedGemma 27B,1,Supervised,3.533333333333333,GPT1
+MedGemma 27B,2,Supervised,3.45,GPT1
+MedGemma 27B,3,Supervised,3.783333333333333,GPT1
+MedGemma 27B,4,Supervised,4.0,GPT1
+MedGemma 27B,5,Supervised,3.75,GPT1
+Meditron 3-70B,1,Supervised,3.416666666666667,GPT1
+Meditron 3-70B,2,Supervised,3.25,GPT1
+Meditron 3-70B,3,Supervised,3.5,GPT1
+Meditron 3-70B,4,Supervised,3.5,GPT1
+Meditron 3-70B,5,Supervised,3.4166666666666665,GPT1
+NVLM-70B,1,Supervised,3.333333333333333,GPT1
+NVLM-70B,2,Supervised,3.25,GPT1
+NVLM-70B,3,Supervised,3.25,GPT1
+NVLM-70B,4,Supervised,3.333333333333333,GPT1
+NVLM-70B,5,Supervised,3.416666666666667,GPT1
+Claude 3.5 Sonnet,1,Unsupervised,4.75,GPT1
+Claude 3.5 Sonnet,2,Unsupervised,4.75,GPT1
+Claude 3.5 Sonnet,3,Unsupervised,4.75,GPT1
+Claude 3.5 Sonnet,4,Unsupervised,4.666666666666666,GPT1
+Claude 3.5 Sonnet,5,Unsupervised,4.75,GPT1
+Gemini 2.5 Pro,1,Unsupervised,4.666666666666667,GPT1
+Gemini 2.5 Pro,2,Unsupervised,4.583333333333334,GPT1
+Gemini 2.5 Pro,3,Unsupervised,4.833333333333334,GPT1
+Gemini 2.5 Pro,4,Unsupervised,4.65,GPT1
+Gemini 2.5 Pro,5,Unsupervised,4.583333333333334,GPT1
+Gemma 3 27B,1,Unsupervised,4.5,GPT1
+Gemma 3 27B,2,Unsupervised,4.383333333333333,GPT1
+Gemma 3 27B,3,Unsupervised,4.416666666666666,GPT1
+Gemma 3 27B,4,Unsupervised,4.458333333333333,GPT1
+Gemma 3 27B,5,Unsupervised,4.333333333333334,GPT1
+Llama 3.1-8B-Instruct,1,Unsupervised,4.083333333333334,GPT1
+Llama 3.1-8B-Instruct,2,Unsupervised,4.0,GPT1
+Llama 3.1-8B-Instruct,3,Unsupervised,4.083333333333334,GPT1
+Llama 3.1-8B-Instruct,4,Unsupervised,3.916666666666667,GPT1
+Llama 3.1-8B-Instruct,5,Unsupervised,4.083333333333334,GPT1
+Llama 3.2-1B-Instruct,1,Unsupervised,2.416666666666667,GPT1
+Llama 3.2-1B-Instruct,2,Unsupervised,2.8333333333333335,GPT1
+Llama 3.2-1B-Instruct,3,Unsupervised,2.5,GPT1
+Llama 3.2-1B-Instruct,4,Unsupervised,2.783333333333333,GPT1
+Llama 3.2-1B-Instruct,5,Unsupervised,2.5833333333333335,GPT1
+Llama 3.3-70B-Instruct,1,Unsupervised,4.583333333333334,GPT1
+Llama 3.3-70B-Instruct,2,Unsupervised,4.583333333333334,GPT1
+Llama 3.3-70B-Instruct,3,Unsupervised,4.5,GPT1
+Llama 3.3-70B-Instruct,4,Unsupervised,4.416666666666667,GPT1
+Llama 3.3-70B-Instruct,5,Unsupervised,4.416666666666667,GPT1
+Med42-70B,1,Unsupervised,4.508333333333333,GPT1
+Med42-70B,2,Unsupervised,4.458333333333334,GPT1
+Med42-70B,3,Unsupervised,4.083333333333334,GPT1
+Med42-70B,4,Unsupervised,4.458333333333334,GPT1
+Med42-70B,5,Unsupervised,4.458333333333334,GPT1
+MedGemma 27B,1,Unsupervised,4.45,GPT1
+MedGemma 27B,2,Unsupervised,4.55,GPT1
+MedGemma 27B,3,Unsupervised,4.7,GPT1
+MedGemma 27B,4,Unsupervised,4.7,GPT1
+MedGemma 27B,5,Unsupervised,4.583333333333334,GPT1
+Meditron 3-70B,1,Unsupervised,4.25,GPT1
+Meditron 3-70B,2,Unsupervised,4.166666666666666,GPT1
+Meditron 3-70B,3,Unsupervised,4.5,GPT1
+Meditron 3-70B,4,Unsupervised,4.25,GPT1
+Meditron 3-70B,5,Unsupervised,4.416666666666667,GPT1
+NVLM-70B,1,Unsupervised,4.25,GPT1
+NVLM-70B,2,Unsupervised,4.25,GPT1
+NVLM-70B,3,Unsupervised,4.166666666666666,GPT1
+NVLM-70B,4,Unsupervised,4.166666666666666,GPT1
+NVLM-70B,5,Unsupervised,4.25,GPT1
+Claude 3.5 Sonnet,1,Supervised,3.416666666666667,GPT2
+Claude 3.5 Sonnet,2,Supervised,3.5,GPT2
+Claude 3.5 Sonnet,3,Supervised,3.666666666666667,GPT2
+Claude 3.5 Sonnet,4,Supervised,3.75,GPT2
+Claude 3.5 Sonnet,5,Supervised,3.666666666666667,GPT2
+Gemini 2.5 Pro,1,Supervised,3.916666666666667,GPT2
+Gemini 2.5 Pro,2,Supervised,3.916666666666667,GPT2
+Gemini 2.5 Pro,3,Supervised,4.016666666666667,GPT2
+Gemini 2.5 Pro,4,Supervised,4.083333333333334,GPT2
+Gemini 2.5 Pro,5,Supervised,4.083333333333334,GPT2
+Gemma 3 27B,1,Supervised,3.6666666666666665,GPT2
+Gemma 3 27B,2,Supervised,3.45,GPT2
+Gemma 3 27B,3,Supervised,3.666666666666667,GPT2
+Gemma 3 27B,4,Supervised,3.5,GPT2
+Gemma 3 27B,5,Supervised,3.5,GPT2
+Llama 3.1-8B-Instruct,1,Supervised,3.0,GPT2
+Llama 3.1-8B-Instruct,2,Supervised,2.966666666666667,GPT2
+Llama 3.1-8B-Instruct,3,Supervised,2.666666666666667,GPT2
+Llama 3.1-8B-Instruct,4,Supervised,3.0,GPT2
+Llama 3.1-8B-Instruct,5,Supervised,3.166666666666667,GPT2
+Llama 3.2-1B-Instruct,1,Supervised,1.6666666666666665,GPT2
+Llama 3.2-1B-Instruct,2,Supervised,2.0833333333333335,GPT2
+Llama 3.2-1B-Instruct,3,Supervised,1.75,GPT2
+Llama 3.2-1B-Instruct,4,Supervised,2.0,GPT2
+Llama 3.2-1B-Instruct,5,Supervised,1.75,GPT2
+Llama 3.3-70B-Instruct,1,Supervised,3.4166666666666665,GPT2
+Llama 3.3-70B-Instruct,2,Supervised,3.333333333333333,GPT2
+Llama 3.3-70B-Instruct,3,Supervised,3.25,GPT2
+Llama 3.3-70B-Instruct,4,Supervised,3.5,GPT2
+Llama 3.3-70B-Instruct,5,Supervised,3.333333333333333,GPT2
+Med42-70B,1,Supervised,2.7666666666666666,GPT2
+Med42-70B,2,Supervised,2.7666666666666666,GPT2
+Med42-70B,3,Supervised,3.0,GPT2
+Med42-70B,4,Supervised,2.95,GPT2
+Med42-70B,5,Supervised,2.8666666666666667,GPT2
+MedGemma 27B,1,Supervised,3.533333333333333,GPT2
+MedGemma 27B,2,Supervised,3.45,GPT2
+MedGemma 27B,3,Supervised,3.783333333333333,GPT2
+MedGemma 27B,4,Supervised,3.833333333333333,GPT2
+MedGemma 27B,5,Supervised,3.583333333333333,GPT2
+Meditron 3-70B,1,Supervised,3.166666666666667,GPT2
+Meditron 3-70B,2,Supervised,3.0833333333333335,GPT2
+Meditron 3-70B,3,Supervised,3.166666666666667,GPT2
+Meditron 3-70B,4,Supervised,3.25,GPT2
+Meditron 3-70B,5,Supervised,3.166666666666667,GPT2
+NVLM-70B,1,Supervised,2.916666666666667,GPT2
+NVLM-70B,2,Supervised,2.916666666666667,GPT2
+NVLM-70B,3,Supervised,2.916666666666667,GPT2
+NVLM-70B,4,Supervised,2.916666666666667,GPT2
+NVLM-70B,5,Supervised,3.0,GPT2
+Claude 3.5 Sonnet,1,Unsupervised,4.75,GPT2
+Claude 3.5 Sonnet,2,Unsupervised,4.75,GPT2
+Claude 3.5 Sonnet,3,Unsupervised,4.75,GPT2
+Claude 3.5 Sonnet,4,Unsupervised,4.666666666666666,GPT2
+Claude 3.5 Sonnet,5,Unsupervised,4.75,GPT2
+Gemini 2.5 Pro,1,Unsupervised,4.583333333333334,GPT2
+Gemini 2.5 Pro,2,Unsupervised,4.583333333333334,GPT2
+Gemini 2.5 Pro,3,Unsupervised,4.833333333333334,GPT2
+Gemini 2.5 Pro,4,Unsupervised,4.65,GPT2
+Gemini 2.5 Pro,5,Unsupervised,4.583333333333334,GPT2
+Gemma 3 27B,1,Unsupervised,4.5,GPT2
+Gemma 3 27B,2,Unsupervised,4.383333333333333,GPT2
+Gemma 3 27B,3,Unsupervised,4.333333333333333,GPT2
+Gemma 3 27B,4,Unsupervised,4.375,GPT2
+Gemma 3 27B,5,Unsupervised,4.333333333333334,GPT2
+Llama 3.1-8B-Instruct,1,Unsupervised,3.8333333333333335,GPT2
+Llama 3.1-8B-Instruct,2,Unsupervised,3.6333333333333333,GPT2
+Llama 3.1-8B-Instruct,3,Unsupervised,3.75,GPT2
+Llama 3.1-8B-Instruct,4,Unsupervised,3.5833333333333335,GPT2
+Llama 3.1-8B-Instruct,5,Unsupervised,3.75,GPT2
+Llama 3.2-1B-Instruct,1,Unsupervised,2.0833333333333335,GPT2
+Llama 3.2-1B-Instruct,2,Unsupervised,2.416666666666667,GPT2
+Llama 3.2-1B-Instruct,3,Unsupervised,2.083333333333333,GPT2
+Llama 3.2-1B-Instruct,4,Unsupervised,2.4333333333333336,GPT2
+Llama 3.2-1B-Instruct,5,Unsupervised,2.083333333333333,GPT2
+Llama 3.3-70B-Instruct,1,Unsupervised,4.583333333333334,GPT2
+Llama 3.3-70B-Instruct,2,Unsupervised,4.583333333333334,GPT2
+Llama 3.3-70B-Instruct,3,Unsupervised,4.5,GPT2
+Llama 3.3-70B-Instruct,4,Unsupervised,4.416666666666667,GPT2
+Llama 3.3-70B-Instruct,5,Unsupervised,4.333333333333334,GPT2
+Med42-70B,1,Unsupervised,4.508333333333333,GPT2
+Med42-70B,2,Unsupervised,4.358333333333333,GPT2
+Med42-70B,3,Unsupervised,4.083333333333334,GPT2
+Med42-70B,4,Unsupervised,4.358333333333333,GPT2
+Med42-70B,5,Unsupervised,4.358333333333333,GPT2
+MedGemma 27B,1,Unsupervised,4.45,GPT2
+MedGemma 27B,2,Unsupervised,4.55,GPT2
+MedGemma 27B,3,Unsupervised,4.7,GPT2
+MedGemma 27B,4,Unsupervised,4.7,GPT2
+MedGemma 27B,5,Unsupervised,4.583333333333334,GPT2
+Meditron 3-70B,1,Unsupervised,4.083333333333333,GPT2
+Meditron 3-70B,2,Unsupervised,4.0,GPT2
+Meditron 3-70B,3,Unsupervised,4.5,GPT2
+Meditron 3-70B,4,Unsupervised,4.25,GPT2
+Meditron 3-70B,5,Unsupervised,4.25,GPT2
+NVLM-70B,1,Unsupervised,4.083333333333333,GPT2
+NVLM-70B,2,Unsupervised,4.083333333333333,GPT2
+NVLM-70B,3,Unsupervised,4.0,GPT2
+NVLM-70B,4,Unsupervised,3.916666666666667,GPT2
+NVLM-70B,5,Unsupervised,4.0,GPT2
+Claude 3.5 Sonnet,1,Supervised,4.116666666666667,GPT3
+Claude 3.5 Sonnet,2,Supervised,4.083333333333333,GPT3
+Claude 3.5 Sonnet,3,Supervised,4.333333333333334,GPT3
+Claude 3.5 Sonnet,4,Supervised,4.083333333333333,GPT3
+Claude 3.5 Sonnet,5,Supervised,4.166666666666666,GPT3
+Gemini 2.5 Pro,1,Supervised,4.166666666666667,GPT3
+Gemini 2.5 Pro,2,Supervised,4.333333333333334,GPT3
+Gemini 2.5 Pro,3,Supervised,4.45,GPT3
+Gemini 2.5 Pro,4,Supervised,4.366666666666667,GPT3
+Gemini 2.5 Pro,5,Supervised,4.333333333333334,GPT3
+Gemma 3 27B,1,Supervised,4.333333333333333,GPT3
+Gemma 3 27B,2,Supervised,3.9833333333333334,GPT3
+Gemma 3 27B,3,Supervised,3.916666666666667,GPT3
+Gemma 3 27B,4,Supervised,4.0,GPT3
+Gemma 3 27B,5,Supervised,4.083333333333333,GPT3
+Llama 3.1-8B-Instruct,1,Supervised,3.666666666666667,GPT3
+Llama 3.1-8B-Instruct,2,Supervised,3.4333333333333336,GPT3
+Llama 3.1-8B-Instruct,3,Supervised,3.333333333333333,GPT3
+Llama 3.1-8B-Instruct,4,Supervised,3.5833333333333335,GPT3
+Llama 3.1-8B-Instruct,5,Supervised,3.75,GPT3
+Llama 3.2-1B-Instruct,1,Supervised,2.0833333333333335,GPT3
+Llama 3.2-1B-Instruct,2,Supervised,2.5,GPT3
+Llama 3.2-1B-Instruct,3,Supervised,2.1666666666666665,GPT3
+Llama 3.2-1B-Instruct,4,Supervised,2.5166666666666666,GPT3
+Llama 3.2-1B-Instruct,5,Supervised,2.416666666666667,GPT3
+Llama 3.3-70B-Instruct,1,Supervised,4.083333333333333,GPT3
+Llama 3.3-70B-Instruct,2,Supervised,3.916666666666667,GPT3
+Llama 3.3-70B-Instruct,3,Supervised,4.0,GPT3
+Llama 3.3-70B-Instruct,4,Supervised,4.25,GPT3
+Llama 3.3-70B-Instruct,5,Supervised,4.166666666666667,GPT3
+Med42-70B,1,Supervised,3.5833333333333335,GPT3
+Med42-70B,2,Supervised,3.5833333333333335,GPT3
+Med42-70B,3,Supervised,3.666666666666667,GPT3
+Med42-70B,4,Supervised,3.5,GPT3
+Med42-70B,5,Supervised,3.5,GPT3
+MedGemma 27B,1,Supervised,4.066666666666666,GPT3
+MedGemma 27B,2,Supervised,4.225,GPT3
+MedGemma 27B,3,Supervised,4.066666666666666,GPT3
+MedGemma 27B,4,Supervised,4.2,GPT3
+MedGemma 27B,5,Supervised,4.083333333333334,GPT3
+Meditron 3-70B,1,Supervised,4.083333333333334,GPT3
+Meditron 3-70B,2,Supervised,3.666666666666667,GPT3
+Meditron 3-70B,3,Supervised,3.916666666666667,GPT3
+Meditron 3-70B,4,Supervised,4.0,GPT3
+Meditron 3-70B,5,Supervised,3.833333333333333,GPT3
+NVLM-70B,1,Supervised,3.666666666666667,GPT3
+NVLM-70B,2,Supervised,3.583333333333333,GPT3
+NVLM-70B,3,Supervised,3.666666666666667,GPT3
+NVLM-70B,4,Supervised,3.666666666666667,GPT3
+NVLM-70B,5,Supervised,3.75,GPT3
+Claude 3.5 Sonnet,1,Unsupervised,5.0,GPT3
+Claude 3.5 Sonnet,2,Unsupervised,4.875,GPT3
+Claude 3.5 Sonnet,3,Unsupervised,4.916666666666666,GPT3
+Claude 3.5 Sonnet,4,Unsupervised,4.916666666666666,GPT3
+Claude 3.5 Sonnet,5,Unsupervised,4.916666666666666,GPT3
+Gemini 2.5 Pro,1,Unsupervised,4.833333333333333,GPT3
+Gemini 2.5 Pro,2,Unsupervised,4.916666666666666,GPT3
+Gemini 2.5 Pro,3,Unsupervised,4.916666666666666,GPT3
+Gemini 2.5 Pro,4,Unsupervised,5.0,GPT3
+Gemini 2.5 Pro,5,Unsupervised,4.833333333333333,GPT3
+Gemma 3 27B,1,Unsupervised,4.75,GPT3
+Gemma 3 27B,2,Unsupervised,4.483333333333333,GPT3
+Gemma 3 27B,3,Unsupervised,4.75,GPT3
+Gemma 3 27B,4,Unsupervised,4.75,GPT3
+Gemma 3 27B,5,Unsupervised,4.666666666666666,GPT3
+Llama 3.1-8B-Instruct,1,Unsupervised,4.25,GPT3
+Llama 3.1-8B-Instruct,2,Unsupervised,4.183333333333334,GPT3
+Llama 3.1-8B-Instruct,3,Unsupervised,4.25,GPT3
+Llama 3.1-8B-Instruct,4,Unsupervised,4.083333333333334,GPT3
+Llama 3.1-8B-Instruct,5,Unsupervised,4.333333333333334,GPT3
+Llama 3.2-1B-Instruct,1,Unsupervised,2.333333333333333,GPT3
+Llama 3.2-1B-Instruct,2,Unsupervised,2.75,GPT3
+Llama 3.2-1B-Instruct,3,Unsupervised,2.5,GPT3
+Llama 3.2-1B-Instruct,4,Unsupervised,2.783333333333333,GPT3
+Llama 3.2-1B-Instruct,5,Unsupervised,2.5,GPT3
+Llama 3.3-70B-Instruct,1,Unsupervised,4.666666666666667,GPT3
+Llama 3.3-70B-Instruct,2,Unsupervised,4.75,GPT3
+Llama 3.3-70B-Instruct,3,Unsupervised,4.833333333333333,GPT3
+Llama 3.3-70B-Instruct,4,Unsupervised,4.75,GPT3
+Llama 3.3-70B-Instruct,5,Unsupervised,4.75,GPT3
+Med42-70B,1,Unsupervised,4.733333333333333,GPT3
+Med42-70B,2,Unsupervised,4.716666666666667,GPT3
+Med42-70B,3,Unsupervised,4.333333333333334,GPT3
+Med42-70B,4,Unsupervised,4.716666666666667,GPT3
+Med42-70B,5,Unsupervised,4.716666666666667,GPT3
+MedGemma 27B,1,Unsupervised,4.816666666666666,GPT3
+MedGemma 27B,2,Unsupervised,4.675,GPT3
+MedGemma 27B,3,Unsupervised,4.916666666666666,GPT3
+MedGemma 27B,4,Unsupervised,4.916666666666666,GPT3
+MedGemma 27B,5,Unsupervised,4.833333333333333,GPT3
+Meditron 3-70B,1,Unsupervised,4.5,GPT3
+Meditron 3-70B,2,Unsupervised,4.5,GPT3
+Meditron 3-70B,3,Unsupervised,4.833333333333333,GPT3
+Meditron 3-70B,4,Unsupervised,4.583333333333333,GPT3
+Meditron 3-70B,5,Unsupervised,4.5,GPT3
+NVLM-70B,1,Unsupervised,4.416666666666667,GPT3
+NVLM-70B,2,Unsupervised,4.416666666666667,GPT3
+NVLM-70B,3,Unsupervised,4.416666666666667,GPT3
+NVLM-70B,4,Unsupervised,4.416666666666667,GPT3
+NVLM-70B,5,Unsupervised,4.416666666666667,GPT3
