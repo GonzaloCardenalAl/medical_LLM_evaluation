@@ -86,4 +86,6 @@ Please open an issue or pull request. Include tests and follow best practices wh
 ## License 
 MIT License © [2025] [Gonzalo Cardenal Antolin]
 See LICENSE file for details.
+
+[![DOI](https://zenodo.org/badge/942125014.svg)](https://doi.org/10.5281/zenodo.21400934)
 ---
