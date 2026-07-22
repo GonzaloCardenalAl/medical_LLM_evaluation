@@ -6,3 +6,8 @@ notebooks/get_final_csv.ipnyb
 .*
 deploy_medical_llm_evaluation/logs/
 notebooks/old_files/
+deploy_medical_llm_evaluation/model_answers/raw/old_answers
+deploy_medical_llm_evaluation/model_answers/raw/After_pipeline
+deploy_medical_llm_evaluation/model_answers/raw/Before_prompt
+deploy_medical_llm_evaluation/model_answers/raw/Before_pipeline
+deploy_medical_llm_evaluation/model_answers/raw/testing_without_prompt
