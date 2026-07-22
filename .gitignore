@@ -11,3 +11,8 @@ deploy_medical_llm_evaluation/model_answers/raw/After_pipeline
 deploy_medical_llm_evaluation/model_answers/raw/Before_prompt
 deploy_medical_llm_evaluation/model_answers/raw/Before_pipeline
 deploy_medical_llm_evaluation/model_answers/raw/testing_without_prompt
+deploy_medical_llm_evaluation/gold_standard_rephrasing/prompted_rephrased/old
+deploy_medical_llm_evaluation/model_answers/results-unsupervised-GPT-score/old
+deploy_medical_llm_evaluation/model_answers/results-GPT-score/19.01.25_old
+deploy_medical_llm_evaluation/model_answers/results-GPT-score/old_api.09.02.25
+**/.ipynb_checkpoints/
